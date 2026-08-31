@@ -511,7 +511,9 @@ def send_ntfy(swarm):
     if token:
         headers["Authorization"] = f"Bearer {token}"
     try:
-        status, _ = http_post_json(f"https://ntfy.sh/{urllib.parse.quote(topic)}", payload, headers)
+        # 注意:JSON 必须 POST 到 ntfy 根路径(topic 在 body 里)。
+        # 若 POST 到 https://ntfy.sh/{topic},服务器会把整串 JSON 当作消息文本,手机上会显示成乱糟糟的 JSON 原文。
+        status, _ = http_post_json("https://ntfy.sh/", payload, headers)
         print(f"[ntfy] 已推送 {swarm['pokemon']} (HTTP {status})")
         return 1
     except Exception as e:  # noqa: BLE001
