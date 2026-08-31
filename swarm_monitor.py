@@ -468,14 +468,14 @@ def fmt_duration(seconds):
 
 def build_text(swarm):
     remain = SWARM_LIFETIME - swarm["age_s"]
-    parts = [
+    lines = [
         f"地区:{display_name(swarm['region'], REGION_ZH)}",
         f"地点:{display_name(swarm['location'], LOCATION_ZH)}",
         f"已出现:{fmt_duration(swarm['age_s'])}",
     ]
     if remain > 0:
-        parts.append(f"预计还剩:约 {fmt_duration(remain)}")
-    return "　".join(parts)
+        lines.append(f"预计还剩:约 {fmt_duration(remain)}")
+    return "\n".join(lines)
 
 
 def build_title(swarm):
