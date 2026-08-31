@@ -49,6 +49,10 @@ jobs:
         run: |
           git config user.name "swarm-monitor-bot"
           git config user.email "swarm-monitor-bot@users.noreply.github.com"
-          git add state.json
-          git diff --cached --quiet || git commit -m "chore: update swarm monitor state"
-          git push
+          if [ -f state.json ]; then
+            git add state.json
+            git diff --cached --quiet || git commit -m "chore: update swarm monitor state"
+            git push
+          else
+            echo "本次没有新 swarm，state.json 未变化，跳过提交"
+          fi
