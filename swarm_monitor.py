@@ -426,14 +426,14 @@ POKEMON_ZH = {
 
 
 def display_name(name, table):
-    """返回「中文名（英文名）」，翻译表未收录时直接返回英文原名。"""
+    """返回「中文名(英文名)」，翻译表未收录时直接返回英文原名。"""
     zh = table.get(name)
     if zh:
-        return f"{zh}（{name}）"
+        return f"{zh}({name})"
     # 通用规则：Route N → 第 N 号道路（任何地区的路线都适用）
     m = re.fullmatch(r"Route\s*(\d+)", name, flags=re.IGNORECASE)
     if m:
-        return f"第 {m.group(1)} 号道路（{name}）"
+        return f"第 {m.group(1)} 号道路({name})"
     return name
 
 
@@ -468,19 +468,18 @@ def fmt_duration(seconds):
 
 def build_text(swarm):
     remain = SWARM_LIFETIME - swarm["age_s"]
-    lines = [
-        f"地区：{display_name(swarm['region'], REGION_ZH)}",
-        f"地点：{display_name(swarm['location'], LOCATION_ZH)}",
-        f"已出现：{fmt_duration(swarm['age_s'])}",
+    parts = [
+        f"地区:{display_name(swarm['region'], REGION_ZH)}",
+        f"地点:{display_name(swarm['location'], LOCATION_ZH)}",
+        f"已出现:{fmt_duration(swarm['age_s'])}",
     ]
     if remain > 0:
-        lines.append(f"预计还剩：约 {fmt_duration(remain)}")
-    lines.append("👉 点我打开 Alphapedia")
-    return "\n".join(lines)
+        parts.append(f"预计还剩:约 {fmt_duration(remain)}")
+    return "　".join(parts)
 
 
 def build_title(swarm):
-    return f"🔥 新 Swarm：{display_name(swarm['pokemon'], POKEMON_ZH)}"
+    return f"🔥 新 Swarm:{display_name(swarm['pokemon'], POKEMON_ZH)}"
 
 
 # ════════════════ 推送通道 ════════════════
