@@ -67,28 +67,52 @@ def http_get(url, timeout=20, retries=3):
 def parse_swarms(html):
     """从首页 HTML 中解析所有 swarm 卡片。
 
-    卡片结构（服务端渲染，字段稳定）：
-      <article class="swarm-region-card">
-        <p class="swarm-card-region" data-region="Kanto">Kanto</p>
-        <a href="/pokedex/479"><span data-pokemon="Rotom">Rotom</span></a>
-        <a href="/route/kanto/power-plant"><span data-location="Power Plant">Power Plant</span></a>
-        <p class="swarm-card-age" data-timedelta="9808">2 hours 43 minutes ago</p>
-      </article>
+    卡片结构（服务端渲染，两种形态）：
+      · 活跃 swarm（class 带 card-active-swarm，显示「剩余 X 分钟消失」）：
+          <article class="swarm-region-card card-active-swarm">
+            <p class="swarm-card-region" data-region="Kanto">Kanto</p>
+            <span data-pokemon="Nincada">Nincada</span>
+            <span data-location="Route 25">Route 25</span>
+            <p class="swarm-card-despawn"><span data-timedelta="944">Despawns in 16 minutes</span></p>
+          </article>
+          此时 data-timedelta 是「剩余秒数」，已出现时间 = SWARM_LIFETIME - 剩余
+      · 历史/已结束 swarm（显示「X ago」，data-timedelta 直接是已出现秒数）：
+          <article class="swarm-region-card">
+            <p class="swarm-card-region" data-region="Kanto">Kanto</p>
+            <span data-pokemon="Rotom">Rotom</span>
+            <span data-location="Power Plant">Power Plant</span>
+            <p class="swarm-card-age" data-timedelta="9808">2 hours 43 minutes ago</p>
+          </article>
     """
     swarms = []
-    cards = re.findall(r'<article class="swarm-region-card">(.*?)</article>', html, re.S)
+    # 必须匹配 class="swarm-region-card..."（含 card-active-swarm 变体），否则漏掉活跃 swarm
+    cards = re.findall(r'<article class="swarm-region-card[^"]*">(.*?)</article>', html, re.S)
     for card in cards:
         region = re.search(r'data-region="([^"]*)"', card)
         pokemon = re.search(r'data-pokemon="([^"]*)"', card)
         location = re.search(r'data-location="([^"]*)"', card)
-        timedelta = re.search(r'data-timedelta="(\d+)"', card)
-        if not (region and pokemon and location and timedelta):
+        if not (region and pokemon and location):
             continue
+        # 优先取 despawn（剩余时间）字段；没有则取 age（已出现时间）字段
+        is_active = bool(re.search(r'swarm-card-despawn', card))
+        m = re.search(r'swarm-card-despawn.*?data-timedelta="(\d+)"', card, re.S)
+        if not m:
+            m = re.search(r'data-timedelta="(\d+)"', card)
+        if not m:
+            continue
+        value = int(m.group(1))
+        if is_active:
+            # 剩余时间 → 换算成已出现时间；数据异常（剩余 > 生命周期）则跳过
+            if value > SWARM_LIFETIME:
+                continue
+            age_s = SWARM_LIFETIME - value
+        else:
+            age_s = value
         swarms.append({
             "region": region.group(1).strip(),
             "pokemon": pokemon.group(1).strip(),
             "location": location.group(1).strip(),
-            "age_s": int(timedelta.group(1)),
+            "age_s": age_s,
         })
     return swarms
 
