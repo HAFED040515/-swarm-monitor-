@@ -1,0 +1,54 @@
+name: PokeMMO Swarm Monitor
+
+# 定时（每 5 分钟）+ 手动触发（测试用）
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      test_notify:
+        description: '发送一条测试通知（填 true 再点 Run）'
+        required: false
+        default: 'false'
+
+# 需要写仓库权限：用于把去重状态 state.json 提交回仓库
+permissions:
+  contents: write
+
+# 防止两次运行同时提交 state.json 冲突
+concurrency:
+  group: swarm-monitor
+  cancel-in-progress: false
+
+jobs:
+  check-swarms:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取代码
+        uses: actions/checkout@v4
+
+      # ubuntu 运行器自带 python3，无需额外安装，跑得更快
+      - name: 检查 Swarm 并推送手机通知
+        env:
+          # ── 手机推送通道（在仓库 Secrets 里配置，见 README）──
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          BARK_URL: ${{ secrets.BARK_URL }}
+          # ── 可选过滤（在仓库 Variables 里配置，可不填）──
+          FILTER_REGION: ${{ vars.FILTER_REGION }}
+          FILTER_POKEMON: ${{ vars.FILTER_POKEMON }}
+          # 手动测试开关
+          TEST_NOTIFY: ${{ inputs.test_notify }}
+        run: python3 swarm_monitor.py --once
+
+      - name: 回存提醒记录（只有 state.json 变化时才提交）
+        run: |
+          git config user.name "swarm-monitor-bot"
+          git config user.email "swarm-monitor-bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "chore: update swarm monitor state"
+          git push
