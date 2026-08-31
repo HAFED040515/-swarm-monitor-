@@ -41,7 +41,8 @@ SITE_URL = "https://alpha.pokemmotools.org/"
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state.json")
 USER_AGENT = "Mozilla/5.0 (compatible; SwarmMonitor/1.0; +https://github.com/)"
 DEFAULT_AGE_MAX = 600          # 报告后 10 分钟内算新
-SWARM_LIFETIME = 25 * 60       # swarm 一般持续约 25 分钟
+SWARM_LIFETIME = 25 * 60       # 普通 swarm 一般持续约 25 分钟
+ALPHA_LIFETIME = 90 * 60       # Alpha 稀有群持续更久（观察约 90 分钟，仅用于估算）
 STATE_MAX_ENTRIES = 1000       # 去重记录最多保留条数（防 state.json 无限膨胀）
 
 
@@ -85,35 +86,44 @@ def parse_swarms(html):
           </article>
     """
     swarms = []
-    # 必须匹配 class="swarm-region-card..."（含 card-active-swarm 变体），否则漏掉活跃 swarm
-    cards = re.findall(r'<article class="swarm-region-card[^"]*">(.*?)</article>', html, re.S)
-    for card in cards:
+    # 必须匹配 class="swarm-region-card..."（含 card-active-swarm / card-alpha-override 变体）
+    cards = re.findall(r'<article class="(swarm-region-card[^"]*)">(.*?)</article>', html, re.S)
+    for cls, card in cards:
         region = re.search(r'data-region="([^"]*)"', card)
         pokemon = re.search(r'data-pokemon="([^"]*)"', card)
         location = re.search(r'data-location="([^"]*)"', card)
         if not (region and pokemon and location):
             continue
-        # 优先取 despawn（剩余时间）字段；没有则取 age（已出现时间）字段
         is_active = bool(re.search(r'swarm-card-despawn', card))
+        is_alpha = 'card-alpha-override' in cls
+        # 优先取 despawn（剩余时间）字段；没有则取 age（已出现时间）字段
         m = re.search(r'swarm-card-despawn.*?data-timedelta="(\d+)"', card, re.S)
         if not m:
             m = re.search(r'data-timedelta="(\d+)"', card)
         if not m:
             continue
         value = int(m.group(1))
-        if is_active:
-            # 剩余时间 → 换算成已出现时间；数据异常（剩余 > 生命周期）则跳过
-            if value > SWARM_LIFETIME:
-                continue
-            age_s = SWARM_LIFETIME - value
-        else:
-            age_s = value
-        swarms.append({
+        entry = {
             "region": region.group(1).strip(),
             "pokemon": pokemon.group(1).strip(),
             "location": location.group(1).strip(),
-            "age_s": age_s,
-        })
+        }
+        if is_active:
+            # 活跃卡片：data-timedelta 是「剩余秒数」
+            entry["remain_s"] = value
+            if is_alpha or value > SWARM_LIFETIME:
+                # Alpha 稀有群：生命周期远长于普通 swarm，剩余可能超过 25 分钟
+                entry["is_alpha"] = True
+                entry["age_s"] = max(0, ALPHA_LIFETIME - value)  # 估算值，仅用于去重签名
+            else:
+                # 普通 swarm：已出现 = 25 分钟生命周期 - 剩余
+                entry["age_s"] = SWARM_LIFETIME - value
+        else:
+            # 历史卡片：data-timedelta 直接是已出现秒数
+            entry["age_s"] = value
+            if is_alpha:
+                entry["is_alpha"] = True
+        swarms.append(entry)
     return swarms
 
 
@@ -491,18 +501,31 @@ def fmt_duration(seconds):
 
 
 def build_text(swarm):
-    remain = SWARM_LIFETIME - swarm["age_s"]
     lines = [
         f"地区:{display_name(swarm['region'], REGION_ZH)}",
         f"地点:{display_name(swarm['location'], LOCATION_ZH)}",
-        f"已出现:{fmt_duration(swarm['age_s'])}",
     ]
-    if remain > 0:
-        lines.append(f"预计还剩:约 {fmt_duration(remain)}")
+    if swarm.get("is_alpha"):
+        lines.append("类型:Alpha 稀有群")
+    if "remain_s" in swarm:
+        # 活跃卡片：剩余时间来自网站，是精确值
+        remain = swarm["remain_s"]
+        if not swarm.get("is_alpha"):
+            lines.append(f"已出现:{fmt_duration(swarm['age_s'])}")
+        if remain > 0:
+            lines.append(f"预计还剩:{fmt_duration(remain)}")
+    else:
+        # 历史卡片：按 25 分钟生命周期估算剩余
+        lines.append(f"已出现:{fmt_duration(swarm['age_s'])}")
+        remain = SWARM_LIFETIME - swarm["age_s"]
+        if remain > 0:
+            lines.append(f"预计还剩:约 {fmt_duration(remain)}")
     return "\n".join(lines)
 
 
 def build_title(swarm):
+    if swarm.get("is_alpha"):
+        return f"🌟 Alpha Swarm:{display_name(swarm['pokemon'], POKEMON_ZH)}"
     return f"🔥 新 Swarm:{display_name(swarm['pokemon'], POKEMON_ZH)}"
 
 
@@ -696,9 +719,14 @@ def check_once(verbose=True):
     swarms = parse_swarms(html)
     print(f"[信息] 当前首页共 {len(swarms)} 个 swarm：")
     for s in swarms:
+        if "remain_s" in s:
+            extra = f"剩 {fmt_duration(s['remain_s'])}"
+        else:
+            extra = f"已出现 {fmt_duration(s['age_s'])}"
+        alpha = " [Alpha]" if s.get("is_alpha") else ""
         print(f"       {display_name(s['region'], REGION_ZH):<12} "
               f"{display_name(s['pokemon'], POKEMON_ZH):<16} @ {display_name(s['location'], LOCATION_ZH):<26} "
-              f"已出现 {fmt_duration(s['age_s'])}")
+              f"{extra}{alpha}")
 
     # 过滤：地区 / 宝可梦（中英文都支持）
     filter_region = expand_filters(os.environ.get("FILTER_REGION", "").split(","), REGION_ZH)
@@ -708,10 +736,10 @@ def check_once(verbose=True):
     if filter_pokemon:
         swarms = [s for s in swarms if s["pokemon"].lower() in filter_pokemon]
 
-    # 只关心「新出现」的 swarm
+    # 只关心「新出现」的 swarm；Alpha 稀有群生命周期长、数量少，见到就提醒（去重靠 state.json）
     age_max = int(os.environ.get("NOTIFY_AGE_MAX", str(DEFAULT_AGE_MAX)))
-    fresh = [s for s in swarms if s["age_s"] <= age_max]
-    print(f"[信息] 其中 {len(fresh)} 个为近期新报告（{fmt_duration(age_max)} 内）。")
+    fresh = [s for s in swarms if s.get("is_alpha") or s["age_s"] <= age_max]
+    print(f"[信息] 其中 {len(fresh)} 个需要提醒（新报告 {fmt_duration(age_max)} 内 + Alpha 稀有群）。")
 
     if os.environ.get("TEST_NOTIFY", "").strip() in ("1", "true", "True", "yes"):
         return send_test_notification()
