@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Mime Jr.|Rusturf Tunnel|496719": 1788191398,
     "Sinnoh|Zangoose|Route 205|496719": 1788191398,
     "Johto|Kangaskhan|Dark Cave|496720": 1788192626,
     "Unova|Lumineon|Route 17|496720": 1788193036,
@@ -999,6 +998,7 @@
     "Johto|Corsola|Route 40|497296": 1790267431,
     "Sinnoh|Ambipom|Route 216|497297": 1790269821,
     "Sinnoh|Carnivine|Route 225|497298": 1790274022,
-    "Unova|Farfetch&#x27;d|Route 1|497298": 1790274318
+    "Unova|Farfetch&#x27;d|Route 1|497298": 1790274318,
+    "Hoenn|Sudowoodo|Battle Frontier|497299": 1790277022
   }
 }
