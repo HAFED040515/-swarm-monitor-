@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Yanmega|Route 10|496711": 1788164345,
     "Hoenn|Wailord|Route 129|496713": 1788167331,
     "Sinnoh|Cherrim|Lake Verity|496713": 1788167734,
     "Johto|Wailmer|Route 40|496714": 1788173445,
@@ -999,6 +998,7 @@
     "Unova|Cherubi|Route 16|497289": 1790241916,
     "Hoenn|Swampert|Route 109|497290": 1790244921,
     "Sinnoh|Scyther|Route 210|497290": 1790245517,
-    "Sinnoh|Glaceon|Route 217|497290": 1790246117
+    "Sinnoh|Glaceon|Route 217|497290": 1790246117,
+    "Johto|Starmie|Cliff Edge Gate|497290": 1790246722
   }
 }
