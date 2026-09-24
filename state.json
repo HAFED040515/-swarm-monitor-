@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Starmie|Cliff Edge Gate|496711": 1788161173,
     "Hoenn|Munna|Route 102|496711": 1788161173,
     "Unova|Salamence|Dragonspiral Tower|496711": 1788161173,
     "Unova|Yanmega|Route 10|496711": 1788164345,
@@ -999,6 +998,7 @@
     "Hoenn|Nosepass|Granite Cave|497287": 1790233519,
     "Unova|Carnivine|Route 18|497287": 1790233821,
     "Kanto|Snorlax|Cerulean Cave|497288": 1790237424,
-    "Unova|Cherubi|Route 16|497289": 1790241916
+    "Unova|Cherubi|Route 16|497289": 1790241916,
+    "Hoenn|Swampert|Route 109|497290": 1790244921
   }
 }
