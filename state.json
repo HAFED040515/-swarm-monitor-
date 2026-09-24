@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Kangaskhan|Dark Cave|496720": 1788192626,
     "Unova|Lumineon|Route 17|496720": 1788193036,
     "Kanto|Tentacruel|Water Labyrinth|496720": 1788194250,
     "Hoenn|Musharna|Mt. Pyre|496721": 1788197064,
@@ -999,6 +998,7 @@
     "Sinnoh|Carnivine|Route 225|497298": 1790274022,
     "Unova|Farfetch&#x27;d|Route 1|497298": 1790274318,
     "Hoenn|Sudowoodo|Battle Frontier|497299": 1790277022,
-    "Kanto|Zangoose|Route 14|497299": 1790278231
+    "Kanto|Zangoose|Route 14|497299": 1790278231,
+    "Sinnoh|Rotom|Old Chateau|497299": 1790280041
   }
 }
