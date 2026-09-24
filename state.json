@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Mime Jr.|Rusturf Tunnel|496722": 1788199871,
     "Sinnoh|Ambipom|Route 216|496722": 1788199871,
     "Unova|Dragonair|Dragonspiral Tower|496722": 1788199871,
     "Unova|Kangaskhan|Wellspring Cave|496722": 1788201522,
@@ -999,6 +998,7 @@
     "Hoenn|Azumarill|Route 120|497301": 1790285117,
     "Kanto|Rampardos|Tanoby Ruins|497302": 1790288121,
     "Sinnoh|Empoleon|Lake Acuity|497302": 1790288121,
-    "Sinnoh|Turtwig|Route 203|497303": 1790292629
+    "Sinnoh|Turtwig|Route 203|497303": 1790292629,
+    "Kanto|Munna|Route 4|497303": 1790292917
   }
 }
