@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Charizard|Mt. Ember|496719": 1788190608,
     "Hoenn|Mime Jr.|Rusturf Tunnel|496719": 1788191398,
     "Sinnoh|Zangoose|Route 205|496719": 1788191398,
     "Johto|Kangaskhan|Dark Cave|496720": 1788192626,
@@ -999,6 +998,7 @@
     "Kanto|Seviper|Route 15|497295": 1790265318,
     "Johto|Corsola|Route 40|497296": 1790267431,
     "Sinnoh|Ambipom|Route 216|497297": 1790269821,
-    "Sinnoh|Carnivine|Route 225|497298": 1790274022
+    "Sinnoh|Carnivine|Route 225|497298": 1790274022,
+    "Unova|Farfetch&#x27;d|Route 1|497298": 1790274318
   }
 }
