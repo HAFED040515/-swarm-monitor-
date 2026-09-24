@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Salamence|Dragonspiral Tower|496716": 1788180426,
     "Kanto|Jolteon|Ruin Valley|496717": 1788182024,
     "Johto|Kangaskhan|Dark Cave|496717": 1788184861,
     "Sinnoh|Heracross|Route 206|496717": 1788184861,
@@ -999,6 +998,7 @@
     "Kanto|Snorlax|Cerulean Cave|497293": 1790256632,
     "Johto|Starmie|Cliff Edge Gate|497294": 1790259623,
     "Sinnoh|Ambipom|Route 216|497295": 1790263113,
-    "Unova|Skorupi|Desert Resort|497295": 1790264426
+    "Unova|Skorupi|Desert Resort|497295": 1790264426,
+    "Kanto|Seviper|Route 15|497295": 1790265318
   }
 }
