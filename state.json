@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Cherrim|Lake Verity|496713": 1788167734,
     "Johto|Wailmer|Route 40|496714": 1788173445,
     "Sinnoh|Bonsly|Eterna Forest|496715": 1788174682,
     "Kanto|Starmie|Seven Island|496715": 1788176720,
@@ -999,6 +998,7 @@
     "Sinnoh|Scyther|Route 210|497290": 1790245517,
     "Sinnoh|Glaceon|Route 217|497290": 1790246117,
     "Johto|Starmie|Cliff Edge Gate|497290": 1790246722,
-    "Unova|Zorua|Lostlorn Forest|497292": 1790251520
+    "Unova|Zorua|Lostlorn Forest|497292": 1790251520,
+    "Hoenn|Togekiss|Sky Pillar|497292": 1790252717
   }
 }
