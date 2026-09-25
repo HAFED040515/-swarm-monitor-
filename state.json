@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Relicanth|Route 126|496741": 1788270289,
     "Unova|Togetic|Dreamyard|496743": 1788275556,
     "Hoenn|Tropius|Route 118|496743": 1788280099,
     "Sinnoh|Tropius|Route 226|496744": 1788281964,
@@ -999,6 +998,7 @@
     "Hoenn|Marshtomp|Route 124|497318": 1790348118,
     "Kanto|Houndoom|Kindle Road|497318": 1790348441,
     "Kanto|Yanmega|Six Island|497319": 1790349508,
-    "Hoenn|Cloyster|Route 133|497319": 1790351423
+    "Hoenn|Cloyster|Route 133|497319": 1790351423,
+    "Sinnoh|Crawdaunt|Lake Valor|497320": 1790352320
   }
 }
