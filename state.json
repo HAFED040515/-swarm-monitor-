@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Miltank|Route 39|496731": 1788232931,
     "Sinnoh|Luxray|Lake Verity|496730": 1788232931,
     "Hoenn|Cloyster|Route 133|496732": 1788235904,
     "Unova|Miltank|Village Bridge|496732": 1788236661,
@@ -999,6 +998,7 @@
     "Kanto|Salamence|Victory Road|497310": 1790318118,
     "Hoenn|Tropius|Route 118|497312": 1790324421,
     "Unova|Octillery|Route 13|497312": 1790325923,
-    "Sinnoh|Prinplup|Route 220|497313": 1790327721
+    "Sinnoh|Prinplup|Route 220|497313": 1790327721,
+    "Johto|Starmie|Cliff Edge Gate|497313": 1790329520
   }
 }
