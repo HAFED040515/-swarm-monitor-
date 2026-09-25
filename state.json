@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Houndoom|Route 15|496750": 1788302972,
     "Unova|Munna|Dreamyard|496751": 1788306247,
     "Sinnoh|Glaceon|Route 217|496752": 1788307813,
     "Unova|Floatzel|Route 3|496752": 1788310560,
@@ -999,6 +998,7 @@
     "Sinnoh|Weavile|Route 217|497324": 1790367622,
     "Hoenn|Blissey|Artisan Cave|497324": 1790367917,
     "Hoenn|Sceptile|Route 119|497325": 1790370625,
-    "Unova|Porygon2|P2 Laboratory|497325": 1790371222
+    "Unova|Porygon2|P2 Laboratory|497325": 1790371222,
+    "Unova|Swalot|Route 9|497326": 1790374825
   }
 }
