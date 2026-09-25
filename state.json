@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Miltank|Village Bridge|496732": 1788236661,
     "Johto|Nincada|Route 46|496732": 1788237889,
     "Hoenn|Zorua|Route 101|496734": 1788244167,
     "Kanto|Snorlax|Cerulean Cave|496734": 1788245078,
@@ -999,6 +998,7 @@
     "Sinnoh|Prinplup|Route 220|497313": 1790327721,
     "Johto|Starmie|Cliff Edge Gate|497313": 1790329520,
     "Kanto|Sentret|Route 1|497314": 1790331320,
-    "Unova|Houndoom|Route 15|497315": 1790334922
+    "Unova|Houndoom|Route 15|497315": 1790334922,
+    "Hoenn|Corsola|Route 128|497315": 1790335517
   }
 }
