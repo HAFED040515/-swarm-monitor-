@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Nosepass|Oreburgh Gate|496723": 1788205140,
     "Johto|Chimecho|Bellchime Trail|496724": 1788209542,
     "Unova|Ninjask|Route 11|496724": 1788209542,
     "Sinnoh|Staraptor|Sendoff Spring|496724": 1788211168,
@@ -999,6 +998,7 @@
     "Unova|Kangaskhan|Wellspring Cave|497303": 1790293223,
     "Johto|Shuckle|Cliff Cave|497304": 1790296228,
     "Hoenn|Skarmory|Route 113|497304": 1790296517,
-    "Kanto|Exeggutor|Route 23|497304": 1790297421
+    "Kanto|Exeggutor|Route 23|497304": 1790297421,
+    "Sinnoh|Furret|Route 208|497304": 1790298033
   }
 }
