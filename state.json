@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Exeggutor|Route 23|496725": 1788212371,
     "Johto|Bonsly|Ilex Forest|496726": 1788213966,
     "Unova|Lumineon|Route 17|496726": 1788215596,
     "Johto|Vigoroth|Ruins of Alph|496727": 1788220352,
@@ -999,6 +998,7 @@
     "Sinnoh|Furret|Route 208|497304": 1790298033,
     "Unova|Dragonair|Dragonspiral Tower|497305": 1790300115,
     "Hoenn|Treecko|Petalburg Woods|497306": 1790303115,
-    "Johto|Feraligatr|Tohjo Falls|497307": 1790305821
+    "Johto|Feraligatr|Tohjo Falls|497307": 1790305821,
+    "Unova|Pupitar|Twist Mountain|497307": 1790306122
   }
 }
