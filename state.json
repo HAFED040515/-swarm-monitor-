@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Totodile|Route 32|496749": 1788298266,
     "Hoenn|Finneon|Route 107|496749": 1788298885,
     "Unova|Houndoom|Route 15|496750": 1788302972,
     "Unova|Munna|Dreamyard|496751": 1788306247,
@@ -999,6 +998,7 @@
     "Sinnoh|Mr. Mime|Route 224|497323": 1790366438,
     "Johto|Barboach|Slowpoke Well|497324": 1790366719,
     "Sinnoh|Weavile|Route 217|497324": 1790367622,
-    "Hoenn|Blissey|Artisan Cave|497324": 1790367917
+    "Hoenn|Blissey|Artisan Cave|497324": 1790367917,
+    "Hoenn|Sceptile|Route 119|497325": 1790370625
   }
 }
