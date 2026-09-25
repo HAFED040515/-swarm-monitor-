@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Dragonair|Dragonspiral Tower|496722": 1788199871,
     "Unova|Kangaskhan|Wellspring Cave|496722": 1788201522,
     "Kanto|Luvdisc|Route 19|496723": 1788203536,
     "Sinnoh|Nosepass|Oreburgh Gate|496723": 1788205140,
@@ -999,6 +998,7 @@
     "Sinnoh|Empoleon|Lake Acuity|497302": 1790288121,
     "Sinnoh|Turtwig|Route 203|497303": 1790292629,
     "Kanto|Munna|Route 4|497303": 1790292917,
-    "Unova|Kangaskhan|Wellspring Cave|497303": 1790293223
+    "Unova|Kangaskhan|Wellspring Cave|497303": 1790293223,
+    "Johto|Shuckle|Cliff Cave|497304": 1790296228
   }
 }
