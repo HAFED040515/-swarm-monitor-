@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Heracross|Route 206|496728": 1788224022,
     "Kanto|Snorlax|Cerulean Cave|496729": 1788225289,
     "Hoenn|Mime Jr.|Rusturf Tunnel|496729": 1788225289,
     "Unova|Scizor|Route 14|496729": 1788227490,
@@ -999,6 +998,7 @@
     "Sinnoh|Glaceon|Route 217|497307": 1790307316,
     "Kanto|Blissey|Three Island|497308": 1790309422,
     "Unova|Lumineon|Route 17|497308": 1790311221,
-    "Johto|Kingdra|Whirl Islands|497308": 1790311523
+    "Johto|Kingdra|Whirl Islands|497308": 1790311523,
+    "Hoenn|Spiritomb|Abandoned Ship|497309": 1790316037
   }
 }
