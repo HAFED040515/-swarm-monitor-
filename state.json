@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Glaceon|Route 217|496752": 1788307813,
     "Unova|Floatzel|Route 3|496752": 1788310560,
     "Johto|Miltank|Route 39|496753": 1788312334,
     "Hoenn|Kecleon|Route 120|496753": 1788312334,
@@ -999,6 +998,7 @@
     "Hoenn|Sceptile|Route 119|497325": 1790370625,
     "Unova|Porygon2|P2 Laboratory|497325": 1790371222,
     "Unova|Swalot|Route 9|497326": 1790374825,
-    "Johto|Porygon-Z|Team Rocket HQ|497326": 1790375119
+    "Johto|Porygon-Z|Team Rocket HQ|497326": 1790375119,
+    "Sinnoh|Cloyster|Route 223|497326": 1790376023
   }
 }
