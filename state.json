@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Kangaskhan|Wellspring Cave|496722": 1788201522,
     "Kanto|Luvdisc|Route 19|496723": 1788203536,
     "Sinnoh|Nosepass|Oreburgh Gate|496723": 1788205140,
     "Johto|Chimecho|Bellchime Trail|496724": 1788209542,
@@ -999,6 +998,7 @@
     "Sinnoh|Turtwig|Route 203|497303": 1790292629,
     "Kanto|Munna|Route 4|497303": 1790292917,
     "Unova|Kangaskhan|Wellspring Cave|497303": 1790293223,
-    "Johto|Shuckle|Cliff Cave|497304": 1790296228
+    "Johto|Shuckle|Cliff Cave|497304": 1790296228,
+    "Hoenn|Skarmory|Route 113|497304": 1790296517
   }
 }
