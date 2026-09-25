@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Salamence|Victory Road|496746": 1788288898,
     "Sinnoh|Honchkrow|Route 209|496746": 1788288898,
     "Hoenn|Chimecho|Mt. Pyre|496746": 1788289342,
     "Johto|Barboach|Slowpoke Well|496747": 1788290677,
@@ -999,6 +998,7 @@
     "Johto|Bayleef|National Park|497322": 1790359822,
     "Kanto|Milotic|Resort Gorgeous|497322": 1790361317,
     "Johto|Miltank|Route 39|497323": 1790363117,
-    "Unova|Hitmonlee|Victory Road|497323": 1790363117
+    "Unova|Hitmonlee|Victory Road|497323": 1790363117,
+    "Hoenn|Vaporeon|Route 134|497323": 1790363721
   }
 }
