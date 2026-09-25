@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Zorua|Route 101|496734": 1788244167,
-    "Kanto|Snorlax|Cerulean Cave|496734": 1788245078,
     "Johto|Metang|Ice Path|496735": 1788249492,
     "Hoenn|Sandslash|Route 111|496736": 1788253060,
     "Johto|Vigoroth|Ruins of Alph|496737": 1788257075,
@@ -999,6 +997,8 @@
     "Kanto|Sentret|Route 1|497314": 1790331320,
     "Unova|Houndoom|Route 15|497315": 1790334922,
     "Hoenn|Corsola|Route 128|497315": 1790335517,
-    "Johto|Shroomish|Route 34|497316": 1790339430
+    "Johto|Shroomish|Route 34|497316": 1790339430,
+    "Kanto|Wartortle|Seafoam Islands|497317": 1790342124,
+    "Sinnoh|Tauros|Valor Lakefront|497317": 1790342124
   }
 }
