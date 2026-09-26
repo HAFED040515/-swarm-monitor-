@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Togetic|Route 27|496774": 1788388922,
     "Hoenn|Combusken|Route 114|496775": 1788392073,
     "Kanto|Blissey|Three Island|496775": 1788392515,
     "Johto|Bonsly|Ilex Forest|496776": 1788396424,
@@ -999,6 +998,7 @@
     "Kanto|Farfetch&#x27;d|Route 13|497343": 1790436317,
     "Johto|Feraligatr|Tohjo Falls|497343": 1790437820,
     "Hoenn|Murkrow|Jagged Pass|497343": 1790438119,
-    "Sinnoh|Ambipom|Route 216|497344": 1790440822
+    "Sinnoh|Ambipom|Route 216|497344": 1790440822,
+    "Unova|Togetic|Dreamyard|497345": 1790442620
   }
 }
