@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Bonsly|Ilex Forest|496776": 1788396424,
     "Kanto|Bastiodon|Tanoby Ruins|496776": 1788397004,
     "Johto|Skitty|Route 35|496778": 1788402191,
     "Kanto|Minun|Route 22|496782": 1788418740,
@@ -999,6 +998,7 @@
     "Sinnoh|Ambipom|Route 216|497344": 1790440822,
     "Unova|Togetic|Dreamyard|497345": 1790442620,
     "Hoenn|Qwilfish|Route 125|497346": 1790445918,
-    "Unova|Volcarona|Relic Castle|497346": 1790445918
+    "Unova|Volcarona|Relic Castle|497346": 1790445918,
+    "Sinnoh|Kirlia|Snowpoint Temple|497346": 1790447119
   }
 }
