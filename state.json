@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Metang|Ice Path|496756": 1788324806,
     "Unova|Corsola|Undella Bay|496757": 1788325884,
     "Hoenn|Carnivine|Route 123|496757": 1788328503,
     "Johto|Yanmega|Route 44|496758": 1788330499,
@@ -999,6 +998,7 @@
     "Hoenn|Cloyster|Route 133|497330": 1790389220,
     "Unova|Yanma|Pinwheel Forest|497330": 1790390418,
     "Johto|Chikorita|Route 31|497331": 1790393116,
-    "Hoenn|Pelipper|Route 109|497331": 1790394621
+    "Hoenn|Pelipper|Route 109|497331": 1790394621,
+    "Kanto|Milotic|Resort Gorgeous|497331": 1790395516
   }
 }
