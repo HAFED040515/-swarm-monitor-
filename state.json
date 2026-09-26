@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Relicanth|Challenger&#x27;s Cave|496783": 1788419421,
     "Hoenn|Relicanth|Route 126|496783": 1788419719,
     "Johto|Quilava|Route 42|496783": 1788421221,
     "Kanto|Squirtle|Route 24|496785": 1788427202,
@@ -999,6 +998,7 @@
     "Kanto|Bulbasaur|Viridian Forest|497347": 1790449517,
     "Unova|Yanma|Pinwheel Forest|497347": 1790449823,
     "Johto|Ditto|Tohjo Falls|497347": 1790450419,
-    "Kanto|Milotic|Resort Gorgeous|497348": 1790454317
+    "Kanto|Milotic|Resort Gorgeous|497348": 1790454317,
+    "Hoenn|Grovyle|Route 118|497348": 1790454916
   }
 }
