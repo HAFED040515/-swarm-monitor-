@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Seviper|Route 114|496771": 1788379166,
     "Kanto|Bastiodon|Monean Chamber|496773": 1788384194,
     "Sinnoh|Magmar|Fuego Ironworks|496774": 1788387620,
     "Johto|Togetic|Route 27|496774": 1788388922,
@@ -999,6 +998,7 @@
     "Unova|Sableye|Wellspring Cave|497340": 1790428220,
     "Sinnoh|Chimecho|Acuity Lakefront|497342": 1790435116,
     "Unova|Lumineon|Route 17|497343": 1790435723,
-    "Kanto|Farfetch&#x27;d|Route 13|497343": 1790436317
+    "Kanto|Farfetch&#x27;d|Route 13|497343": 1790436317,
+    "Johto|Feraligatr|Tohjo Falls|497343": 1790437820
   }
 }
