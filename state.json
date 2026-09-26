@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Rotom|New Mauville|496762": 1788345074,
     "Unova|Kangaskhan|Wellspring Cave|496762": 1788345074,
     "Johto|Lapras|Union Cave|496762": 1788346267,
     "Sinnoh|Spiritomb|Turnback Cave|496763": 1788348096,
@@ -999,6 +998,7 @@
     "Hoenn|Sudowoodo|Battle Frontier|497334": 1790403021,
     "Sinnoh|Grotle|Sendoff Spring|497334": 1790403917,
     "Unova|Volbeat|Route 8|497334": 1790403917,
-    "Johto|Vigoroth|Ruins of Alph|497334": 1790404821
+    "Johto|Vigoroth|Ruins of Alph|497334": 1790404821,
+    "Unova|Hitmonlee|Victory Road|497335": 1790409316
   }
 }
