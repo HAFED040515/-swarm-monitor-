@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Swalot|Route 9|496767": 1788363367,
     "Sinnoh|Miltank|Route 214|496769": 1788371024,
     "Johto|Lucario|Mt. Silver Cave|496770": 1788373501,
     "Unova|Zorua|Lostlorn Forest|496770": 1788373501,
@@ -999,6 +998,7 @@
     "Hoenn|Chatot|Route 115|497337": 1790414716,
     "Kanto|Jolteon|Ruin Valley|497338": 1790420436,
     "Unova|Hitmonlee|Victory Road|497339": 1790423119,
-    "Kanto|Lapras|Icefall Cave|497339": 1790423420
+    "Kanto|Lapras|Icefall Cave|497339": 1790423420,
+    "Johto|Snorlax|Victory Road|497340": 1790425220
   }
 }
