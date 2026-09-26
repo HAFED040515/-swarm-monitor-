@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Carnivine|Route 123|496757": 1788328503,
     "Johto|Yanmega|Route 44|496758": 1788330499,
     "Unova|Volcarona|Relic Castle|496758": 1788331442,
     "Kanto|Kirlia|Route 8|496758": 1788332696,
@@ -999,6 +998,7 @@
     "Johto|Chikorita|Route 31|497331": 1790393116,
     "Hoenn|Pelipper|Route 109|497331": 1790394621,
     "Kanto|Milotic|Resort Gorgeous|497331": 1790395516,
-    "Unova|Illumise|Moor of Icirrus|497332": 1790397920
+    "Unova|Illumise|Moor of Icirrus|497332": 1790397920,
+    "Sinnoh|Torterra|Route 212|497333": 1790399115
   }
 }
