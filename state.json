@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Vespiquen|Five Isle Meadow|496763": 1788348738,
-    "Hoenn|Torchic|Route 112|496763": 1788350241,
     "Unova|Volbeat|Route 8|496764": 1788352144,
     "Hoenn|Gulpin|Route 110|496765": 1788357222,
     "Johto|Ambipom|Route 44|496766": 1788361326,
@@ -999,6 +997,8 @@
     "Unova|Hitmonlee|Victory Road|497335": 1790409316,
     "Kanto|Trapinch|Diglett&#x27;s Cave|497336": 1790410220,
     "Johto|Ursaring|Dark Cave|497336": 1790411718,
-    "Sinnoh|Chimchar|Route 211|497337": 1790413516
+    "Sinnoh|Chimchar|Route 211|497337": 1790413516,
+    "Kanto|Blastoise|Cape Brink|497337": 1790414716,
+    "Hoenn|Chatot|Route 115|497337": 1790414716
   }
 }
