@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Relicanth|Challenger&#x27;s Cave|496785": 1788429021,
     "Johto|Skitty|Route 35|496785": 1788429205,
     "Sinnoh|Skuntank|Route 214|496785": 1788429595,
     "Unova|Cacnea|Route 4|496786": 1788432916,
@@ -999,6 +998,7 @@
     "Hoenn|Grovyle|Route 118|497348": 1790454916,
     "Unova|Cherubi|Route 16|497349": 1790459119,
     "Hoenn|Blissey|Artisan Cave|497350": 1790461224,
-    "Johto|Sharpedo|Route 41|497350": 1790462421
+    "Johto|Sharpedo|Route 41|497350": 1790462421,
+    "Kanto|Lapras|Icefall Cave|497350": 1790463317
   }
 }
