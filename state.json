@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Kecleon|Route 120|496753": 1788312334,
     "Kanto|Jolteon|Ruin Valley|496754": 1788316516,
     "Sinnoh|Prinplup|Route 220|496755": 1788319917,
     "Kanto|Luvdisc|Route 19|496756": 1788322936,
@@ -999,6 +998,7 @@
     "Johto|Porygon-Z|Team Rocket HQ|497326": 1790375119,
     "Sinnoh|Cloyster|Route 223|497326": 1790376023,
     "Kanto|Armaldo|Viapois Chamber|497326": 1790376915,
-    "Hoenn|Combee|Route 117|497328": 1790384115
+    "Hoenn|Combee|Route 117|497328": 1790384115,
+    "Johto|Kirlia|Route 43|497329": 1790386227
   }
 }
