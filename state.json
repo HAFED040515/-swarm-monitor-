@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Minun|Route 22|496782": 1788418740,
     "Sinnoh|Vigoroth|Route 215|496783": 1788419421,
     "Unova|Relicanth|Challenger&#x27;s Cave|496783": 1788419421,
     "Hoenn|Relicanth|Route 126|496783": 1788419719,
@@ -999,6 +998,7 @@
     "Unova|Volcarona|Relic Castle|497346": 1790445918,
     "Sinnoh|Kirlia|Snowpoint Temple|497346": 1790447119,
     "Kanto|Bulbasaur|Viridian Forest|497347": 1790449517,
-    "Unova|Yanma|Pinwheel Forest|497347": 1790449823
+    "Unova|Yanma|Pinwheel Forest|497347": 1790449823,
+    "Johto|Ditto|Tohjo Falls|497347": 1790450419
   }
 }
