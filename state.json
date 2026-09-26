@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Electabuzz|Chargestone Cave|496771": 1788377114,
     "Hoenn|Sharpedo|Route 127|496771": 1788377990,
     "Hoenn|Seviper|Route 114|496771": 1788379166,
     "Kanto|Bastiodon|Monean Chamber|496773": 1788384194,
@@ -999,6 +998,7 @@
     "Hoenn|Grovyle|Route 118|497340": 1790427316,
     "Sinnoh|Drapion|Route 213|497340": 1790427637,
     "Unova|Sableye|Wellspring Cave|497340": 1790428220,
-    "Sinnoh|Chimecho|Acuity Lakefront|497342": 1790435116
+    "Sinnoh|Chimecho|Acuity Lakefront|497342": 1790435116,
+    "Unova|Lumineon|Route 17|497343": 1790435723
   }
 }
