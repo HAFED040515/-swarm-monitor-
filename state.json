@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Kirlia|Route 8|496758": 1788332696,
-    "Johto|Hitmontop|Mt. Mortar|496759": 1788334878,
     "Sinnoh|Psyduck|Route 208|496759": 1788335806,
     "Hoenn|Rotom|New Mauville|496762": 1788345074,
     "Unova|Kangaskhan|Wellspring Cave|496762": 1788345074,
@@ -999,6 +997,8 @@
     "Unova|Illumise|Moor of Icirrus|497332": 1790397920,
     "Sinnoh|Torterra|Route 212|497333": 1790399115,
     "Kanto|Armaldo|Viapois Chamber|497334": 1790402716,
-    "Hoenn|Sudowoodo|Battle Frontier|497334": 1790403021
+    "Hoenn|Sudowoodo|Battle Frontier|497334": 1790403021,
+    "Sinnoh|Grotle|Sendoff Spring|497334": 1790403917,
+    "Unova|Volbeat|Route 8|497334": 1790403917
   }
 }
