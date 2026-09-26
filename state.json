@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Lucario|Mt. Silver Cave|496770": 1788373501,
     "Unova|Zorua|Lostlorn Forest|496770": 1788373501,
     "Kanto|Seviper|Route 15|496771": 1788377114,
     "Unova|Electabuzz|Chargestone Cave|496771": 1788377114,
@@ -999,6 +998,7 @@
     "Unova|Hitmonlee|Victory Road|497339": 1790423119,
     "Kanto|Lapras|Icefall Cave|497339": 1790423420,
     "Johto|Snorlax|Victory Road|497340": 1790425220,
-    "Hoenn|Grovyle|Route 118|497340": 1790427316
+    "Hoenn|Grovyle|Route 118|497340": 1790427316,
+    "Sinnoh|Drapion|Route 213|497340": 1790427637
   }
 }
