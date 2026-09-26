@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Gulpin|Route 110|496765": 1788357222,
     "Johto|Ambipom|Route 44|496766": 1788361326,
     "Unova|Swalot|Route 9|496767": 1788363367,
     "Sinnoh|Miltank|Route 214|496769": 1788371024,
@@ -999,6 +998,7 @@
     "Sinnoh|Chimchar|Route 211|497337": 1790413516,
     "Kanto|Blastoise|Cape Brink|497337": 1790414716,
     "Hoenn|Chatot|Route 115|497337": 1790414716,
-    "Kanto|Jolteon|Ruin Valley|497338": 1790420436
+    "Kanto|Jolteon|Ruin Valley|497338": 1790420436,
+    "Unova|Hitmonlee|Victory Road|497339": 1790423119
   }
 }
