@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Prinplup|Route 220|496755": 1788319917,
     "Kanto|Luvdisc|Route 19|496756": 1788322936,
     "Sinnoh|Cloyster|Route 223|496756": 1788323638,
     "Johto|Metang|Ice Path|496756": 1788324806,
@@ -999,6 +998,7 @@
     "Kanto|Armaldo|Viapois Chamber|497326": 1790376915,
     "Hoenn|Combee|Route 117|497328": 1790384115,
     "Johto|Kirlia|Route 43|497329": 1790386227,
-    "Hoenn|Cloyster|Route 133|497330": 1790389220
+    "Hoenn|Cloyster|Route 133|497330": 1790389220,
+    "Unova|Yanma|Pinwheel Forest|497330": 1790390418
   }
 }
