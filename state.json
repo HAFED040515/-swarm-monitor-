@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Quilava|Route 42|496783": 1788421221,
     "Kanto|Squirtle|Route 24|496785": 1788427202,
     "Unova|Relicanth|Challenger&#x27;s Cave|496785": 1788429021,
     "Johto|Skitty|Route 35|496785": 1788429205,
@@ -999,6 +998,7 @@
     "Johto|Ditto|Tohjo Falls|497347": 1790450419,
     "Kanto|Milotic|Resort Gorgeous|497348": 1790454317,
     "Hoenn|Grovyle|Route 118|497348": 1790454916,
-    "Unova|Cherubi|Route 16|497349": 1790459119
+    "Unova|Cherubi|Route 16|497349": 1790459119,
+    "Hoenn|Blissey|Artisan Cave|497350": 1790461224
   }
 }
