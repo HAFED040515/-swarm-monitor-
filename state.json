@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Houndoom|Kindle Road|496805": 1788501631,
     "Unova|Pinsir|Route 12|496805": 1788501631,
     "Johto|Miltank|Route 39|496807": 1788506421,
     "Hoenn|Treecko|Petalburg Woods|496807": 1788508485,
@@ -999,6 +998,7 @@
     "Johto|Feebas|Lake of Rage|497367": 1790522720,
     "Sinnoh|Bonsly|Eterna Forest|497368": 1790525422,
     "Hoenn|Croagunk|Route 121|497368": 1790528115,
-    "Kanto|Chatot|Treasure Beach|497369": 1790529020
+    "Kanto|Chatot|Treasure Beach|497369": 1790529020,
+    "Unova|Zangoose|Route 7|497369": 1790529320
   }
 }
