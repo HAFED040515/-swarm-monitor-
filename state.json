@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Rotom|New Mauville|496789": 1788442076,
     "Johto|Starmie|Cliff Edge Gate|496789": 1788443718,
     "Unova|Crobat|Celestial Tower|496790": 1788446421,
     "Sinnoh|Piplup|Route 204|496790": 1788446719,
@@ -999,6 +998,7 @@
     "Johto|Vigoroth|Ruins of Alph|497354": 1790474715,
     "Kanto|Mr. Mime|Route 21|497354": 1790475321,
     "Hoenn|Sudowoodo|Battle Frontier|497354": 1790476821,
-    "Unova|Corsola|Undella Bay|497355": 1790480719
+    "Unova|Corsola|Undella Bay|497355": 1790480719,
+    "Kanto|Wailord|Green Path|497356": 1790483718
   }
 }
