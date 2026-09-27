@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Togetic|Dreamyard|496803": 1788492626,
     "Kanto|Sharpedo|Water Labyrinth|496804": 1788495323,
     "Kanto|Houndoom|Kindle Road|496805": 1788501631,
     "Unova|Pinsir|Route 12|496805": 1788501631,
@@ -999,6 +998,7 @@
     "Hoenn|Exploud|Desert Underpass|497365": 1790517916,
     "Unova|Pupitar|Twist Mountain|497367": 1790522119,
     "Johto|Feebas|Lake of Rage|497367": 1790522720,
-    "Sinnoh|Bonsly|Eterna Forest|497368": 1790525422
+    "Sinnoh|Bonsly|Eterna Forest|497368": 1790525422,
+    "Hoenn|Croagunk|Route 121|497368": 1790528115
   }
 }
