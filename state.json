@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Absol|Route 28|496793": 1788457159,
     "Kanto|Lumineon|Route 12|496793": 1788458118,
     "Hoenn|Aggron|Victory Road|496794": 1788462040,
     "Johto|Hitmontop|Mt. Mortar|496795": 1788463015,
@@ -999,6 +998,7 @@
     "Hoenn|Blissey|Artisan Cave|497358": 1790492116,
     "Johto|Wailmer|Route 40|497359": 1790493622,
     "Kanto|Arbok|Route 11|497359": 1790494263,
-    "Sinnoh|Absol|Mt. Coronet|497359": 1790495716
+    "Sinnoh|Absol|Mt. Coronet|497359": 1790495716,
+    "Unova|Volcarona|Relic Castle|497360": 1790497552
   }
 }
