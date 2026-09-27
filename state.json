@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Metagross|Meteor Falls|496810": 1788517220,
     "Kanto|Nidorino|Route 9|496810": 1788518120,
     "Hoenn|Gulpin|Route 110|496812": 1788524981,
     "Johto|Cyndaquil|Route 33|496813": 1788528013,
@@ -999,6 +998,7 @@
     "Kanto|Porygon|Pokemon Mansion|497372": 1790541026,
     "Unova|Seviper|Route 1|497372": 1790541620,
     "Johto|Forretress|Route 45|497373": 1790544020,
-    "Sinnoh|Exeggutor|Route 230|497373": 1790544317
+    "Sinnoh|Exeggutor|Route 230|497373": 1790544317,
+    "Hoenn|Mudkip|Route 104|497373": 1790544916
   }
 }
