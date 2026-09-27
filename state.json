@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Salamence|Dragonspiral Tower|496801": 1788485117,
     "Hoenn|Altaria|Ever Grande City|496802": 1788488714,
     "Sinnoh|Spiritomb|Turnback Cave|496803": 1788491718,
     "Johto|Typhlosion|Route 45|496803": 1788492626,
@@ -999,6 +998,7 @@
     "Sinnoh|Rotom|Old Chateau|497363": 1790509219,
     "Hoenn|Luvdisc|Route 132|497364": 1790512518,
     "Johto|Chikorita|Route 31|497365": 1790515827,
-    "Unova|Togetic|Dreamyard|497365": 1790517316
+    "Unova|Togetic|Dreamyard|497365": 1790517316,
+    "Hoenn|Exploud|Desert Underpass|497365": 1790517916
   }
 }
