@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Salamence|Dragonspiral Tower|496798": 1788473274,
     "Kanto|Pinsir|Route 11|496798": 1788475519,
     "Johto|Meganium|Route 48|496800": 1788480316,
     "Kanto|Milotic|Resort Gorgeous|496800": 1788481516,
@@ -999,6 +998,7 @@
     "Hoenn|Sceptile|Route 119|497362": 1790505026,
     "Unova|Cherubi|Route 16|497362": 1790505317,
     "Kanto|Jolteon|Ruin Valley|497363": 1790508315,
-    "Johto|Quilava|Route 42|497363": 1790508315
+    "Johto|Quilava|Route 42|497363": 1790508315,
+    "Sinnoh|Rotom|Old Chateau|497363": 1790509219
   }
 }
