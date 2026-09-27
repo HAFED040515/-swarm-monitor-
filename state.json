@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Nidorino|Route 9|496810": 1788518120,
     "Hoenn|Gulpin|Route 110|496812": 1788524981,
     "Johto|Cyndaquil|Route 33|496813": 1788528013,
     "Unova|Mamoswine|Giant Chasm|496814": 1788532822,
@@ -999,6 +998,7 @@
     "Unova|Seviper|Route 1|497372": 1790541620,
     "Johto|Forretress|Route 45|497373": 1790544020,
     "Sinnoh|Exeggutor|Route 230|497373": 1790544317,
-    "Hoenn|Mudkip|Route 104|497373": 1790544916
+    "Hoenn|Mudkip|Route 104|497373": 1790544916,
+    "Sinnoh|Torterra|Route 212|497374": 1790549420
   }
 }
