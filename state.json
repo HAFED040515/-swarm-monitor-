@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Crobat|Celestial Tower|496790": 1788446421,
     "Sinnoh|Piplup|Route 204|496790": 1788446719,
     "Johto|Chikorita|Route 31|496791": 1788449116,
     "Hoenn|Feebas|Route 130|496791": 1788450915,
@@ -999,6 +998,7 @@
     "Hoenn|Sudowoodo|Battle Frontier|497354": 1790476821,
     "Unova|Corsola|Undella Bay|497355": 1790480719,
     "Kanto|Wailord|Green Path|497356": 1790483718,
-    "Johto|Tauros|Route 38|497357": 1790486421
+    "Johto|Tauros|Route 38|497357": 1790486421,
+    "Unova|Dragonair|Dragonspiral Tower|497357": 1790488832
   }
 }
