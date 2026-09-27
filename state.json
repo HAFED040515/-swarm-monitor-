@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Scizor|Route 14|496795": 1788463219,
     "Kanto|Heracross|Route 16|496795": 1788463830,
     "Johto|Shuckle|Cliff Cave|496796": 1788468607,
     "Unova|Salamence|Dragonspiral Tower|496798": 1788473274,
@@ -999,6 +998,7 @@
     "Unova|Volcarona|Relic Castle|497360": 1790497552,
     "Sinnoh|Empoleon|Lake Acuity|497361": 1790502916,
     "Kanto|Relicanth|Tanoby Ruins|497362": 1790504120,
-    "Hoenn|Sceptile|Route 119|497362": 1790505026
+    "Hoenn|Sceptile|Route 119|497362": 1790505026,
+    "Unova|Cherubi|Route 16|497362": 1790505317
   }
 }
