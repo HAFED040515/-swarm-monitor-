@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cacnea|Route 4|496786": 1788432916,
     "Johto|Absol|Route 28|496787": 1788435321,
     "Hoenn|Gulpin|Route 110|496788": 1788437116,
     "Kanto|Heracross|Route 16|496788": 1788437225,
@@ -999,6 +998,7 @@
     "Johto|Sharpedo|Route 41|497350": 1790462421,
     "Kanto|Lapras|Icefall Cave|497350": 1790463317,
     "Hoenn|Munna|Route 102|497352": 1790469619,
-    "Unova|Pinsir|Lostlorn Forest|497352": 1790469920
+    "Unova|Pinsir|Lostlorn Forest|497352": 1790469920,
+    "Sinnoh|Walrein|Route 222|497353": 1790472627
   }
 }
