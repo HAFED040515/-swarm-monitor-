@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Kirlia|Route 8|496809": 1788513324,
     "Johto|Tauros|Route 38|496810": 1788516622,
     "Hoenn|Metagross|Meteor Falls|496810": 1788517220,
     "Kanto|Nidorino|Route 9|496810": 1788518120,
@@ -999,6 +998,7 @@
     "Johto|Chimecho|Bellchime Trail|497371": 1790536520,
     "Sinnoh|Torterra|Route 212|497371": 1790537118,
     "Kanto|Porygon|Pokemon Mansion|497372": 1790541026,
-    "Unova|Seviper|Route 1|497372": 1790541620
+    "Unova|Seviper|Route 1|497372": 1790541620,
+    "Johto|Forretress|Route 45|497373": 1790544020
   }
 }
