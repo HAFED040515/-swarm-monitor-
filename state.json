@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Typhlosion|Route 45|496803": 1788492626,
     "Unova|Togetic|Dreamyard|496803": 1788492626,
     "Kanto|Sharpedo|Water Labyrinth|496804": 1788495323,
     "Kanto|Houndoom|Kindle Road|496805": 1788501631,
@@ -999,6 +998,7 @@
     "Unova|Togetic|Dreamyard|497365": 1790517316,
     "Hoenn|Exploud|Desert Underpass|497365": 1790517916,
     "Unova|Pupitar|Twist Mountain|497367": 1790522119,
-    "Johto|Feebas|Lake of Rage|497367": 1790522720
+    "Johto|Feebas|Lake of Rage|497367": 1790522720,
+    "Sinnoh|Bonsly|Eterna Forest|497368": 1790525422
   }
 }
