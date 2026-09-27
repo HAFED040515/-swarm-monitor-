@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Exeggutor|Route 230|496808": 1788510916,
     "Unova|Honchkrow|Celestial Tower|496808": 1788511223,
     "Kanto|Kirlia|Route 8|496809": 1788513324,
     "Johto|Tauros|Route 38|496810": 1788516622,
@@ -999,6 +998,7 @@
     "Unova|Zangoose|Route 7|497369": 1790529320,
     "Hoenn|Combusken|Route 114|497370": 1790533220,
     "Johto|Chimecho|Bellchime Trail|497371": 1790536520,
-    "Sinnoh|Torterra|Route 212|497371": 1790537118
+    "Sinnoh|Torterra|Route 212|497371": 1790537118,
+    "Kanto|Porygon|Pokemon Mansion|497372": 1790541026
   }
 }
