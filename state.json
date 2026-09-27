@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Chikorita|Route 31|496791": 1788449116,
     "Hoenn|Feebas|Route 130|496791": 1788450915,
     "Sinnoh|Rotom|Old Chateau|496793": 1788455721,
     "Johto|Absol|Route 28|496793": 1788457159,
@@ -999,6 +998,7 @@
     "Kanto|Wailord|Green Path|497356": 1790483718,
     "Johto|Tauros|Route 38|497357": 1790486421,
     "Unova|Dragonair|Dragonspiral Tower|497357": 1790488832,
-    "Hoenn|Blissey|Artisan Cave|497358": 1790492116
+    "Hoenn|Blissey|Artisan Cave|497358": 1790492116,
+    "Johto|Wailmer|Route 40|497359": 1790493622
   }
 }
