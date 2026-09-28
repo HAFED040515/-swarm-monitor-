@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Pineco|Route 207|496834": 1788603322,
     "Kanto|Relicanth|Tanoby Ruins|496834": 1788603621,
     "Hoenn|Minun|Route 117|496834": 1788603621,
     "Unova|Zangoose|Route 7|496835": 1788606317,
@@ -999,6 +998,7 @@
     "Hoenn|Salamence|Sky Pillar|497395": 1790623519,
     "Johto|Skitty|Route 35|497395": 1790625072,
     "Kanto|Aerodactyl|Tanoby Ruins|497396": 1790628952,
-    "Unova|Relicanth|Challenger&#x27;s Cave|497397": 1790630120
+    "Unova|Relicanth|Challenger&#x27;s Cave|497397": 1790630120,
+    "Sinnoh|Absol|Mt. Coronet|497398": 1790635220
   }
 }
