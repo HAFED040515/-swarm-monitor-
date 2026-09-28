@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Barboach|Slowpoke Well|496831": 1788593359,
-    "Unova|Relicanth|Challenger&#x27;s Cave|496831": 1788594277,
     "Sinnoh|Prinplup|Route 220|496832": 1788596421,
     "Unova|Minun|Route 6|496832": 1788597620,
     "Hoenn|Murkrow|Jagged Pass|496833": 1788602103,
@@ -999,6 +997,8 @@
     "Hoenn|Zorua|Route 101|497392": 1790613319,
     "Johto|Kangaskhan|Dark Cave|497393": 1790616021,
     "Hoenn|Shuckle|Seafloor Cavern|497393": 1790616917,
-    "Kanto|Porygon|Pokemon Mansion|497393": 1790617821
+    "Kanto|Porygon|Pokemon Mansion|497393": 1790617821,
+    "Sinnoh|Infernape|Route 221|497395": 1790623220,
+    "Unova|Aipom|Cold Storage|497395": 1790623220
   }
 }
