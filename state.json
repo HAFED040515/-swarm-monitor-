@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Skorupi|Desert Resort|496821": 1788557717,
     "Unova|Pupitar|Twist Mountain|496822": 1788562220,
     "Hoenn|Nosepass|Granite Cave|496824": 1788566715,
     "Johto|Lucario|Mt. Silver Cave|496824": 1788569715,
@@ -999,6 +998,7 @@
     "Sinnoh|Empoleon|Lake Acuity|497384": 1790585122,
     "Johto|Luvdisc|Route 47|497385": 1790588723,
     "Unova|Porygon2|P2 Laboratory|497385": 1790589022,
-    "Hoenn|Swampert|Route 109|497385": 1790589317
+    "Hoenn|Swampert|Route 109|497385": 1790589317,
+    "Kanto|Volbeat|Memorial Pillar|497386": 1790590521
   }
 }
