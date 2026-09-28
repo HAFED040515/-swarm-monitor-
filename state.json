@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Croagunk|Route 121|496825": 1788571825,
     "Kanto|Nincada|Route 25|496825": 1788573429,
     "Hoenn|Mudkip|Route 104|496826": 1788576620,
     "Unova|Zangoose|Route 7|496826": 1788576620,
@@ -999,6 +998,7 @@
     "Kanto|Volbeat|Memorial Pillar|497386": 1790590521,
     "Johto|Shelgon|Dragon&#x27;s Den|497386": 1790591428,
     "Unova|Cottonee|Pinwheel Forest|497386": 1790591428,
-    "Sinnoh|Heracross|Route 206|497386": 1790592621
+    "Sinnoh|Heracross|Route 206|497386": 1790592621,
+    "Hoenn|Blaziken|Magma Hideout|497387": 1790596876
   }
 }
