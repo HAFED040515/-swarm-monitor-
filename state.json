@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Wailmer|Route 40|496819": 1788550226,
-    "Sinnoh|Kirlia|Snowpoint Temple|496819": 1788550226,
     "Unova|Pupitar|Twist Mountain|496819": 1788550289,
     "Hoenn|Sharpedo|Route 127|496820": 1788554029,
     "Johto|Sudowoodo|Ilex Forest|496820": 1788556520,
@@ -999,6 +997,8 @@
     "Sinnoh|Ambipom|Route 216|497380": 1790571632,
     "Unova|Farfetch&#x27;d|Route 1|497381": 1790575071,
     "Kanto|Charizard|Mt. Ember|497382": 1790576717,
-    "Johto|Shelgon|Dragon&#x27;s Den|497382": 1790577029
+    "Johto|Shelgon|Dragon&#x27;s Den|497382": 1790577029,
+    "Kanto|Qwilfish|Route 20|497384": 1790585122,
+    "Sinnoh|Empoleon|Lake Acuity|497384": 1790585122
   }
 }
