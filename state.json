@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Prinplup|Route 220|496832": 1788596421,
     "Unova|Minun|Route 6|496832": 1788597620,
     "Hoenn|Murkrow|Jagged Pass|496833": 1788602103,
     "Unova|Cherubi|Route 16|496833": 1788602103,
@@ -999,6 +998,7 @@
     "Hoenn|Shuckle|Seafloor Cavern|497393": 1790616917,
     "Kanto|Porygon|Pokemon Mansion|497393": 1790617821,
     "Sinnoh|Infernape|Route 221|497395": 1790623220,
-    "Unova|Aipom|Cold Storage|497395": 1790623220
+    "Unova|Aipom|Cold Storage|497395": 1790623220,
+    "Hoenn|Salamence|Sky Pillar|497395": 1790623519
   }
 }
