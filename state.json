@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Hippowdon|Mistralton Cave|496817": 1788543027,
     "Kanto|Charmeleon|Rock Tunnel|496817": 1788544834,
     "Sinnoh|Infernape|Route 221|496818": 1788545720,
     "Johto|Volcarona|Bell Tower|496818": 1788546022,
@@ -999,6 +998,7 @@
     "Hoenn|Magby|Mt. Chimney|497377": 1790558717,
     "Unova|Shroomish|Pinwheel Forest|497377": 1790560835,
     "Kanto|Plusle|Route 2|497379": 1790565622,
-    "Sinnoh|Tyranitar|Stark Mountain|497380": 1790568620
+    "Sinnoh|Tyranitar|Stark Mountain|497380": 1790568620,
+    "Kanto|Volbeat|Memorial Pillar|497380": 1790569864
   }
 }
