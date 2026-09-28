@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Murkrow|Jagged Pass|496833": 1788602103,
     "Unova|Cherubi|Route 16|496833": 1788602103,
     "Sinnoh|Pineco|Route 207|496834": 1788603322,
     "Kanto|Relicanth|Tanoby Ruins|496834": 1788603621,
@@ -999,6 +998,7 @@
     "Sinnoh|Infernape|Route 221|497395": 1790623220,
     "Unova|Aipom|Cold Storage|497395": 1790623220,
     "Hoenn|Salamence|Sky Pillar|497395": 1790623519,
-    "Johto|Skitty|Route 35|497395": 1790625072
+    "Johto|Skitty|Route 35|497395": 1790625072,
+    "Kanto|Aerodactyl|Tanoby Ruins|497396": 1790628952
   }
 }
