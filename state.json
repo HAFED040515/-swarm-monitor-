@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Infernape|Route 221|496818": 1788545720,
     "Johto|Volcarona|Bell Tower|496818": 1788546022,
     "Kanto|Porygon|Pokemon Mansion|496819": 1788549423,
     "Johto|Wailmer|Route 40|496819": 1788550226,
@@ -999,6 +998,7 @@
     "Kanto|Plusle|Route 2|497379": 1790565622,
     "Sinnoh|Tyranitar|Stark Mountain|497380": 1790568620,
     "Kanto|Volbeat|Memorial Pillar|497380": 1790569864,
-    "Sinnoh|Ambipom|Route 216|497380": 1790571632
+    "Sinnoh|Ambipom|Route 216|497380": 1790571632,
+    "Unova|Farfetch&#x27;d|Route 1|497381": 1790575071
   }
 }
