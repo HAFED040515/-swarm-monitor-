@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Farfetch&#x27;d|Route 209|496830": 1788588621,
     "Hoenn|Swampert|Route 109|496830": 1788588920,
     "Kanto|Porygon|Pokemon Mansion|496831": 1788593117,
     "Sinnoh|Miltank|Route 214|496831": 1788593117,
@@ -999,6 +998,7 @@
     "Kanto|Squirtle|Route 24|497390": 1790605830,
     "Sinnoh|Torterra|Route 212|497390": 1790605830,
     "Unova|Floatzel|Route 3|497390": 1790607640,
-    "Sinnoh|Skitty|Route 204|497391": 1790610919
+    "Sinnoh|Skitty|Route 204|497391": 1790610919,
+    "Hoenn|Zorua|Route 101|497392": 1790613319
   }
 }
