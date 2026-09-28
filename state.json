@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Remoraid|Route 108|496815": 1788534922,
     "Kanto|Jolteon|Ruin Valley|496816": 1788540916,
     "Johto|Feebas|Lake of Rage|496816": 1788541098,
     "Unova|Hippowdon|Mistralton Cave|496817": 1788543027,
@@ -999,6 +998,7 @@
     "Kanto|Salamence|Victory Road|497375": 1790550621,
     "Sinnoh|Gabite|Route 206|497376": 1790556020,
     "Johto|Nincada|Route 46|497376": 1790556620,
-    "Hoenn|Magby|Mt. Chimney|497377": 1790558717
+    "Hoenn|Magby|Mt. Chimney|497377": 1790558717,
+    "Unova|Shroomish|Pinwheel Forest|497377": 1790560835
   }
 }
