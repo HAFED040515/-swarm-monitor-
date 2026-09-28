@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Heracross|Route 10|496827": 1788579024,
-    "Johto|Espeon|Ruins of Alph|496827": 1788580398,
     "Kanto|Charmeleon|Rock Tunnel|496828": 1788582020,
     "Unova|Hippowdon|Mistralton Cave|496828": 1788582626,
     "Sinnoh|Farfetch&#x27;d|Route 209|496830": 1788588621,
@@ -999,6 +997,8 @@
     "Johto|Misdreavus|Sprout Tower|497389": 1790602231,
     "Sinnoh|Kangaskhan|Wayward Cave|497389": 1790602231,
     "Hoenn|Gulpin|Route 110|497389": 1790603424,
-    "Unova|Illumise|Moor of Icirrus|497390": 1790605222
+    "Unova|Illumise|Moor of Icirrus|497390": 1790605222,
+    "Kanto|Squirtle|Route 24|497390": 1790605830,
+    "Sinnoh|Torterra|Route 212|497390": 1790605830
   }
 }
