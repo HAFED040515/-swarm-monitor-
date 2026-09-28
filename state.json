@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Charmeleon|Rock Tunnel|496828": 1788582020,
     "Unova|Hippowdon|Mistralton Cave|496828": 1788582626,
     "Sinnoh|Farfetch&#x27;d|Route 209|496830": 1788588621,
     "Hoenn|Swampert|Route 109|496830": 1788588920,
@@ -999,6 +998,7 @@
     "Hoenn|Gulpin|Route 110|497389": 1790603424,
     "Unova|Illumise|Moor of Icirrus|497390": 1790605222,
     "Kanto|Squirtle|Route 24|497390": 1790605830,
-    "Sinnoh|Torterra|Route 212|497390": 1790605830
+    "Sinnoh|Torterra|Route 212|497390": 1790605830,
+    "Unova|Floatzel|Route 3|497390": 1790607640
   }
 }
