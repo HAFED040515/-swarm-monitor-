@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Nidoqueen|Route 26|496850": 1788662115,
     "Hoenn|Swampert|Route 109|496851": 1788664220,
     "Sinnoh|Spiritomb|Turnback Cave|496851": 1788666021,
     "Kanto|Spiritomb|Lost Cave|496851": 1788666915,
@@ -999,6 +998,7 @@
     "Kanto|Salamence|Victory Road|497412": 1790684120,
     "Sinnoh|Scyther|Route 210|497412": 1790684717,
     "Unova|Shroomish|Pinwheel Forest|497412": 1790685027,
-    "Johto|Chikorita|Route 31|497413": 1790689525
+    "Johto|Chikorita|Route 31|497413": 1790689525,
+    "Unova|Cacnea|Route 4|497414": 1790692231
   }
 }
