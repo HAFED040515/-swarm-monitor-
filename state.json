@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Spiritomb|Turnback Cave|496851": 1788666021,
     "Kanto|Spiritomb|Lost Cave|496851": 1788666915,
     "Unova|Plusle|Route 5|496851": 1788667233,
     "Kanto|Misdreavus|Pokemon Tower|496852": 1788671116,
@@ -999,6 +998,7 @@
     "Unova|Shroomish|Pinwheel Forest|497412": 1790685027,
     "Johto|Chikorita|Route 31|497413": 1790689525,
     "Unova|Cacnea|Route 4|497414": 1790692231,
-    "Hoenn|Hippowdon|Victory Road|497414": 1790692519
+    "Hoenn|Hippowdon|Victory Road|497414": 1790692519,
+    "Kanto|Volbeat|Memorial Pillar|497414": 1790692822
   }
 }
