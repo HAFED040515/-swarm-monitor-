@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Qwilfish|Route 125|496863": 1788707420,
-    "Unova|Heracross|Route 10|496863": 1788707721,
     "Kanto|Munna|Route 4|496863": 1788710437,
     "Sinnoh|Cherrim|Lake Verity|496864": 1788711022,
     "Hoenn|Skitty|Route 116|496864": 1788711625,
@@ -999,6 +997,8 @@
     "Hoenn|Munna|Route 102|497420": 1790715023,
     "Kanto|Milotic|Resort Gorgeous|497421": 1790715638,
     "Sinnoh|Blissey|Route 210|497420": 1790715920,
-    "Kanto|Charmander|Route 3|497422": 1790719821
+    "Kanto|Charmander|Route 3|497422": 1790719821,
+    "Hoenn|Combusken|Route 114|497422": 1790720420,
+    "Unova|Cacnea|Route 4|497422": 1790720420
   }
 }
