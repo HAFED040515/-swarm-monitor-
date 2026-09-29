@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Lapras|Shoal Cave|496839": 1788621319,
-    "Kanto|Starmie|Seven Island|496839": 1788621592,
     "Sinnoh|Shroomish|Route 201|496841": 1788628520,
     "Unova|Lucario|Guidance Chamber|496841": 1788629116,
     "Johto|Croconaw|Whirl Islands|496841": 1788629716,
@@ -999,6 +997,8 @@
     "Johto|Metang|Ice Path|497403": 1790652918,
     "Hoenn|Magneton|New Mauville|497403": 1790653222,
     "Unova|Zangoose|Route 7|497406": 1790662219,
-    "Johto|Meganium|Route 48|497406": 1790663429
+    "Johto|Meganium|Route 48|497406": 1790663429,
+    "Hoenn|Luvdisc|Route 132|497406": 1790665237,
+    "Unova|Seviper|Route 1|497406": 1790665237
   }
 }
