@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Fearow|Route 16|496844": 1788640228,
     "Sinnoh|Pineco|Route 207|496844": 1788640425,
     "Unova|Cherubi|Route 16|496844": 1788642034,
     "Johto|Quilava|Route 42|496845": 1788642621,
@@ -999,6 +998,7 @@
     "Kanto|Munna|Route 4|497407": 1790665517,
     "Sinnoh|Yanma|Route 205|497407": 1790665821,
     "Hoenn|Zorua|Route 101|497408": 1790670627,
-    "Kanto|Tyranitar|Canyon Entrance|497408": 1790670917
+    "Kanto|Tyranitar|Canyon Entrance|497408": 1790670917,
+    "Johto|Ditto|Route 34|497408": 1790671520
   }
 }
