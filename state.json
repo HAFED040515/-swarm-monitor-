@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Whiscash|Ravaged Path|496853": 1788672650,
     "Unova|Honchkrow|Celestial Tower|496854": 1788676263,
     "Kanto|Croagunk|Route 6|496854": 1788677696,
     "Johto|Politoed|Route 31|496855": 1788679518,
@@ -999,6 +998,7 @@
     "Johto|Chikorita|Route 31|497415": 1790694623,
     "Kanto|Blissey|Three Island|497415": 1790696723,
     "Kanto|Parasect|Mt. Moon|497415": 1790697022,
-    "Sinnoh|Cloyster|Route 223|497415": 1790697639
+    "Sinnoh|Cloyster|Route 223|497415": 1790697639,
+    "Hoenn|Cacnea|Route 111|497416": 1790700626
   }
 }
