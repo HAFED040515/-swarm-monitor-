@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Cherrim|Lake Verity|496864": 1788711022,
     "Hoenn|Skitty|Route 116|496864": 1788711625,
     "Kanto|Tropius|Bond Bridge|496865": 1788715586,
     "Unova|Zorua|Lostlorn Forest|496865": 1788715586,
@@ -999,6 +998,7 @@
     "Kanto|Charmander|Route 3|497422": 1790719821,
     "Hoenn|Combusken|Route 114|497422": 1790720420,
     "Unova|Cacnea|Route 4|497422": 1790720420,
-    "Johto|Metang|Ice Path|497422": 1790721318
+    "Johto|Metang|Ice Path|497422": 1790721318,
+    "Kanto|Ivysaur|Route 5|497423": 1790723721
   }
 }
