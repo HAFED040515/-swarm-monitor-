@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Croconaw|Whirl Islands|496841": 1788629716,
     "Hoenn|Skitty|Route 116|496842": 1788634220,
     "Kanto|Fearow|Route 16|496844": 1788640228,
     "Sinnoh|Pineco|Route 207|496844": 1788640425,
@@ -999,6 +998,7 @@
     "Hoenn|Luvdisc|Route 132|497406": 1790665237,
     "Unova|Seviper|Route 1|497406": 1790665237,
     "Kanto|Munna|Route 4|497407": 1790665517,
-    "Sinnoh|Yanma|Route 205|497407": 1790665821
+    "Sinnoh|Yanma|Route 205|497407": 1790665821,
+    "Hoenn|Zorua|Route 101|497408": 1790670627
   }
 }
