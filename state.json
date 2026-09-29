@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Lucario|Guidance Chamber|496841": 1788629116,
     "Johto|Croconaw|Whirl Islands|496841": 1788629716,
     "Hoenn|Skitty|Route 116|496842": 1788634220,
     "Kanto|Fearow|Route 16|496844": 1788640228,
@@ -999,6 +998,7 @@
     "Johto|Meganium|Route 48|497406": 1790663429,
     "Hoenn|Luvdisc|Route 132|497406": 1790665237,
     "Unova|Seviper|Route 1|497406": 1790665237,
-    "Kanto|Munna|Route 4|497407": 1790665517
+    "Kanto|Munna|Route 4|497407": 1790665517,
+    "Sinnoh|Yanma|Route 205|497407": 1790665821
   }
 }
