@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Pineco|Route 207|496860": 1788698720,
     "Kanto|Tauros|Route 17|496861": 1788700522,
     "Johto|Ledian|Route 37|496862": 1788705316,
     "Hoenn|Qwilfish|Route 125|496863": 1788707420,
@@ -999,6 +998,7 @@
     "Sinnoh|Tauros|Valor Lakefront|497420": 1790712319,
     "Unova|Seviper|Route 1|497420": 1790712319,
     "Johto|Feraligatr|Tohjo Falls|497420": 1790714721,
-    "Hoenn|Munna|Route 102|497420": 1790715023
+    "Hoenn|Munna|Route 102|497420": 1790715023,
+    "Kanto|Milotic|Resort Gorgeous|497421": 1790715638
   }
 }
