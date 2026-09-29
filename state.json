@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Metagross|Meteor Falls|496836": 1788611941,
     "Unova|Furret|Abundant Shrine|496836": 1788612918,
     "Kanto|Plusle|Route 2|496837": 1788614715,
     "Sinnoh|Chatot|Route 218|496837": 1788616431,
@@ -999,6 +998,7 @@
     "Kanto|Wartortle|Seafoam Islands|497400": 1790642721,
     "Sinnoh|Prinplup|Route 220|497400": 1790642721,
     "Johto|Luvdisc|Route 47|497400": 1790643316,
-    "Sinnoh|Combee|Floaroma Meadow|497401": 1790646621
+    "Sinnoh|Combee|Floaroma Meadow|497401": 1790646621,
+    "Unova|Porygon2|P2 Laboratory|497402": 1790649029
   }
 }
