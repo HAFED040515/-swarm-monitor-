@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Plusle|Route 2|496837": 1788614715,
     "Sinnoh|Chatot|Route 218|496837": 1788616431,
     "Unova|Cherubi|Route 16|496838": 1788617115,
     "Hoenn|Lapras|Shoal Cave|496839": 1788621319,
@@ -999,6 +998,7 @@
     "Johto|Luvdisc|Route 47|497400": 1790643316,
     "Sinnoh|Combee|Floaroma Meadow|497401": 1790646621,
     "Unova|Porygon2|P2 Laboratory|497402": 1790649029,
-    "Johto|Metang|Ice Path|497403": 1790652918
+    "Johto|Metang|Ice Path|497403": 1790652918,
+    "Hoenn|Magneton|New Mauville|497403": 1790653222
   }
 }
