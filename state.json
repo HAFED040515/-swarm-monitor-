@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Snorlax|Victory Road|496836": 1788610821,
     "Johto|Electivire|Route 27|496836": 1788611941,
     "Hoenn|Metagross|Meteor Falls|496836": 1788611941,
     "Unova|Furret|Abundant Shrine|496836": 1788612918,
@@ -999,6 +998,7 @@
     "Johto|Kirlia|Route 43|497399": 1790637020,
     "Hoenn|Rotom|New Mauville|497400": 1790642119,
     "Kanto|Wartortle|Seafoam Islands|497400": 1790642721,
-    "Sinnoh|Prinplup|Route 220|497400": 1790642721
+    "Sinnoh|Prinplup|Route 220|497400": 1790642721,
+    "Johto|Luvdisc|Route 47|497400": 1790643316
   }
 }
