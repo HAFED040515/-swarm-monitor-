@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Ledian|Route 37|496862": 1788705316,
     "Hoenn|Qwilfish|Route 125|496863": 1788707420,
     "Unova|Heracross|Route 10|496863": 1788707721,
     "Kanto|Munna|Route 4|496863": 1788710437,
@@ -999,6 +998,7 @@
     "Johto|Feraligatr|Tohjo Falls|497420": 1790714721,
     "Hoenn|Munna|Route 102|497420": 1790715023,
     "Kanto|Milotic|Resort Gorgeous|497421": 1790715638,
-    "Sinnoh|Blissey|Route 210|497420": 1790715920
+    "Sinnoh|Blissey|Route 210|497420": 1790715920,
+    "Kanto|Charmander|Route 3|497422": 1790719821
   }
 }
