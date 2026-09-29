@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Croagunk|Route 6|496854": 1788677696,
-    "Johto|Politoed|Route 31|496855": 1788679518,
     "Hoenn|Shuckle|Seafloor Cavern|496857": 1788685518,
     "Kanto|Minun|Route 22|496858": 1788690316,
     "Unova|Volbeat|Route 8|496858": 1788690316,
@@ -999,6 +997,8 @@
     "Kanto|Parasect|Mt. Moon|497415": 1790697022,
     "Sinnoh|Cloyster|Route 223|497415": 1790697639,
     "Hoenn|Cacnea|Route 111|497416": 1790700626,
-    "Unova|Yanma|Pinwheel Forest|497416": 1790700917
+    "Unova|Yanma|Pinwheel Forest|497416": 1790700917,
+    "Johto|Sharpedo|Route 41|497417": 1790703921,
+    "Sinnoh|Cloyster|Route 223|497417": 1790703921
   }
 }
