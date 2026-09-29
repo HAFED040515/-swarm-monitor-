@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Munna|Route 4|496863": 1788710437,
     "Sinnoh|Cherrim|Lake Verity|496864": 1788711022,
     "Hoenn|Skitty|Route 116|496864": 1788711625,
     "Kanto|Tropius|Bond Bridge|496865": 1788715586,
@@ -999,6 +998,7 @@
     "Sinnoh|Blissey|Route 210|497420": 1790715920,
     "Kanto|Charmander|Route 3|497422": 1790719821,
     "Hoenn|Combusken|Route 114|497422": 1790720420,
-    "Unova|Cacnea|Route 4|497422": 1790720420
+    "Unova|Cacnea|Route 4|497422": 1790720420,
+    "Johto|Metang|Ice Path|497422": 1790721318
   }
 }
