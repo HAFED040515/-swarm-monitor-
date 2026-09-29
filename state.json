@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Spiritomb|Lost Cave|496851": 1788666915,
     "Unova|Plusle|Route 5|496851": 1788667233,
     "Kanto|Misdreavus|Pokemon Tower|496852": 1788671116,
     "Hoenn|Chimecho|Mt. Pyre|496853": 1788672650,
@@ -999,6 +998,7 @@
     "Johto|Chikorita|Route 31|497413": 1790689525,
     "Unova|Cacnea|Route 4|497414": 1790692231,
     "Hoenn|Hippowdon|Victory Road|497414": 1790692519,
-    "Kanto|Volbeat|Memorial Pillar|497414": 1790692822
+    "Kanto|Volbeat|Memorial Pillar|497414": 1790692822,
+    "Johto|Chikorita|Route 31|497415": 1790694623
   }
 }
