@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Lucario|Guidance Chamber|496849": 1788657732,
     "Kanto|Drifloon|Route 10|496849": 1788658551,
     "Johto|Kangaskhan|Dark Cave|496849": 1788658820,
     "Johto|Nidoqueen|Route 26|496850": 1788662115,
@@ -999,6 +998,7 @@
     "Hoenn|Torchic|Route 112|497410": 1790677516,
     "Kanto|Kabutops|Tanoby Ruins|497410": 1790677829,
     "Hoenn|Chatot|Route 115|497411": 1790682918,
-    "Kanto|Salamence|Victory Road|497412": 1790684120
+    "Kanto|Salamence|Victory Road|497412": 1790684120,
+    "Sinnoh|Scyther|Route 210|497412": 1790684717
   }
 }
