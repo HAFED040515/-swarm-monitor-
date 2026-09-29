@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Pineco|Route 36|496846": 1788648571,
     "Sinnoh|Tyranitar|Stark Mountain|496848": 1788653420,
     "Hoenn|Zorua|Route 101|496849": 1788656717,
     "Unova|Lucario|Guidance Chamber|496849": 1788657732,
@@ -999,6 +998,7 @@
     "Hoenn|Togekiss|Sky Pillar|497409": 1790673322,
     "Unova|Ninjask|Route 11|497409": 1790676037,
     "Sinnoh|Chimchar|Route 211|497410": 1790676923,
-    "Hoenn|Torchic|Route 112|497410": 1790677516
+    "Hoenn|Torchic|Route 112|497410": 1790677516,
+    "Kanto|Kabutops|Tanoby Ruins|497410": 1790677829
   }
 }
