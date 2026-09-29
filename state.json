@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cherubi|Route 16|496844": 1788642034,
     "Johto|Quilava|Route 42|496845": 1788642621,
     "Unova|Skorupi|Desert Resort|496845": 1788645550,
     "Johto|Pineco|Route 36|496846": 1788648571,
@@ -999,6 +998,7 @@
     "Hoenn|Zorua|Route 101|497408": 1790670627,
     "Kanto|Tyranitar|Canyon Entrance|497408": 1790670917,
     "Johto|Ditto|Route 34|497408": 1790671520,
-    "Hoenn|Togekiss|Sky Pillar|497409": 1790673322
+    "Hoenn|Togekiss|Sky Pillar|497409": 1790673322,
+    "Unova|Ninjask|Route 11|497409": 1790676037
   }
 }
