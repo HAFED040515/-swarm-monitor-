@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Volbeat|Route 8|496858": 1788690316,
-    "Johto|Barboach|Slowpoke Well|496859": 1788693453,
     "Unova|Lumineon|Route 17|496859": 1788695122,
     "Hoenn|Skarmory|Route 113|496860": 1788697220,
     "Sinnoh|Pineco|Route 207|496860": 1788698720,
@@ -999,6 +997,8 @@
     "Johto|Sharpedo|Route 41|497417": 1790703921,
     "Sinnoh|Cloyster|Route 223|497417": 1790703921,
     "Hoenn|Magby|Mt. Chimney|497417": 1790704220,
-    "Johto|Shroomish|Route 34|497418": 1790708438
+    "Johto|Shroomish|Route 34|497418": 1790708438,
+    "Sinnoh|Tauros|Valor Lakefront|497420": 1790712319,
+    "Unova|Seviper|Route 1|497420": 1790712319
   }
 }
