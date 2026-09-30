@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Nincada|Route 46|496874": 1788746715,
     "Hoenn|Corsola|Route 126|496873": 1788747020,
     "Johto|Snorlax|Victory Road|496875": 1788752721,
     "Kanto|Charizard|Mt. Ember|496876": 1788754703,
@@ -999,6 +998,7 @@
     "Sinnoh|Chatot|Route 218|497433": 1790759118,
     "Johto|Shroomish|Route 34|497433": 1790760020,
     "Unova|Minccino|Route 5|497433": 1790760917,
-    "Kanto|Misdreavus|Pokemon Tower|497435": 1790766921
+    "Kanto|Misdreavus|Pokemon Tower|497435": 1790766921,
+    "Unova|Porygon2|P2 Laboratory|497436": 1790769636
   }
 }
