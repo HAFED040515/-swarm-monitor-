@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Scyther|Route 210|496867": 1788722104,
     "Kanto|Omastar|Tanoby Ruins|496867": 1788723316,
     "Kanto|Yanmega|Water Path|496868": 1788726021,
     "Johto|Zorua|Route 37|496868": 1788726098,
@@ -999,6 +998,7 @@
     "Hoenn|Mismagius|Route 122|497424": 1790726718,
     "Johto|Snorlax|Victory Road|497424": 1790728227,
     "Kanto|Bulbasaur|Viridian Forest|497424": 1790728821,
-    "Sinnoh|Hippopotas|Maniac Tunnel|497424": 1790730034
+    "Sinnoh|Hippopotas|Maniac Tunnel|497424": 1790730034,
+    "Unova|Munna|Dreamyard|497425": 1790731221
   }
 }
