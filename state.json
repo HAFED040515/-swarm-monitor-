@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Charizard|Mt. Ember|496876": 1788754703,
     "Unova|Electabuzz|Chargestone Cave|496877": 1788758116,
     "Sinnoh|Prinplup|Route 220|496877": 1788758420,
     "Johto|Nincada|Route 46|496878": 1788762021,
@@ -999,6 +998,7 @@
     "Kanto|Misdreavus|Pokemon Tower|497435": 1790766921,
     "Unova|Porygon2|P2 Laboratory|497436": 1790769636,
     "Hoenn|Grovyle|Route 118|497436": 1790771427,
-    "Johto|Chimecho|Bellchime Trail|497437": 1790774421
+    "Johto|Chimecho|Bellchime Trail|497437": 1790774421,
+    "Kanto|Spiritomb|Lost Cave|497437": 1790774719
   }
 }
