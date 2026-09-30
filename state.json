@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Grotle|Sendoff Spring|496870": 1788733898,
     "Johto|Croconaw|Whirl Islands|496871": 1788737350,
     "Kanto|Tropius|Bond Bridge|496871": 1788738621,
     "Hoenn|Murkrow|Jagged Pass|496871": 1788738621,
@@ -999,6 +998,7 @@
     "Johto|Victreebel|Route 36|497426": 1790735117,
     "Unova|Skorupi|Desert Resort|497428": 1790741116,
     "Kanto|Wartortle|Seafoam Islands|497429": 1790745322,
-    "Hoenn|Luvdisc|Route 132|497429": 1790745322
+    "Hoenn|Luvdisc|Route 132|497429": 1790745322,
+    "Unova|Zorua|Lostlorn Forest|497431": 1790751924
   }
 }
