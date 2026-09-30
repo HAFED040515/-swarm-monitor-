@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Tropius|Bond Bridge|496865": 1788715586,
     "Unova|Zorua|Lostlorn Forest|496865": 1788715586,
     "Johto|Luvdisc|Route 47|496866": 1788720320,
     "Hoenn|Combee|Route 117|496866": 1788720531,
@@ -999,6 +998,7 @@
     "Unova|Cacnea|Route 4|497422": 1790720420,
     "Johto|Metang|Ice Path|497422": 1790721318,
     "Kanto|Ivysaur|Route 5|497423": 1790723721,
-    "Sinnoh|Turtwig|Route 203|497423": 1790726437
+    "Sinnoh|Turtwig|Route 203|497423": 1790726437,
+    "Hoenn|Mismagius|Route 122|497424": 1790726718
   }
 }
