@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Nincada|Route 46|496884": 1788782961,
     "Hoenn|Flygon|Desert Underpass|496884": 1788783022,
     "Unova|Plusle|Route 5|496884": 1788783620,
     "Kanto|Sentret|Route 1|496884": 1788784155,
@@ -999,6 +998,7 @@
     "Johto|Absol|Route 28|497441": 1790791235,
     "Kanto|Bulbasaur|Viridian Forest|497442": 1790794516,
     "Hoenn|Mudkip|Route 104|497442": 1790794516,
-    "Kanto|Trapinch|Diglett&#x27;s Cave|497444": 1790800230
+    "Kanto|Trapinch|Diglett&#x27;s Cave|497444": 1790800230,
+    "Johto|Lucario|Mt. Silver Cave|497444": 1790801719
   }
 }
