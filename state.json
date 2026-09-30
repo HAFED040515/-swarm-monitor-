@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Torchic|Route 112|496881": 1788773427,
     "Johto|Absol|Route 28|496881": 1788774915,
     "Unova|Togetic|Dreamyard|496881": 1788775235,
     "Hoenn|Treecko|Petalburg Woods|496883": 1788779420,
@@ -999,6 +998,7 @@
     "Johto|Zorua|Route 37|497440": 1790787011,
     "Kanto|Tauros|Route 17|497441": 1790787638,
     "Hoenn|Blissey|Artisan Cave|497441": 1790789117,
-    "Sinnoh|Lucario|Iron Island|497441": 1790790322
+    "Sinnoh|Lucario|Iron Island|497441": 1790790322,
+    "Unova|Skorupi|Desert Resort|497441": 1790790622
   }
 }
