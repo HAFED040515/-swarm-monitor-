@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Prinplup|Route 220|496877": 1788758420,
     "Johto|Nincada|Route 46|496878": 1788762021,
     "Hoenn|Flygon|Desert Underpass|496878": 1788762021,
     "Unova|Porygon2|P2 Laboratory|496878": 1788763521,
@@ -999,6 +998,7 @@
     "Hoenn|Grovyle|Route 118|497436": 1790771427,
     "Johto|Chimecho|Bellchime Trail|497437": 1790774421,
     "Kanto|Spiritomb|Lost Cave|497437": 1790774719,
-    "Hoenn|Banette|Mt. Pyre|497437": 1790776519
+    "Hoenn|Banette|Mt. Pyre|497437": 1790776519,
+    "Unova|Kangaskhan|Wellspring Cave|497438": 1790777420
   }
 }
