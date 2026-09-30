@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Togetic|Dreamyard|496881": 1788775235,
-    "Hoenn|Treecko|Petalburg Woods|496883": 1788779420,
     "Sinnoh|Scyther|Route 210|496883": 1788781160,
     "Johto|Nincada|Route 46|496884": 1788782961,
     "Hoenn|Flygon|Desert Underpass|496884": 1788783022,
@@ -999,6 +997,8 @@
     "Hoenn|Blissey|Artisan Cave|497441": 1790789117,
     "Sinnoh|Lucario|Iron Island|497441": 1790790322,
     "Unova|Skorupi|Desert Resort|497441": 1790790622,
-    "Johto|Absol|Route 28|497441": 1790791235
+    "Johto|Absol|Route 28|497441": 1790791235,
+    "Kanto|Bulbasaur|Viridian Forest|497442": 1790794516,
+    "Hoenn|Mudkip|Route 104|497442": 1790794516
   }
 }
