@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Murkrow|Jagged Pass|496871": 1788738621,
     "Johto|Shelgon|Dragon&#x27;s Den|496872": 1788741621,
     "Unova|Yanma|Pinwheel Forest|496872": 1788741919,
     "Kanto|Tauros|Route 17|496873": 1788744317,
@@ -999,6 +998,7 @@
     "Hoenn|Luvdisc|Route 132|497429": 1790745322,
     "Unova|Zorua|Lostlorn Forest|497431": 1790751924,
     "Sinnoh|Turtwig|Route 203|497431": 1790752221,
-    "Kanto|Qwilfish|Route 20|497431": 1790753716
+    "Kanto|Qwilfish|Route 20|497431": 1790753716,
+    "Johto|Zorua|Route 37|497432": 1790757030
   }
 }
