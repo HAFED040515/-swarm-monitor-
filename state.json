@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Yanma|Route 205|496879": 1788766903,
     "Johto|Shelgon|Dragon&#x27;s Den|496879": 1788767121,
     "Hoenn|Torchic|Route 112|496881": 1788773427,
     "Johto|Absol|Route 28|496881": 1788774915,
@@ -999,6 +998,7 @@
     "Sinnoh|Bonsly|Eterna Forest|497438": 1790780118,
     "Sinnoh|Kecleon|Route 229|497440": 1790785519,
     "Johto|Zorua|Route 37|497440": 1790787011,
-    "Kanto|Tauros|Route 17|497441": 1790787638
+    "Kanto|Tauros|Route 17|497441": 1790787638,
+    "Hoenn|Blissey|Artisan Cave|497441": 1790789117
   }
 }
