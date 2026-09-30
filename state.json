@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Yanma|Pinwheel Forest|496872": 1788741919,
     "Kanto|Tauros|Route 17|496873": 1788744317,
     "Unova|Farfetch&#x27;d|Route 1|496873": 1788744916,
     "Sinnoh|Miltank|Route 214|496873": 1788745487,
@@ -999,6 +998,7 @@
     "Sinnoh|Turtwig|Route 203|497431": 1790752221,
     "Kanto|Qwilfish|Route 20|497431": 1790753716,
     "Johto|Zorua|Route 37|497432": 1790757030,
-    "Hoenn|Skitty|Route 116|497432": 1790757920
+    "Hoenn|Skitty|Route 116|497432": 1790757920,
+    "Sinnoh|Chatot|Route 218|497433": 1790759118
   }
 }
