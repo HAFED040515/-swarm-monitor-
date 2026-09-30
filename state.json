@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Farfetch&#x27;d|Route 1|496873": 1788744916,
     "Sinnoh|Miltank|Route 214|496873": 1788745487,
     "Johto|Nincada|Route 46|496874": 1788746715,
     "Hoenn|Corsola|Route 126|496873": 1788747020,
@@ -999,6 +998,7 @@
     "Johto|Zorua|Route 37|497432": 1790757030,
     "Hoenn|Skitty|Route 116|497432": 1790757920,
     "Sinnoh|Chatot|Route 218|497433": 1790759118,
-    "Johto|Shroomish|Route 34|497433": 1790760020
+    "Johto|Shroomish|Route 34|497433": 1790760020,
+    "Unova|Minccino|Route 5|497433": 1790760917
   }
 }
