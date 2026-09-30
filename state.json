@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Flygon|Desert Underpass|496878": 1788762021,
     "Unova|Porygon2|P2 Laboratory|496878": 1788763521,
     "Kanto|Venomoth|Route 10|496879": 1788766820,
     "Sinnoh|Yanma|Route 205|496879": 1788766903,
@@ -999,6 +998,7 @@
     "Kanto|Spiritomb|Lost Cave|497437": 1790774719,
     "Hoenn|Banette|Mt. Pyre|497437": 1790776519,
     "Unova|Kangaskhan|Wellspring Cave|497438": 1790777420,
-    "Sinnoh|Bonsly|Eterna Forest|497438": 1790780118
+    "Sinnoh|Bonsly|Eterna Forest|497438": 1790780118,
+    "Sinnoh|Kecleon|Route 229|497440": 1790785519
   }
 }
