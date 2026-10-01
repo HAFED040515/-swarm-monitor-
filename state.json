@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Zorua|Lostlorn Forest|496896": 1788827534,
     "Hoenn|Mightyena|Route 104|496896": 1788828021,
     "Kanto|Plusle|Route 2|496898": 1788834003,
     "Johto|Skarmory|Route 26|496898": 1788835498,
@@ -999,6 +998,7 @@
     "Johto|Shroomish|Route 34|497458": 1790849117,
     "Unova|Slakoth|Route 2|497458": 1790850024,
     "Unova|Minun|Route 6|497458": 1790851221,
-    "Kanto|Chatot|Treasure Beach|497458": 1790852437
+    "Kanto|Chatot|Treasure Beach|497458": 1790852437,
+    "Sinnoh|Tropius|Route 226|497460": 1790856317
   }
 }
