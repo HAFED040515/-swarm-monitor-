@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Tauros|Route 38|496903": 1788851422,
     "Hoenn|Magby|Mt. Chimney|496903": 1788851422,
     "Kanto|Kirlia|Route 8|496903": 1788852021,
     "Hoenn|Feebas|Route 130|496904": 1788855622,
@@ -999,6 +998,7 @@
     "Johto|Typhlosion|Route 45|497463": 1790868629,
     "Sinnoh|Turtwig|Route 203|497463": 1790869822,
     "Kanto|Trapinch|Diglett&#x27;s Cave|497464": 1790871321,
-    "Hoenn|Mudkip|Route 104|497464": 1790872245
+    "Hoenn|Mudkip|Route 104|497464": 1790872245,
+    "Unova|Togetic|Dreamyard|497464": 1790872823
   }
 }
