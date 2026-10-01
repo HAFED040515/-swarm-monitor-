@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Pinsir|Route 11|496888": 1788799521,
     "Johto|Quilava|Route 42|496888": 1788800657,
     "Unova|Houndoom|Route 15|496889": 1788801622,
     "Unova|Scizor|Route 14|496889": 1788804246,
@@ -999,6 +998,7 @@
     "Johto|Feraligatr|Tohjo Falls|497448": 1790815219,
     "Hoenn|Shuckle|Seafloor Cavern|497448": 1790815219,
     "Sinnoh|Infernape|Route 221|497448": 1790815519,
-    "Sinnoh|Roserade|Route 230|497449": 1790818820
+    "Sinnoh|Roserade|Route 230|497449": 1790818820,
+    "Hoenn|Torchic|Route 112|497449": 1790820034
   }
 }
