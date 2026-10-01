@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Drifloon|Route 105|496905": 1788860425,
     "Kanto|Bulbasaur|Viridian Forest|496905": 1788861021,
     "Johto|Chikorita|Route 31|496905": 1788861200,
     "Unova|Lucario|Guidance Chamber|496905": 1788861614,
@@ -999,6 +998,7 @@
     "Johto|Lucario|Mt. Silver Cave|497466": 1790880020,
     "Hoenn|Skitty|Route 116|497466": 1790880320,
     "Kanto|Charmeleon|Rock Tunnel|497467": 1790881820,
-    "Unova|Furret|Abundant Shrine|497467": 1790881820
+    "Unova|Furret|Abundant Shrine|497467": 1790881820,
+    "Sinnoh|Turtwig|Route 203|497467": 1790882123
   }
 }
