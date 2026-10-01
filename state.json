@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Murkrow|Jagged Pass|496888": 1788797118,
     "Unova|Hippowdon|Mistralton Cave|496888": 1788797118,
     "Kanto|Pinsir|Route 11|496888": 1788799521,
     "Johto|Quilava|Route 42|496888": 1788800657,
@@ -999,6 +998,7 @@
     "Hoenn|Blaziken|Magma Hideout|497447": 1790811316,
     "Unova|Metagross|Giant Chasm|497448": 1790814315,
     "Johto|Feraligatr|Tohjo Falls|497448": 1790815219,
-    "Hoenn|Shuckle|Seafloor Cavern|497448": 1790815219
+    "Hoenn|Shuckle|Seafloor Cavern|497448": 1790815219,
+    "Sinnoh|Infernape|Route 221|497448": 1790815519
   }
 }
