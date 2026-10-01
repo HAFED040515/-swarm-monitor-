@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Plusle|Route 2|496898": 1788834003,
     "Johto|Skarmory|Route 26|496898": 1788835498,
     "Hoenn|Rotom|New Mauville|496899": 1788838516,
     "Sinnoh|Bonsly|Eterna Forest|496899": 1788839119,
@@ -999,6 +998,7 @@
     "Unova|Minun|Route 6|497458": 1790851221,
     "Kanto|Chatot|Treasure Beach|497458": 1790852437,
     "Sinnoh|Tropius|Route 226|497460": 1790856317,
-    "Johto|Porygon-Z|Team Rocket HQ|497460": 1790856620
+    "Johto|Porygon-Z|Team Rocket HQ|497460": 1790856620,
+    "Unova|Rapidash|Route 12|497460": 1790858118
   }
 }
