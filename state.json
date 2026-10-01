@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Minccino|Route 5|496893": 1788818353,
     "Sinnoh|Cloyster|Route 223|496895": 1788823515,
     "Hoenn|Dragonite|Route 131|496895": 1788824113,
     "Kanto|Swalot|Route 18|496895": 1788825317,
@@ -999,6 +998,7 @@
     "Johto|Hitmontop|Mt. Mortar|497454": 1790836226,
     "Unova|Seviper|Route 1|497454": 1790836821,
     "Unova|Togetic|Dreamyard|497456": 1790842822,
-    "Hoenn|Corsola|Route 128|497456": 1790843427
+    "Hoenn|Corsola|Route 128|497456": 1790843427,
+    "Kanto|Jolteon|Ruin Valley|497456": 1790844916
   }
 }
