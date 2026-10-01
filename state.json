@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Elekid|Valley Windworks|496893": 1788816936,
     "Unova|Volcarona|Relic Castle|496893": 1788818117,
     "Unova|Minccino|Route 5|496893": 1788818353,
     "Sinnoh|Cloyster|Route 223|496895": 1788823515,
@@ -999,6 +998,7 @@
     "Kanto|Blastoise|Cape Brink|497453": 1790831116,
     "Hoenn|Flygon|Desert Underpass|497453": 1790831419,
     "Johto|Hitmontop|Mt. Mortar|497454": 1790836226,
-    "Unova|Seviper|Route 1|497454": 1790836821
+    "Unova|Seviper|Route 1|497454": 1790836821,
+    "Unova|Togetic|Dreamyard|497456": 1790842822
   }
 }
