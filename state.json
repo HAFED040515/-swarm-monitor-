@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Dragonite|Route 131|496895": 1788824113,
     "Kanto|Swalot|Route 18|496895": 1788825317,
     "Sinnoh|Trapinch|Oreburgh Mine|496896": 1788827534,
     "Unova|Zorua|Lostlorn Forest|496896": 1788827534,
@@ -999,6 +998,7 @@
     "Unova|Togetic|Dreamyard|497456": 1790842822,
     "Hoenn|Corsola|Route 128|497456": 1790843427,
     "Kanto|Jolteon|Ruin Valley|497456": 1790844916,
-    "Johto|Shroomish|Route 34|497458": 1790849117
+    "Johto|Shroomish|Route 34|497458": 1790849117,
+    "Unova|Slakoth|Route 2|497458": 1790850024
   }
 }
