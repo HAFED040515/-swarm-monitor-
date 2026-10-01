@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Rotom|New Mauville|496899": 1788838516,
     "Sinnoh|Bonsly|Eterna Forest|496899": 1788839119,
     "Kanto|Seviper|Route 15|496900": 1788843368,
     "Johto|Shroomish|Route 34|496901": 1788844820,
@@ -999,6 +998,7 @@
     "Sinnoh|Tropius|Route 226|497460": 1790856317,
     "Johto|Porygon-Z|Team Rocket HQ|497460": 1790856620,
     "Unova|Rapidash|Route 12|497460": 1790858118,
-    "Sinnoh|Vigoroth|Route 215|497461": 1790861120
+    "Sinnoh|Vigoroth|Route 215|497461": 1790861120,
+    "Kanto|Charmander|Route 3|497462": 1790863518
   }
 }
