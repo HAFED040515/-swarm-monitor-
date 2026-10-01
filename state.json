@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Omastar|Liptoo Chamber|496891": 1788811176,
     "Johto|Totodile|Route 32|496892": 1788812122,
     "Unova|Swalot|Route 9|496892": 1788813031,
     "Sinnoh|Elekid|Valley Windworks|496893": 1788816936,
@@ -999,6 +998,7 @@
     "Kanto|Tyranitar|Seven Island|497452": 1790827819,
     "Unova|Volcarona|Relic Castle|497452": 1790829920,
     "Johto|Croconaw|Whirl Islands|497452": 1790830220,
-    "Kanto|Blastoise|Cape Brink|497453": 1790831116
+    "Kanto|Blastoise|Cape Brink|497453": 1790831116,
+    "Hoenn|Flygon|Desert Underpass|497453": 1790831419
   }
 }
