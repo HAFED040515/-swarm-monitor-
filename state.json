@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Sandslash|Victory Road|496885": 1788787828,
     "Sinnoh|Chimecho|Acuity Lakefront|496885": 1788788720,
     "Hoenn|Qwilfish|Route 125|496886": 1788790520,
     "Hoenn|Murkrow|Jagged Pass|496888": 1788797118,
@@ -999,6 +998,7 @@
     "Hoenn|Seviper|Route 121|497444": 1790802035,
     "Sinnoh|Kangaskhan|Wayward Cave|497445": 1790802922,
     "Kanto|Absol|Canyon Entrance|497446": 1790805917,
-    "Hoenn|Blaziken|Magma Hideout|497447": 1790811316
+    "Hoenn|Blaziken|Magma Hideout|497447": 1790811316,
+    "Unova|Metagross|Giant Chasm|497448": 1790814315
   }
 }
