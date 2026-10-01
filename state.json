@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Croconaw|Whirl Islands|496890": 1788804623,
     "Sinnoh|Exeggutor|Route 230|496890": 1788804921,
     "Unova|Swalot|Route 9|496891": 1788809427,
     "Hoenn|Pineco|Route 103|496891": 1788809912,
@@ -999,6 +998,7 @@
     "Hoenn|Torchic|Route 112|497449": 1790820034,
     "Unova|Pinsir|Route 12|497450": 1790821827,
     "Johto|Kirlia|Route 43|497450": 1790822719,
-    "Hoenn|Chimecho|Mt. Pyre|497451": 1790827232
+    "Hoenn|Chimecho|Mt. Pyre|497451": 1790827232,
+    "Kanto|Tyranitar|Seven Island|497452": 1790827819
   }
 }
