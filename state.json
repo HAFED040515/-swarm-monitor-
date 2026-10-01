@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Corsola|Undella Bay|496906": 1788864321,
     "Johto|Skitty|Route 35|496908": 1788872117,
     "Hoenn|Mismagius|Route 122|496908": 1788872439,
     "Sinnoh|Grotle|Sendoff Spring|496909": 1788873321,
@@ -999,6 +998,7 @@
     "Hoenn|Ditto|New Mauville|497468": 1790888720,
     "Unova|Miltank|Village Bridge|497469": 1790889019,
     "Kanto|Tyranitar|Seven Island|497469": 1790889620,
-    "Johto|Meganium|Route 48|497469": 1790889620
+    "Johto|Meganium|Route 48|497469": 1790889620,
+    "Sinnoh|Tropius|Route 226|497471": 1790895919
   }
 }
