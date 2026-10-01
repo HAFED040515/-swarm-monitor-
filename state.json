@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Pineco|Route 103|496891": 1788809912,
     "Kanto|Omastar|Liptoo Chamber|496891": 1788811176,
     "Johto|Totodile|Route 32|496892": 1788812122,
     "Unova|Swalot|Route 9|496892": 1788813031,
@@ -999,6 +998,7 @@
     "Hoenn|Chimecho|Mt. Pyre|497451": 1790827232,
     "Kanto|Tyranitar|Seven Island|497452": 1790827819,
     "Unova|Volcarona|Relic Castle|497452": 1790829920,
-    "Johto|Croconaw|Whirl Islands|497452": 1790830220
+    "Johto|Croconaw|Whirl Islands|497452": 1790830220,
+    "Kanto|Blastoise|Cape Brink|497453": 1790831116
   }
 }
