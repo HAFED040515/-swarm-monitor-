@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Shroomish|Route 34|496901": 1788844820,
     "Unova|Relicanth|Challenger&#x27;s Cave|496902": 1788847518,
     "Johto|Tauros|Route 38|496903": 1788851422,
     "Hoenn|Magby|Mt. Chimney|496903": 1788851422,
@@ -999,6 +998,7 @@
     "Sinnoh|Vigoroth|Route 215|497461": 1790861120,
     "Kanto|Charmander|Route 3|497462": 1790863518,
     "Johto|Typhlosion|Route 45|497463": 1790868629,
-    "Sinnoh|Turtwig|Route 203|497463": 1790869822
+    "Sinnoh|Turtwig|Route 203|497463": 1790869822,
+    "Kanto|Trapinch|Diglett&#x27;s Cave|497464": 1790871321
   }
 }
