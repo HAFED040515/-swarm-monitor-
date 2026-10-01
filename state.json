@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Chimecho|Acuity Lakefront|496885": 1788788720,
-    "Hoenn|Qwilfish|Route 125|496886": 1788790520,
     "Hoenn|Murkrow|Jagged Pass|496888": 1788797118,
     "Unova|Hippowdon|Mistralton Cave|496888": 1788797118,
     "Kanto|Pinsir|Route 11|496888": 1788799521,
@@ -999,6 +997,8 @@
     "Sinnoh|Kangaskhan|Wayward Cave|497445": 1790802922,
     "Kanto|Absol|Canyon Entrance|497446": 1790805917,
     "Hoenn|Blaziken|Magma Hideout|497447": 1790811316,
-    "Unova|Metagross|Giant Chasm|497448": 1790814315
+    "Unova|Metagross|Giant Chasm|497448": 1790814315,
+    "Johto|Feraligatr|Tohjo Falls|497448": 1790815219,
+    "Hoenn|Shuckle|Seafloor Cavern|497448": 1790815219
   }
 }
