@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Togetic|Dreamyard|496933": 1788960633,
     "Hoenn|Magby|Mt. Chimney|496934": 1788962723,
     "Unova|Pupitar|Twist Mountain|496934": 1788964231,
     "Johto|Lucario|Mt. Silver Cave|496934": 1788964821,
@@ -999,6 +998,7 @@
     "Sinnoh|Trapinch|Oreburgh Mine|497492": 1790974516,
     "Hoenn|Cacnea|Route 111|497493": 1790975422,
     "Unova|Corsola|Undella Bay|497493": 1790976023,
-    "Johto|Lucario|Mt. Silver Cave|497493": 1790976916
+    "Johto|Lucario|Mt. Silver Cave|497493": 1790976916,
+    "Kanto|Nincada|Route 25|497493": 1790978435
   }
 }
