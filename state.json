@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Snorlax|Victory Road|496914": 1788892229,
     "Kanto|Cradily|Tanoby Ruins|496915": 1788895223,
     "Sinnoh|Honchkrow|Route 209|496916": 1788899120,
     "Unova|Pinsir|Route 12|496916": 1788900023,
@@ -999,6 +998,7 @@
     "Sinnoh|Zangoose|Route 205|497475": 1790910620,
     "Hoenn|Gulpin|Route 110|497476": 1790914220,
     "Kanto|Blissey|Three Island|497477": 1790919317,
-    "Johto|Totodile|Route 32|497477": 1790919921
+    "Johto|Totodile|Route 32|497477": 1790919921,
+    "Unova|Plusle|Route 5|497477": 1790920516
   }
 }
