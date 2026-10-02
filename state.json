@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Magby|Mt. Chimney|496934": 1788962723,
-    "Unova|Pupitar|Twist Mountain|496934": 1788964231,
     "Johto|Lucario|Mt. Silver Cave|496934": 1788964821,
     "Hoenn|Minun|Route 117|496934": 1788964821,
     "Sinnoh|Heracross|Route 206|496934": 1788965718,
@@ -999,6 +997,8 @@
     "Hoenn|Cacnea|Route 111|497493": 1790975422,
     "Unova|Corsola|Undella Bay|497493": 1790976023,
     "Johto|Lucario|Mt. Silver Cave|497493": 1790976916,
-    "Kanto|Nincada|Route 25|497493": 1790978435
+    "Kanto|Nincada|Route 25|497493": 1790978435,
+    "Johto|Houndoom|Bellchime Trail|497494": 1790979916,
+    "Unova|Farfetch&#x27;d|Route 1|497494": 1790979916
   }
 }
