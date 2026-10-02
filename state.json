@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Dragonite|Six Island|496923": 1788923308,
     "Johto|Croconaw|Whirl Islands|496923": 1788923722,
     "Hoenn|Magby|Mt. Chimney|496923": 1788924021,
     "Unova|Minun|Route 6|496923": 1788926435,
@@ -999,6 +998,7 @@
     "Kanto|Wartortle|Seafoam Islands|497482": 1790936120,
     "Sinnoh|Lucario|Iron Island|497483": 1790940022,
     "Unova|Zorua|Lostlorn Forest|497483": 1790940316,
-    "Hoenn|Torchic|Route 112|497484": 1790946038
+    "Hoenn|Torchic|Route 112|497484": 1790946038,
+    "Johto|Porygon-Z|Team Rocket HQ|497485": 1790947552
   }
 }
