@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Snorlax|Victory Road|496921": 1788916094,
     "Unova|Crawdaunt|Route 3|496921": 1788917718,
     "Kanto|Blastoise|Cape Brink|496921": 1788918847,
     "Hoenn|Mime Jr.|Rusturf Tunnel|496922": 1788919269,
@@ -999,6 +998,7 @@
     "Johto|Nincada|Route 46|497480": 1790928921,
     "Kanto|Relicanth|Tanoby Ruins|497480": 1790929829,
     "Hoenn|Linoone|Route 118|497480": 1790931916,
-    "Sinnoh|Skitty|Route 204|497481": 1790934020
+    "Sinnoh|Skitty|Route 204|497481": 1790934020,
+    "Kanto|Wartortle|Seafoam Islands|497482": 1790936120
   }
 }
