@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Grotle|Sendoff Spring|496909": 1788873321,
     "Unova|Salamence|Dragonspiral Tower|496909": 1788874231,
     "Kanto|Armaldo|Tanoby Ruins|496909": 1788875275,
     "Unova|Miltank|Village Bridge|496910": 1788879023,
@@ -999,6 +998,7 @@
     "Johto|Meganium|Route 48|497469": 1790889620,
     "Sinnoh|Tropius|Route 226|497471": 1790895919,
     "Kanto|Minun|Route 22|497471": 1790898021,
-    "Unova|Togetic|Dreamyard|497471": 1790898320
+    "Unova|Togetic|Dreamyard|497471": 1790898320,
+    "Sinnoh|Kecleon|Route 229|497472": 1790901919
   }
 }
