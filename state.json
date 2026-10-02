@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pinsir|Route 12|496916": 1788900023,
     "Hoenn|Feebas|Route 130|496916": 1788900621,
     "Hoenn|Shuckle|Seafloor Cavern|496918": 1788908028,
     "Johto|Bonsly|Ilex Forest|496920": 1788913516,
@@ -999,6 +998,7 @@
     "Johto|Totodile|Route 32|497477": 1790919921,
     "Unova|Plusle|Route 5|497477": 1790920516,
     "Sinnoh|Chimecho|Acuity Lakefront|497478": 1790921421,
-    "Kanto|Luvdisc|Route 19|497479": 1790926227
+    "Kanto|Luvdisc|Route 19|497479": 1790926227,
+    "Johto|Nincada|Route 46|497480": 1790928921
   }
 }
