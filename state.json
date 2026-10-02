@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Tauros|Route 38|496929": 1788945624,
     "Kanto|Charmander|Route 3|496929": 1788946518,
     "Hoenn|Combusken|Route 114|496929": 1788947124,
     "Sinnoh|Elekid|Valley Windworks|496930": 1788948621,
@@ -999,6 +998,7 @@
     "Unova|Qwilfish|Route 18|497488": 1790958631,
     "Hoenn|Combee|Route 117|497488": 1790959821,
     "Sinnoh|Mr. Mime|Route 224|497488": 1790960115,
-    "Sinnoh|Grotle|Sendoff Spring|497489": 1790963120
+    "Sinnoh|Grotle|Sendoff Spring|497489": 1790963120,
+    "Johto|Sharpedo|Route 41|497490": 1790966720
   }
 }
