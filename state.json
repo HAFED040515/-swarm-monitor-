@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Kecleon|Route 229|496932": 1788957622,
     "Johto|Hitmontop|Mt. Mortar|496932": 1788958841,
     "Kanto|Vespiquen|Five Isle Meadow|496933": 1788960318,
     "Unova|Togetic|Dreamyard|496933": 1788960633,
@@ -999,6 +998,7 @@
     "Unova|Houndoom|Route 15|497491": 1790969719,
     "Sinnoh|Skitty|Route 204|497491": 1790970915,
     "Kanto|Snorlax|Cerulean Cave|497492": 1790974516,
-    "Sinnoh|Trapinch|Oreburgh Mine|497492": 1790974516
+    "Sinnoh|Trapinch|Oreburgh Mine|497492": 1790974516,
+    "Hoenn|Cacnea|Route 111|497493": 1790975422
   }
 }
