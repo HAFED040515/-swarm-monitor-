@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Spiritomb|Lost Cave|496912": 1788886258,
     "Johto|Aipom|Route 29|496914": 1788891320,
     "Unova|Togetic|Dreamyard|496914": 1788891320,
     "Sinnoh|Snorlax|Victory Road|496914": 1788892229,
@@ -999,6 +998,7 @@
     "Kanto|Jigglypuff|Route 4|497473": 1790904628,
     "Hoenn|Mismagius|Route 122|497473": 1790905522,
     "Unova|Cacnea|Route 4|497474": 1790909119,
-    "Sinnoh|Zangoose|Route 205|497475": 1790910620
+    "Sinnoh|Zangoose|Route 205|497475": 1790910620,
+    "Hoenn|Gulpin|Route 110|497476": 1790914220
   }
 }
