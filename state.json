@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Charmander|Route 3|496929": 1788946518,
     "Hoenn|Combusken|Route 114|496929": 1788947124,
     "Sinnoh|Elekid|Valley Windworks|496930": 1788948621,
     "Hoenn|Hitmonchan|Fiery Path|496931": 1788952823,
@@ -999,6 +998,7 @@
     "Hoenn|Combee|Route 117|497488": 1790959821,
     "Sinnoh|Mr. Mime|Route 224|497488": 1790960115,
     "Sinnoh|Grotle|Sendoff Spring|497489": 1790963120,
-    "Johto|Sharpedo|Route 41|497490": 1790966720
+    "Johto|Sharpedo|Route 41|497490": 1790966720,
+    "Hoenn|Blaziken|Magma Hideout|497491": 1790968821
   }
 }
