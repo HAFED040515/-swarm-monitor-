@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Sharpedo|Water Labyrinth|496951": 1789026320,
-    "Hoenn|Blissey|Artisan Cave|496951": 1789026621,
     "Johto|Meganium|Route 48|496952": 1789029029,
     "Kanto|Relicanth|Tanoby Ruins|496952": 1789030518,
     "Unova|Cherubi|Route 16|496953": 1789032629,
@@ -999,6 +997,8 @@
     "Sinnoh|Crawdaunt|Lake Valor|497511": 1791040221,
     "Kanto|Pinsir|Route 11|497511": 1791041115,
     "Sinnoh|Torterra|Route 212|497511": 1791043235,
-    "Sinnoh|Honchkrow|Route 209|497511": 1791043819
+    "Sinnoh|Honchkrow|Route 209|497511": 1791043819,
+    "Johto|Kangaskhan|Dark Cave|497512": 1791044718,
+    "Hoenn|Vaporeon|Route 134|497512": 1791044718
   }
 }
