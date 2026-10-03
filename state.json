@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Drifloon|Route 10|496947": 1789009517,
     "Hoenn|Combee|Route 117|496947": 1789011315,
     "Sinnoh|Luxray|Route 205|496947": 1789013118,
     "Hoenn|Mudkip|Route 104|496948": 1789016437,
@@ -999,6 +998,7 @@
     "Unova|Ninjask|Route 11|497507": 1791027316,
     "Hoenn|Feebas|Route 130|497507": 1791027619,
     "Sinnoh|Snorlax|Victory Road|497508": 1791031519,
-    "Unova|Lumineon|Route 17|497509": 1791033622
+    "Unova|Lumineon|Route 17|497509": 1791033622,
+    "Kanto|Volbeat|Memorial Pillar|497510": 1791038117
   }
 }
