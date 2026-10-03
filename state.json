@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Totodile|Route 32|496939": 1788984038,
     "Sinnoh|Glaceon|Route 217|496940": 1788987318,
     "Kanto|Omastar|Tanoby Ruins|496942": 1788993028,
     "Hoenn|Gulpin|Route 110|496942": 1788993028,
@@ -999,6 +998,7 @@
     "Hoenn|Staryu|Route 106|497499": 1790997322,
     "Johto|Wailmer|Route 40|497499": 1790997916,
     "Sinnoh|Kecleon|Route 229|497500": 1791002724,
-    "Unova|Porygon2|P2 Laboratory|497500": 1791003634
+    "Unova|Porygon2|P2 Laboratory|497500": 1791003634,
+    "Kanto|Zangoose|Route 14|497501": 1791004822
   }
 }
