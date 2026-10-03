@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Farfetch&#x27;d|Route 209|496951": 1789024823,
     "Kanto|Sharpedo|Water Labyrinth|496951": 1789026320,
     "Hoenn|Blissey|Artisan Cave|496951": 1789026621,
     "Johto|Meganium|Route 48|496952": 1789029029,
@@ -999,6 +998,7 @@
     "Unova|Corsola|Undella Bay|497510": 1791038721,
     "Sinnoh|Crawdaunt|Lake Valor|497511": 1791040221,
     "Kanto|Pinsir|Route 11|497511": 1791041115,
-    "Sinnoh|Torterra|Route 212|497511": 1791043235
+    "Sinnoh|Torterra|Route 212|497511": 1791043235,
+    "Sinnoh|Honchkrow|Route 209|497511": 1791043819
   }
 }
