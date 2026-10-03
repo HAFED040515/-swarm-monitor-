@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Staryu|Route 106|496945": 1789004719,
     "Unova|Pupitar|Twist Mountain|496946": 1789008953,
     "Sinnoh|Heracross|Route 206|496946": 1789009236,
     "Kanto|Drifloon|Route 10|496947": 1789009517,
@@ -999,6 +998,7 @@
     "Hoenn|Drifloon|Route 105|497506": 1791024319,
     "Johto|Metang|Ice Path|497507": 1791026715,
     "Kanto|Luvdisc|Route 19|497507": 1791027316,
-    "Unova|Ninjask|Route 11|497507": 1791027316
+    "Unova|Ninjask|Route 11|497507": 1791027316,
+    "Hoenn|Feebas|Route 130|497507": 1791027619
   }
 }
