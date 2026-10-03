@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Piloswine|Moor of Icirrus|496939": 1788981916,
     "Kanto|Zangoose|Route 14|496939": 1788982228,
     "Johto|Totodile|Route 32|496939": 1788984038,
     "Sinnoh|Glaceon|Route 217|496940": 1788987318,
@@ -999,6 +998,7 @@
     "Sinnoh|Furret|Route 208|497498": 1790995820,
     "Kanto|Wartortle|Seafoam Islands|497499": 1790997019,
     "Hoenn|Staryu|Route 106|497499": 1790997322,
-    "Johto|Wailmer|Route 40|497499": 1790997916
+    "Johto|Wailmer|Route 40|497499": 1790997916,
+    "Sinnoh|Kecleon|Route 229|497500": 1791002724
   }
 }
