@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Carnivine|Route 18|496944": 1788999916,
     "Kanto|Spiritomb|Lost Cave|496944": 1789002035,
     "Sinnoh|Cloyster|Route 223|496944": 1789002035,
     "Johto|Exeggcute|Route 30|496945": 1789004421,
@@ -999,6 +998,7 @@
     "Sinnoh|Pineco|Route 207|497504": 1791015320,
     "Johto|Skitty|Route 35|497504": 1791017119,
     "Johto|Skarmory|Route 26|497505": 1791021315,
-    "Unova|Miltank|Village Bridge|497506": 1791022819
+    "Unova|Miltank|Village Bridge|497506": 1791022819,
+    "Hoenn|Drifloon|Route 105|497506": 1791024319
   }
 }
