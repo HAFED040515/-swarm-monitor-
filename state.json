@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Misdreavus|Sprout Tower|496937": 1788973823,
     "Hoenn|Finneon|Route 107|496937": 1788975353,
     "Kanto|Nosepass|Mt. Moon|496938": 1788978023,
     "Johto|Snorlax|Victory Road|496938": 1788980438,
@@ -999,6 +998,7 @@
     "Kanto|Dragonite|Six Island|497497": 1790989517,
     "Unova|Houndoom|Route 15|497497": 1790990716,
     "Unova|Raticate|Mistralton Cave|497497": 1790992517,
-    "Johto|Nincada|Route 46|497498": 1790995219
+    "Johto|Nincada|Route 46|497498": 1790995219,
+    "Sinnoh|Furret|Route 208|497498": 1790995820
   }
 }
