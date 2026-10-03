@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Luxray|Route 205|496947": 1789013118,
     "Hoenn|Mudkip|Route 104|496948": 1789016437,
     "Johto|Totodile|Route 32|496949": 1789017021,
     "Sinnoh|Farfetch&#x27;d|Route 209|496951": 1789024823,
@@ -999,6 +998,7 @@
     "Sinnoh|Snorlax|Victory Road|497508": 1791031519,
     "Unova|Lumineon|Route 17|497509": 1791033622,
     "Kanto|Volbeat|Memorial Pillar|497510": 1791038117,
-    "Unova|Corsola|Undella Bay|497510": 1791038721
+    "Unova|Corsola|Undella Bay|497510": 1791038721,
+    "Sinnoh|Crawdaunt|Lake Valor|497511": 1791040221
   }
 }
