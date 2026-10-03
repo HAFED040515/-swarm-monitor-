@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Aipom|Route 29|496955": 1789038316,
     "Unova|Electabuzz|Chargestone Cave|496956": 1789043716,
     "Hoenn|Tentacruel|Route 128|496957": 1789048222,
     "Unova|Yanma|Pinwheel Forest|496958": 1789050631,
@@ -999,6 +998,7 @@
     "Unova|Skorupi|Desert Resort|497513": 1791049521,
     "Hoenn|Mismagius|Route 122|497514": 1791051018,
     "Kanto|Kirlia|Route 8|497514": 1791052820,
-    "Sinnoh|Prinplup|Route 220|497514": 1791052820
+    "Sinnoh|Prinplup|Route 220|497514": 1791052820,
+    "Kanto|Exeggutor|Route 23|497515": 1791055219
   }
 }
