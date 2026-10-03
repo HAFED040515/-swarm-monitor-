@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pupitar|Twist Mountain|496946": 1789008953,
     "Sinnoh|Heracross|Route 206|496946": 1789009236,
     "Kanto|Drifloon|Route 10|496947": 1789009517,
     "Hoenn|Combee|Route 117|496947": 1789011315,
@@ -999,6 +998,7 @@
     "Johto|Metang|Ice Path|497507": 1791026715,
     "Kanto|Luvdisc|Route 19|497507": 1791027316,
     "Unova|Ninjask|Route 11|497507": 1791027316,
-    "Hoenn|Feebas|Route 130|497507": 1791027619
+    "Hoenn|Feebas|Route 130|497507": 1791027619,
+    "Sinnoh|Snorlax|Victory Road|497508": 1791031519
   }
 }
