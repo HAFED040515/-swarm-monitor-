@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Nosepass|Mt. Moon|496938": 1788978023,
     "Johto|Snorlax|Victory Road|496938": 1788980438,
     "Unova|Piloswine|Moor of Icirrus|496939": 1788981916,
     "Kanto|Zangoose|Route 14|496939": 1788982228,
@@ -999,6 +998,7 @@
     "Unova|Raticate|Mistralton Cave|497497": 1790992517,
     "Johto|Nincada|Route 46|497498": 1790995219,
     "Sinnoh|Furret|Route 208|497498": 1790995820,
-    "Kanto|Wartortle|Seafoam Islands|497499": 1790997019
+    "Kanto|Wartortle|Seafoam Islands|497499": 1790997019,
+    "Hoenn|Staryu|Route 106|497499": 1790997322
   }
 }
