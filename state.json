@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Kecleon|Route 229|496942": 1788993028,
     "Unova|Carnivine|Route 18|496942": 1788993317,
     "Johto|Absol|Route 28|496943": 1788998116,
     "Hoenn|Wailord|Route 129|496944": 1788999620,
@@ -999,6 +998,7 @@
     "Kanto|Zangoose|Route 14|497501": 1791004822,
     "Johto|Skitty|Route 35|497502": 1791010833,
     "Kanto|Sentret|Route 1|497503": 1791013819,
-    "Unova|Gliscor|Route 11|497503": 1791014433
+    "Unova|Gliscor|Route 11|497503": 1791014433,
+    "Sinnoh|Pineco|Route 207|497504": 1791015320
   }
 }
