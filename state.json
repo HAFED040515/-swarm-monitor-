@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Heracross|Route 206|496934": 1788965718,
     "Sinnoh|Glaceon|Route 217|496935": 1788968756,
     "Kanto|Zangoose|Route 14|496935": 1788969390,
     "Johto|Starmie|Cliff Edge Gate|496936": 1788970223,
@@ -999,6 +998,7 @@
     "Johto|Houndoom|Bellchime Trail|497494": 1790979916,
     "Unova|Farfetch&#x27;d|Route 1|497494": 1790979916,
     "Sinnoh|Mr. Mime|Route 224|497494": 1790982037,
-    "Hoenn|Marshtomp|Route 124|497496": 1790988319
+    "Hoenn|Marshtomp|Route 124|497496": 1790988319,
+    "Kanto|Dragonite|Six Island|497497": 1790989517
   }
 }
