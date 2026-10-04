@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Bayleef|National Park|496975": 1789111516,
     "Johto|Xatu|Ruins of Alph|496975": 1789113917,
     "Sinnoh|Chatot|Route 218|496976": 1789114223,
     "Hoenn|Sharpedo|Route 127|496976": 1789114520,
@@ -999,6 +998,7 @@
     "Unova|Cloyster|Route 13|497533": 1791121221,
     "Johto|Quilava|Route 42|497533": 1791122432,
     "Kanto|Heracross|Route 16|497534": 1791124517,
-    "Sinnoh|Yanma|Route 205|497535": 1791128116
+    "Sinnoh|Yanma|Route 205|497535": 1791128116,
+    "Hoenn|Magby|Mt. Chimney|497535": 1791128719
   }
 }
