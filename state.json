@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Scizor|Route 14|496968": 1789086316,
     "Johto|Yanmega|Route 44|496968": 1789087522,
     "Kanto|Misdreavus|Pokemon Tower|496969": 1789089024,
     "Johto|Feraligatr|Tohjo Falls|496970": 1789092317,
@@ -999,6 +998,7 @@
     "Johto|Snorlax|Victory Road|497527": 1791097831,
     "Kanto|Relicanth|Tanoby Ruins|497527": 1791098419,
     "Johto|Snorlax|Victory Road|497528": 1791102020,
-    "Unova|Porygon2|P2 Laboratory|497528": 1791102020
+    "Unova|Porygon2|P2 Laboratory|497528": 1791102020,
+    "Johto|Kirlia|Route 43|497529": 1791105321
   }
 }
