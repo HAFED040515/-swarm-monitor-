@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Spiritomb|Turnback Cave|496971": 1789095916,
     "Hoenn|Crawdaunt|Abandoned Ship|496971": 1789097428,
     "Johto|Barboach|Slowpoke Well|496971": 1789098916,
     "Unova|Pupitar|Twist Mountain|496971": 1789098916,
@@ -999,6 +998,7 @@
     "Johto|Kirlia|Route 43|497529": 1791105321,
     "Johto|Victreebel|Route 32|497529": 1791106819,
     "Kanto|Volbeat|Memorial Pillar|497530": 1791108315,
-    "Sinnoh|Yanma|Route 205|497530": 1791108620
+    "Sinnoh|Yanma|Route 205|497530": 1791108620,
+    "Unova|Pinsir|Route 12|497531": 1791115236
   }
 }
