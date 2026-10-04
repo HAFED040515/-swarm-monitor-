@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Hippopotas|Maniac Tunnel|496964": 1789070719,
     "Johto|Metang|Ice Path|496964": 1789071917,
     "Kanto|Ivysaur|Route 5|496964": 1789074039,
     "Hoenn|Milotic|Route 119|496964": 1789074318,
@@ -999,6 +998,7 @@
     "Kanto|Wormadam|Pattern Bush|497521": 1791078319,
     "Sinnoh|Magmar|Fuego Ironworks|497522": 1791080422,
     "Unova|Farfetch&#x27;d|Route 1|497523": 1791083116,
-    "Hoenn|Dragonite|Route 131|497523": 1791083420
+    "Hoenn|Dragonite|Route 131|497523": 1791083420,
+    "Hoenn|Breloom|Route 119|497523": 1791084630
   }
 }
