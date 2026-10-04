@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Ivysaur|Route 5|496964": 1789074039,
     "Hoenn|Milotic|Route 119|496964": 1789074318,
     "Sinnoh|Nosepass|Oreburgh Gate|496965": 1789076422,
     "Johto|Barboach|Slowpoke Well|496965": 1789077318,
@@ -999,6 +998,7 @@
     "Unova|Farfetch&#x27;d|Route 1|497523": 1791083116,
     "Hoenn|Dragonite|Route 131|497523": 1791083420,
     "Hoenn|Breloom|Route 119|497523": 1791084630,
-    "Johto|Pineco|Route 36|497524": 1791086722
+    "Johto|Pineco|Route 36|497524": 1791086722,
+    "Kanto|Absol|Sevault Canyon|497525": 1791090619
   }
 }
