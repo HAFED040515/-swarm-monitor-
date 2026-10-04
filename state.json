@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Lapras|Shoal Cave|496963": 1789067423,
     "Unova|Dragonair|Dragonspiral Tower|496963": 1789067423,
     "Sinnoh|Hippopotas|Maniac Tunnel|496964": 1789070719,
     "Johto|Metang|Ice Path|496964": 1789071917,
@@ -999,6 +998,7 @@
     "Unova|Carnivine|Route 18|497520": 1791073515,
     "Hoenn|Combusken|Route 114|497520": 1791074116,
     "Kanto|Wormadam|Pattern Bush|497521": 1791078319,
-    "Sinnoh|Magmar|Fuego Ironworks|497522": 1791080422
+    "Sinnoh|Magmar|Fuego Ironworks|497522": 1791080422,
+    "Unova|Farfetch&#x27;d|Route 1|497523": 1791083116
   }
 }
