@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Miltank|Village Bridge|496960": 1789056038,
     "Johto|Quilava|Route 42|496960": 1789057831,
     "Kanto|Farfetch&#x27;d|Route 13|496961": 1789061718,
     "Sinnoh|Shuckle|Route 219|496962": 1789063515,
@@ -999,6 +998,7 @@
     "Hoenn|Treecko|Petalburg Woods|497517": 1791064462,
     "Sinnoh|Yanma|Route 205|497518": 1791065152,
     "Kanto|Misdreavus|Pokemon Tower|497518": 1791065615,
-    "Johto|Togetic|Route 27|497519": 1791069620
+    "Johto|Togetic|Route 27|497519": 1791069620,
+    "Sinnoh|Chansey|Trophy Garden|497520": 1791072620
   }
 }
