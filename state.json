@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Mime Jr.|Rusturf Tunnel|496967": 1789084517,
-    "Sinnoh|Turtwig|Route 203|496968": 1789084837,
     "Unova|Scizor|Route 14|496968": 1789086316,
     "Johto|Yanmega|Route 44|496968": 1789087522,
     "Kanto|Misdreavus|Pokemon Tower|496969": 1789089024,
@@ -999,6 +997,8 @@
     "Sinnoh|Chatot|Route 218|497526": 1791096320,
     "Hoenn|Murkrow|Jagged Pass|497527": 1791097233,
     "Johto|Snorlax|Victory Road|497527": 1791097831,
-    "Kanto|Relicanth|Tanoby Ruins|497527": 1791098419
+    "Kanto|Relicanth|Tanoby Ruins|497527": 1791098419,
+    "Johto|Snorlax|Victory Road|497528": 1791102020,
+    "Unova|Porygon2|P2 Laboratory|497528": 1791102020
   }
 }
