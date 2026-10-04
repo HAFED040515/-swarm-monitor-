@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Aipom|Route 29|496979": 1789128037,
     "Kanto|Chatot|Treasure Beach|496980": 1789128316,
     "Hoenn|Hitmonchan|Fiery Path|496980": 1789131021,
     "Sinnoh|Empoleon|Lake Acuity|496981": 1789132222,
@@ -999,6 +998,7 @@
     "Hoenn|Blissey|Artisan Cave|497538": 1791139821,
     "Sinnoh|Kirlia|Snowpoint Temple|497539": 1791143118,
     "Johto|Bayleef|National Park|497539": 1791143419,
-    "Kanto|Relicanth|Tanoby Ruins|497540": 1791144316
+    "Kanto|Relicanth|Tanoby Ruins|497540": 1791144316,
+    "Hoenn|Flygon|Desert Underpass|497540": 1791145221
   }
 }
