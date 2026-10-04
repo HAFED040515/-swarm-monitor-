@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Starmie|Seven Island|496972": 1789102832,
     "Kanto|Lapras|Icefall Cave|496974": 1789106717,
     "Johto|Bayleef|National Park|496975": 1789111516,
     "Johto|Xatu|Ruins of Alph|496975": 1789113917,
@@ -999,6 +998,7 @@
     "Unova|Pinsir|Route 12|497531": 1791115236,
     "Kanto|Zangoose|Route 14|497533": 1791120317,
     "Unova|Cloyster|Route 13|497533": 1791121221,
-    "Johto|Quilava|Route 42|497533": 1791122432
+    "Johto|Quilava|Route 42|497533": 1791122432,
+    "Kanto|Heracross|Route 16|497534": 1791124517
   }
 }
