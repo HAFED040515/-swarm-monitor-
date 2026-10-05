@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Aipom|Route 29|497000": 1789202116,
     "Hoenn|Breloom|Route 119|497001": 1789207521,
     "Unova|Skorupi|Desert Resort|497002": 1789210516,
     "Johto|Kirlia|Route 43|497003": 1789211116,
@@ -999,6 +998,7 @@
     "Kanto|Illumise|Water Path|497558": 1791212439,
     "Unova|Pinsir|Route 12|497559": 1791214516,
     "Hoenn|Mime Jr.|Rusturf Tunnel|497559": 1791215421,
-    "Johto|Lapras|Union Cave|497560": 1791216037
+    "Johto|Lapras|Union Cave|497560": 1791216037,
+    "Hoenn|Combusken|Jagged Pass|497561": 1791221116
   }
 }
