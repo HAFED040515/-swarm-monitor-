@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Carnivine|Route 225|496992": 1789172120,
     "Hoenn|Hitmonchan|Fiery Path|496992": 1789173621,
     "Kanto|Tyranitar|Seven Island|496993": 1789177220,
     "Sinnoh|Tropius|Route 226|496993": 1789177220,
@@ -999,6 +998,7 @@
     "Sinnoh|Quagsire|Route 212|497551": 1791187235,
     "Hoenn|Gulpin|Route 110|497552": 1791189922,
     "Johto|Yanmega|Route 44|497553": 1791192318,
-    "Unova|Salamence|Dragonspiral Tower|497553": 1791192318
+    "Unova|Salamence|Dragonspiral Tower|497553": 1791192318,
+    "Unova|Scizor|Route 14|497554": 1791195917
   }
 }
