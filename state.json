@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Infernape|Route 221|497007": 1789226120,
     "Hoenn|Finneon|Route 107|497007": 1789228221,
     "Unova|Togetic|Dreamyard|497008": 1789229420,
     "Johto|Feebas|Lake Of Rage|497008": 1789229720,
@@ -999,6 +998,7 @@
     "Hoenn|Chimecho|Mt. Pyre|497564": 1791233770,
     "Sinnoh|Grotle|Sendoff Spring|497565": 1791235787,
     "Johto|Nincada|Route 46|497566": 1791239116,
-    "Hoenn|Skitty|Route 116|497566": 1791240320
+    "Hoenn|Skitty|Route 116|497566": 1791240320,
+    "Kanto|Venusaur|Berry Forest|497566": 1791240916
   }
 }
