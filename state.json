@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Kirlia|Route 43|497003": 1789211116,
-    "Kanto|Croagunk|Route 6|497003": 1789212317,
     "Sinnoh|Floatzel|Route 218|497004": 1789217120,
     "Johto|Shuckle|Cliff Cave|497005": 1789218925,
     "Unova|Furret|Abundant Shrine|497005": 1789219220,
@@ -999,6 +997,8 @@
     "Johto|Lapras|Union Cave|497560": 1791216037,
     "Hoenn|Combusken|Jagged Pass|497561": 1791221116,
     "Sinnoh|Kecleon|Route 229|497561": 1791222621,
-    "Johto|Houndoom|Burned Tower|497562": 1791223520
+    "Johto|Houndoom|Burned Tower|497562": 1791223520,
+    "Kanto|Bulbasaur|Viridian Forest|497562": 1791224717,
+    "Unova|Yanma|Pinwheel Forest|497562": 1791224717
   }
 }
