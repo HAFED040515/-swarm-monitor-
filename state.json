@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Totodile|Route 32|496984": 1789144820,
     "Unova|Zorua|Lostlorn Forest|496984": 1789145422,
     "Kanto|Relicanth|Tanoby Ruins|496985": 1789148421,
     "Johto|Feebas|Lake of Rage|496986": 1789150522,
@@ -999,6 +998,7 @@
     "Hoenn|Staryu|Route 106|497544": 1791158718,
     "Johto|Shuckle|Cliff Cave|497544": 1791159620,
     "Unova|Pupitar|Twist Mountain|497544": 1791160227,
-    "Sinnoh|Spiritomb|Turnback Cave|497544": 1791160516
+    "Sinnoh|Spiritomb|Turnback Cave|497544": 1791160516,
+    "Hoenn|Wailord|Route 129|497545": 1791162919
   }
 }
