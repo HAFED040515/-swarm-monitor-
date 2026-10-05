@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Drifloon|Route 10|496998": 1789194317,
     "Johto|Starmie|Cliff Edge Gate|496998": 1789194317,
     "Unova|Lucario|Guidance Chamber|496999": 1789198228,
     "Johto|Aipom|Route 29|497000": 1789202116,
@@ -999,6 +998,7 @@
     "Unova|Shroomish|Pinwheel Forest|497557": 1791207920,
     "Hoenn|Corsola|Route 128|497558": 1791209720,
     "Sinnoh|Cherrim|Lake Verity|497558": 1791211223,
-    "Kanto|Illumise|Water Path|497558": 1791212439
+    "Kanto|Illumise|Water Path|497558": 1791212439,
+    "Unova|Pinsir|Route 12|497559": 1791214516
   }
 }
