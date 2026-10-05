@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Lapras|Icefall Cave|497006": 1789223116,
     "Hoenn|Blissey|Artisan Cave|497007": 1789225239,
     "Sinnoh|Infernape|Route 221|497007": 1789226120,
     "Hoenn|Finneon|Route 107|497007": 1789228221,
@@ -999,6 +998,7 @@
     "Kanto|Murkrow|Route 7|497564": 1791231323,
     "Unova|Ditto|Route 9|497563": 1791231323,
     "Hoenn|Chimecho|Mt. Pyre|497564": 1791233770,
-    "Sinnoh|Grotle|Sendoff Spring|497565": 1791235787
+    "Sinnoh|Grotle|Sendoff Spring|497565": 1791235787,
+    "Johto|Nincada|Route 46|497566": 1791239116
   }
 }
