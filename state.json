@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Volcarona|Bell Tower|496991": 1789168222,
-    "Kanto|Snorlax|Cerulean Cave|496991": 1789170321,
     "Sinnoh|Carnivine|Route 225|496992": 1789172120,
     "Hoenn|Hitmonchan|Fiery Path|496992": 1789173621,
     "Kanto|Tyranitar|Seven Island|496993": 1789177220,
@@ -999,6 +997,8 @@
     "Johto|Miltank|Route 39|497549": 1791179420,
     "Johto|Exeggcute|Route 30|497551": 1791184521,
     "Sinnoh|Quagsire|Route 212|497551": 1791187235,
-    "Hoenn|Gulpin|Route 110|497552": 1791189922
+    "Hoenn|Gulpin|Route 110|497552": 1791189922,
+    "Johto|Yanmega|Route 44|497553": 1791192318,
+    "Unova|Salamence|Dragonspiral Tower|497553": 1791192318
   }
 }
