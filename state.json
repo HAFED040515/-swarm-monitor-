@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Mime Jr.|Rusturf Tunnel|496989": 1789163717,
     "Unova|Dragonair|Dragonspiral Tower|496990": 1789166422,
     "Johto|Volcarona|Bell Tower|496991": 1789168222,
     "Kanto|Snorlax|Cerulean Cave|496991": 1789170321,
@@ -999,6 +998,7 @@
     "Sinnoh|Cloyster|Route 223|497549": 1791178517,
     "Unova|Shroomish|Pinwheel Forest|497549": 1791178820,
     "Johto|Miltank|Route 39|497549": 1791179420,
-    "Johto|Exeggcute|Route 30|497551": 1791184521
+    "Johto|Exeggcute|Route 30|497551": 1791184521,
+    "Sinnoh|Quagsire|Route 212|497551": 1791187235
   }
 }
