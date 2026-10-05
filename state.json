@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Pikachu|Route 19|496982": 1789138519,
     "Hoenn|Hitmonchan|Fiery Path|496984": 1789144229,
     "Johto|Totodile|Route 32|496984": 1789144820,
     "Unova|Zorua|Lostlorn Forest|496984": 1789145422,
@@ -999,6 +998,7 @@
     "Unova|Heracross|Route 10|497542": 1791153621,
     "Kanto|Plusle|Route 2|497543": 1791155720,
     "Hoenn|Staryu|Route 106|497544": 1791158718,
-    "Johto|Shuckle|Cliff Cave|497544": 1791159620
+    "Johto|Shuckle|Cliff Cave|497544": 1791159620,
+    "Unova|Pupitar|Twist Mountain|497544": 1791160227
   }
 }
