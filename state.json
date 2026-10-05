@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Gliscor|Route 211|496994": 1789182042,
     "Kanto|Squirtle|Route 24|496995": 1789183830,
     "Hoenn|Sudowoodo|Battle Frontier|496995": 1789185021,
     "Unova|Minun|Route 6|496996": 1789188622,
@@ -999,6 +998,7 @@
     "Kanto|Houndoom|Kindle Road|497555": 1791200722,
     "Hoenn|Staryu|Route 106|497555": 1791201020,
     "Unova|Cacnea|Route 4|497556": 1791202520,
-    "Johto|Bonsly|Ilex Forest|497557": 1791207030
+    "Johto|Bonsly|Ilex Forest|497557": 1791207030,
+    "Unova|Shroomish|Pinwheel Forest|497557": 1791207920
   }
 }
