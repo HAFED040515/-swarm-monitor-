@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Floatzel|Route 218|497004": 1789217120,
-    "Johto|Shuckle|Cliff Cave|497005": 1789218925,
     "Unova|Furret|Abundant Shrine|497005": 1789219220,
     "Johto|Zorua|Route 37|497006": 1789221917,
     "Kanto|Lapras|Icefall Cave|497006": 1789223116,
@@ -999,6 +997,8 @@
     "Sinnoh|Kecleon|Route 229|497561": 1791222621,
     "Johto|Houndoom|Burned Tower|497562": 1791223520,
     "Kanto|Bulbasaur|Viridian Forest|497562": 1791224717,
-    "Unova|Yanma|Pinwheel Forest|497562": 1791224717
+    "Unova|Yanma|Pinwheel Forest|497562": 1791224717,
+    "Kanto|Murkrow|Route 7|497564": 1791231323,
+    "Unova|Ditto|Route 9|497563": 1791231323
   }
 }
