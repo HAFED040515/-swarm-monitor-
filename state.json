@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Shelgon|Dragon&#x27;s Den|496994": 1789180822,
     "Unova|Farfetch&#x27;d|Route 1|496994": 1789180822,
     "Sinnoh|Gliscor|Route 211|496994": 1789182042,
     "Kanto|Squirtle|Route 24|496995": 1789183830,
@@ -999,6 +998,7 @@
     "Johto|Togetic|Route 27|497555": 1791200116,
     "Sinnoh|Hippopotas|Maniac Tunnel|497555": 1791200116,
     "Kanto|Houndoom|Kindle Road|497555": 1791200722,
-    "Hoenn|Staryu|Route 106|497555": 1791201020
+    "Hoenn|Staryu|Route 106|497555": 1791201020,
+    "Unova|Cacnea|Route 4|497556": 1791202520
   }
 }
