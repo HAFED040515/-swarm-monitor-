@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Furret|Abundant Shrine|497005": 1789219220,
     "Johto|Zorua|Route 37|497006": 1789221917,
     "Kanto|Lapras|Icefall Cave|497006": 1789223116,
     "Hoenn|Blissey|Artisan Cave|497007": 1789225239,
@@ -999,6 +998,7 @@
     "Kanto|Bulbasaur|Viridian Forest|497562": 1791224717,
     "Unova|Yanma|Pinwheel Forest|497562": 1791224717,
     "Kanto|Murkrow|Route 7|497564": 1791231323,
-    "Unova|Ditto|Route 9|497563": 1791231323
+    "Unova|Ditto|Route 9|497563": 1791231323,
+    "Hoenn|Chimecho|Mt. Pyre|497564": 1791233770
   }
 }
