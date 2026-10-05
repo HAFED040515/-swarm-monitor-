@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Aipom|Cold Storage|496986": 1789150821,
     "Hoenn|Sharpedo|Route 127|496987": 1789153518,
     "Johto|Yanmega|Route 44|496987": 1789155028,
     "Kanto|Bastiodon|Monean Chamber|496988": 1789158022,
@@ -999,6 +998,7 @@
     "Kanto|Relicanth|Tanoby Ruins|497545": 1791164722,
     "Sinnoh|Empoleon|Lake Acuity|497546": 1791166220,
     "Hoenn|Hitmonchan|Fiery Path|497546": 1791167118,
-    "Johto|Chimecho|Bellchime Trail|497547": 1791170119
+    "Johto|Chimecho|Bellchime Trail|497547": 1791170119,
+    "Unova|Volcarona|Relic Castle|497547": 1791171621
   }
 }
