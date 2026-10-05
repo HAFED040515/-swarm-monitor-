@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Sharpedo|Route 127|496987": 1789153518,
     "Johto|Yanmega|Route 44|496987": 1789155028,
     "Kanto|Bastiodon|Monean Chamber|496988": 1789158022,
     "Kanto|Venomoth|Route 10|496988": 1789159522,
@@ -999,6 +998,7 @@
     "Sinnoh|Empoleon|Lake Acuity|497546": 1791166220,
     "Hoenn|Hitmonchan|Fiery Path|497546": 1791167118,
     "Johto|Chimecho|Bellchime Trail|497547": 1791170119,
-    "Unova|Volcarona|Relic Castle|497547": 1791171621
+    "Unova|Volcarona|Relic Castle|497547": 1791171621,
+    "Hoenn|Crawdaunt|Route 120|497547": 1791173731
   }
 }
