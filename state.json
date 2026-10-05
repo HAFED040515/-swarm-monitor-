@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Farfetch&#x27;d|Route 209|496982": 1789137921,
     "Kanto|Pikachu|Route 19|496982": 1789138519,
     "Hoenn|Hitmonchan|Fiery Path|496984": 1789144229,
     "Johto|Totodile|Route 32|496984": 1789144820,
@@ -999,6 +998,7 @@
     "Sinnoh|Flareon|Stark Mountain|497541": 1791151823,
     "Unova|Heracross|Route 10|497542": 1791153621,
     "Kanto|Plusle|Route 2|497543": 1791155720,
-    "Hoenn|Staryu|Route 106|497544": 1791158718
+    "Hoenn|Staryu|Route 106|497544": 1791158718,
+    "Johto|Shuckle|Cliff Cave|497544": 1791159620
   }
 }
