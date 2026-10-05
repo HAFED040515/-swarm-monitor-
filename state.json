@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Venomoth|Route 10|496988": 1789159522,
     "Sinnoh|Chatot|Route 218|496988": 1789160117,
     "Unova|Slakoth|Route 2|496989": 1789161321,
     "Hoenn|Mime Jr.|Rusturf Tunnel|496989": 1789163717,
@@ -999,6 +998,7 @@
     "Unova|Volcarona|Relic Castle|497547": 1791171621,
     "Hoenn|Crawdaunt|Route 120|497547": 1791173731,
     "Kanto|Vespiquen|Five Isle Meadow|497549": 1791178227,
-    "Sinnoh|Cloyster|Route 223|497549": 1791178517
+    "Sinnoh|Cloyster|Route 223|497549": 1791178517,
+    "Unova|Shroomish|Pinwheel Forest|497549": 1791178820
   }
 }
