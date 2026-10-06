@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Chatot|Route 218|497009": 1789234826,
     "Kanto|Pinsir|Route 11|497010": 1789236620,
     "Hoenn|Cacnea|Route 111|497010": 1789237520,
     "Unova|Togetic|Dreamyard|497010": 1789239321,
@@ -999,6 +998,7 @@
     "Hoenn|Blaziken|Magma Hideout|497567": 1791243320,
     "Unova|Lucario|Guidance Chamber|497568": 1791246020,
     "Hoenn|Wailord|Route 129|497568": 1791247520,
-    "Sinnoh|Snorlax|Victory Road|497569": 1791248717
+    "Sinnoh|Snorlax|Victory Road|497569": 1791248717,
+    "Unova|Heracross|Route 10|497569": 1791251120
   }
 }
