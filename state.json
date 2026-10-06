@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Scizor|Route 14|497009": 1789233023,
     "Johto|Bayleef|National Park|497009": 1789234826,
     "Sinnoh|Chatot|Route 218|497009": 1789234826,
     "Kanto|Pinsir|Route 11|497010": 1789236620,
@@ -999,6 +998,7 @@
     "Hoenn|Skitty|Route 116|497567": 1791242120,
     "Sinnoh|Castform|Route 210|497567": 1791242422,
     "Hoenn|Blaziken|Magma Hideout|497567": 1791243320,
-    "Unova|Lucario|Guidance Chamber|497568": 1791246020
+    "Unova|Lucario|Guidance Chamber|497568": 1791246020,
+    "Hoenn|Wailord|Route 129|497568": 1791247520
   }
 }
