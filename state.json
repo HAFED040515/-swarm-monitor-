@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Hoenn|Drifloon|Route 105|497015": 1789257020,
-    "Kanto|Zangoose|Route 14|497016": 1789258520,
-    "Johto|Starmie|Cliff Edge Gate|497016": 1789259117,
     "Hoenn|Combusken|Route 114|497016": 1789260321,
     "Unova|Slakoth|Route 2|497017": 1789262421,
     "Sinnoh|Furret|Route 208|497017": 1789264221,
@@ -999,6 +996,9 @@
     "Sinnoh|Ponyta|Route 203|497572": 1791260419,
     "Kanto|Pinsir|Route 11|497573": 1791265222,
     "Unova|Crawdaunt|Route 3|497573": 1791265222,
-    "Johto|Sharpedo|Route 41|497575": 1791272720
+    "Johto|Sharpedo|Route 41|497575": 1791272720,
+    "Hoenn|Kecleon|Route 120|497575": 1791273634,
+    "Sinnoh|Glaceon|Route 217|497575": 1791273634,
+    "Unova|Furret|Abundant Shrine|497575": 1791273634
   }
 }
