@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Swalot|Route 9|497019": 1789270228,
-    "Johto|Togetic|Route 27|497019": 1789270821,
     "Hoenn|Salamence|Meteor Falls|497043": 1789359022,
     "Kanto|Ivysaur|Route 5|497045": 1789364117,
     "Johto|Nincada|Route 46|497046": 1789367716,
@@ -999,6 +997,8 @@
     "Unova|Zangoose|Route 7|497577": 1791278120,
     "Sinnoh|Chatot|Route 218|497577": 1791279621,
     "Unova|Electabuzz|Chargestone Cave|497578": 1791282316,
-    "Kanto|Chatot|Treasure Beach|497578": 1791282917
+    "Kanto|Chatot|Treasure Beach|497578": 1791282917,
+    "Johto|Barboach|Slowpoke Well|497578": 1791284116,
+    "Sinnoh|Shuckle|Route 219|497578": 1791284116
   }
 }
