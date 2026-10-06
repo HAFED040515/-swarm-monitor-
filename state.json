@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Spiritomb|Turnback Cave|497055": 1789399830,
     "Johto|Feebas|Lake Of Rage|497055": 1789400422,
     "Unova|Swalot|Route 9|497055": 1789400722,
     "Hoenn|Sharpedo|Route 127|497055": 1789401638,
@@ -999,6 +998,7 @@
     "Sinnoh|Mr. Mime|Route 224|497584": 1791306048,
     "Kanto|Kabutops|Tanoby Ruins|497585": 1791309023,
     "Hoenn|Qwilfish|Route 125|497586": 1791310820,
-    "Sinnoh|Ambipom|Route 216|497586": 1791312917
+    "Sinnoh|Ambipom|Route 216|497586": 1791312917,
+    "Johto|Lucario|Mt. Silver Cave|497587": 1791313822
   }
 }
