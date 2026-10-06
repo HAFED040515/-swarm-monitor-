@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Piplup|Route 204|497052": 1789387821,
     "Johto|Tauros|Route 38|497052": 1789388422,
     "Unova|Volbeat|Route 8|497052": 1789389623,
     "Kanto|Aerodactyl|Tanoby Ruins|497052": 1789390518,
@@ -999,6 +998,7 @@
     "Unova|Skorupi|Desert Resort|497582": 1791295518,
     "Kanto|Sentret|Route 1|497582": 1791296717,
     "Hoenn|Remoraid|Route 108|497582": 1791296717,
-    "Hoenn|Lapras|Shoal Cave|497584": 1791302717
+    "Hoenn|Lapras|Shoal Cave|497584": 1791302717,
+    "Johto|Shelgon|Dragon&#x27;s Den|497584": 1791303021
   }
 }
