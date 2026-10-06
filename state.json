@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Slakoth|Route 2|497017": 1789262421,
     "Sinnoh|Furret|Route 208|497017": 1789264221,
     "Unova|Porygon2|P2 Laboratory|497018": 1789265119,
     "Sinnoh|Rhyperior|Route 214|497018": 1789267820,
@@ -999,6 +998,7 @@
     "Hoenn|Kecleon|Route 120|497575": 1791273634,
     "Sinnoh|Glaceon|Route 217|497575": 1791273634,
     "Unova|Furret|Abundant Shrine|497575": 1791273634,
-    "Hoenn|Linoone|Route 118|497575": 1791274519
+    "Hoenn|Linoone|Route 118|497575": 1791274519,
+    "Kanto|Aerodactyl|Rixy Chamber|497576": 1791277230
   }
 }
