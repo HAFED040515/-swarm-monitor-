@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Sharpedo|Route 127|497055": 1789401638,
     "Johto|Exeggcute|Route 30|497057": 1789405517,
     "Unova|Yanma|Pinwheel Forest|497057": 1789405823,
     "Sinnoh|Grotle|Sendoff Spring|497057": 1789406119,
@@ -999,6 +998,7 @@
     "Sinnoh|Ambipom|Route 216|497586": 1791312917,
     "Johto|Lucario|Mt. Silver Cave|497587": 1791313822,
     "Unova|Cacnea|Route 4|497587": 1791316222,
-    "Kanto|Cradily|Tanoby Ruins|497587": 1791316515
+    "Kanto|Cradily|Tanoby Ruins|497587": 1791316515,
+    "Sinnoh|Absol|Mt. Coronet|497588": 1791318871
   }
 }
