@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Exeggutor|Route 23|497048": 1789376117,
     "Sinnoh|Heracross|Route 206|497049": 1789377622,
     "Johto|Electivire|Route 27|497049": 1789379423,
     "Hoenn|Combusken|Route 114|497050": 1789382720,
@@ -999,6 +998,7 @@
     "Unova|Seviper|Route 1|497579": 1791287120,
     "Kanto|Wailord|Green Path|497580": 1791288923,
     "Sinnoh|Hippopotas|Maniac Tunnel|497580": 1791289220,
-    "Johto|Typhlosion|Route 45|497580": 1791290420
+    "Johto|Typhlosion|Route 45|497580": 1791290420,
+    "Hoenn|Togekiss|Sky Pillar|497580": 1791291021
   }
 }
