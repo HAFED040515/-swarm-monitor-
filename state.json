@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Trapinch|Oreburgh Mine|497011": 1789240222,
     "Hoenn|Flygon|Desert Underpass|497011": 1789241127,
     "Kanto|Sunflora|Bond Bridge|497011": 1789242021,
     "Sinnoh|Piplup|Route 204|497012": 1789243821,
@@ -999,6 +998,7 @@
     "Unova|Heracross|Route 10|497569": 1791251120,
     "Johto|Totodile|Route 32|497569": 1791251420,
     "Kanto|Charmeleon|Rock Tunnel|497570": 1791253827,
-    "Hoenn|Croagunk|Route 121|497570": 1791255316
+    "Hoenn|Croagunk|Route 121|497570": 1791255316,
+    "Sinnoh|Mr. Mime|Route 224|497570": 1791255638
   }
 }
