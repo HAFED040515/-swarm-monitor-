@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Volbeat|Route 8|497052": 1789389623,
     "Kanto|Aerodactyl|Tanoby Ruins|497052": 1789390518,
     "Hoenn|Sharpedo|Route 127|497052": 1789391422,
     "Unova|Lucario|Guidance Chamber|497054": 1789395324,
@@ -999,6 +998,7 @@
     "Hoenn|Remoraid|Route 108|497582": 1791296717,
     "Hoenn|Lapras|Shoal Cave|497584": 1791302717,
     "Johto|Shelgon|Dragon&#x27;s Den|497584": 1791303021,
-    "Unova|Corsola|Undella Bay|497584": 1791305120
+    "Unova|Corsola|Undella Bay|497584": 1791305120,
+    "Sinnoh|Mr. Mime|Route 224|497584": 1791306048
   }
 }
