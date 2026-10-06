@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Cacnea|Route 111|497010": 1789237520,
     "Unova|Togetic|Dreamyard|497010": 1789239321,
     "Sinnoh|Trapinch|Oreburgh Mine|497011": 1789240222,
     "Hoenn|Flygon|Desert Underpass|497011": 1789241127,
@@ -999,6 +998,7 @@
     "Hoenn|Wailord|Route 129|497568": 1791247520,
     "Sinnoh|Snorlax|Victory Road|497569": 1791248717,
     "Unova|Heracross|Route 10|497569": 1791251120,
-    "Johto|Totodile|Route 32|497569": 1791251420
+    "Johto|Totodile|Route 32|497569": 1791251420,
+    "Kanto|Charmeleon|Rock Tunnel|497570": 1791253827
   }
 }
