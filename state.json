@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Combusken|Route 114|497050": 1789382720,
     "Unova|Scizor|Route 14|497051": 1789385119,
     "Hoenn|Volcarona|Scorched Slab|497051": 1789386919,
     "Kanto|Blissey|Three Island|497051": 1789387244,
@@ -999,6 +998,7 @@
     "Johto|Typhlosion|Route 45|497580": 1791290420,
     "Hoenn|Togekiss|Sky Pillar|497580": 1791291021,
     "Johto|Ditto|Tohjo Falls|497580": 1791292520,
-    "Kanto|Vespiquen|Five Isle Meadow|497581": 1791292821
+    "Kanto|Vespiquen|Five Isle Meadow|497581": 1791292821,
+    "Unova|Skorupi|Desert Resort|497582": 1791295518
   }
 }
