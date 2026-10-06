@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Volcarona|Scorched Slab|497019": 1789269623,
     "Unova|Swalot|Route 9|497019": 1789270228,
     "Johto|Togetic|Route 27|497019": 1789270821,
     "Hoenn|Salamence|Meteor Falls|497043": 1789359022,
@@ -999,6 +998,7 @@
     "Kanto|Aerodactyl|Rixy Chamber|497576": 1791277230,
     "Unova|Zangoose|Route 7|497577": 1791278120,
     "Sinnoh|Chatot|Route 218|497577": 1791279621,
-    "Unova|Electabuzz|Chargestone Cave|497578": 1791282316
+    "Unova|Electabuzz|Chargestone Cave|497578": 1791282316,
+    "Kanto|Chatot|Treasure Beach|497578": 1791282917
   }
 }
