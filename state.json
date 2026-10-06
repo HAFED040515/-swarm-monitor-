@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Illumise|Moor of Icirrus|497013": 1789249521,
     "Hoenn|Drifloon|Route 105|497015": 1789257020,
     "Kanto|Zangoose|Route 14|497016": 1789258520,
     "Johto|Starmie|Cliff Edge Gate|497016": 1789259117,
@@ -999,6 +998,7 @@
     "Johto|Porygon-Z|Team Rocket HQ|497571": 1791258915,
     "Sinnoh|Ponyta|Route 203|497572": 1791260419,
     "Kanto|Pinsir|Route 11|497573": 1791265222,
-    "Unova|Crawdaunt|Route 3|497573": 1791265222
+    "Unova|Crawdaunt|Route 3|497573": 1791265222,
+    "Johto|Sharpedo|Route 41|497575": 1791272720
   }
 }
