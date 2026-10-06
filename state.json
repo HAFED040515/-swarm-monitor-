@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Feebas|Lake Of Rage|497055": 1789400422,
     "Unova|Swalot|Route 9|497055": 1789400722,
     "Hoenn|Sharpedo|Route 127|497055": 1789401638,
     "Johto|Exeggcute|Route 30|497057": 1789405517,
@@ -999,6 +998,7 @@
     "Kanto|Kabutops|Tanoby Ruins|497585": 1791309023,
     "Hoenn|Qwilfish|Route 125|497586": 1791310820,
     "Sinnoh|Ambipom|Route 216|497586": 1791312917,
-    "Johto|Lucario|Mt. Silver Cave|497587": 1791313822
+    "Johto|Lucario|Mt. Silver Cave|497587": 1791313822,
+    "Unova|Cacnea|Route 4|497587": 1791316222
   }
 }
