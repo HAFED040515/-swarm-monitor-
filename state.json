@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Cloyster|Route 223|497067": 1789442121,
     "Hoenn|Shuckle|Seafloor Cavern|497067": 1789443317,
     "Johto|Sharpedo|Route 41|497068": 1789446021,
     "Hoenn|Loudred|Rusturf Tunnel|497068": 1789446021,
@@ -999,6 +998,7 @@
     "Sinnoh|Tauros|Valor Lakefront|497595": 1791344421,
     "Hoenn|Hitmonchan|Fiery Path|497597": 1791350122,
     "Kanto|Cradily|Tanoby Ruins|497597": 1791352219,
-    "Hoenn|Blissey|Artisan Cave|497598": 1791355520
+    "Hoenn|Blissey|Artisan Cave|497598": 1791355520,
+    "Johto|Skitty|Route 35|497599": 1791357323
   }
 }
