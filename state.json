@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Monferno|Route 211|497068": 1789446021,
     "Kanto|Relicanth|Tanoby Ruins|497069": 1789449620,
     "Unova|Pinsir|Route 12|497069": 1789449620,
     "Kanto|Cradily|Weepth Chamber|497071": 1789458321,
@@ -999,6 +998,7 @@
     "Johto|Skitty|Route 35|497599": 1791357323,
     "Unova|Miltank|Village Bridge|497600": 1791360620,
     "Johto|Houndoom|Burned Tower|497600": 1791363635,
-    "Hoenn|Walrein|Route 124|497600": 1791363635
+    "Hoenn|Walrein|Route 124|497600": 1791363635,
+    "Kanto|Omastar|Tanoby Ruins|497601": 1791363917
   }
 }
