@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Volcarona|Relic Castle|497063": 1789428023,
     "Sinnoh|Scyther|Route 210|497063": 1789429521,
     "Hoenn|Nosepass|Granite Cave|497064": 1789433420,
     "Unova|Togetic|Dreamyard|497065": 1789435828,
@@ -999,6 +998,7 @@
     "Unova|Minun|Route 6|497592": 1791334515,
     "Hoenn|Kecleon|Route 120|497594": 1791338716,
     "Johto|Ninetales|Route 37|497593": 1791339019,
-    "Sinnoh|Combee|Floaroma Meadow|497594": 1791339619
+    "Sinnoh|Combee|Floaroma Meadow|497594": 1791339619,
+    "Kanto|Zangoose|Route 14|497594": 1791340228
   }
 }
