@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Murkrow|Jagged Pass|497060": 1789417519,
     "Unova|Aipom|Cold Storage|497060": 1789419317,
     "Sinnoh|Torterra|Route 212|497061": 1789420821,
     "Kanto|Sharpedo|Water Labyrinth|497061": 1789422621,
@@ -999,6 +998,7 @@
     "Unova|Minun|Route 6|497590": 1791327315,
     "Kanto|Vespiquen|Five Isle Meadow|497591": 1791328821,
     "Sinnoh|Vigoroth|Route 215|497591": 1791330322,
-    "Johto|Yanmega|Route 44|497591": 1791331236
+    "Johto|Yanmega|Route 44|497591": 1791331236,
+    "Hoenn|Luvdisc|Route 132|497592": 1791333317
   }
 }
