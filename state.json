@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Togetic|Dreamyard|497065": 1789435828,
     "Kanto|Milotic|Resort Gorgeous|497066": 1789438821,
     "Johto|Nincada|Route 46|497066": 1789440023,
     "Sinnoh|Cloyster|Route 223|497067": 1789442121,
@@ -999,6 +998,7 @@
     "Sinnoh|Combee|Floaroma Meadow|497594": 1791339619,
     "Kanto|Zangoose|Route 14|497594": 1791340228,
     "Hoenn|Murkrow|Jagged Pass|497595": 1791343827,
-    "Sinnoh|Tauros|Valor Lakefront|497595": 1791344421
+    "Sinnoh|Tauros|Valor Lakefront|497595": 1791344421,
+    "Hoenn|Hitmonchan|Fiery Path|497597": 1791350122
   }
 }
