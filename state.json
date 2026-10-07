@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Charmeleon|Rock Tunnel|497080": 1789491021,
     "Sinnoh|Prinplup|Route 220|497081": 1789493431,
     "Hoenn|Treecko|Petalburg Woods|497081": 1789494619,
     "Unova|Seviper|Route 1|497081": 1789494919,
@@ -999,6 +998,7 @@
     "Kanto|Houndoom|Kindle Road|497610": 1791398721,
     "Sinnoh|Drifblim|Route 222|497611": 1791400819,
     "Sinnoh|Exeggutor|Route 230|497613": 1791407724,
-    "Hoenn|Munna|Route 102|497613": 1791410117
+    "Hoenn|Munna|Route 102|497613": 1791410117,
+    "Unova|Volbeat|Route 8|497614": 1791411619
   }
 }
