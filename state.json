@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Relicanth|Tanoby Ruins|497069": 1789449620,
     "Unova|Pinsir|Route 12|497069": 1789449620,
     "Kanto|Cradily|Weepth Chamber|497071": 1789458321,
     "Johto|Granbull|Route 34|497071": 1789459233,
@@ -999,6 +998,7 @@
     "Unova|Miltank|Village Bridge|497600": 1791360620,
     "Johto|Houndoom|Burned Tower|497600": 1791363635,
     "Hoenn|Walrein|Route 124|497600": 1791363635,
-    "Kanto|Omastar|Tanoby Ruins|497601": 1791363917
+    "Kanto|Omastar|Tanoby Ruins|497601": 1791363917,
+    "Kanto|Bulbasaur|Viridian Forest|497602": 1791367518
   }
 }
