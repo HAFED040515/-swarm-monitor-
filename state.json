@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Metagross|Giant Chasm|497075": 1789470920,
     "Johto|Feebas|Lake of Rage|497075": 1789471221,
     "Hoenn|Magby|Mt. Chimney|497076": 1789474222,
     "Unova|Pinsir|Route 12|497076": 1789476023,
@@ -999,6 +998,7 @@
     "Hoenn|Combusken|Route 114|497604": 1791375919,
     "Kanto|Heracross|Route 16|497604": 1791376231,
     "Sinnoh|Chatot|Route 218|497605": 1791378317,
-    "Unova|Swalot|Route 9|497605": 1791379829
+    "Unova|Swalot|Route 9|497605": 1791379829,
+    "Kanto|Wailord|Green Path|497605": 1791380724
   }
 }
