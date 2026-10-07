@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Persian|Route 38|497059": 1789416320,
     "Hoenn|Murkrow|Jagged Pass|497060": 1789417519,
     "Unova|Aipom|Cold Storage|497060": 1789419317,
     "Sinnoh|Torterra|Route 212|497061": 1789420821,
@@ -999,6 +998,7 @@
     "Sinnoh|Prinplup|Route 220|497590": 1791325517,
     "Unova|Minun|Route 6|497590": 1791327315,
     "Kanto|Vespiquen|Five Isle Meadow|497591": 1791328821,
-    "Sinnoh|Vigoroth|Route 215|497591": 1791330322
+    "Sinnoh|Vigoroth|Route 215|497591": 1791330322,
+    "Johto|Yanmega|Route 44|497591": 1791331236
   }
 }
