@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Milotic|Resort Gorgeous|497066": 1789438821,
     "Johto|Nincada|Route 46|497066": 1789440023,
     "Sinnoh|Cloyster|Route 223|497067": 1789442121,
     "Hoenn|Shuckle|Seafloor Cavern|497067": 1789443317,
@@ -999,6 +998,7 @@
     "Kanto|Zangoose|Route 14|497594": 1791340228,
     "Hoenn|Murkrow|Jagged Pass|497595": 1791343827,
     "Sinnoh|Tauros|Valor Lakefront|497595": 1791344421,
-    "Hoenn|Hitmonchan|Fiery Path|497597": 1791350122
+    "Hoenn|Hitmonchan|Fiery Path|497597": 1791350122,
+    "Kanto|Cradily|Tanoby Ruins|497597": 1791352219
   }
 }
