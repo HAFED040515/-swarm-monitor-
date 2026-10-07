@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Sharpedo|Water Labyrinth|497061": 1789422621,
     "Unova|Ninjask|Route 11|497061": 1789422621,
     "Hoenn|Swampert|Route 109|497061": 1789422953,
     "Unova|Volcarona|Relic Castle|497063": 1789428023,
@@ -999,6 +998,7 @@
     "Johto|Yanmega|Route 44|497591": 1791331236,
     "Hoenn|Luvdisc|Route 132|497592": 1791333317,
     "Kanto|Absol|Canyon Entrance|497592": 1791334515,
-    "Unova|Minun|Route 6|497592": 1791334515
+    "Unova|Minun|Route 6|497592": 1791334515,
+    "Hoenn|Kecleon|Route 120|497594": 1791338716
   }
 }
