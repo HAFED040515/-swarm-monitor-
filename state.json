@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Granbull|Route 34|497071": 1789459233,
     "Sinnoh|Miltank|Route 214|497072": 1789460121,
     "Unova|Cherubi|Route 16|497072": 1789461620,
     "Hoenn|Lapras|Shoal Cave|497073": 1789463721,
@@ -999,6 +998,7 @@
     "Kanto|Omastar|Tanoby Ruins|497601": 1791363917,
     "Kanto|Bulbasaur|Viridian Forest|497602": 1791367518,
     "Sinnoh|Chimchar|Route 211|497602": 1791368120,
-    "Unova|Salamence|Dragonspiral Tower|497602": 1791368717
+    "Unova|Salamence|Dragonspiral Tower|497602": 1791368717,
+    "Kanto|Croagunk|Route 6|497602": 1791370840
   }
 }
