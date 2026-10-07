@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cherubi|Route 16|497072": 1789461620,
     "Hoenn|Lapras|Shoal Cave|497073": 1789463721,
     "Unova|Salamence|Dragonspiral Tower|497073": 1789465820,
     "Kanto|Dragonite|Six Island|497074": 1789467321,
@@ -999,6 +998,7 @@
     "Sinnoh|Chimchar|Route 211|497602": 1791368120,
     "Unova|Salamence|Dragonspiral Tower|497602": 1791368717,
     "Kanto|Croagunk|Route 6|497602": 1791370840,
-    "Johto|Porygon-Z|Team Rocket HQ|497603": 1791372021
+    "Johto|Porygon-Z|Team Rocket HQ|497603": 1791372021,
+    "Hoenn|Combusken|Route 114|497604": 1791375919
   }
 }
