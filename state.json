@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Yanma|Route 205|497076": 1789476623,
     "Johto|Tentacruel|Route 47|497076": 1789477237,
     "Kanto|Kirlia|Route 8|497077": 1789478422,
     "Hoenn|Combusken|Route 114|497077": 1789479316,
@@ -999,6 +998,7 @@
     "Kanto|Wailord|Green Path|497605": 1791380724,
     "Johto|Snorlax|Victory Road|497607": 1791385518,
     "Hoenn|Metagross|Meteor Falls|497607": 1791387034,
-    "Sinnoh|Weavile|Route 217|497607": 1791388220
+    "Sinnoh|Weavile|Route 217|497607": 1791388220,
+    "Unova|Hippowdon|Mistralton Cave|497609": 1791392720
   }
 }
