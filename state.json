@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Castform|Aqua Hideout|497079": 1789487122,
     "Johto|Chimecho|Bellchime Trail|497079": 1789488038,
     "Unova|Togetic|Dreamyard|497080": 1789489830,
     "Kanto|Charmeleon|Rock Tunnel|497080": 1789491021,
@@ -999,6 +998,7 @@
     "Johto|Volcarona|Bell Tower|497609": 1791393324,
     "Hoenn|Finneon|Route 107|497609": 1791393623,
     "Unova|Metagross|Giant Chasm|497610": 1791398119,
-    "Kanto|Houndoom|Kindle Road|497610": 1791398721
+    "Kanto|Houndoom|Kindle Road|497610": 1791398721,
+    "Sinnoh|Drifblim|Route 222|497611": 1791400819
   }
 }
