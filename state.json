@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Remoraid|Route 108|497088": 1789518915,
     "Unova|Ninjask|Route 11|497089": 1789522517,
     "Kanto|Wormadam|Pattern Bush|497089": 1789523121,
     "Sinnoh|Whiscash|Ravaged Path|497089": 1789523716,
@@ -999,6 +998,7 @@
     "Sinnoh|Castform|Route 210|497620": 1791435316,
     "Unova|Skorupi|Desert Resort|497620": 1791435635,
     "Johto|Cyndaquil|Route 33|497621": 1791437716,
-    "Hoenn|Spiritomb|Abandoned Ship|497622": 1791440718
+    "Hoenn|Spiritomb|Abandoned Ship|497622": 1791440718,
+    "Sinnoh|Mr. Mime|Route 224|497622": 1791442221
   }
 }
