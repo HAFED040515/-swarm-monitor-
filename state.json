@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Ursaring|Union Cave|497095": 1789543221,
     "Hoenn|Munna|Route 102|497096": 1789547427,
     "Kanto|Wartortle|Seafoam Islands|497096": 1789548321,
     "Unova|Farfetch&#x27;d|Route 1|497097": 1789549517,
@@ -999,6 +998,7 @@
     "Johto|Quilava|Route 42|497625": 1791452721,
     "Hoenn|Blissey|Artisan Cave|497626": 1791454820,
     "Unova|Leafeon|Pinwheel Forest|497626": 1791455429,
-    "Johto|Chikorita|Route 31|497626": 1791456322
+    "Johto|Chikorita|Route 31|497626": 1791456322,
+    "Johto|Chikorita|Route 31|497628": 1791462650
   }
 }
