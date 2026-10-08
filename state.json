@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Kangaskhan|Dark Cave|497104": 1789575916,
     "Hoenn|Pineco|Route 103|497104": 1789575916,
     "Hoenn|Skitty|Route 116|497105": 1789578921,
     "Johto|Luvdisc|Route 47|497105": 1789581020,
@@ -999,6 +998,7 @@
     "Johto|Kangaskhan|Dark Cave|497633": 1791480318,
     "Unova|Honchkrow|Celestial Tower|497634": 1791485717,
     "Kanto|Jolteon|Ruin Valley|497635": 1791487221,
-    "Hoenn|Croagunk|Route 121|497635": 1791487828
+    "Hoenn|Croagunk|Route 121|497635": 1791487828,
+    "Sinnoh|Nosepass|Oreburgh Gate|497636": 1791491118
   }
 }
