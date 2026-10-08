@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pinsir|Route 12|497093": 1789537820,
     "Kanto|Murkrow|Route 7|497094": 1789540228,
     "Johto|Ursaring|Union Cave|497095": 1789543221,
     "Hoenn|Munna|Route 102|497096": 1789547427,
@@ -999,6 +998,7 @@
     "Sinnoh|Hippopotas|Maniac Tunnel|497625": 1791450928,
     "Kanto|Salamence|Victory Road|497625": 1791452421,
     "Johto|Quilava|Route 42|497625": 1791452721,
-    "Hoenn|Blissey|Artisan Cave|497626": 1791454820
+    "Hoenn|Blissey|Artisan Cave|497626": 1791454820,
+    "Unova|Leafeon|Pinwheel Forest|497626": 1791455429
   }
 }
