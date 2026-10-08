@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Torterra|Route 212|497100": 1789563021,
     "Johto|Meganium|Route 48|497102": 1789567821,
     "Hoenn|Wailord|Route 129|497102": 1789567821,
     "Sinnoh|Combee|Floaroma Meadow|497102": 1789568717,
@@ -999,6 +998,7 @@
     "Hoenn|Salamence|Meteor Falls|497629": 1791468922,
     "Unova|Miltank|Village Bridge|497630": 1791469517,
     "Kanto|Bulbasaur|Viridian Forest|497631": 1791472820,
-    "Sinnoh|Lucario|Iron Island|497631": 1791474319
+    "Sinnoh|Lucario|Iron Island|497631": 1791474319,
+    "Sinnoh|Whiscash|Ravaged Path|497632": 1791477621
   }
 }
