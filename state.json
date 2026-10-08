@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Electabuzz|Chargestone Cave|497099": 1789558822,
     "Kanto|Chatot|Treasure Beach|497099": 1789559420,
     "Sinnoh|Torterra|Route 212|497100": 1789563021,
     "Johto|Meganium|Route 48|497102": 1789567821,
@@ -999,6 +998,7 @@
     "Sinnoh|Snorlax|Victory Road|497628": 1791464441,
     "Johto|Croconaw|Whirl Islands|497629": 1791467419,
     "Hoenn|Salamence|Meteor Falls|497629": 1791468922,
-    "Unova|Miltank|Village Bridge|497630": 1791469517
+    "Unova|Miltank|Village Bridge|497630": 1791469517,
+    "Kanto|Bulbasaur|Viridian Forest|497631": 1791472820
   }
 }
