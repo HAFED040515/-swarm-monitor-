@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Murkrow|Route 7|497094": 1789540228,
     "Johto|Ursaring|Union Cave|497095": 1789543221,
     "Hoenn|Munna|Route 102|497096": 1789547427,
     "Kanto|Wartortle|Seafoam Islands|497096": 1789548321,
@@ -999,6 +998,7 @@
     "Kanto|Salamence|Victory Road|497625": 1791452421,
     "Johto|Quilava|Route 42|497625": 1791452721,
     "Hoenn|Blissey|Artisan Cave|497626": 1791454820,
-    "Unova|Leafeon|Pinwheel Forest|497626": 1791455429
+    "Unova|Leafeon|Pinwheel Forest|497626": 1791455429,
+    "Johto|Chikorita|Route 31|497626": 1791456322
   }
 }
