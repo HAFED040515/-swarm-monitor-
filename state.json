@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Skitty|Route 116|497105": 1789578921,
     "Johto|Luvdisc|Route 47|497105": 1789581020,
     "Unova|Volcarona|Relic Castle|497105": 1789581020,
     "Johto|Typhlosion|Route 45|497107": 1789586715,
@@ -999,6 +998,7 @@
     "Kanto|Jolteon|Ruin Valley|497635": 1791487221,
     "Hoenn|Croagunk|Route 121|497635": 1791487828,
     "Sinnoh|Nosepass|Oreburgh Gate|497636": 1791491118,
-    "Unova|Musharna|Dreamyard|497636": 1791492621
+    "Unova|Musharna|Dreamyard|497636": 1791492621,
+    "Kanto|Sharpedo|Water Labyrinth|497636": 1791492916
   }
 }
