@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Whiscash|Ravaged Path|497089": 1789523716,
     "Johto|Togetic|Route 27|497090": 1789526116,
     "Unova|Zangoose|Route 7|497090": 1789526420,
     "Hoenn|Corsola|Route 128|497091": 1789529425,
@@ -999,6 +998,7 @@
     "Hoenn|Spiritomb|Abandoned Ship|497622": 1791440718,
     "Sinnoh|Mr. Mime|Route 224|497622": 1791442221,
     "Unova|Metagross|Giant Chasm|497622": 1791442836,
-    "Kanto|Tauros|Route 17|497623": 1791443118
+    "Kanto|Tauros|Route 17|497623": 1791443118,
+    "Johto|Volcarona|Bell Tower|497623": 1791445219
   }
 }
