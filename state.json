@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Exeggcute|Route 30|497087": 1789515925,
     "Unova|Seviper|Route 1|497087": 1789516836,
     "Hoenn|Remoraid|Route 108|497088": 1789518915,
     "Unova|Ninjask|Route 11|497089": 1789522517,
@@ -999,6 +998,7 @@
     "Unova|Pinsir|Route 12|497619": 1791430821,
     "Kanto|Venusaur|Berry Forest|497619": 1791431715,
     "Sinnoh|Castform|Route 210|497620": 1791435316,
-    "Unova|Skorupi|Desert Resort|497620": 1791435635
+    "Unova|Skorupi|Desert Resort|497620": 1791435635,
+    "Johto|Cyndaquil|Route 33|497621": 1791437716
   }
 }
