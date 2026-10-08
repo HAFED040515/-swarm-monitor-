@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Volcarona|Relic Castle|497105": 1789581020,
     "Johto|Typhlosion|Route 45|497107": 1789586715,
     "Kanto|Dewgong|Four Island|497107": 1789588221,
     "Sinnoh|Ambipom|Route 216|497108": 1789589421,
@@ -999,6 +998,7 @@
     "Sinnoh|Nosepass|Oreburgh Gate|497636": 1791491118,
     "Unova|Musharna|Dreamyard|497636": 1791492621,
     "Kanto|Sharpedo|Water Labyrinth|497636": 1791492916,
-    "Johto|Exeggcute|Route 30|497636": 1791493234
+    "Johto|Exeggcute|Route 30|497636": 1791493234,
+    "Hoenn|Volcarona|Scorched Slab|497638": 1791498316
   }
 }
