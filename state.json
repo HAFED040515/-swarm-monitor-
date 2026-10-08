@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Volcarona|Relic Castle|497102": 1789569028,
     "Kanto|Nosepass|Mt. Moon|497102": 1789569620,
     "Unova|Sandslash|Desert Resort|497103": 1789572664,
     "Johto|Kangaskhan|Dark Cave|497104": 1789575916,
@@ -999,6 +998,7 @@
     "Sinnoh|Whiscash|Ravaged Path|497632": 1791477621,
     "Hoenn|Qwilfish|Route 125|497632": 1791478518,
     "Kanto|Armaldo|Tanoby Ruins|497633": 1791480019,
-    "Johto|Kangaskhan|Dark Cave|497633": 1791480318
+    "Johto|Kangaskhan|Dark Cave|497633": 1791480318,
+    "Unova|Honchkrow|Celestial Tower|497634": 1791485717
   }
 }
