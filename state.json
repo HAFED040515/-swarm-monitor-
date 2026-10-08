@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Pineco|Route 103|497104": 1789575916,
     "Hoenn|Skitty|Route 116|497105": 1789578921,
     "Johto|Luvdisc|Route 47|497105": 1789581020,
     "Unova|Volcarona|Relic Castle|497105": 1789581020,
@@ -999,6 +998,7 @@
     "Unova|Honchkrow|Celestial Tower|497634": 1791485717,
     "Kanto|Jolteon|Ruin Valley|497635": 1791487221,
     "Hoenn|Croagunk|Route 121|497635": 1791487828,
-    "Sinnoh|Nosepass|Oreburgh Gate|497636": 1791491118
+    "Sinnoh|Nosepass|Oreburgh Gate|497636": 1791491118,
+    "Unova|Musharna|Dreamyard|497636": 1791492621
   }
 }
