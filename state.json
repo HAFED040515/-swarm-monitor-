@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Wailord|Route 129|497102": 1789567821,
     "Sinnoh|Combee|Floaroma Meadow|497102": 1789568717,
     "Unova|Volcarona|Relic Castle|497102": 1789569028,
     "Kanto|Nosepass|Mt. Moon|497102": 1789569620,
@@ -999,6 +998,7 @@
     "Kanto|Bulbasaur|Viridian Forest|497631": 1791472820,
     "Sinnoh|Lucario|Iron Island|497631": 1791474319,
     "Sinnoh|Whiscash|Ravaged Path|497632": 1791477621,
-    "Hoenn|Qwilfish|Route 125|497632": 1791478518
+    "Hoenn|Qwilfish|Route 125|497632": 1791478518,
+    "Kanto|Armaldo|Tanoby Ruins|497633": 1791480019
   }
 }
