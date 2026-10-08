@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Hippowdon|Victory Road|497084": 1789506037,
     "Sinnoh|Kecleon|Route 229|497085": 1789506621,
     "Sinnoh|Chimchar|Route 211|497086": 1789510220,
     "Kanto|Bulbasaur|Viridian Forest|497086": 1789510821,
@@ -999,6 +998,7 @@
     "Unova|Yanma|Pinwheel Forest|497617": 1791422421,
     "Johto|Skitty|Route 35|497617": 1791423919,
     "Sinnoh|Torterra|Route 212|497617": 1791424515,
-    "Kanto|Murkrow|Route 7|497618": 1791426315
+    "Kanto|Murkrow|Route 7|497618": 1791426315,
+    "Hoenn|Seviper|Route 121|497619": 1791430232
   }
 }
