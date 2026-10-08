@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Porygon2|P2 Laboratory|497098": 1789553720,
     "Sinnoh|Infernape|Route 221|497098": 1789556434,
     "Unova|Electabuzz|Chargestone Cave|497099": 1789558822,
     "Kanto|Chatot|Treasure Beach|497099": 1789559420,
@@ -999,6 +998,7 @@
     "Johto|Chikorita|Route 31|497628": 1791462650,
     "Kanto|Sharpedo|Water Labyrinth|497628": 1791464441,
     "Sinnoh|Snorlax|Victory Road|497628": 1791464441,
-    "Johto|Croconaw|Whirl Islands|497629": 1791467419
+    "Johto|Croconaw|Whirl Islands|497629": 1791467419,
+    "Hoenn|Salamence|Meteor Falls|497629": 1791468922
   }
 }
