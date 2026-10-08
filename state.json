@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Barboach|Slowpoke Well|497082": 1789495820,
     "Kanto|Magnezone|Power Plant|497083": 1789501221,
     "Hoenn|Murkrow|Jagged Pass|497083": 1789501221,
     "Johto|Croconaw|Whirl Islands|497083": 1789502435,
@@ -999,6 +998,7 @@
     "Unova|Volbeat|Route 8|497614": 1791411619,
     "Kanto|Chatot|Treasure Beach|497615": 1791415514,
     "Johto|Shuckle|Cliff Cave|497616": 1791418822,
-    "Hoenn|Luvdisc|Route 132|497617": 1791421821
+    "Hoenn|Luvdisc|Route 132|497617": 1791421821,
+    "Unova|Yanma|Pinwheel Forest|497617": 1791422421
   }
 }
