@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Corsola|Route 128|497091": 1789529425,
     "Johto|Ditto|Route 34|497091": 1789529753,
     "Kanto|Aerodactyl|Rixy Chamber|497091": 1789530019,
     "Hoenn|Chimecho|Mt. Pyre|497092": 1789534515,
@@ -999,6 +998,7 @@
     "Kanto|Tauros|Route 17|497623": 1791443118,
     "Johto|Volcarona|Bell Tower|497623": 1791445219,
     "Unova|Corsola|Undella Bay|497623": 1791446116,
-    "Hoenn|Blaziken|Magma Hideout|497624": 1791447624
+    "Hoenn|Blaziken|Magma Hideout|497624": 1791447624,
+    "Unova|Illumise|Moor of Icirrus|497625": 1791450317
   }
 }
