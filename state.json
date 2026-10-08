@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Treecko|Petalburg Woods|497081": 1789494619,
     "Unova|Seviper|Route 1|497081": 1789494919,
     "Johto|Barboach|Slowpoke Well|497082": 1789495820,
     "Kanto|Magnezone|Power Plant|497083": 1789501221,
@@ -999,6 +998,7 @@
     "Sinnoh|Exeggutor|Route 230|497613": 1791407724,
     "Hoenn|Munna|Route 102|497613": 1791410117,
     "Unova|Volbeat|Route 8|497614": 1791411619,
-    "Kanto|Chatot|Treasure Beach|497615": 1791415514
+    "Kanto|Chatot|Treasure Beach|497615": 1791415514,
+    "Johto|Shuckle|Cliff Cave|497616": 1791418822
   }
 }
