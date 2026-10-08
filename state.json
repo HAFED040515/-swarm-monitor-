@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Bulbasaur|Viridian Forest|497086": 1789510821,
     "Hoenn|Cloyster|Route 133|497086": 1789510821,
     "Johto|Exeggcute|Route 30|497087": 1789515925,
     "Unova|Seviper|Route 1|497087": 1789516836,
@@ -999,6 +998,7 @@
     "Kanto|Murkrow|Route 7|497618": 1791426315,
     "Hoenn|Seviper|Route 121|497619": 1791430232,
     "Unova|Pinsir|Route 12|497619": 1791430821,
-    "Kanto|Venusaur|Berry Forest|497619": 1791431715
+    "Kanto|Venusaur|Berry Forest|497619": 1791431715,
+    "Sinnoh|Castform|Route 210|497620": 1791435316
   }
 }
