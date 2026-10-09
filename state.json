@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Salamence|Dragonspiral Tower|497114": 1789613718,
     "Kanto|Nidorina|Route 3|497114": 1789614038,
     "Hoenn|Dragonite|Route 131|497116": 1789619427,
     "Unova|Volcarona|Relic Castle|497116": 1789620022,
@@ -999,6 +998,7 @@
     "Unova|Heracross|Route 10|497644": 1791520516,
     "Sinnoh|Mr. Mime|Route 224|497645": 1791522623,
     "Johto|Bonsly|Ilex Forest|497646": 1791527716,
-    "Sinnoh|Carnivine|Route 225|497646": 1791528320
+    "Sinnoh|Carnivine|Route 225|497646": 1791528320,
+    "Hoenn|Togekiss|Sky Pillar|497647": 1791530943
   }
 }
