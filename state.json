@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Rotom|Power Plant|497133": 1789679421,
     "Johto|Totodile|Route 32|497133": 1789680021,
     "Hoenn|Chatot|Route 115|497133": 1789680919,
     "Unova|Salamence|Dragonspiral Tower|497135": 1789687828,
@@ -999,6 +998,7 @@
     "Kanto|Heracross|Route 16|497660": 1791577827,
     "Hoenn|Munna|Route 102|497660": 1791577827,
     "Johto|Absol|Route 28|497661": 1791581435,
-    "Sinnoh|Prinplup|Route 220|497661": 1791581435
+    "Sinnoh|Prinplup|Route 220|497661": 1791581435,
+    "Unova|Togetic|Dreamyard|497661": 1791581715
   }
 }
