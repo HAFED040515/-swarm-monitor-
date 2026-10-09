@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Miltank|Route 39|497108": 1789591221,
     "Hoenn|Luvdisc|Route 132|497108": 1789591221,
     "Sinnoh|Zangoose|Route 205|497109": 1789595715,
     "Hoenn|Hitmonchan|Fiery Path|497110": 1789596921,
@@ -999,6 +998,7 @@
     "Sinnoh|Furret|Route 208|497640": 1791507020,
     "Unova|Plusle|Route 5|497641": 1791508823,
     "Hoenn|Vaporeon|Route 134|497641": 1791509115,
-    "Kanto|Kabutops|Tanoby Ruins|497642": 1791513316
+    "Kanto|Kabutops|Tanoby Ruins|497642": 1791513316,
+    "Sinnoh|Empoleon|Lake Acuity|497642": 1791513621
   }
 }
