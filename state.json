@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Magby|Mt. Chimney|497123": 1789645220,
     "Unova|Volbeat|Route 8|497123": 1789646117,
     "Kanto|Relicanth|Tanoby Ruins|497126": 1789654520,
     "Johto|Shuckle|Cliff Cave|497126": 1789654822,
@@ -999,6 +998,7 @@
     "Johto|Misdreavus|Sprout Tower|497653": 1791551118,
     "Hoenn|Togekiss|Sky Pillar|497654": 1791554718,
     "Kanto|Absol|Canyon Entrance|497654": 1791555025,
-    "Unova|Skorupi|Desert Resort|497654": 1791556821
+    "Unova|Skorupi|Desert Resort|497654": 1791556821,
+    "Sinnoh|Absol|Mt. Coronet|497654": 1791557123
   }
 }
