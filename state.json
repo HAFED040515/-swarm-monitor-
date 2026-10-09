@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Skitty|Route 35|497114": 1789612227,
     "Kanto|Pinsir|Route 11|497114": 1789612517,
     "Unova|Salamence|Dragonspiral Tower|497114": 1789613718,
     "Kanto|Nidorina|Route 3|497114": 1789614038,
@@ -999,6 +998,7 @@
     "Johto|Barboach|Slowpoke Well|497643": 1791517520,
     "Hoenn|Corsola|Route 128|497643": 1791518116,
     "Unova|Heracross|Route 10|497644": 1791520516,
-    "Sinnoh|Mr. Mime|Route 224|497645": 1791522623
+    "Sinnoh|Mr. Mime|Route 224|497645": 1791522623,
+    "Johto|Bonsly|Ilex Forest|497646": 1791527716
   }
 }
