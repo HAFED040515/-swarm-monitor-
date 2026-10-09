@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Dragonite|Route 131|497116": 1789619427,
     "Unova|Volcarona|Relic Castle|497116": 1789620022,
     "Hoenn|Blaziken|Magma Hideout|497118": 1789627822,
     "Sinnoh|Croagunk|Route 212|497118": 1789628118,
@@ -999,6 +998,7 @@
     "Johto|Bonsly|Ilex Forest|497646": 1791527716,
     "Sinnoh|Carnivine|Route 225|497646": 1791528320,
     "Hoenn|Togekiss|Sky Pillar|497647": 1791530943,
-    "Unova|Volcarona|Relic Castle|497648": 1791533151
+    "Unova|Volcarona|Relic Castle|497648": 1791533151,
+    "Kanto|Swalot|Route 18|497648": 1791534316
   }
 }
