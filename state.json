@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Zorua|Route 101|497127": 1789658121,
     "Sinnoh|Kirlia|Snowpoint Temple|497128": 1789661116,
     "Hoenn|Lapras|Shoal Cave|497129": 1789665922,
     "Johto|Kangaskhan|Dark Cave|497129": 1789666229,
@@ -999,6 +998,7 @@
     "Hoenn|Azumarill|Route 123|497655": 1791559828,
     "Sinnoh|Rotom|Old Chateau|497656": 1791562520,
     "Kanto|Starmie|Seven Island|497656": 1791564916,
-    "Unova|Furret|Abundant Shrine|497656": 1791564916
+    "Unova|Furret|Abundant Shrine|497656": 1791564916,
+    "Johto|Kangaskhan|Dark Cave|497658": 1791571519
   }
 }
