@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Totodile|Route 32|497133": 1789680021,
     "Hoenn|Chatot|Route 115|497133": 1789680919,
     "Unova|Salamence|Dragonspiral Tower|497135": 1789687828,
     "Kanto|Jolteon|Ruin Valley|497135": 1789688723,
@@ -999,6 +998,7 @@
     "Hoenn|Munna|Route 102|497660": 1791577827,
     "Johto|Absol|Route 28|497661": 1791581435,
     "Sinnoh|Prinplup|Route 220|497661": 1791581435,
-    "Unova|Togetic|Dreamyard|497661": 1791581715
+    "Unova|Togetic|Dreamyard|497661": 1791581715,
+    "Sinnoh|Luxray|Lake Verity|497661": 1791583818
   }
 }
