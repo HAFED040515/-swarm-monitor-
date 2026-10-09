@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Charmander|Route 3|497123": 1789644629,
     "Johto|Vigoroth|Ruins of Alph|497123": 1789644917,
     "Hoenn|Magby|Mt. Chimney|497123": 1789645220,
     "Unova|Volbeat|Route 8|497123": 1789646117,
@@ -999,6 +998,7 @@
     "Hoenn|Sudowoodo|Battle Frontier|497651": 1791546917,
     "Unova|Lucario|Guidance Chamber|497652": 1791549920,
     "Johto|Misdreavus|Sprout Tower|497653": 1791551118,
-    "Hoenn|Togekiss|Sky Pillar|497654": 1791554718
+    "Hoenn|Togekiss|Sky Pillar|497654": 1791554718,
+    "Kanto|Absol|Canyon Entrance|497654": 1791555025
   }
 }
