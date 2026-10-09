@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Lapras|Shoal Cave|497129": 1789665922,
     "Johto|Kangaskhan|Dark Cave|497129": 1789666229,
     "Sinnoh|Carnivine|Route 225|497129": 1789666516,
     "Kanto|Ivysaur|Route 5|497130": 1789668316,
@@ -999,6 +998,7 @@
     "Kanto|Starmie|Seven Island|497656": 1791564916,
     "Unova|Furret|Abundant Shrine|497656": 1791564916,
     "Johto|Kangaskhan|Dark Cave|497658": 1791571519,
-    "Sinnoh|Combee|Floaroma Meadow|497658": 1791572437
+    "Sinnoh|Combee|Floaroma Meadow|497658": 1791572437,
+    "Unova|Yanma|Pinwheel Forest|497659": 1791572716
   }
 }
