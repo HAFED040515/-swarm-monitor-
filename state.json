@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Seviper|Route 15|497119": 1789631120,
     "Johto|Shuckle|Cliff Cave|497119": 1789631715,
     "Johto|Houndoom|Burned Tower|497121": 1789638620,
     "Hoenn|Magby|Mt. Chimney|497121": 1789638620,
@@ -999,6 +998,7 @@
     "Hoenn|Hitmonchan|Fiery Path|497649": 1791538227,
     "Johto|Shroomish|Route 34|497649": 1791539717,
     "Kanto|Nidorina|Route 3|497649": 1791540034,
-    "Sinnoh|Vigoroth|Route 215|497651": 1791546320
+    "Sinnoh|Vigoroth|Route 215|497651": 1791546320,
+    "Hoenn|Sudowoodo|Battle Frontier|497651": 1791546917
   }
 }
