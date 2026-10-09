@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Croagunk|Route 212|497118": 1789628118,
     "Unova|Togetic|Dreamyard|497118": 1789628118,
     "Unova|Cloyster|Challenger&#x27;s Cave|497119": 1789630821,
     "Kanto|Seviper|Route 15|497119": 1789631120,
@@ -999,6 +998,7 @@
     "Unova|Volcarona|Relic Castle|497648": 1791533151,
     "Kanto|Swalot|Route 18|497648": 1791534316,
     "Sinnoh|Shuckle|Route 219|497648": 1791535821,
-    "Hoenn|Hitmonchan|Fiery Path|497649": 1791538227
+    "Hoenn|Hitmonchan|Fiery Path|497649": 1791538227,
+    "Johto|Shroomish|Route 34|497649": 1791539717
   }
 }
