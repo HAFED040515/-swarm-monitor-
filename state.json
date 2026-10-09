@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Seviper|Route 1|497112": 1789603819,
     "Hoenn|Vaporeon|Route 134|497113": 1789609520,
     "Johto|Skitty|Route 35|497114": 1789612227,
     "Kanto|Pinsir|Route 11|497114": 1789612517,
@@ -999,6 +998,7 @@
     "Hoenn|Cloyster|Route 133|497642": 1791513922,
     "Kanto|Vespiquen|Five Isle Meadow|497643": 1791517220,
     "Johto|Barboach|Slowpoke Well|497643": 1791517520,
-    "Hoenn|Corsola|Route 128|497643": 1791518116
+    "Hoenn|Corsola|Route 128|497643": 1791518116,
+    "Unova|Heracross|Route 10|497644": 1791520516
   }
 }
