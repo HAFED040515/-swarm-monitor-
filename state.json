@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Carnivine|Route 225|497129": 1789666516,
     "Kanto|Ivysaur|Route 5|497130": 1789668316,
     "Hoenn|Hitmonchan|Fiery Path|497130": 1789671639,
     "Kanto|Charmander|Route 3|497131": 1789671917,
@@ -999,6 +998,7 @@
     "Johto|Kangaskhan|Dark Cave|497658": 1791571519,
     "Sinnoh|Combee|Floaroma Meadow|497658": 1791572437,
     "Unova|Yanma|Pinwheel Forest|497659": 1791572716,
-    "Unova|Miltank|Village Bridge|497660": 1791576316
+    "Unova|Miltank|Village Bridge|497660": 1791576316,
+    "Johto|Shelgon|Dragon&#x27;s Den|497660": 1791576619
   }
 }
