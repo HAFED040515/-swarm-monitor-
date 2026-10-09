@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Ambipom|Route 216|497108": 1789589421,
     "Unova|Furret|Abundant Shrine|497108": 1789590022,
     "Johto|Miltank|Route 39|497108": 1789591221,
     "Hoenn|Luvdisc|Route 132|497108": 1789591221,
@@ -999,6 +998,7 @@
     "Johto|Exeggcute|Route 30|497636": 1791493234,
     "Hoenn|Volcarona|Scorched Slab|497638": 1791498316,
     "Sinnoh|Furret|Route 208|497640": 1791507020,
-    "Unova|Plusle|Route 5|497641": 1791508823
+    "Unova|Plusle|Route 5|497641": 1791508823,
+    "Hoenn|Vaporeon|Route 134|497641": 1791509115
   }
 }
