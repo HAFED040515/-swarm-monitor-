@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Bayleef|National Park|497112": 1789603819,
     "Unova|Seviper|Route 1|497112": 1789603819,
     "Hoenn|Vaporeon|Route 134|497113": 1789609520,
     "Johto|Skitty|Route 35|497114": 1789612227,
@@ -999,6 +998,7 @@
     "Sinnoh|Empoleon|Lake Acuity|497642": 1791513621,
     "Hoenn|Cloyster|Route 133|497642": 1791513922,
     "Kanto|Vespiquen|Five Isle Meadow|497643": 1791517220,
-    "Johto|Barboach|Slowpoke Well|497643": 1791517520
+    "Johto|Barboach|Slowpoke Well|497643": 1791517520,
+    "Hoenn|Corsola|Route 128|497643": 1791518116
   }
 }
