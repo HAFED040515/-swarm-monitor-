@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Houndoom|Burned Tower|497121": 1789638620,
     "Hoenn|Magby|Mt. Chimney|497121": 1789638620,
     "Kanto|Charmander|Route 3|497123": 1789644629,
     "Johto|Vigoroth|Ruins of Alph|497123": 1789644917,
@@ -999,6 +998,7 @@
     "Kanto|Nidorina|Route 3|497649": 1791540034,
     "Sinnoh|Vigoroth|Route 215|497651": 1791546320,
     "Hoenn|Sudowoodo|Battle Frontier|497651": 1791546917,
-    "Unova|Lucario|Guidance Chamber|497652": 1791549920
+    "Unova|Lucario|Guidance Chamber|497652": 1791549920,
+    "Johto|Misdreavus|Sprout Tower|497653": 1791551118
   }
 }
