@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Aipom|Cold Storage|497126": 1789656621,
-    "Unova|Minccino|Route 5|497126": 1789657518,
     "Hoenn|Zorua|Route 101|497127": 1789658121,
     "Sinnoh|Kirlia|Snowpoint Temple|497128": 1789661116,
     "Hoenn|Lapras|Shoal Cave|497129": 1789665922,
@@ -999,6 +997,8 @@
     "Johto|Metang|Ice Path|497654": 1791557716,
     "Kanto|Omastar|Tanoby Ruins|497655": 1791559828,
     "Hoenn|Azumarill|Route 123|497655": 1791559828,
-    "Sinnoh|Rotom|Old Chateau|497656": 1791562520
+    "Sinnoh|Rotom|Old Chateau|497656": 1791562520,
+    "Kanto|Starmie|Seven Island|497656": 1791564916,
+    "Unova|Furret|Abundant Shrine|497656": 1791564916
   }
 }
