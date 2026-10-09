@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Skarmory|Route 227|497126": 1789654822,
     "Unova|Aipom|Cold Storage|497126": 1789656621,
     "Unova|Minccino|Route 5|497126": 1789657518,
     "Hoenn|Zorua|Route 101|497127": 1789658121,
@@ -999,6 +998,7 @@
     "Sinnoh|Absol|Mt. Coronet|497654": 1791557123,
     "Johto|Metang|Ice Path|497654": 1791557716,
     "Kanto|Omastar|Tanoby Ruins|497655": 1791559828,
-    "Hoenn|Azumarill|Route 123|497655": 1791559828
+    "Hoenn|Azumarill|Route 123|497655": 1791559828,
+    "Sinnoh|Rotom|Old Chateau|497656": 1791562520
   }
 }
