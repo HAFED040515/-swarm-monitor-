@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Meganium|Route 48|497147": 1789731921,
     "Unova|Relicanth|Challenger&#x27;s Cave|497147": 1789731921,
     "Johto|Volcarona|Bell Tower|497148": 1789735521,
     "Hoenn|Corsola|Route 128|497149": 1789737321,
@@ -999,6 +998,7 @@
     "Sinnoh|Blissey|Floaroma Meadow|497674": 1791629119,
     "Kanto|Absol|Canyon Entrance|497675": 1791632116,
     "Johto|Barboach|Slowpoke Well|497676": 1791636620,
-    "Kanto|Houndoom|Kindle Road|497677": 1791639921
+    "Kanto|Houndoom|Kindle Road|497677": 1791639921,
+    "Sinnoh|Monferno|Route 211|497678": 1791641420
   }
 }
