@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Ninjask|Route 11|497158": 1789770026,
-    "Johto|Chikorita|Route 31|497158": 1789770317,
     "Kanto|Trapinch|Diglett&#x27;s Cave|497158": 1789772294,
     "Sinnoh|Pineco|Route 207|497159": 1789775421,
     "Sinnoh|Mr. Mime|Route 224|497160": 1789778118,
@@ -999,6 +997,8 @@
     "Hoenn|Pineco|Route 103|497684": 1791666034,
     "Johto|Luvdisc|Route 47|497685": 1791668115,
     "Hoenn|Corsola|Route 126|497685": 1791669022,
-    "Unova|Volcarona|Relic Castle|497686": 1791670519
+    "Unova|Volcarona|Relic Castle|497686": 1791670519,
+    "Kanto|Charmander|Route 3|497686": 1791671118,
+    "Sinnoh|Chimchar|Route 211|497686": 1791671118
   }
 }
