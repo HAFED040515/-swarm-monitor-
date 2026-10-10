@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Exeggutor|Route 230|497136": 1789692023,
     "Hoenn|Shuckle|Seafloor Cavern|497136": 1789692319,
     "Johto|Tauros|Route 38|497136": 1789693234,
     "Johto|Ledian|Route 37|497137": 1789694423,
@@ -999,6 +998,7 @@
     "Kanto|Wormadam|Pattern Bush|497663": 1791587419,
     "Johto|Hitmontop|Mt. Mortar|497663": 1791590436,
     "Johto|Metang|Ice Path|497664": 1791593714,
-    "Hoenn|Sharpedo|Route 127|497665": 1791594919
+    "Hoenn|Sharpedo|Route 127|497665": 1791594919,
+    "Unova|Seviper|Route 1|497666": 1791598819
   }
 }
