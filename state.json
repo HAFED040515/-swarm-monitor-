@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Tauros|Route 38|497136": 1789693234,
     "Johto|Ledian|Route 37|497137": 1789694423,
     "Kanto|Seviper|Route 15|497139": 1789701320,
     "Hoenn|Sharpedo|Route 127|497139": 1789701320,
@@ -999,6 +998,7 @@
     "Johto|Metang|Ice Path|497664": 1791593714,
     "Hoenn|Sharpedo|Route 127|497665": 1791594919,
     "Unova|Seviper|Route 1|497666": 1791598819,
-    "Kanto|Porygon|Pokemon Mansion|497666": 1791599426
+    "Kanto|Porygon|Pokemon Mansion|497666": 1791599426,
+    "Sinnoh|Chatot|Route 218|497666": 1791599515
   }
 }
