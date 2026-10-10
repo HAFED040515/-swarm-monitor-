@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Volcarona|Bell Tower|497148": 1789735521,
     "Hoenn|Corsola|Route 128|497149": 1789737321,
     "Kanto|Porygon|Pokemon Mansion|497149": 1789737630,
     "Hoenn|Nosepass|Granite Cave|497149": 1789739121,
@@ -999,6 +998,7 @@
     "Johto|Barboach|Slowpoke Well|497676": 1791636620,
     "Kanto|Houndoom|Kindle Road|497677": 1791639921,
     "Sinnoh|Monferno|Route 211|497678": 1791641420,
-    "Kanto|Snorlax|Cerulean Cave|497678": 1791643220
+    "Kanto|Snorlax|Cerulean Cave|497678": 1791643220,
+    "Unova|Seviper|Route 1|497678": 1791643749
   }
 }
