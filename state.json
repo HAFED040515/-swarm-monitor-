@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Skarmory|Route 113|497144": 1789719323,
     "Kanto|Zangoose|Route 14|497146": 1789726823,
     "Hoenn|Blissey|Artisan Cave|497147": 1789731030,
     "Sinnoh|Lucario|Iron Island|497147": 1789731030,
@@ -999,6 +998,7 @@
     "Hoenn|Cacnea|Route 111|497672": 1791619516,
     "Johto|Croconaw|Whirl Islands|497672": 1791622220,
     "Kanto|Zangoose|Route 14|497673": 1791623116,
-    "Sinnoh|Tyranitar|Stark Mountain|497673": 1791624314
+    "Sinnoh|Tyranitar|Stark Mountain|497673": 1791624314,
+    "Hoenn|Relicanth|Route 126|497674": 1791627322
   }
 }
