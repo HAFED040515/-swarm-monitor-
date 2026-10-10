@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Tentacruel|Route 47|497155": 1789762222,
     "Unova|Kangaskhan|Wellspring Cave|497156": 1789763716,
     "Hoenn|Dragonite|Route 131|497156": 1789764022,
     "Kanto|Bulbasaur|Viridian Forest|497157": 1789766422,
@@ -999,6 +998,7 @@
     "Johto|Shuckle|Cliff Cave|497684": 1791663915,
     "Unova|Shroomish|Pinwheel Forest|497684": 1791664226,
     "Sinnoh|Carnivine|Route 225|497684": 1791664515,
-    "Kanto|Wormadam|Pattern Bush|497684": 1791665119
+    "Kanto|Wormadam|Pattern Bush|497684": 1791665119,
+    "Hoenn|Pineco|Route 103|497684": 1791666034
   }
 }
