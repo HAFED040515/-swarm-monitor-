@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Bulbasaur|Viridian Forest|497157": 1789766422,
     "Unova|Ninjask|Route 11|497158": 1789770026,
     "Johto|Chikorita|Route 31|497158": 1789770317,
     "Kanto|Trapinch|Diglett&#x27;s Cave|497158": 1789772294,
@@ -999,6 +998,7 @@
     "Kanto|Wormadam|Pattern Bush|497684": 1791665119,
     "Hoenn|Pineco|Route 103|497684": 1791666034,
     "Johto|Luvdisc|Route 47|497685": 1791668115,
-    "Hoenn|Corsola|Route 126|497685": 1791669022
+    "Hoenn|Corsola|Route 126|497685": 1791669022,
+    "Unova|Volcarona|Relic Castle|497686": 1791670519
   }
 }
