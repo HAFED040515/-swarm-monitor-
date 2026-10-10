@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Nosepass|Granite Cave|497149": 1789739121,
     "Sinnoh|Hippopotas|Maniac Tunnel|497150": 1789740316,
     "Unova|Kangaskhan|Wellspring Cave|497150": 1789742726,
     "Kanto|Skorupi|Route 9|497151": 1789743917,
@@ -999,6 +998,7 @@
     "Kanto|Snorlax|Cerulean Cave|497678": 1791643220,
     "Unova|Seviper|Route 1|497678": 1791643749,
     "Johto|Meganium|Route 48|497679": 1791647420,
-    "Hoenn|Sharpedo|Route 127|497679": 1791647420
+    "Hoenn|Sharpedo|Route 127|497679": 1791647420,
+    "Johto|Miltank|Route 47|497679": 1791647715
   }
 }
