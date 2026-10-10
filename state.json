@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Metang|Ice Path|497143": 1789717823,
     "Sinnoh|Combee|Floaroma Meadow|497144": 1789718718,
     "Hoenn|Skarmory|Route 113|497144": 1789719323,
     "Kanto|Zangoose|Route 14|497146": 1789726823,
@@ -999,6 +998,7 @@
     "Hoenn|Combee|Route 117|497670": 1791615315,
     "Unova|Illumise|Moor of Icirrus|497671": 1791618915,
     "Hoenn|Cacnea|Route 111|497672": 1791619516,
-    "Johto|Croconaw|Whirl Islands|497672": 1791622220
+    "Johto|Croconaw|Whirl Islands|497672": 1791622220,
+    "Kanto|Zangoose|Route 14|497673": 1791623116
   }
 }
