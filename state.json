@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Fearow|Treasure Beach|497142": 1789714222,
     "Johto|Metang|Ice Path|497143": 1789717823,
     "Sinnoh|Combee|Floaroma Meadow|497144": 1789718718,
     "Hoenn|Skarmory|Route 113|497144": 1789719323,
@@ -999,6 +998,7 @@
     "Kanto|Trapinch|Diglett&#x27;s Cave|497669": 1791611716,
     "Hoenn|Combee|Route 117|497670": 1791615315,
     "Unova|Illumise|Moor of Icirrus|497671": 1791618915,
-    "Hoenn|Cacnea|Route 111|497672": 1791619516
+    "Hoenn|Cacnea|Route 111|497672": 1791619516,
+    "Johto|Croconaw|Whirl Islands|497672": 1791622220
   }
 }
