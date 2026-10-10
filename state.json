@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Zangoose|Route 14|497140": 1789707020,
     "Johto|Shroomish|Route 34|497140": 1789707634,
     "Unova|Skorupi|Desert Resort|497142": 1789711518,
     "Hoenn|Chimecho|Mt. Pyre|497142": 1789713620,
@@ -999,6 +998,7 @@
     "Hoenn|Wailord|Route 129|497667": 1791603920,
     "Hoenn|Sharpedo|Route 127|497668": 1791607219,
     "Johto|Skarmory|Route 26|497669": 1791609020,
-    "Unova|Ninjask|Route 11|497669": 1791611418
+    "Unova|Ninjask|Route 11|497669": 1791611418,
+    "Kanto|Trapinch|Diglett&#x27;s Cave|497669": 1791611716
   }
 }
