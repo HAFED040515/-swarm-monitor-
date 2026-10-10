@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Blissey|Artisan Cave|497147": 1789731030,
     "Sinnoh|Lucario|Iron Island|497147": 1789731030,
     "Kanto|Rotom|Power Plant|497147": 1789731921,
     "Johto|Meganium|Route 48|497147": 1789731921,
@@ -999,6 +998,7 @@
     "Kanto|Zangoose|Route 14|497673": 1791623116,
     "Sinnoh|Tyranitar|Stark Mountain|497673": 1791624314,
     "Hoenn|Relicanth|Route 126|497674": 1791627322,
-    "Sinnoh|Blissey|Floaroma Meadow|497674": 1791629119
+    "Sinnoh|Blissey|Floaroma Meadow|497674": 1791629119,
+    "Kanto|Absol|Canyon Entrance|497675": 1791632116
   }
 }
