@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Dragonite|Route 131|497156": 1789764022,
     "Kanto|Bulbasaur|Viridian Forest|497157": 1789766422,
     "Unova|Ninjask|Route 11|497158": 1789770026,
     "Johto|Chikorita|Route 31|497158": 1789770317,
@@ -999,6 +998,7 @@
     "Sinnoh|Carnivine|Route 225|497684": 1791664515,
     "Kanto|Wormadam|Pattern Bush|497684": 1791665119,
     "Hoenn|Pineco|Route 103|497684": 1791666034,
-    "Johto|Luvdisc|Route 47|497685": 1791668115
+    "Johto|Luvdisc|Route 47|497685": 1791668115,
+    "Hoenn|Corsola|Route 126|497685": 1791669022
   }
 }
