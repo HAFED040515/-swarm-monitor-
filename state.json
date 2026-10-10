@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Sharpedo|Route 127|497139": 1789701320,
     "Johto|Shelgon|Dragon&#x27;s Den|497139": 1789702229,
     "Unova|Farfetch&#x27;d|Route 1|497139": 1789703121,
     "Sinnoh|Chimchar|Route 211|497140": 1789705224,
@@ -999,6 +998,7 @@
     "Kanto|Porygon|Pokemon Mansion|497666": 1791599426,
     "Sinnoh|Chatot|Route 218|497666": 1791599515,
     "Johto|Skarmory|Route 26|497667": 1791601820,
-    "Kanto|Minun|Route 22|497667": 1791603027
+    "Kanto|Minun|Route 22|497667": 1791603027,
+    "Hoenn|Wailord|Route 129|497667": 1791603920
   }
 }
