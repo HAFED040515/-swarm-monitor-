@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Ninetales|Route 37|497151": 1789746623,
-    "Kanto|Houndoom|Kindle Road|497153": 1789751120,
     "Sinnoh|Torterra|Route 212|497153": 1789751424,
     "Unova|Aipom|Cold Storage|497153": 1789752635,
     "Hoenn|Bellossom|Route 123|497153": 1789752916,
@@ -999,6 +997,8 @@
     "Unova|Skorupi|Desert Resort|497679": 1791648034,
     "Kanto|Snorlax|Cerulean Cave|497680": 1791650117,
     "Hoenn|Gulpin|Route 110|497681": 1791652219,
-    "Kanto|Seviper|Route 15|497681": 1791654619
+    "Kanto|Seviper|Route 15|497681": 1791654619,
+    "Hoenn|Gulpin|Route 110|497682": 1791656120,
+    "Sinnoh|Torterra|Route 212|497682": 1791656120
   }
 }
