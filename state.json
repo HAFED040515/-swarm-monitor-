@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Flygon|Desert Underpass|497174": 1789830033,
     "Hoenn|Marshtomp|Route 124|497176": 1789835116,
     "Sinnoh|Vigoroth|Route 215|497176": 1789835116,
     "Unova|Leafeon|Pinwheel Forest|497176": 1789835428,
@@ -999,6 +998,7 @@
     "Sinnoh|Shuckle|Route 219|497701": 1791727233,
     "Hoenn|Metagross|Meteor Falls|497702": 1791727819,
     "Johto|Lucario|Mt. Silver Cave|497702": 1791729619,
-    "Unova|Relicanth|Challenger&#x27;s Cave|497702": 1791730218
+    "Unova|Relicanth|Challenger&#x27;s Cave|497702": 1791730218,
+    "Johto|Politoed|Route 35|497702": 1791731720
   }
 }
