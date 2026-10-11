@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Togetic|Dreamyard|497168": 1789807821,
     "Johto|Meganium|Route 48|497169": 1789809328,
     "Sinnoh|Blissey|Route 210|497169": 1789810229,
     "Hoenn|Qwilfish|Route 125|497170": 1789812621,
@@ -999,6 +998,7 @@
     "Kanto|Mr. Mime|Route 21|497695": 1791705019,
     "Hoenn|Torchic|Route 112|497695": 1791705633,
     "Johto|Skitty|Route 35|497697": 1791709823,
-    "Hoenn|Spiritomb|Abandoned Ship|497697": 1791709823
+    "Hoenn|Spiritomb|Abandoned Ship|497697": 1791709823,
+    "Kanto|Spiritomb|Lost Cave|497697": 1791711621
   }
 }
