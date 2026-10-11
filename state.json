@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Swalot|Route 9|497163": 1789787419,
-    "Hoenn|Marshtomp|Route 124|497164": 1789791621,
     "Johto|Croconaw|Whirl Islands|497164": 1789791917,
     "Kanto|Kabutops|Tanoby Ruins|497165": 1789794920,
     "Johto|Yanmega|Route 44|497166": 1789800620,
@@ -999,6 +997,8 @@
     "Johto|Tauros|Route 38|497690": 1791684317,
     "Hoenn|Vaporeon|Route 134|497690": 1791685219,
     "Unova|Pupitar|Twist Mountain|497691": 1791687638,
-    "Unova|Fearow|Route 4|497691": 1791690318
+    "Unova|Fearow|Route 4|497691": 1791690318,
+    "Kanto|Armaldo|Tanoby Ruins|497691": 1791690915,
+    "Hoenn|Kecleon|Route 120|497691": 1791690915
   }
 }
