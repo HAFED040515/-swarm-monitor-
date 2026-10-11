@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Kecleon|Route 120|497183": 1789859118,
     "Johto|Shuckle|Cliff Cave|497183": 1789860316,
     "Hoenn|Torchic|Route 112|497185": 1789868117,
     "Unova|Houndoom|Route 15|497185": 1789868421,
@@ -999,6 +998,7 @@
     "Kanto|Jolteon|Ruin Valley|497708": 1791749720,
     "Sinnoh|Noctowl|Route 210|497708": 1791750915,
     "Unova|Munna|Dreamyard|497709": 1791755420,
-    "Johto|Croconaw|Whirl Islands|497709": 1791755645
+    "Johto|Croconaw|Whirl Islands|497709": 1791755645,
+    "Kanto|Skorupi|Route 9|497709": 1791755715
   }
 }
