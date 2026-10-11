@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Hypno|Route 6|497180": 1789849516,
     "Unova|Zorua|Lostlorn Forest|497182": 1789857026,
     "Kanto|Rotom|Power Plant|497183": 1789859118,
     "Hoenn|Kecleon|Route 120|497183": 1789859118,
@@ -999,6 +998,7 @@
     "Hoenn|Combusken|Route 114|497707": 1791746124,
     "Unova|Metagross|Giant Chasm|497707": 1791748218,
     "Sinnoh|Grotle|Sendoff Spring|497708": 1791749115,
-    "Kanto|Jolteon|Ruin Valley|497708": 1791749720
+    "Kanto|Jolteon|Ruin Valley|497708": 1791749720,
+    "Sinnoh|Noctowl|Route 210|497708": 1791750915
   }
 }
