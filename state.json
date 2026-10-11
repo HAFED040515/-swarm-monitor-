@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Zorua|Lostlorn Forest|497166": 1789800916,
     "Kanto|Vespiquen|Five Isle Meadow|497167": 1789801821,
     "Hoenn|Wailord|Route 129|497167": 1789802120,
     "Sinnoh|Furret|Route 208|497167": 1789803318,
@@ -999,6 +998,7 @@
     "Hoenn|Kecleon|Route 120|497691": 1791690915,
     "Johto|Aipom|Route 29|497692": 1791693619,
     "Hoenn|Mime Jr.|Rusturf Tunnel|497693": 1791695115,
-    "Sinnoh|Shroomish|Route 201|497693": 1791696626
+    "Sinnoh|Shroomish|Route 201|497693": 1791696626,
+    "Unova|Illumise|Moor of Icirrus|497695": 1791702315
   }
 }
