@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Spiritomb|Lost Cave|497162": 1789786257,
     "Sinnoh|Electabuzz|Route 222|497162": 1789787115,
     "Unova|Swalot|Route 9|497163": 1789787419,
     "Hoenn|Marshtomp|Route 124|497164": 1789791621,
@@ -999,6 +998,7 @@
     "Kanto|Armaldo|Tanoby Ruins|497689": 1791683119,
     "Sinnoh|Cloyster|Route 223|497689": 1791684033,
     "Johto|Tauros|Route 38|497690": 1791684317,
-    "Hoenn|Vaporeon|Route 134|497690": 1791685219
+    "Hoenn|Vaporeon|Route 134|497690": 1791685219,
+    "Unova|Pupitar|Twist Mountain|497691": 1791687638
   }
 }
