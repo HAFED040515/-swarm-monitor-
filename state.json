@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Skarmory|Route 26|497160": 1789779021,
     "Hoenn|Vaporeon|Route 134|497160": 1789779021,
     "Unova|Salamence|Dragonspiral Tower|497160": 1789779351,
     "Kanto|Spiritomb|Lost Cave|497162": 1789786257,
@@ -999,6 +998,7 @@
     "Sinnoh|Chimchar|Route 211|497686": 1791671118,
     "Johto|Quilava|Route 42|497686": 1791672915,
     "Unova|Crawdaunt|Route 3|497688": 1791678916,
-    "Kanto|Armaldo|Tanoby Ruins|497689": 1791683119
+    "Kanto|Armaldo|Tanoby Ruins|497689": 1791683119,
+    "Sinnoh|Cloyster|Route 223|497689": 1791684033
   }
 }
