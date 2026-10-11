@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Drapion|Route 213|497177": 1789839026,
     "Hoenn|Dragonite|Route 131|497177": 1789840221,
     "Sinnoh|Tauros|Valor Lakefront|497179": 1789845655,
     "Kanto|Charmeleon|Rock Tunnel|497179": 1789846516,
@@ -999,6 +998,7 @@
     "Hoenn|Feebas|Route 130|497704": 1791734716,
     "Sinnoh|Piplup|Route 204|497705": 1791738316,
     "Unova|Zangoose|Route 7|497705": 1791738919,
-    "Johto|Tauros|Route 38|497705": 1791740116
+    "Johto|Tauros|Route 38|497705": 1791740116,
+    "Kanto|Pinsir|Route 11|497705": 1791741636
   }
 }
