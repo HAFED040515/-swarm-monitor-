@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Furret|Route 208|497167": 1789803318,
-    "Johto|Croconaw|Whirl Islands|497168": 1789806021,
     "Unova|Togetic|Dreamyard|497168": 1789807821,
     "Johto|Meganium|Route 48|497169": 1789809328,
     "Sinnoh|Blissey|Route 210|497169": 1789810229,
@@ -999,6 +997,8 @@
     "Sinnoh|Shroomish|Route 201|497693": 1791696626,
     "Unova|Illumise|Moor of Icirrus|497695": 1791702315,
     "Kanto|Mr. Mime|Route 21|497695": 1791705019,
-    "Hoenn|Torchic|Route 112|497695": 1791705633
+    "Hoenn|Torchic|Route 112|497695": 1791705633,
+    "Johto|Skitty|Route 35|497697": 1791709823,
+    "Hoenn|Spiritomb|Abandoned Ship|497697": 1791709823
   }
 }
