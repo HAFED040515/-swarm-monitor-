@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Munna|Route 102|497179": 1789847120,
     "Unova|Heracross|Route 10|497179": 1789848033,
     "Kanto|Hypno|Route 6|497180": 1789849516,
     "Unova|Zorua|Lostlorn Forest|497182": 1789857026,
@@ -999,6 +998,7 @@
     "Hoenn|Corsola|Route 128|497706": 1791742219,
     "Johto|Yanmega|Route 44|497707": 1791746124,
     "Hoenn|Combusken|Route 114|497707": 1791746124,
-    "Unova|Metagross|Giant Chasm|497707": 1791748218
+    "Unova|Metagross|Giant Chasm|497707": 1791748218,
+    "Sinnoh|Grotle|Sendoff Spring|497708": 1791749115
   }
 }
