@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Mr. Mime|Route 224|497160": 1789778118,
     "Johto|Skarmory|Route 26|497160": 1789779021,
     "Hoenn|Vaporeon|Route 134|497160": 1789779021,
     "Unova|Salamence|Dragonspiral Tower|497160": 1789779351,
@@ -999,6 +998,7 @@
     "Kanto|Charmander|Route 3|497686": 1791671118,
     "Sinnoh|Chimchar|Route 211|497686": 1791671118,
     "Johto|Quilava|Route 42|497686": 1791672915,
-    "Unova|Crawdaunt|Route 3|497688": 1791678916
+    "Unova|Crawdaunt|Route 3|497688": 1791678916,
+    "Kanto|Armaldo|Tanoby Ruins|497689": 1791683119
   }
 }
