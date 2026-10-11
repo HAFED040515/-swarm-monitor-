@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Yanmega|Route 44|497166": 1789800620,
     "Unova|Zorua|Lostlorn Forest|497166": 1789800916,
     "Kanto|Vespiquen|Five Isle Meadow|497167": 1789801821,
     "Hoenn|Wailord|Route 129|497167": 1789802120,
@@ -999,6 +998,7 @@
     "Kanto|Armaldo|Tanoby Ruins|497691": 1791690915,
     "Hoenn|Kecleon|Route 120|497691": 1791690915,
     "Johto|Aipom|Route 29|497692": 1791693619,
-    "Hoenn|Mime Jr.|Rusturf Tunnel|497693": 1791695115
+    "Hoenn|Mime Jr.|Rusturf Tunnel|497693": 1791695115,
+    "Sinnoh|Shroomish|Route 201|497693": 1791696626
   }
 }
