@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Tauros|Valor Lakefront|497179": 1789845655,
-    "Kanto|Charmeleon|Rock Tunnel|497179": 1789846516,
     "Johto|Kangaskhan|Dark Cave|497179": 1789846819,
     "Hoenn|Munna|Route 102|497179": 1789847120,
     "Unova|Heracross|Route 10|497179": 1789848033,
@@ -999,6 +997,8 @@
     "Unova|Zangoose|Route 7|497705": 1791738919,
     "Johto|Tauros|Route 38|497705": 1791740116,
     "Kanto|Pinsir|Route 11|497705": 1791741636,
-    "Hoenn|Corsola|Route 128|497706": 1791742219
+    "Hoenn|Corsola|Route 128|497706": 1791742219,
+    "Johto|Yanmega|Route 44|497707": 1791746124,
+    "Hoenn|Combusken|Route 114|497707": 1791746124
   }
 }
