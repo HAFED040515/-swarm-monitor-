@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Mr. Mime|Route 224|497208": 1789950316,
     "Kanto|Omastar|Tanoby Ruins|497208": 1789950916,
     "Unova|Munna|Dreamyard|497208": 1789951221,
     "Sinnoh|Garchomp|Victory Road|497208": 1789951821,
@@ -999,6 +998,7 @@
     "Hoenn|Combee|Route 117|497730": 1791830116,
     "Sinnoh|Infernape|Route 221|497731": 1791832220,
     "Johto|Shuckle|Cliff Cave|497731": 1791833718,
-    "Hoenn|Munna|Route 102|497731": 1791834915
+    "Hoenn|Munna|Route 102|497731": 1791834915,
+    "Sinnoh|Exeggutor|Route 230|497732": 1791836420
   }
 }
