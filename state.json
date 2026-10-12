@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Skitty|Route 35|497193": 1789896628,
     "Kanto|Kirlia|Route 8|497194": 1789899916,
     "Sinnoh|Heracross|Route 206|497194": 1789901120,
     "Johto|Shelgon|Dragon&#x27;s Den|497196": 1789906220,
@@ -999,6 +998,7 @@
     "Johto|Meganium|Route 48|497717": 1791783921,
     "Kanto|Plusle|Route 2|497718": 1791787820,
     "Johto|Barboach|Slowpoke Well|497718": 1791787820,
-    "Hoenn|Vaporeon|Route 134|497718": 1791788117
+    "Hoenn|Vaporeon|Route 134|497718": 1791788117,
+    "Sinnoh|Torterra|Route 212|497718": 1791788435
   }
 }
