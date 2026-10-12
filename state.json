@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Dragonite|Six Island|497202": 1789930516,
-    "Sinnoh|Absol|Mt. Coronet|497203": 1789931719,
     "Unova|Volcarona|Relic Castle|497203": 1789933520,
     "Kanto|Seviper|Route 15|497204": 1789935019,
     "Johto|Chimecho|Bellchime Trail|497204": 1789935621,
@@ -999,6 +997,8 @@
     "Hoenn|Spiritomb|Abandoned Ship|497725": 1791813637,
     "Sinnoh|Skitty|Route 204|497726": 1791814521,
     "Kanto|Milotic|Resort Gorgeous|497726": 1791815568,
-    "Johto|Zorua|Route 37|497726": 1791815718
+    "Johto|Zorua|Route 37|497726": 1791815718,
+    "Kanto|Aerodactyl|Tanoby Ruins|497727": 1791818716,
+    "Unova|Skorupi|Desert Resort|497727": 1791818716
   }
 }
