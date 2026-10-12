@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Milotic|Lake Valor|497188": 1789878020,
     "Unova|Volcarona|Relic Castle|497188": 1789878317,
     "Hoenn|Spiritomb|Abandoned Ship|497189": 1789881623,
     "Kanto|Tyranitar|Sevault Canyon|497189": 1789883716,
@@ -999,6 +998,7 @@
     "Unova|Yanma|Pinwheel Forest|497711": 1791761427,
     "Unova|Illumise|Moor of Icirrus|497712": 1791765918,
     "Hoenn|Feebas|Route 130|497712": 1791766513,
-    "Johto|Pineco|Route 36|497712": 1791766835
+    "Johto|Pineco|Route 36|497712": 1791766835,
+    "Kanto|Wormadam|Pattern Bush|497713": 1791768916
   }
 }
