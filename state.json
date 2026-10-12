@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cherubi|Route 16|497201": 1789926916,
     "Hoenn|Lapras|Shoal Cave|497202": 1789930220,
     "Kanto|Dragonite|Six Island|497202": 1789930516,
     "Sinnoh|Absol|Mt. Coronet|497203": 1789931719,
@@ -999,6 +998,7 @@
     "Sinnoh|Whiscash|Ravaged Path|497725": 1791810316,
     "Unova|Swalot|Route 9|497725": 1791810920,
     "Hoenn|Spiritomb|Abandoned Ship|497725": 1791813637,
-    "Sinnoh|Skitty|Route 204|497726": 1791814521
+    "Sinnoh|Skitty|Route 204|497726": 1791814521,
+    "Kanto|Milotic|Resort Gorgeous|497726": 1791815568
   }
 }
