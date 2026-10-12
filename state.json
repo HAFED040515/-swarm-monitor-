@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Garchomp|Route 216|497208": 1789952115,
-    "Johto|Kirlia|Route 43|497209": 1789955420,
     "Unova|Metagross|Giant Chasm|497210": 1789956919,
     "Kanto|Drifloon|Route 10|497210": 1789959020,
     "Hoenn|Marshtomp|Route 124|497212": 1789963823,
@@ -999,6 +997,8 @@
     "Sinnoh|Exeggutor|Route 230|497732": 1791836420,
     "Hoenn|Munna|Route 102|497732": 1791837029,
     "Unova|Pupitar|Twist Mountain|497732": 1791837029,
-    "Kanto|Sentret|Route 1|497733": 1791839720
+    "Kanto|Sentret|Route 1|497733": 1791839720,
+    "Kanto|Persian|Ruin Valley|497734": 1791844227,
+    "Sinnoh|Cherrim|Lake Verity|497734": 1791844227
   }
 }
