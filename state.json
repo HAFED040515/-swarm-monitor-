@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Metagross|Giant Chasm|497210": 1789956919,
-    "Kanto|Drifloon|Route 10|497210": 1789959020,
     "Hoenn|Marshtomp|Route 124|497212": 1789963823,
     "Kanto|Relicanth|Tanoby Ruins|497212": 1789964421,
     "Johto|Lucario|Mt. Silver Cave|497213": 1789968315,
@@ -999,6 +997,8 @@
     "Unova|Pupitar|Twist Mountain|497732": 1791837029,
     "Kanto|Sentret|Route 1|497733": 1791839720,
     "Kanto|Persian|Ruin Valley|497734": 1791844227,
-    "Sinnoh|Cherrim|Lake Verity|497734": 1791844227
+    "Sinnoh|Cherrim|Lake Verity|497734": 1791844227,
+    "Johto|Starmie|Cliff Edge Gate|497734": 1791846036,
+    "Hoenn|Cloyster|Route 133|497734": 1791846036
   }
 }
