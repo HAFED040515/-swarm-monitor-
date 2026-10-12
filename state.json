@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Heracross|Route 206|497194": 1789901120,
     "Johto|Shelgon|Dragon&#x27;s Den|497196": 1789906220,
     "Kanto|Heracross|Route 16|497196": 1789908020,
     "Unova|Cherubi|Route 16|497196": 1789908322,
@@ -999,6 +998,7 @@
     "Johto|Barboach|Slowpoke Well|497718": 1791787820,
     "Hoenn|Vaporeon|Route 134|497718": 1791788117,
     "Sinnoh|Torterra|Route 212|497718": 1791788435,
-    "Unova|Jynx|Route 8|497719": 1791790821
+    "Unova|Jynx|Route 8|497719": 1791790821,
+    "Johto|Kangaskhan|Dark Cave|497719": 1791791716
   }
 }
