@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Charmeleon|Rock Tunnel|497207": 1789946716,
     "Sinnoh|Mr. Mime|Route 224|497208": 1789950316,
     "Kanto|Omastar|Tanoby Ruins|497208": 1789950916,
     "Unova|Munna|Dreamyard|497208": 1789951221,
@@ -999,6 +998,7 @@
     "Johto|Typhlosion|Route 45|497729": 1791827119,
     "Hoenn|Combee|Route 117|497730": 1791830116,
     "Sinnoh|Infernape|Route 221|497731": 1791832220,
-    "Johto|Shuckle|Cliff Cave|497731": 1791833718
+    "Johto|Shuckle|Cliff Cave|497731": 1791833718,
+    "Hoenn|Munna|Route 102|497731": 1791834915
   }
 }
