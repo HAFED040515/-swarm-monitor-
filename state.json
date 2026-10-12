@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Omastar|Tanoby Ruins|497200": 1789921827,
     "Sinnoh|Kangaskhan|Wayward Cave|497200": 1789922116,
     "Johto|Hitmontop|Mt. Mortar|497200": 1789923020,
     "Unova|Cherubi|Route 16|497201": 1789926916,
@@ -999,6 +998,7 @@
     "Johto|Lucario|Mt. Silver Cave|497723": 1791803421,
     "Kanto|Blastoise|Cape Brink|497723": 1791803723,
     "Johto|Houndoom|Burned Tower|497724": 1791809123,
-    "Sinnoh|Whiscash|Ravaged Path|497725": 1791810316
+    "Sinnoh|Whiscash|Ravaged Path|497725": 1791810316,
+    "Unova|Swalot|Route 9|497725": 1791810920
   }
 }
