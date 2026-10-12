@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Heracross|Route 16|497196": 1789908020,
     "Unova|Cherubi|Route 16|497196": 1789908322,
     "Sinnoh|Gliscor|Route 211|497196": 1789908620,
     "Hoenn|Combee|Route 117|497197": 1789909821,
@@ -999,6 +998,7 @@
     "Sinnoh|Torterra|Route 212|497718": 1791788435,
     "Unova|Jynx|Route 8|497719": 1791790821,
     "Johto|Kangaskhan|Dark Cave|497719": 1791791716,
-    "Kanto|Armaldo|Tanoby Ruins|497721": 1791797117
+    "Kanto|Armaldo|Tanoby Ruins|497721": 1791797117,
+    "Unova|Yanma|Pinwheel Forest|497721": 1791799235
   }
 }
