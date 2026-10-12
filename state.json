@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Gliscor|Route 211|497196": 1789908620,
-    "Hoenn|Combee|Route 117|497197": 1789909821,
     "Johto|Nincada|Route 46|497199": 1789917621,
     "Kanto|Milotic|Resort Gorgeous|497199": 1789917916,
     "Hoenn|Gulpin|Route 110|497199": 1789919717,
@@ -999,6 +997,8 @@
     "Johto|Kangaskhan|Dark Cave|497719": 1791791716,
     "Kanto|Armaldo|Tanoby Ruins|497721": 1791797117,
     "Unova|Yanma|Pinwheel Forest|497721": 1791799235,
-    "Kanto|Blastoise|Cape Brink|497722": 1791801921
+    "Kanto|Blastoise|Cape Brink|497722": 1791801921,
+    "Hoenn|Qwilfish|Route 125|497722": 1791802838,
+    "Sinnoh|Scyther|Route 210|497722": 1791802838
   }
 }
