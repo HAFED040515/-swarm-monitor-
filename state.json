@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Volcarona|Relic Castle|497203": 1789933520,
-    "Kanto|Seviper|Route 15|497204": 1789935019,
     "Johto|Chimecho|Bellchime Trail|497204": 1789935621,
     "Hoenn|Feebas|Route 130|497205": 1789940720,
     "Unova|Scizor|Route 14|497205": 1789941134,
@@ -999,6 +997,8 @@
     "Kanto|Milotic|Resort Gorgeous|497726": 1791815568,
     "Johto|Zorua|Route 37|497726": 1791815718,
     "Kanto|Aerodactyl|Tanoby Ruins|497727": 1791818716,
-    "Unova|Skorupi|Desert Resort|497727": 1791818716
+    "Unova|Skorupi|Desert Resort|497727": 1791818716,
+    "Hoenn|Qwilfish|Route 125|497727": 1791819619,
+    "Sinnoh|Piplup|Route 204|497727": 1791819619
   }
 }
