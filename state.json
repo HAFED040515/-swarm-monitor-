@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Scizor|Route 14|497205": 1789941134,
     "Hoenn|Gardevoir|Mt. Pyre|497206": 1789942820,
     "Unova|Zorua|Lostlorn Forest|497206": 1789944918,
     "Johto|Quilava|Route 42|497207": 1789946421,
@@ -999,6 +998,7 @@
     "Hoenn|Qwilfish|Route 125|497727": 1791819619,
     "Sinnoh|Piplup|Route 204|497727": 1791819619,
     "Unova|Floatzel|Route 3|497728": 1791822629,
-    "Kanto|Salamence|Victory Road|497729": 1791826516
+    "Kanto|Salamence|Victory Road|497729": 1791826516,
+    "Johto|Typhlosion|Route 45|497729": 1791827119
   }
 }
