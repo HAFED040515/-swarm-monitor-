@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Kirlia|Route 43|497226": 1790016321,
     "Unova|Pinsir|Route 12|497227": 1790018716,
     "Sinnoh|Chansey|Trophy Garden|497228": 1790022628,
     "Kanto|Fearow|Route 16|497228": 1790025322,
@@ -999,6 +998,7 @@
     "Johto|Typhlosion|Route 45|497746": 1791886221,
     "Sinnoh|Chansey|Trophy Garden|497747": 1791891920,
     "Hoenn|Shuckle|Seafloor Cavern|497748": 1791894020,
-    "Unova|Crobat|Celestial Tower|497748": 1791895219
+    "Unova|Crobat|Celestial Tower|497748": 1791895219,
+    "Hoenn|Zorua|Route 101|497749": 1791897916
   }
 }
