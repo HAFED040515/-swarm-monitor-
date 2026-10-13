@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Trapinch|Oreburgh Mine|497223": 1790004918,
     "Kanto|Swalot|Route 18|497224": 1790006717,
     "Johto|Snorlax|Victory Road|497224": 1790007023,
     "Unova|Dragonair|Dragonspiral Tower|497225": 1790010657,
@@ -999,6 +998,7 @@
     "Sinnoh|Skarmory|Route 227|497743": 1791874835,
     "Unova|Houndoom|Route 15|497743": 1791875719,
     "Kanto|Plusle|Route 2|497743": 1791877521,
-    "Kanto|Nincada|Route 25|497744": 1791881421
+    "Kanto|Nincada|Route 25|497744": 1791881421,
+    "Hoenn|Salamence|Sky Pillar|497744": 1791882036
   }
 }
