@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Furret|Route 208|497218": 1789985118,
     "Unova|Lucario|Guidance Chamber|497218": 1789988435,
     "Sinnoh|Tauros|Valor Lakefront|497219": 1789989021,
     "Johto|Cyndaquil|Route 33|497220": 1789992921,
@@ -999,6 +998,7 @@
     "Johto|Cyndaquil|Route 33|497737": 1791855619,
     "Sinnoh|Yanma|Route 205|497737": 1791856515,
     "Kanto|Chatot|Treasure Beach|497738": 1791859522,
-    "Johto|Nincada|Route 46|497738": 1791860116
+    "Johto|Nincada|Route 46|497738": 1791860116,
+    "Hoenn|Combee|Route 117|497739": 1791861621
   }
 }
