@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Volcarona|Scorched Slab|497226": 1790015429,
     "Johto|Kirlia|Route 43|497226": 1790016321,
     "Unova|Pinsir|Route 12|497227": 1790018716,
     "Sinnoh|Chansey|Trophy Garden|497228": 1790022628,
@@ -999,6 +998,7 @@
     "Sinnoh|Cherrim|Lake Verity|497745": 1791885317,
     "Johto|Typhlosion|Route 45|497746": 1791886221,
     "Sinnoh|Chansey|Trophy Garden|497747": 1791891920,
-    "Hoenn|Shuckle|Seafloor Cavern|497748": 1791894020
+    "Hoenn|Shuckle|Seafloor Cavern|497748": 1791894020,
+    "Unova|Crobat|Celestial Tower|497748": 1791895219
   }
 }
