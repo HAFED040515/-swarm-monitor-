@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Nincada|Route 46|497214": 1789971918,
     "Hoenn|Zorua|Route 101|497216": 1789981234,
     "Kanto|Ditto|Pokemon Mansion|497217": 1789982422,
     "Johto|Miltank|Route 39|497217": 1789982716,
@@ -999,6 +998,7 @@
     "Unova|Heracross|Route 10|497735": 1791848419,
     "Sinnoh|Chatot|Route 218|497735": 1791849020,
     "Hoenn|Lapras|Shoal Cave|497736": 1791850521,
-    "Unova|Houndoom|Route 15|497737": 1791855318
+    "Unova|Houndoom|Route 15|497737": 1791855318,
+    "Johto|Cyndaquil|Route 33|497737": 1791855619
   }
 }
