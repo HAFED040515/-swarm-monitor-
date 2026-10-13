@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Tauros|Valor Lakefront|497219": 1789989021,
     "Johto|Cyndaquil|Route 33|497220": 1789992921,
     "Kanto|Murkrow|Route 7|497220": 1789993221,
     "Hoenn|Feebas|Route 130|497220": 1789995021,
@@ -999,6 +998,7 @@
     "Kanto|Chatot|Treasure Beach|497738": 1791859522,
     "Johto|Nincada|Route 46|497738": 1791860116,
     "Hoenn|Combee|Route 117|497739": 1791861621,
-    "Unova|Pinsir|Route 12|497739": 1791863419
+    "Unova|Pinsir|Route 12|497739": 1791863419,
+    "Sinnoh|Clefable|Mt. Coronet|497739": 1791864315
   }
 }
