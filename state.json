@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Lucario|Mt. Silver Cave|497213": 1789968315,
     "Hoenn|Zorua|Route 101|497213": 1789969220,
     "Johto|Nincada|Route 46|497214": 1789971918,
     "Hoenn|Zorua|Route 101|497216": 1789981234,
@@ -999,6 +998,7 @@
     "Johto|Starmie|Cliff Edge Gate|497734": 1791846036,
     "Hoenn|Cloyster|Route 133|497734": 1791846036,
     "Unova|Heracross|Route 10|497735": 1791848419,
-    "Sinnoh|Chatot|Route 218|497735": 1791849020
+    "Sinnoh|Chatot|Route 218|497735": 1791849020,
+    "Hoenn|Lapras|Shoal Cave|497736": 1791850521
   }
 }
