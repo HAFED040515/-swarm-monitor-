@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Treecko|Petalburg Woods|497230": 1790029221,
     "Johto|Cyndaquil|Route 33|497231": 1790033718,
     "Hoenn|Blaziken|Magma Hideout|497231": 1790034322,
     "Unova|Corsola|Undella Bay|497231": 1790034916,
@@ -999,6 +998,7 @@
     "Sinnoh|Shroomish|Route 201|497749": 1791899716,
     "Sinnoh|Bonsly|Eterna Forest|497751": 1791905115,
     "Unova|Furret|Abundant Shrine|497751": 1791906024,
-    "Kanto|Drifloon|Route 10|497751": 1791906621
+    "Kanto|Drifloon|Route 10|497751": 1791906621,
+    "Johto|Feraligatr|Tohjo Falls|497752": 1791908717
   }
 }
