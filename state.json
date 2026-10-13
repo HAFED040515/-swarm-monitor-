@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Ditto|Pokemon Mansion|497217": 1789982422,
     "Johto|Miltank|Route 39|497217": 1789982716,
     "Sinnoh|Furret|Route 208|497218": 1789985118,
     "Unova|Lucario|Guidance Chamber|497218": 1789988435,
@@ -999,6 +998,7 @@
     "Hoenn|Lapras|Shoal Cave|497736": 1791850521,
     "Unova|Houndoom|Route 15|497737": 1791855318,
     "Johto|Cyndaquil|Route 33|497737": 1791855619,
-    "Sinnoh|Yanma|Route 205|497737": 1791856515
+    "Sinnoh|Yanma|Route 205|497737": 1791856515,
+    "Kanto|Chatot|Treasure Beach|497738": 1791859522
   }
 }
