@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Feebas|Route 130|497220": 1789995021,
     "Sinnoh|Cacturne|Route 228|497221": 1789996222,
     "Johto|Sneasel|Ice Path|497221": 1789997433,
     "Unova|Kangaskhan|Wellspring Cave|497221": 1789998621,
@@ -999,6 +998,7 @@
     "Unova|Pinsir|Route 12|497739": 1791863419,
     "Sinnoh|Clefable|Mt. Coronet|497739": 1791864315,
     "Kanto|Volbeat|Memorial Pillar|497740": 1791864621,
-    "Johto|Shelgon|Dragon&#x27;s Den|497741": 1791869120
+    "Johto|Shelgon|Dragon&#x27;s Den|497741": 1791869120,
+    "Hoenn|Combusken|Route 114|497741": 1791871239
   }
 }
