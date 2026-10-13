@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Swalot|Route 18|497224": 1790006717,
     "Johto|Snorlax|Victory Road|497224": 1790007023,
     "Unova|Dragonair|Dragonspiral Tower|497225": 1790010657,
     "Kanto|Snorlax|Cerulean Cave|497225": 1790011519,
@@ -999,6 +998,7 @@
     "Unova|Houndoom|Route 15|497743": 1791875719,
     "Kanto|Plusle|Route 2|497743": 1791877521,
     "Kanto|Nincada|Route 25|497744": 1791881421,
-    "Hoenn|Salamence|Sky Pillar|497744": 1791882036
+    "Hoenn|Salamence|Sky Pillar|497744": 1791882036,
+    "Johto|Chikorita|Route 31|497745": 1791882920
   }
 }
