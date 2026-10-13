@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Kangaskhan|Wellspring Cave|497221": 1789998621,
     "Hoenn|Treecko|Petalburg Woods|497223": 1790003769,
     "Sinnoh|Trapinch|Oreburgh Mine|497223": 1790004918,
     "Kanto|Swalot|Route 18|497224": 1790006717,
@@ -999,6 +998,7 @@
     "Johto|Shelgon|Dragon&#x27;s Den|497741": 1791869120,
     "Hoenn|Combusken|Route 114|497741": 1791871239,
     "Sinnoh|Skarmory|Route 227|497743": 1791874835,
-    "Unova|Houndoom|Route 15|497743": 1791875719
+    "Unova|Houndoom|Route 15|497743": 1791875719,
+    "Kanto|Plusle|Route 2|497743": 1791877521
   }
 }
