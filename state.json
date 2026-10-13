@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Miltank|Route 39|497235": 1790047551,
     "Johto|Ditto|Route 34|497235": 1790048116,
     "Kanto|Pinsir|Route 11|497236": 1790052319,
     "Sinnoh|Vigoroth|Route 215|497237": 1790053822,
@@ -999,6 +998,7 @@
     "Unova|Dragonair|Dragonspiral Tower|497754": 1791917119,
     "Kanto|Charizard|Mt. Ember|497755": 1791920118,
     "Johto|Bayleef|National Park|497755": 1791921316,
-    "Hoenn|Volcarona|Scorched Slab|497756": 1791922821
+    "Hoenn|Volcarona|Scorched Slab|497756": 1791922821,
+    "Sinnoh|Chansey|Trophy Garden|497756": 1791924621
   }
 }
