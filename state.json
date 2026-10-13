@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Snorlax|Cerulean Cave|497225": 1790011519,
     "Sinnoh|Heracross|Route 206|497225": 1790013916,
     "Hoenn|Volcarona|Scorched Slab|497226": 1790015429,
     "Johto|Kirlia|Route 43|497226": 1790016321,
@@ -999,6 +998,7 @@
     "Hoenn|Salamence|Sky Pillar|497744": 1791882036,
     "Johto|Chikorita|Route 31|497745": 1791882920,
     "Sinnoh|Cherrim|Lake Verity|497745": 1791885317,
-    "Johto|Typhlosion|Route 45|497746": 1791886221
+    "Johto|Typhlosion|Route 45|497746": 1791886221,
+    "Sinnoh|Chansey|Trophy Garden|497747": 1791891920
   }
 }
