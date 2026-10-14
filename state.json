@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cherubi|Route 16|497264": 1790154035,
     "Kanto|Minun|Route 22|497265": 1790157022,
     "Kanto|Butterfree|Viridian Forest|497265": 1790157642,
     "Unova|Salamence|Dragonspiral Tower|497266": 1790158521,
@@ -999,6 +998,7 @@
     "Unova|Pinsir|Route 12|497781": 1792012822,
     "Johto|Wailmer|Route 40|497781": 1792013432,
     "Kanto|Heracross|Route 16|497782": 1792015518,
-    "Hoenn|Finneon|Route 107|497782": 1792015825
+    "Hoenn|Finneon|Route 107|497782": 1792015825,
+    "Hoenn|Pelipper|Route 109|497782": 1792017620
   }
 }
