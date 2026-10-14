@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Flygon|Desert Underpass|497262": 1790147118,
     "Johto|Snorlax|Victory Road|497263": 1790148628,
     "Kanto|Heracross|Route 16|497263": 1790149221,
     "Sinnoh|Snorlax|Victory Road|497263": 1790149521,
@@ -999,6 +998,7 @@
     "Unova|Hippowdon|Mistralton Cave|497778": 1792002023,
     "Hoenn|Feebas|Route 130|497779": 1792005323,
     "Johto|Exeggcute|Route 30|497779": 1792006820,
-    "Kanto|Farfetch&#x27;d|Route 13|497780": 1792009517
+    "Kanto|Farfetch&#x27;d|Route 13|497780": 1792009517,
+    "Sinnoh|Absol|Mt. Coronet|497780": 1792010533
   }
 }
