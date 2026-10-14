@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Absol|Route 28|497259": 1790133320,
     "Unova|Slakoth|Pinwheel Forest|497260": 1790139633,
     "Johto|Wailmer|Route 40|497261": 1790140519,
     "Hoenn|Torchic|Route 112|497261": 1790142021,
@@ -999,6 +998,7 @@
     "Sinnoh|Absol|Mt. Coronet|497776": 1791995118,
     "Johto|Shelgon|Dragon&#x27;s Den|497776": 1791995429,
     "Kanto|Drifloon|Route 10|497776": 1791995719,
-    "Sinnoh|Tyranitar|Stark Mountain|497777": 1791999620
+    "Sinnoh|Tyranitar|Stark Mountain|497777": 1791999620,
+    "Hoenn|Combusken|Route 114|497778": 1792001422
   }
 }
