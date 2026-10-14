@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Torchic|Route 112|497261": 1790142021,
     "Johto|Houndoom|Burned Tower|497262": 1790145318,
     "Hoenn|Flygon|Desert Underpass|497262": 1790147118,
     "Johto|Snorlax|Victory Road|497263": 1790148628,
@@ -999,6 +998,7 @@
     "Sinnoh|Tyranitar|Stark Mountain|497777": 1791999620,
     "Hoenn|Combusken|Route 114|497778": 1792001422,
     "Unova|Hippowdon|Mistralton Cave|497778": 1792002023,
-    "Hoenn|Feebas|Route 130|497779": 1792005323
+    "Hoenn|Feebas|Route 130|497779": 1792005323,
+    "Johto|Exeggcute|Route 30|497779": 1792006820
   }
 }
