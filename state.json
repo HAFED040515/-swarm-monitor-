@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Aipom|Route 29|497246": 1790085919,
     "Kanto|Charizard|Mt. Ember|497246": 1790086522,
     "Johto|Lapras|Union Cave|497247": 1790090121,
     "Kanto|Tyranitar|Canyon Entrance|497247": 1790090424,
@@ -999,6 +998,7 @@
     "Kanto|Yanmega|Water Path|497762": 1791947719,
     "Hoenn|Cloyster|Route 133|497763": 1791947719,
     "Kanto|Yanmega|Water Path|497763": 1791948316,
-    "Johto|Zorua|Route 37|497765": 1791956719
+    "Johto|Zorua|Route 37|497765": 1791956719,
+    "Unova|Farfetch&#x27;d|Route 1|497765": 1791957019
   }
 }
