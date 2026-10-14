@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Nincada|Route 25|497250": 1790103022,
     "Unova|Electabuzz|Chargestone Cave|497250": 1790103022,
     "Johto|Pineco|Route 36|497251": 1790106320,
     "Sinnoh|Piplup|Route 204|497251": 1790106622,
@@ -999,6 +998,7 @@
     "Johto|Meganium|Route 48|497768": 1791967221,
     "Unova|Hitmonlee|Victory Road|497769": 1791969916,
     "Kanto|Pinsir|Route 11|497769": 1791970227,
-    "Hoenn|Carnivine|Route 123|497769": 1791971121
+    "Hoenn|Carnivine|Route 123|497769": 1791971121,
+    "Johto|Skarmory|Route 26|497770": 1791972036
   }
 }
