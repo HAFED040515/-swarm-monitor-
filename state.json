@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Seviper|Route 1|497249": 1790097024,
     "Sinnoh|Carnivine|Route 225|497250": 1790101225,
     "Kanto|Nincada|Route 25|497250": 1790103022,
     "Unova|Electabuzz|Chargestone Cave|497250": 1790103022,
@@ -999,6 +998,7 @@
     "Kanto|Seviper|Route 15|497767": 1791963027,
     "Sinnoh|Bronzong|Iron Island|497767": 1791963618,
     "Johto|Meganium|Route 48|497768": 1791967221,
-    "Unova|Hitmonlee|Victory Road|497769": 1791969916
+    "Unova|Hitmonlee|Victory Road|497769": 1791969916,
+    "Kanto|Pinsir|Route 11|497769": 1791970227
   }
 }
