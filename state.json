@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Togetic|Route 27|497256": 1790122521,
     "Hoenn|Chimecho|Mt. Pyre|497256": 1790122521,
     "Hoenn|Murkrow|Jagged Pass|497257": 1790126122,
     "Unova|Honchkrow|Celestial Tower|497257": 1790126423,
@@ -999,6 +998,7 @@
     "Sinnoh|Miltank|Route 214|497772": 1791980122,
     "Kanto|Tauros|Route 17|497773": 1791983117,
     "Sinnoh|Milotic|Lake Valor|497773": 1791984917,
-    "Johto|Volcarona|Bell Tower|497773": 1791985521
+    "Johto|Volcarona|Bell Tower|497773": 1791985521,
+    "Kanto|Bastiodon|Tanoby Ruins|497774": 1791987621
   }
 }
