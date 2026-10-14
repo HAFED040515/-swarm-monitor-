@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Pineco|Route 36|497251": 1790106320,
     "Sinnoh|Piplup|Route 204|497251": 1790106622,
     "Hoenn|Pineco|Route 103|497252": 1790109922,
     "Unova|Swalot|Route 9|497253": 1790113823,
@@ -999,6 +998,7 @@
     "Kanto|Pinsir|Route 11|497769": 1791970227,
     "Hoenn|Carnivine|Route 123|497769": 1791971121,
     "Johto|Skarmory|Route 26|497770": 1791972036,
-    "Hoenn|Kecleon|Route 120|497770": 1791975317
+    "Hoenn|Kecleon|Route 120|497770": 1791975317,
+    "Johto|Lucario|Mt. Silver Cave|497771": 1791976220
   }
 }
