@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Bonsly|Eterna Forest|497247": 1790090720,
     "Johto|Exeggcute|Route 30|497248": 1790096439,
     "Hoenn|Rotom|New Mauville|497248": 1790096439,
     "Unova|Seviper|Route 1|497249": 1790097024,
@@ -999,6 +998,7 @@
     "Sinnoh|Rotom|Old Chateau|497765": 1791957315,
     "Unova|Skorupi|Desert Resort|497766": 1791959428,
     "Hoenn|Drifloon|Route 105|497766": 1791959718,
-    "Kanto|Seviper|Route 15|497767": 1791963027
+    "Kanto|Seviper|Route 15|497767": 1791963027,
+    "Sinnoh|Bronzong|Iron Island|497767": 1791963618
   }
 }
