@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Absol|Mt. Coronet|497243": 1790076630,
     "Unova|Furret|Abundant Shrine|497244": 1790079922,
     "Hoenn|Ditto|Desert Underpass|497244": 1790080824,
     "Sinnoh|Drifblim|Route 222|497244": 1790081422,
@@ -999,6 +998,7 @@
     "Hoenn|Sudowoodo|Battle Frontier|497760": 1791936621,
     "Johto|Yanmega|Route 44|497761": 1791942319,
     "Unova|Carnivine|Route 18|497762": 1791944120,
-    "Kanto|Omastar|Liptoo Chamber|497762": 1791945026
+    "Kanto|Omastar|Liptoo Chamber|497762": 1791945026,
+    "Sinnoh|Torterra|Route 212|497763": 1791947421
   }
 }
