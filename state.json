@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Lapras|Union Cave|497247": 1790090121,
     "Kanto|Tyranitar|Canyon Entrance|497247": 1790090424,
     "Unova|Lumineon|Route 17|497247": 1790090424,
     "Sinnoh|Bonsly|Eterna Forest|497247": 1790090720,
@@ -999,6 +998,7 @@
     "Kanto|Yanmega|Water Path|497763": 1791948316,
     "Johto|Zorua|Route 37|497765": 1791956719,
     "Unova|Farfetch&#x27;d|Route 1|497765": 1791957019,
-    "Sinnoh|Rotom|Old Chateau|497765": 1791957315
+    "Sinnoh|Rotom|Old Chateau|497765": 1791957315,
+    "Unova|Skorupi|Desert Resort|497766": 1791959428
   }
 }
