@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Corsola|Undella Bay|497245": 1790085640,
     "Johto|Aipom|Route 29|497246": 1790085919,
     "Kanto|Charizard|Mt. Ember|497246": 1790086522,
     "Johto|Lapras|Union Cave|497247": 1790090121,
@@ -999,6 +998,7 @@
     "Sinnoh|Torterra|Route 212|497763": 1791947421,
     "Kanto|Yanmega|Water Path|497762": 1791947719,
     "Hoenn|Cloyster|Route 133|497763": 1791947719,
-    "Kanto|Yanmega|Water Path|497763": 1791948316
+    "Kanto|Yanmega|Water Path|497763": 1791948316,
+    "Johto|Zorua|Route 37|497765": 1791956719
   }
 }
