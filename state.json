@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Grotle|Route 212|497241": 1790069117,
     "Unova|Lucario|Guidance Chamber|497241": 1790069430,
     "Hoenn|Hitmonchan|Fiery Path|497241": 1790071238,
     "Kanto|Zangoose|Route 14|497243": 1790075422,
@@ -999,6 +998,7 @@
     "Kanto|Dragonite|Outcast Island|497758": 1791930019,
     "Unova|Lumineon|Route 17|497758": 1791930316,
     "Hoenn|Feebas|Route 130|497758": 1791932439,
-    "Sinnoh|Absol|Mt. Coronet|497759": 1791934822
+    "Sinnoh|Absol|Mt. Coronet|497759": 1791934822,
+    "Hoenn|Sudowoodo|Battle Frontier|497760": 1791936621
   }
 }
