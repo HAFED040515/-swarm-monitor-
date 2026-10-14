@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Heracross|Route 16|497263": 1790149221,
     "Sinnoh|Snorlax|Victory Road|497263": 1790149521,
     "Hoenn|Chimecho|Mt. Pyre|497264": 1790153121,
     "Unova|Cherubi|Route 16|497264": 1790154035,
@@ -999,6 +998,7 @@
     "Johto|Exeggcute|Route 30|497779": 1792006820,
     "Kanto|Farfetch&#x27;d|Route 13|497780": 1792009517,
     "Sinnoh|Absol|Mt. Coronet|497780": 1792010533,
-    "Unova|Pinsir|Route 12|497781": 1792012822
+    "Unova|Pinsir|Route 12|497781": 1792012822,
+    "Johto|Wailmer|Route 40|497781": 1792013432
   }
 }
