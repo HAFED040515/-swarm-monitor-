@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Hitmonchan|Fiery Path|497241": 1790071238,
     "Kanto|Zangoose|Route 14|497243": 1790075422,
     "Sinnoh|Absol|Mt. Coronet|497243": 1790076630,
     "Unova|Furret|Abundant Shrine|497244": 1790079922,
@@ -999,6 +998,7 @@
     "Hoenn|Feebas|Route 130|497758": 1791932439,
     "Sinnoh|Absol|Mt. Coronet|497759": 1791934822,
     "Hoenn|Sudowoodo|Battle Frontier|497760": 1791936621,
-    "Johto|Yanmega|Route 44|497761": 1791942319
+    "Johto|Yanmega|Route 44|497761": 1791942319,
+    "Unova|Carnivine|Route 18|497762": 1791944120
   }
 }
