@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cherubi|Route 16|497289": 1790241916,
     "Hoenn|Swampert|Route 109|497290": 1790244921,
     "Sinnoh|Scyther|Route 210|497290": 1790245517,
     "Sinnoh|Glaceon|Route 217|497290": 1790246117,
@@ -999,6 +998,7 @@
     "Kanto|Dragonite|Six Island|497803": 1792092629,
     "Sinnoh|Skitty|Route 204|497803": 1792093823,
     "Hoenn|Marshtomp|Route 124|497803": 1792094436,
-    "Kanto|Charmander|Route 3|497804": 1792096822
+    "Kanto|Charmander|Route 3|497804": 1792096822,
+    "Johto|Houndoom|Burned Tower|497805": 1792098921
   }
 }
