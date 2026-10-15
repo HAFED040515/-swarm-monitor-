@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pinsir|Route 12|497272": 1790181622,
     "Sinnoh|Infernape|Route 221|497272": 1790182838,
     "Unova|Scizor|Route 14|497273": 1790185221,
     "Kanto|Tauros|Route 17|497273": 1790185522,
@@ -999,6 +998,7 @@
     "Kanto|Jolteon|Ruin Valley|497787": 1792034120,
     "Sinnoh|Garchomp|Ravaged Path|497787": 1792037419,
     "Kanto|Pinsir|Route 11|497788": 1792038020,
-    "Unova|Togetic|Dreamyard|497788": 1792039820
+    "Unova|Togetic|Dreamyard|497788": 1792039820,
+    "Hoenn|Carnivine|Route 123|497789": 1792041917
   }
 }
