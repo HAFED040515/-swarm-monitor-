@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Blissey|Artisan Cave|497283": 1790220630,
     "Johto|Starmie|Cliff Edge Gate|497284": 1790222718,
     "Sinnoh|Croagunk|Route 212|497284": 1790223623,
     "Kanto|Venusaur|Berry Forest|497284": 1790224516,
@@ -999,6 +998,7 @@
     "Johto|Chikorita|Route 31|497798": 1792074020,
     "Unova|Sandslash|Desert Resort|497798": 1792074020,
     "Hoenn|Sudowoodo|Battle Frontier|497799": 1792077622,
-    "Sinnoh|Glaceon|Route 217|497799": 1792077915
+    "Sinnoh|Glaceon|Route 217|497799": 1792077915,
+    "Hoenn|Relicanth|Route 126|497800": 1792081516
   }
 }
