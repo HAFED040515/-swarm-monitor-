@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Togekiss|Sky Pillar|497270": 1790172922,
     "Sinnoh|Farfetch&#x27;d|Route 209|497270": 1790173829,
     "Hoenn|Sudowoodo|Battle Frontier|497271": 1790178917,
     "Johto|Skitty|Route 35|497272": 1790180122,
@@ -999,6 +998,7 @@
     "Kanto|Snorlax|Cerulean Cave|497785": 1792027220,
     "Unova|Honchkrow|Celestial Tower|497785": 1792029636,
     "Johto|Shroomish|Route 34|497786": 1792032018,
-    "Hoenn|Feebas|Route 130|497786": 1792032319
+    "Hoenn|Feebas|Route 130|497786": 1792032319,
+    "Kanto|Jolteon|Ruin Valley|497787": 1792034120
   }
 }
