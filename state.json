@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Croconaw|Whirl Islands|497268": 1790166917,
     "Unova|Lucario|Guidance Chamber|497269": 1790169624,
     "Johto|Skitty|Route 35|497269": 1790170517,
     "Kanto|Sandslash|Victory Road|497269": 1790171422,
@@ -999,6 +998,7 @@
     "Johto|Cyndaquil|Route 33|497782": 1792017918,
     "Unova|Heracross|Route 10|497783": 1792019117,
     "Unova|Dragonair|Dragonspiral Tower|497784": 1792023621,
-    "Sinnoh|Burmy|Route 202|497784": 1792024515
+    "Sinnoh|Burmy|Route 202|497784": 1792024515,
+    "Kanto|Snorlax|Cerulean Cave|497785": 1792027220
   }
 }
