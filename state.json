@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Scyther|Route 210|497290": 1790245517,
     "Sinnoh|Glaceon|Route 217|497290": 1790246117,
     "Johto|Starmie|Cliff Edge Gate|497290": 1790246722,
     "Unova|Zorua|Lostlorn Forest|497292": 1790251520,
@@ -999,6 +998,7 @@
     "Hoenn|Marshtomp|Route 124|497803": 1792094436,
     "Kanto|Charmander|Route 3|497804": 1792096822,
     "Johto|Houndoom|Burned Tower|497805": 1792098921,
-    "Unova|Togetic|Dreamyard|497805": 1792100118
+    "Unova|Togetic|Dreamyard|497805": 1792100118,
+    "Kanto|Butterfree|Viridian Forest|497805": 1792101637
   }
 }
