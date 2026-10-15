@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Metagross|Meteor Falls|497285": 1790226317,
     "Unova|Zorua|Lostlorn Forest|497285": 1790228119,
     "Johto|Lapras|Union Cave|497286": 1790232621,
     "Hoenn|Nosepass|Granite Cave|497287": 1790233519,
@@ -999,6 +998,7 @@
     "Hoenn|Relicanth|Route 126|497800": 1792081516,
     "Kanto|Omastar|Tanoby Ruins|497800": 1792083021,
     "Johto|Pineco|Route 36|497801": 1792084224,
-    "Sinnoh|Grotle|Sendoff Spring|497802": 1792087238
+    "Sinnoh|Grotle|Sendoff Spring|497802": 1792087238,
+    "Johto|Shroomish|Route 34|497802": 1792089318
   }
 }
