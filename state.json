@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Carnivine|Route 18|497287": 1790233821,
     "Kanto|Snorlax|Cerulean Cave|497288": 1790237424,
     "Unova|Cherubi|Route 16|497289": 1790241916,
     "Hoenn|Swampert|Route 109|497290": 1790244921,
@@ -999,6 +998,7 @@
     "Johto|Shroomish|Route 34|497802": 1792089318,
     "Unova|Hippowdon|Mistralton Cave|497803": 1792092317,
     "Kanto|Dragonite|Six Island|497803": 1792092629,
-    "Sinnoh|Skitty|Route 204|497803": 1792093823
+    "Sinnoh|Skitty|Route 204|497803": 1792093823,
+    "Hoenn|Marshtomp|Route 124|497803": 1792094436
   }
 }
