@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Bulbasaur|Viridian Forest|497276": 1790194221,
     "Hoenn|Qwilfish|Route 125|497277": 1790197820,
     "Kanto|Kirlia|Route 8|497277": 1790198422,
     "Unova|Slakoth|Route 2|497277": 1790198422,
@@ -999,6 +998,7 @@
     "Sinnoh|Hippopotas|Maniac Tunnel|497791": 1792050320,
     "Unova|Gliscor|Route 11|497791": 1792050320,
     "Hoenn|Metagross|Meteor Falls|497792": 1792051524,
-    "Kanto|Misdreavus|Pokemon Tower|497793": 1792055722
+    "Kanto|Misdreavus|Pokemon Tower|497793": 1792055722,
+    "Johto|Togetic|Route 27|497793": 1792057519
   }
 }
