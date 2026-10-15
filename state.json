@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Minun|Route 6|497282": 1790215516,
     "Kanto|Tauros|Route 17|497282": 1790217622,
     "Hoenn|Blissey|Artisan Cave|497283": 1790220630,
     "Johto|Starmie|Cliff Edge Gate|497284": 1790222718,
@@ -999,6 +998,7 @@
     "Kanto|Aerodactyl|Tanoby Ruins|497797": 1792071923,
     "Hoenn|Shuckle|Seafloor Cavern|497797": 1792072222,
     "Johto|Chikorita|Route 31|497798": 1792074020,
-    "Unova|Sandslash|Desert Resort|497798": 1792074020
+    "Unova|Sandslash|Desert Resort|497798": 1792074020,
+    "Hoenn|Sudowoodo|Battle Frontier|497799": 1792077622
   }
 }
