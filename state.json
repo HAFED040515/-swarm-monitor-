@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Minun|Route 22|497279": 1790207721,
     "Hoenn|Mismagius|Route 122|497279": 1790207721,
     "Johto|Electivire|Route 27|497280": 1790210422,
     "Hoenn|Skitty|Route 116|497280": 1790211636,
@@ -999,6 +998,7 @@
     "Johto|Skitty|Route 35|497794": 1792061424,
     "Hoenn|Sudowoodo|Battle Frontier|497795": 1792064720,
     "Unova|Volcarona|Relic Castle|497795": 1792065639,
-    "Sinnoh|Crawdaunt|Lake Valor|497796": 1792068621
+    "Sinnoh|Crawdaunt|Lake Valor|497796": 1792068621,
+    "Johto|Snorlax|Victory Road|497797": 1792070718
   }
 }
