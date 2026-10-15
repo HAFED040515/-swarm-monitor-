@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Salamence|Dragonspiral Tower|497266": 1790158521,
     "Johto|Volcarona|Bell Tower|497266": 1790159717,
     "Johto|Croconaw|Whirl Islands|497268": 1790166917,
     "Unova|Lucario|Guidance Chamber|497269": 1790169624,
@@ -999,6 +998,7 @@
     "Hoenn|Finneon|Route 107|497782": 1792015825,
     "Hoenn|Pelipper|Route 109|497782": 1792017620,
     "Johto|Cyndaquil|Route 33|497782": 1792017918,
-    "Unova|Heracross|Route 10|497783": 1792019117
+    "Unova|Heracross|Route 10|497783": 1792019117,
+    "Unova|Dragonair|Dragonspiral Tower|497784": 1792023621
   }
 }
