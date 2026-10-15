@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Tauros|Route 17|497273": 1790185522,
-    "Johto|Tauros|Route 38|497273": 1790185522,
     "Hoenn|Sharpedo|Route 127|497274": 1790186438,
     "Sinnoh|Jynx|Snowpoint Temple|497274": 1790189717,
     "Kanto|Bulbasaur|Viridian Forest|497276": 1790194221,
@@ -999,6 +997,8 @@
     "Unova|Togetic|Dreamyard|497788": 1792039820,
     "Hoenn|Carnivine|Route 123|497789": 1792041917,
     "Johto|Volcarona|Bell Tower|497790": 1792045517,
-    "Kanto|Minun|Route 22|497791": 1792048821
+    "Kanto|Minun|Route 22|497791": 1792048821,
+    "Sinnoh|Hippopotas|Maniac Tunnel|497791": 1792050320,
+    "Unova|Gliscor|Route 11|497791": 1792050320
   }
 }
