@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Zorua|Lostlorn Forest|497292": 1790251520,
     "Hoenn|Togekiss|Sky Pillar|497292": 1790252717,
     "Johto|Metang|Ice Path|497292": 1790253030,
     "Kanto|Snorlax|Cerulean Cave|497293": 1790256632,
@@ -999,6 +998,7 @@
     "Unova|Togetic|Dreamyard|497805": 1792100118,
     "Kanto|Butterfree|Viridian Forest|497805": 1792101637,
     "Hoenn|Relicanth|Route 126|497806": 1792103716,
-    "Sinnoh|Turtwig|Route 203|497807": 1792107317
+    "Sinnoh|Turtwig|Route 203|497807": 1792107317,
+    "Unova|Cacnea|Route 4|497807": 1792108219
   }
 }
