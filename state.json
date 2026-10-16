@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Tauros|Valor Lakefront|497317": 1790342124,
     "Unova|Corsola|Undella Bay|497318": 1790345121,
     "Johto|Aipom|Route 29|497318": 1790346022,
     "Hoenn|Marshtomp|Route 124|497318": 1790348118,
@@ -999,6 +998,7 @@
     "Unova|Togetic|Dreamyard|497827": 1792178717,
     "Johto|Corsola|Union Cave|497827": 1792179920,
     "Kanto|Blissey|Three Island|497828": 1792182319,
-    "Sinnoh|Pineco|Route 207|497828": 1792182319
+    "Sinnoh|Pineco|Route 207|497828": 1792182319,
+    "Unova|Crawdaunt|Route 3|497828": 1792183820
   }
 }
