@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Corsola|Route 40|497296": 1790267431,
     "Sinnoh|Ambipom|Route 216|497297": 1790269821,
     "Sinnoh|Carnivine|Route 225|497298": 1790274022,
     "Unova|Farfetch&#x27;d|Route 1|497298": 1790274318,
@@ -999,6 +998,7 @@
     "Sinnoh|Tyranitar|Stark Mountain|497809": 1792114228,
     "Hoenn|Linoone|Route 104|497809": 1792114820,
     "Johto|Shuckle|Cliff Cave|497809": 1792115047,
-    "Kanto|Wailord|Green Path|497810": 1792118117
+    "Kanto|Wailord|Green Path|497810": 1792118117,
+    "Unova|Zorua|Lostlorn Forest|497810": 1792119024
   }
 }
