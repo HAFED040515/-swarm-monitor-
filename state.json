@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Octillery|Route 13|497312": 1790325923,
     "Sinnoh|Prinplup|Route 220|497313": 1790327721,
     "Johto|Starmie|Cliff Edge Gate|497313": 1790329520,
     "Kanto|Sentret|Route 1|497314": 1790331320,
@@ -999,6 +998,7 @@
     "Unova|Electabuzz|Chargestone Cave|497823": 1792164317,
     "Kanto|Kangaskhan|Rock Tunnel|497823": 1792165221,
     "Sinnoh|Shuckle|Route 219|497823": 1792166116,
-    "Johto|Skarmory|Route 26|497825": 1792170040
+    "Johto|Skarmory|Route 26|497825": 1792170040,
+    "Sinnoh|Bonsly|Eterna Forest|497825": 1792173020
   }
 }
