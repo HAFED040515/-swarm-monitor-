@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Yanmega|Six Island|497319": 1790349508,
     "Hoenn|Cloyster|Route 133|497319": 1790351423,
     "Sinnoh|Crawdaunt|Lake Valor|497320": 1790352320,
     "Unova|Munna|Dreamyard|497320": 1790354422,
@@ -999,6 +998,7 @@
     "Hoenn|Sudowoodo|Battle Frontier|497828": 1792184116,
     "Kanto|Relicanth|Tanoby Ruins|497830": 1792188919,
     "Sinnoh|Chansey|Trophy Garden|497830": 1792189516,
-    "Hoenn|Rotom|New Mauville|497830": 1792191315
+    "Hoenn|Rotom|New Mauville|497830": 1792191315,
+    "Kanto|Swalot|Route 18|497831": 1792192223
   }
 }
