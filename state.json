@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Seviper|Route 15|497295": 1790265318,
     "Johto|Corsola|Route 40|497296": 1790267431,
     "Sinnoh|Ambipom|Route 216|497297": 1790269821,
     "Sinnoh|Carnivine|Route 225|497298": 1790274022,
@@ -999,6 +998,7 @@
     "Hoenn|Volcarona|Scorched Slab|497809": 1792113914,
     "Sinnoh|Tyranitar|Stark Mountain|497809": 1792114228,
     "Hoenn|Linoone|Route 104|497809": 1792114820,
-    "Johto|Shuckle|Cliff Cave|497809": 1792115047
+    "Johto|Shuckle|Cliff Cave|497809": 1792115047,
+    "Kanto|Wailord|Green Path|497810": 1792118117
   }
 }
