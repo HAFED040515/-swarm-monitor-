@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Lumineon|Route 17|497308": 1790311221,
     "Johto|Kingdra|Whirl Islands|497308": 1790311523,
     "Hoenn|Spiritomb|Abandoned Ship|497309": 1790316037,
     "Sinnoh|Farfetch&#x27;d|Route 209|497310": 1790317517,
@@ -999,6 +998,7 @@
     "Sinnoh|Rotom|Old Chateau|497820": 1792154118,
     "Unova|Minun|Route 6|497821": 1792156222,
     "Kanto|Nosepass|Mt. Moon|497821": 1792156570,
-    "Kanto|Omastar|Tanoby Ruins|497822": 1792160423
+    "Kanto|Omastar|Tanoby Ruins|497822": 1792160423,
+    "Sinnoh|Pineco|Route 207|497822": 1792161921
   }
 }
