@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Turtwig|Route 203|497303": 1790292629,
     "Kanto|Munna|Route 4|497303": 1790292917,
     "Unova|Kangaskhan|Wellspring Cave|497303": 1790293223,
     "Johto|Shuckle|Cliff Cave|497304": 1790296228,
@@ -999,6 +998,7 @@
     "Kanto|Sentret|Route 1|497814": 1792133716,
     "Kanto|Pidgeot|Three Island|497815": 1792135220,
     "Hoenn|Kecleon|Route 120|497815": 1792135515,
-    "Unova|Volbeat|Route 8|497815": 1792137316
+    "Unova|Volbeat|Route 8|497815": 1792137316,
+    "Johto|Totodile|Route 32|497815": 1792137636
   }
 }
