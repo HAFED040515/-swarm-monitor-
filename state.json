@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Sentret|Route 1|497314": 1790331320,
     "Unova|Houndoom|Route 15|497315": 1790334922,
     "Hoenn|Corsola|Route 128|497315": 1790335517,
     "Johto|Shroomish|Route 34|497316": 1790339430,
@@ -999,6 +998,7 @@
     "Johto|Skarmory|Route 26|497825": 1792170040,
     "Sinnoh|Bonsly|Eterna Forest|497825": 1792173020,
     "Hoenn|Castform|Aqua Hideout|497826": 1792175429,
-    "Unova|Scizor|Route 14|497826": 1792175429
+    "Unova|Scizor|Route 14|497826": 1792175429,
+    "Kanto|Trapinch|Diglett&#x27;s Cave|497827": 1792178420
   }
 }
