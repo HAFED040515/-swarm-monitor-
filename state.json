@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Blissey|Three Island|497308": 1790309422,
     "Unova|Lumineon|Route 17|497308": 1790311221,
     "Johto|Kingdra|Whirl Islands|497308": 1790311523,
     "Hoenn|Spiritomb|Abandoned Ship|497309": 1790316037,
@@ -999,6 +998,7 @@
     "Johto|Nincada|Route 46|497820": 1792152624,
     "Sinnoh|Rotom|Old Chateau|497820": 1792154118,
     "Unova|Minun|Route 6|497821": 1792156222,
-    "Kanto|Nosepass|Mt. Moon|497821": 1792156570
+    "Kanto|Nosepass|Mt. Moon|497821": 1792156570,
+    "Kanto|Omastar|Tanoby Ruins|497822": 1792160423
   }
 }
