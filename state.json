@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Togekiss|Sky Pillar|497292": 1790252717,
     "Johto|Metang|Ice Path|497292": 1790253030,
     "Kanto|Snorlax|Cerulean Cave|497293": 1790256632,
     "Johto|Starmie|Cliff Edge Gate|497294": 1790259623,
@@ -999,6 +998,7 @@
     "Kanto|Butterfree|Viridian Forest|497805": 1792101637,
     "Hoenn|Relicanth|Route 126|497806": 1792103716,
     "Sinnoh|Turtwig|Route 203|497807": 1792107317,
-    "Unova|Cacnea|Route 4|497807": 1792108219
+    "Unova|Cacnea|Route 4|497807": 1792108219,
+    "Kanto|Absol|Sevault Canyon|497808": 1792109720
   }
 }
