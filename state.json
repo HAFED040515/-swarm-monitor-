@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Kingdra|Whirl Islands|497308": 1790311523,
     "Hoenn|Spiritomb|Abandoned Ship|497309": 1790316037,
     "Sinnoh|Farfetch&#x27;d|Route 209|497310": 1790317517,
     "Kanto|Salamence|Victory Road|497310": 1790318118,
@@ -999,6 +998,7 @@
     "Unova|Minun|Route 6|497821": 1792156222,
     "Kanto|Nosepass|Mt. Moon|497821": 1792156570,
     "Kanto|Omastar|Tanoby Ruins|497822": 1792160423,
-    "Sinnoh|Pineco|Route 207|497822": 1792161921
+    "Sinnoh|Pineco|Route 207|497822": 1792161921,
+    "Johto|Miltank|Route 39|497823": 1792163422
   }
 }
