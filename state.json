@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Exeggutor|Route 23|497304": 1790297421,
     "Sinnoh|Furret|Route 208|497304": 1790298033,
     "Unova|Dragonair|Dragonspiral Tower|497305": 1790300115,
     "Hoenn|Treecko|Petalburg Woods|497306": 1790303115,
@@ -999,6 +998,7 @@
     "Johto|Aipom|Route 29|497817": 1792143031,
     "Hoenn|Munna|Route 102|497817": 1792144516,
     "Unova|Furret|Abundant Shrine|497818": 1792146020,
-    "Sinnoh|Spiritomb|Turnback Cave|497818": 1792146628
+    "Sinnoh|Spiritomb|Turnback Cave|497818": 1792146628,
+    "Kanto|Minun|Route 22|497819": 1792149915
   }
 }
