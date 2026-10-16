@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Aipom|Route 29|497300": 1790283638,
     "Hoenn|Azumarill|Route 120|497301": 1790285117,
     "Kanto|Rampardos|Tanoby Ruins|497302": 1790288121,
     "Sinnoh|Empoleon|Lake Acuity|497302": 1790288121,
@@ -999,6 +998,7 @@
     "Hoenn|Skitty|Route 116|497812": 1792124420,
     "Sinnoh|Shuckle|Route 219|497812": 1792125028,
     "Johto|Houndoom|Burned Tower|497812": 1792126222,
-    "Unova|Furret|Abundant Shrine|497813": 1792128916
+    "Unova|Furret|Abundant Shrine|497813": 1792128916,
+    "Kanto|Sentret|Route 1|497814": 1792133716
   }
 }
