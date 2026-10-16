@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Salamence|Victory Road|497310": 1790318118,
     "Hoenn|Tropius|Route 118|497312": 1790324421,
     "Unova|Octillery|Route 13|497312": 1790325923,
     "Sinnoh|Prinplup|Route 220|497313": 1790327721,
@@ -999,6 +998,7 @@
     "Sinnoh|Pineco|Route 207|497822": 1792161921,
     "Johto|Miltank|Route 39|497823": 1792163422,
     "Unova|Electabuzz|Chargestone Cave|497823": 1792164317,
-    "Kanto|Kangaskhan|Rock Tunnel|497823": 1792165221
+    "Kanto|Kangaskhan|Rock Tunnel|497823": 1792165221,
+    "Sinnoh|Shuckle|Route 219|497823": 1792166116
   }
 }
