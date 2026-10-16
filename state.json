@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Crawdaunt|Lake Valor|497320": 1790352320,
     "Unova|Munna|Dreamyard|497320": 1790354422,
     "Johto|Bayleef|National Park|497322": 1790359822,
     "Kanto|Milotic|Resort Gorgeous|497322": 1790361317,
@@ -999,6 +998,7 @@
     "Sinnoh|Chansey|Trophy Garden|497830": 1792189516,
     "Hoenn|Rotom|New Mauville|497830": 1792191315,
     "Kanto|Swalot|Route 18|497831": 1792192223,
-    "Johto|Togetic|Route 27|497831": 1792192824
+    "Johto|Togetic|Route 27|497831": 1792192824,
+    "Unova|Farfetch&#x27;d|Route 1|497831": 1792195116
   }
 }
