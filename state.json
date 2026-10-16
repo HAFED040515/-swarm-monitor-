@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Rotom|Old Chateau|497299": 1790280041,
     "Unova|Zangoose|Route 7|497300": 1790280317,
     "Johto|Aipom|Route 29|497300": 1790283638,
     "Hoenn|Azumarill|Route 120|497301": 1790285117,
@@ -999,6 +998,7 @@
     "Kanto|Vespiquen|Five Isle Meadow|497811": 1792122020,
     "Unova|Plusle|Route 5|497812": 1792124119,
     "Hoenn|Skitty|Route 116|497812": 1792124420,
-    "Sinnoh|Shuckle|Route 219|497812": 1792125028
+    "Sinnoh|Shuckle|Route 219|497812": 1792125028,
+    "Johto|Houndoom|Burned Tower|497812": 1792126222
   }
 }
