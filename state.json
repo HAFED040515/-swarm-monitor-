@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Glaceon|Route 217|497307": 1790307316,
     "Kanto|Blissey|Three Island|497308": 1790309422,
     "Unova|Lumineon|Route 17|497308": 1790311221,
     "Johto|Kingdra|Whirl Islands|497308": 1790311523,
@@ -999,6 +998,7 @@
     "Hoenn|Mudkip|Route 104|497819": 1792152038,
     "Johto|Nincada|Route 46|497820": 1792152624,
     "Sinnoh|Rotom|Old Chateau|497820": 1792154118,
-    "Unova|Minun|Route 6|497821": 1792156222
+    "Unova|Minun|Route 6|497821": 1792156222,
+    "Kanto|Nosepass|Mt. Moon|497821": 1792156570
   }
 }
