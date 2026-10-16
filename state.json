@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Feraligatr|Tohjo Falls|497307": 1790305821,
     "Unova|Pupitar|Twist Mountain|497307": 1790306122,
     "Sinnoh|Glaceon|Route 217|497307": 1790307316,
     "Kanto|Blissey|Three Island|497308": 1790309422,
@@ -999,6 +998,7 @@
     "Kanto|Minun|Route 22|497819": 1792149915,
     "Sinnoh|Spiritomb|Turnback Cave|497819": 1792150228,
     "Hoenn|Mudkip|Route 104|497819": 1792152038,
-    "Johto|Nincada|Route 46|497820": 1792152624
+    "Johto|Nincada|Route 46|497820": 1792152624,
+    "Sinnoh|Rotom|Old Chateau|497820": 1792154118
   }
 }
