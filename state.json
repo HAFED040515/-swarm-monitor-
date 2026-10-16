@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Starmie|Cliff Edge Gate|497294": 1790259623,
     "Sinnoh|Ambipom|Route 216|497295": 1790263113,
     "Unova|Skorupi|Desert Resort|497295": 1790264426,
     "Kanto|Seviper|Route 15|497295": 1790265318,
@@ -999,6 +998,7 @@
     "Unova|Cacnea|Route 4|497807": 1792108219,
     "Kanto|Absol|Sevault Canyon|497808": 1792109720,
     "Johto|Miltank|Route 39|497808": 1792110020,
-    "Hoenn|Volcarona|Scorched Slab|497809": 1792113914
+    "Hoenn|Volcarona|Scorched Slab|497809": 1792113914,
+    "Sinnoh|Tyranitar|Stark Mountain|497809": 1792114228
   }
 }
