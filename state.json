@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Corsola|Route 128|497315": 1790335517,
     "Johto|Shroomish|Route 34|497316": 1790339430,
     "Kanto|Wartortle|Seafoam Islands|497317": 1790342124,
     "Sinnoh|Tauros|Valor Lakefront|497317": 1790342124,
@@ -999,6 +998,7 @@
     "Hoenn|Castform|Aqua Hideout|497826": 1792175429,
     "Unova|Scizor|Route 14|497826": 1792175429,
     "Kanto|Trapinch|Diglett&#x27;s Cave|497827": 1792178420,
-    "Unova|Togetic|Dreamyard|497827": 1792178717
+    "Unova|Togetic|Dreamyard|497827": 1792178717,
+    "Johto|Corsola|Union Cave|497827": 1792179920
   }
 }
