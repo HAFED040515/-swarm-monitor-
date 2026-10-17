@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Weavile|Route 217|497324": 1790367622,
     "Hoenn|Blissey|Artisan Cave|497324": 1790367917,
     "Hoenn|Sceptile|Route 119|497325": 1790370625,
     "Unova|Porygon2|P2 Laboratory|497325": 1790371222,
@@ -999,6 +998,7 @@
     "Johto|Sharpedo|Route 41|497834": 1792205121,
     "Unova|Hitmonlee|Victory Road|497834": 1792205420,
     "Sinnoh|Tyranitar|Stark Mountain|497834": 1792205716,
-    "Kanto|Misdreavus|Pokemon Tower|497835": 1792207520
+    "Kanto|Misdreavus|Pokemon Tower|497835": 1792207520,
+    "Sinnoh|Torterra|Route 212|497835": 1792209636
   }
 }
