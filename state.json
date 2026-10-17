@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Miltank|Route 39|497323": 1790363117,
     "Unova|Hitmonlee|Victory Road|497323": 1790363117,
     "Hoenn|Vaporeon|Route 134|497323": 1790363721,
     "Sinnoh|Mr. Mime|Route 224|497323": 1790366438,
@@ -999,6 +998,7 @@
     "Unova|Farfetch&#x27;d|Route 1|497831": 1792195116,
     "Sinnoh|Chimecho|Acuity Lakefront|497833": 1792200019,
     "Hoenn|Drifloon|Route 105|497833": 1792202434,
-    "Kanto|Wormadam|Pattern Bush|497834": 1792203019
+    "Kanto|Wormadam|Pattern Bush|497834": 1792203019,
+    "Hoenn|Lairon|Granite Cave|497834": 1792203916
   }
 }
