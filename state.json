@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Sceptile|Route 119|497325": 1790370625,
     "Unova|Porygon2|P2 Laboratory|497325": 1790371222,
     "Unova|Swalot|Route 9|497326": 1790374825,
     "Johto|Porygon-Z|Team Rocket HQ|497326": 1790375119,
@@ -999,6 +998,7 @@
     "Sinnoh|Tyranitar|Stark Mountain|497834": 1792205716,
     "Kanto|Misdreavus|Pokemon Tower|497835": 1792207520,
     "Sinnoh|Torterra|Route 212|497835": 1792209636,
-    "Unova|Seviper|Route 1|497837": 1792214718
+    "Unova|Seviper|Route 1|497837": 1792214718,
+    "Johto|Miltank|Route 39|497837": 1792215620
   }
 }
