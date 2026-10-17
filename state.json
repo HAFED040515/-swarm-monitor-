@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Vigoroth|Ruins of Alph|497334": 1790404821,
-    "Unova|Hitmonlee|Victory Road|497335": 1790409316,
     "Kanto|Trapinch|Diglett&#x27;s Cave|497336": 1790410220,
     "Johto|Ursaring|Dark Cave|497336": 1790411718,
     "Sinnoh|Chimchar|Route 211|497337": 1790413516,
@@ -999,6 +997,8 @@
     "Sinnoh|Shroomish|Route 201|497844": 1792241420,
     "Unova|Cherubi|Route 16|497844": 1792241420,
     "Johto|Shelgon|Dragon&#x27;s Den|497844": 1792242038,
-    "Hoenn|Castform|Aqua Hideout|497844": 1792242038
+    "Hoenn|Castform|Aqua Hideout|497844": 1792242038,
+    "Sinnoh|Bonsly|Eterna Forest|497846": 1792246520,
+    "Unova|Volcarona|Relic Castle|497846": 1792246520
   }
 }
