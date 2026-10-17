@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Armaldo|Viapois Chamber|497326": 1790376915,
     "Hoenn|Combee|Route 117|497328": 1790384115,
     "Johto|Kirlia|Route 43|497329": 1790386227,
     "Hoenn|Cloyster|Route 133|497330": 1790389220,
@@ -999,6 +998,7 @@
     "Hoenn|Chimecho|Mt. Pyre|497838": 1792218627,
     "Kanto|Illumise|Water Path|497838": 1792219519,
     "Sinnoh|Shroomish|Route 201|497839": 1792223717,
-    "Johto|Togetic|Route 27|497840": 1792225220
+    "Johto|Togetic|Route 27|497840": 1792225220,
+    "Unova|Munna|Dreamyard|497840": 1792226420
   }
 }
