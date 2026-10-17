@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Feraligatr|Tohjo Falls|497343": 1790437820,
     "Hoenn|Murkrow|Jagged Pass|497343": 1790438119,
     "Sinnoh|Ambipom|Route 216|497344": 1790440822,
     "Unova|Togetic|Dreamyard|497345": 1790442620,
@@ -999,6 +998,7 @@
     "Sinnoh|Chansey|Trophy Garden|497852": 1792268119,
     "Unova|Lucario|Guidance Chamber|497852": 1792268419,
     "Hoenn|Lapras|Shoal Cave|497852": 1792269316,
-    "Johto|Misdreavus|Sprout Tower|497853": 1792271117
+    "Johto|Misdreavus|Sprout Tower|497853": 1792271117,
+    "Hoenn|Spinda|Jagged Pass|497853": 1792274717
   }
 }
