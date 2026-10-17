@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Armaldo|Viapois Chamber|497334": 1790402716,
-    "Hoenn|Sudowoodo|Battle Frontier|497334": 1790403021,
     "Sinnoh|Grotle|Sendoff Spring|497334": 1790403917,
     "Unova|Volbeat|Route 8|497334": 1790403917,
     "Johto|Vigoroth|Ruins of Alph|497334": 1790404821,
@@ -999,6 +997,8 @@
     "Hoenn|Kecleon|Route 120|497843": 1792235116,
     "Sinnoh|Torterra|Route 212|497843": 1792235423,
     "Hoenn|Mudkip|Route 104|497844": 1792238717,
-    "Kanto|Misdreavus|Pokemon Tower|497844": 1792239019
+    "Kanto|Misdreavus|Pokemon Tower|497844": 1792239019,
+    "Sinnoh|Shroomish|Route 201|497844": 1792241420,
+    "Unova|Cherubi|Route 16|497844": 1792241420
   }
 }
