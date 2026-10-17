@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Mr. Mime|Route 224|497323": 1790366438,
     "Johto|Barboach|Slowpoke Well|497324": 1790366719,
     "Sinnoh|Weavile|Route 217|497324": 1790367622,
     "Hoenn|Blissey|Artisan Cave|497324": 1790367917,
@@ -999,6 +998,7 @@
     "Kanto|Wormadam|Pattern Bush|497834": 1792203019,
     "Hoenn|Lairon|Granite Cave|497834": 1792203916,
     "Johto|Sharpedo|Route 41|497834": 1792205121,
-    "Unova|Hitmonlee|Victory Road|497834": 1792205420
+    "Unova|Hitmonlee|Victory Road|497834": 1792205420,
+    "Sinnoh|Tyranitar|Stark Mountain|497834": 1792205716
   }
 }
