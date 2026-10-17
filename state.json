@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Jolteon|Ruin Valley|497338": 1790420436,
     "Unova|Hitmonlee|Victory Road|497339": 1790423119,
     "Kanto|Lapras|Icefall Cave|497339": 1790423420,
     "Johto|Snorlax|Victory Road|497340": 1790425220,
@@ -999,6 +998,7 @@
     "Johto|Togetic|Route 27|497846": 1792247429,
     "Unova|Wigglytuff|Route 14|497847": 1792251918,
     "Sinnoh|Burmy|Route 202|497847": 1792252219,
-    "Johto|Vigoroth|Ruins of Alph|497848": 1792254916
+    "Johto|Vigoroth|Ruins of Alph|497848": 1792254916,
+    "Kanto|Zangoose|Route 14|497849": 1792257620
   }
 }
