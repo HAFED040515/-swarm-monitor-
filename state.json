@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Snorlax|Victory Road|497340": 1790425220,
     "Hoenn|Grovyle|Route 118|497340": 1790427316,
     "Sinnoh|Drapion|Route 213|497340": 1790427637,
     "Unova|Sableye|Wellspring Cave|497340": 1790428220,
@@ -999,6 +998,7 @@
     "Johto|Vigoroth|Ruins of Alph|497848": 1792254916,
     "Kanto|Zangoose|Route 14|497849": 1792257620,
     "Johto|Metang|Ice Path|497849": 1792260035,
-    "Sinnoh|Heracross|Route 206|497849": 1792260035
+    "Sinnoh|Heracross|Route 206|497849": 1792260035,
+    "Hoenn|Munna|Route 102|497850": 1792262116
   }
 }
