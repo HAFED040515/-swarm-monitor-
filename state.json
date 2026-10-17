@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Ursaring|Dark Cave|497336": 1790411718,
     "Sinnoh|Chimchar|Route 211|497337": 1790413516,
     "Kanto|Blastoise|Cape Brink|497337": 1790414716,
     "Hoenn|Chatot|Route 115|497337": 1790414716,
@@ -999,6 +998,7 @@
     "Hoenn|Castform|Aqua Hideout|497844": 1792242038,
     "Sinnoh|Bonsly|Eterna Forest|497846": 1792246520,
     "Unova|Volcarona|Relic Castle|497846": 1792246520,
-    "Kanto|Munna|Route 4|497846": 1792247117
+    "Kanto|Munna|Route 4|497846": 1792247117,
+    "Johto|Togetic|Route 27|497846": 1792247429
   }
 }
