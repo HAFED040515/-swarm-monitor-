@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Grovyle|Route 118|497340": 1790427316,
     "Sinnoh|Drapion|Route 213|497340": 1790427637,
     "Unova|Sableye|Wellspring Cave|497340": 1790428220,
     "Sinnoh|Chimecho|Acuity Lakefront|497342": 1790435116,
@@ -999,6 +998,7 @@
     "Kanto|Zangoose|Route 14|497849": 1792257620,
     "Johto|Metang|Ice Path|497849": 1792260035,
     "Sinnoh|Heracross|Route 206|497849": 1792260035,
-    "Hoenn|Munna|Route 102|497850": 1792262116
+    "Hoenn|Munna|Route 102|497850": 1792262116,
+    "Kanto|Sentret|Route 1|497850": 1792263019
   }
 }
