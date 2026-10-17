@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Cloyster|Route 133|497330": 1790389220,
     "Unova|Yanma|Pinwheel Forest|497330": 1790390418,
     "Johto|Chikorita|Route 31|497331": 1790393116,
     "Hoenn|Pelipper|Route 109|497331": 1790394621,
@@ -999,6 +998,7 @@
     "Johto|Togetic|Route 27|497840": 1792225220,
     "Unova|Munna|Dreamyard|497840": 1792226420,
     "Kanto|Absol|Canyon Entrance|497841": 1792228221,
-    "Unova|Minccino|Cold Storage|497841": 1792228820
+    "Unova|Minccino|Cold Storage|497841": 1792228820,
+    "Hoenn|Zorua|Route 101|497841": 1792230916
   }
 }
