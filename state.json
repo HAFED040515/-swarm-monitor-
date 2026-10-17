@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Swalot|Route 9|497326": 1790374825,
     "Johto|Porygon-Z|Team Rocket HQ|497326": 1790375119,
     "Sinnoh|Cloyster|Route 223|497326": 1790376023,
     "Kanto|Armaldo|Viapois Chamber|497326": 1790376915,
@@ -999,6 +998,7 @@
     "Sinnoh|Torterra|Route 212|497835": 1792209636,
     "Unova|Seviper|Route 1|497837": 1792214718,
     "Johto|Miltank|Route 39|497837": 1792215620,
-    "Hoenn|Chimecho|Mt. Pyre|497838": 1792218627
+    "Hoenn|Chimecho|Mt. Pyre|497838": 1792218627,
+    "Kanto|Illumise|Water Path|497838": 1792219519
   }
 }
