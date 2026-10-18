@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Chikorita|Route 31|497365": 1790515827,
     "Unova|Togetic|Dreamyard|497365": 1790517316,
     "Hoenn|Exploud|Desert Underpass|497365": 1790517916,
     "Unova|Pupitar|Twist Mountain|497367": 1790522119,
@@ -999,6 +998,7 @@
     "Sinnoh|Drapion|Route 213|497870": 1792335636,
     "Johto|Metang|Ice Path|497871": 1792336520,
     "Hoenn|Mismagius|Route 122|497871": 1792338021,
-    "Unova|Seviper|Route 1|497871": 1792339235
+    "Unova|Seviper|Route 1|497871": 1792339235,
+    "Sinnoh|Absol|Mt. Coronet|497872": 1792340120
   }
 }
