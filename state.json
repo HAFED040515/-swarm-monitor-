@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Vigoroth|Ruins of Alph|497354": 1790474715,
     "Kanto|Mr. Mime|Route 21|497354": 1790475321,
     "Hoenn|Sudowoodo|Battle Frontier|497354": 1790476821,
     "Unova|Corsola|Undella Bay|497355": 1790480719,
@@ -999,6 +998,7 @@
     "Johto|Croconaw|Whirl Islands|497860": 1792299315,
     "Kanto|Plusle|Route 2|497861": 1792301715,
     "Unova|Ninjask|Route 11|497861": 1792302019,
-    "Sinnoh|Spiritomb|Turnback Cave|497862": 1792305315
+    "Sinnoh|Spiritomb|Turnback Cave|497862": 1792305315,
+    "Hoenn|Corsola|Route 128|497862": 1792306517
   }
 }
