@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Corsola|Undella Bay|497355": 1790480719,
     "Kanto|Wailord|Green Path|497356": 1790483718,
     "Johto|Tauros|Route 38|497357": 1790486421,
     "Unova|Dragonair|Dragonspiral Tower|497357": 1790488832,
@@ -999,6 +998,7 @@
     "Sinnoh|Spiritomb|Turnback Cave|497862": 1792305315,
     "Hoenn|Corsola|Route 128|497862": 1792306517,
     "Sinnoh|Lucario|Route 216|497862": 1792307420,
-    "Unova|Electabuzz|Chargestone Cave|497863": 1792308021
+    "Unova|Electabuzz|Chargestone Cave|497863": 1792308021,
+    "Kanto|Volbeat|Memorial Pillar|497863": 1792309519
   }
 }
