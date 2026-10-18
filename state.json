@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Bonsly|Eterna Forest|497368": 1790525422,
-    "Hoenn|Croagunk|Route 121|497368": 1790528115,
     "Kanto|Chatot|Treasure Beach|497369": 1790529020,
     "Unova|Zangoose|Route 7|497369": 1790529320,
     "Hoenn|Combusken|Route 114|497370": 1790533220,
@@ -999,6 +997,8 @@
     "Johto|Absol|Route 28|497872": 1792341619,
     "Kanto|Houndoom|Kindle Road|497872": 1792342219,
     "Unova|Hitmonlee|Victory Road|497873": 1792345519,
-    "Hoenn|Qwilfish|Route 125|497874": 1792349120
+    "Hoenn|Qwilfish|Route 125|497874": 1792349120,
+    "Kanto|Lumineon|Route 12|497874": 1792349420,
+    "Johto|Kangaskhan|Dark Cave|497874": 1792349420
   }
 }
