@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Seviper|Route 1|497372": 1790541620,
     "Johto|Forretress|Route 45|497373": 1790544020,
     "Sinnoh|Exeggutor|Route 230|497373": 1790544317,
     "Hoenn|Mudkip|Route 104|497373": 1790544916,
@@ -999,6 +998,7 @@
     "Unova|Munna|Dreamyard|497875": 1792353315,
     "Hoenn|Munna|Route 102|497876": 1792355717,
     "Unova|Cherubi|Route 16|497876": 1792356914,
-    "Hoenn|Salamence|Sky Pillar|497877": 1792359620
+    "Hoenn|Salamence|Sky Pillar|497877": 1792359620,
+    "Johto|Bonsly|Ilex Forest|497878": 1792361116
   }
 }
