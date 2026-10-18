@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Arbok|Route 11|497359": 1790494263,
     "Sinnoh|Absol|Mt. Coronet|497359": 1790495716,
     "Unova|Volcarona|Relic Castle|497360": 1790497552,
     "Sinnoh|Empoleon|Lake Acuity|497361": 1790502916,
@@ -999,6 +998,7 @@
     "Hoenn|Mudkip|Route 104|497865": 1792315827,
     "Sinnoh|Combee|Floaroma Meadow|497865": 1792316720,
     "Johto|Chikorita|Route 31|497866": 1792320916,
-    "Kanto|Cradily|Tanoby Ruins|497867": 1792321516
+    "Kanto|Cradily|Tanoby Ruins|497867": 1792321516,
+    "Unova|Relicanth|Challenger&#x27;s Cave|497867": 1792321819
   }
 }
