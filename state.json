@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cherubi|Route 16|497362": 1790505317,
     "Kanto|Jolteon|Ruin Valley|497363": 1790508315,
     "Johto|Quilava|Route 42|497363": 1790508315,
     "Sinnoh|Rotom|Old Chateau|497363": 1790509219,
@@ -999,6 +998,7 @@
     "Johto|Sunflora|National Park|497868": 1792327519,
     "Hoenn|Nosepass|Granite Cave|497869": 1792328715,
     "Kanto|Bulbasaur|Viridian Forest|497869": 1792332035,
-    "Hoenn|Combusken|Route 114|497870": 1792332035
+    "Hoenn|Combusken|Route 114|497870": 1792332035,
+    "Unova|Yanma|Pinwheel Forest|497870": 1792332315
   }
 }
