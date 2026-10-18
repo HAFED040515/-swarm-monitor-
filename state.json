@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Dragonair|Dragonspiral Tower|497357": 1790488832,
     "Hoenn|Blissey|Artisan Cave|497358": 1790492116,
     "Johto|Wailmer|Route 40|497359": 1790493622,
     "Kanto|Arbok|Route 11|497359": 1790494263,
@@ -999,6 +998,7 @@
     "Unova|Electabuzz|Chargestone Cave|497863": 1792308021,
     "Kanto|Volbeat|Memorial Pillar|497863": 1792309519,
     "Johto|Starmie|Cliff Edge Gate|497863": 1792309820,
-    "Hoenn|Mudkip|Route 104|497865": 1792315827
+    "Hoenn|Mudkip|Route 104|497865": 1792315827,
+    "Sinnoh|Combee|Floaroma Meadow|497865": 1792316720
   }
 }
