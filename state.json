@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Blissey|Artisan Cave|497350": 1790461224,
     "Johto|Sharpedo|Route 41|497350": 1790462421,
     "Kanto|Lapras|Icefall Cave|497350": 1790463317,
     "Hoenn|Munna|Route 102|497352": 1790469619,
@@ -999,6 +998,7 @@
     "Hoenn|Swampert|Route 109|497857": 1792287620,
     "Hoenn|Breloom|Route 120|497857": 1792289421,
     "Sinnoh|Tauros|Valor Lakefront|497858": 1792291219,
-    "Kanto|Murkrow|Route 7|497858": 1792291520
+    "Kanto|Murkrow|Route 7|497858": 1792291520,
+    "Sinnoh|Cloyster|Route 223|497859": 1792294824
   }
 }
