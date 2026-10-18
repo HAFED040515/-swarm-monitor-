@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Wailmer|Route 40|497359": 1790493622,
     "Kanto|Arbok|Route 11|497359": 1790494263,
     "Sinnoh|Absol|Mt. Coronet|497359": 1790495716,
     "Unova|Volcarona|Relic Castle|497360": 1790497552,
@@ -999,6 +998,7 @@
     "Johto|Starmie|Cliff Edge Gate|497863": 1792309820,
     "Hoenn|Mudkip|Route 104|497865": 1792315827,
     "Sinnoh|Combee|Floaroma Meadow|497865": 1792316720,
-    "Johto|Chikorita|Route 31|497866": 1792320916
+    "Johto|Chikorita|Route 31|497866": 1792320916,
+    "Kanto|Cradily|Tanoby Ruins|497867": 1792321516
   }
 }
