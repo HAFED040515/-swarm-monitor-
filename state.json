@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Torterra|Route 212|497371": 1790537118,
     "Kanto|Porygon|Pokemon Mansion|497372": 1790541026,
     "Unova|Seviper|Route 1|497372": 1790541620,
     "Johto|Forretress|Route 45|497373": 1790544020,
@@ -999,6 +998,7 @@
     "Sinnoh|Turtwig|Route 203|497874": 1792349715,
     "Johto|Typhlosion|Route 45|497875": 1792353020,
     "Unova|Munna|Dreamyard|497875": 1792353315,
-    "Hoenn|Munna|Route 102|497876": 1792355717
+    "Hoenn|Munna|Route 102|497876": 1792355717,
+    "Unova|Cherubi|Route 16|497876": 1792356914
   }
 }
