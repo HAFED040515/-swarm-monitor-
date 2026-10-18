@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Yanma|Pinwheel Forest|497347": 1790449823,
     "Johto|Ditto|Tohjo Falls|497347": 1790450419,
     "Kanto|Milotic|Resort Gorgeous|497348": 1790454317,
     "Hoenn|Grovyle|Route 118|497348": 1790454916,
@@ -999,6 +998,7 @@
     "Unova|Hippowdon|Mistralton Cave|497854": 1792276515,
     "Johto|Meganium|Route 48|497856": 1792282219,
     "Unova|Volbeat|Route 8|497856": 1792283715,
-    "Sinnoh|Chansey|Trophy Garden|497856": 1792285232
+    "Sinnoh|Chansey|Trophy Garden|497856": 1792285232,
+    "Johto|Exeggcute|Route 30|497857": 1792285516
   }
 }
