@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Relicanth|Tanoby Ruins|497362": 1790504120,
-    "Hoenn|Sceptile|Route 119|497362": 1790505026,
     "Unova|Cherubi|Route 16|497362": 1790505317,
     "Kanto|Jolteon|Ruin Valley|497363": 1790508315,
     "Johto|Quilava|Route 42|497363": 1790508315,
@@ -999,6 +997,8 @@
     "Unova|Relicanth|Challenger&#x27;s Cave|497867": 1792321819,
     "Sinnoh|Turtwig|Route 203|497868": 1792325421,
     "Johto|Sunflora|National Park|497868": 1792327519,
-    "Hoenn|Nosepass|Granite Cave|497869": 1792328715
+    "Hoenn|Nosepass|Granite Cave|497869": 1792328715,
+    "Kanto|Bulbasaur|Viridian Forest|497869": 1792332035,
+    "Hoenn|Combusken|Route 114|497870": 1792332035
   }
 }
