@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Milotic|Resort Gorgeous|497348": 1790454317,
     "Hoenn|Grovyle|Route 118|497348": 1790454916,
     "Unova|Cherubi|Route 16|497349": 1790459119,
     "Hoenn|Blissey|Artisan Cave|497350": 1790461224,
@@ -999,6 +998,7 @@
     "Unova|Volbeat|Route 8|497856": 1792283715,
     "Sinnoh|Chansey|Trophy Garden|497856": 1792285232,
     "Johto|Exeggcute|Route 30|497857": 1792285516,
-    "Hoenn|Swampert|Route 109|497857": 1792287620
+    "Hoenn|Swampert|Route 109|497857": 1792287620,
+    "Hoenn|Breloom|Route 120|497857": 1792289421
   }
 }
