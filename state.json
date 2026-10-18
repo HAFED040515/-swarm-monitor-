@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pupitar|Twist Mountain|497367": 1790522119,
     "Johto|Feebas|Lake of Rage|497367": 1790522720,
     "Sinnoh|Bonsly|Eterna Forest|497368": 1790525422,
     "Hoenn|Croagunk|Route 121|497368": 1790528115,
@@ -999,6 +998,7 @@
     "Unova|Seviper|Route 1|497871": 1792339235,
     "Sinnoh|Absol|Mt. Coronet|497872": 1792340120,
     "Johto|Absol|Route 28|497872": 1792341619,
-    "Kanto|Houndoom|Kindle Road|497872": 1792342219
+    "Kanto|Houndoom|Kindle Road|497872": 1792342219,
+    "Unova|Hitmonlee|Victory Road|497873": 1792345519
   }
 }
