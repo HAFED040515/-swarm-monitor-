@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Empoleon|Lake Acuity|497384": 1790585122,
     "Johto|Luvdisc|Route 47|497385": 1790588723,
     "Unova|Porygon2|P2 Laboratory|497385": 1790589022,
     "Hoenn|Swampert|Route 109|497385": 1790589317,
@@ -999,6 +998,7 @@
     "Johto|Luvdisc|Route 47|497887": 1792393822,
     "Sinnoh|Whiscash|Ravaged Path|497887": 1792395620,
     "Hoenn|Mudkip|Route 104|497888": 1792397422,
-    "Unova|Slakoth|Route 2|497888": 1792399522
+    "Unova|Slakoth|Route 2|497888": 1792399522,
+    "Kanto|Wormadam|Pattern Bush|497889": 1792400716
   }
 }
