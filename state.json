@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Skitty|Route 204|497391": 1790610919,
     "Hoenn|Zorua|Route 101|497392": 1790613319,
     "Johto|Kangaskhan|Dark Cave|497393": 1790616021,
     "Hoenn|Shuckle|Seafloor Cavern|497393": 1790616917,
@@ -999,6 +998,7 @@
     "Unova|Seviper|Route 1|497895": 1792422926,
     "Hoenn|Cloyster|Route 133|497895": 1792424117,
     "Unova|Seviper|Route 1|497896": 1792428916,
-    "Sinnoh|Nosepass|Oreburgh Gate|497897": 1792431317
+    "Sinnoh|Nosepass|Oreburgh Gate|497897": 1792431317,
+    "Johto|Miltank|Route 39|497897": 1792431920
   }
 }
