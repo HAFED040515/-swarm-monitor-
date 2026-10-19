@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Kangaskhan|Wayward Cave|497389": 1790602231,
     "Hoenn|Gulpin|Route 110|497389": 1790603424,
     "Unova|Illumise|Moor of Icirrus|497390": 1790605222,
     "Kanto|Squirtle|Route 24|497390": 1790605830,
@@ -999,6 +998,7 @@
     "Sinnoh|Crawdaunt|Lake Valor|497892": 1792413318,
     "Unova|Bronzong|Abundant Shrine|497892": 1792415117,
     "Kanto|Exeggutor|Route 23|497893": 1792415422,
-    "Johto|Chikorita|Route 31|497894": 1792421125
+    "Johto|Chikorita|Route 31|497894": 1792421125,
+    "Kanto|Volbeat|Memorial Pillar|497894": 1792421427
   }
 }
