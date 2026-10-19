@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Gabite|Route 206|497376": 1790556020,
     "Johto|Nincada|Route 46|497376": 1790556620,
     "Hoenn|Magby|Mt. Chimney|497377": 1790558717,
     "Unova|Shroomish|Pinwheel Forest|497377": 1790560835,
@@ -999,6 +998,7 @@
     "Sinnoh|Snorlax|Victory Road|497881": 1792373115,
     "Johto|Absol|Route 28|497881": 1792374320,
     "Unova|Volcarona|Relic Castle|497882": 1792375819,
-    "Hoenn|Mightyena|Route 110|497882": 1792376419
+    "Hoenn|Mightyena|Route 110|497882": 1792376419,
+    "Kanto|Cradily|Tanoby Ruins|497883": 1792382116
   }
 }
