@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Nincada|Route 46|497376": 1790556620,
     "Hoenn|Magby|Mt. Chimney|497377": 1790558717,
     "Unova|Shroomish|Pinwheel Forest|497377": 1790560835,
     "Kanto|Plusle|Route 2|497379": 1790565622,
@@ -999,6 +998,7 @@
     "Johto|Absol|Route 28|497881": 1792374320,
     "Unova|Volcarona|Relic Castle|497882": 1792375819,
     "Hoenn|Mightyena|Route 110|497882": 1792376419,
-    "Kanto|Cradily|Tanoby Ruins|497883": 1792382116
+    "Kanto|Cradily|Tanoby Ruins|497883": 1792382116,
+    "Unova|Zorua|Lostlorn Forest|497884": 1792384821
   }
 }
