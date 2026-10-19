@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Relicanth|Challenger&#x27;s Cave|497397": 1790630120,
-    "Sinnoh|Absol|Mt. Coronet|497398": 1790635220,
     "Johto|Kirlia|Route 43|497399": 1790637020,
     "Hoenn|Rotom|New Mauville|497400": 1790642119,
     "Kanto|Wartortle|Seafoam Islands|497400": 1790642721,
@@ -999,6 +997,8 @@
     "Johto|Cyndaquil|Route 33|497899": 1792439421,
     "Sinnoh|Nosepass|Oreburgh Gate|497901": 1792444822,
     "Unova|Cherubi|Route 16|497901": 1792444822,
-    "Johto|Rhyperior|Mt. Mortar|497901": 1792447821
+    "Johto|Rhyperior|Mt. Mortar|497901": 1792447821,
+    "Hoenn|Vaporeon|Route 134|497902": 1792448716,
+    "Sinnoh|Tyranitar|Stark Mountain|497902": 1792448716
   }
 }
