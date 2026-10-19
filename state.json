@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Wartortle|Seafoam Islands|497400": 1790642721,
     "Sinnoh|Prinplup|Route 220|497400": 1790642721,
     "Johto|Luvdisc|Route 47|497400": 1790643316,
     "Sinnoh|Combee|Floaroma Meadow|497401": 1790646621,
@@ -999,6 +998,7 @@
     "Hoenn|Vaporeon|Route 134|497902": 1792448716,
     "Sinnoh|Tyranitar|Stark Mountain|497902": 1792448716,
     "Unova|Metagross|Giant Chasm|497902": 1792449621,
-    "Kanto|Illumise|Water Path|497902": 1792450517
+    "Kanto|Illumise|Water Path|497902": 1792450517,
+    "Unova|Plusle|Route 5|497903": 1792453521
   }
 }
