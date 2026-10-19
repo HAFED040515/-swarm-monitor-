@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Misdreavus|Sprout Tower|497389": 1790602231,
     "Sinnoh|Kangaskhan|Wayward Cave|497389": 1790602231,
     "Hoenn|Gulpin|Route 110|497389": 1790603424,
     "Unova|Illumise|Moor of Icirrus|497390": 1790605222,
@@ -999,6 +998,7 @@
     "Hoenn|Mime Jr.|Rusturf Tunnel|497891": 1792409429,
     "Sinnoh|Crawdaunt|Lake Valor|497892": 1792413318,
     "Unova|Bronzong|Abundant Shrine|497892": 1792415117,
-    "Kanto|Exeggutor|Route 23|497893": 1792415422
+    "Kanto|Exeggutor|Route 23|497893": 1792415422,
+    "Johto|Chikorita|Route 31|497894": 1792421125
   }
 }
