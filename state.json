@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Mudkip|Route 104|497373": 1790544916,
     "Sinnoh|Torterra|Route 212|497374": 1790549420,
     "Unova|Relicanth|Challenger&#x27;s Cave|497374": 1790550034,
     "Kanto|Salamence|Victory Road|497375": 1790550621,
@@ -999,6 +998,7 @@
     "Hoenn|Salamence|Sky Pillar|497877": 1792359620,
     "Johto|Bonsly|Ilex Forest|497878": 1792361116,
     "Sinnoh|Skarmory|Route 227|497878": 1792363820,
-    "Hoenn|Pineco|Route 103|497881": 1792372221
+    "Hoenn|Pineco|Route 103|497881": 1792372221,
+    "Sinnoh|Snorlax|Victory Road|497881": 1792373115
   }
 }
