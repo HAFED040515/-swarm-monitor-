@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Porygon2|P2 Laboratory|497385": 1790589022,
     "Hoenn|Swampert|Route 109|497385": 1790589317,
     "Kanto|Volbeat|Memorial Pillar|497386": 1790590521,
     "Johto|Shelgon|Dragon&#x27;s Den|497386": 1790591428,
@@ -999,6 +998,7 @@
     "Hoenn|Mudkip|Route 104|497888": 1792397422,
     "Unova|Slakoth|Route 2|497888": 1792399522,
     "Kanto|Wormadam|Pattern Bush|497889": 1792400716,
-    "Johto|Miltank|Route 39|497889": 1792403717
+    "Johto|Miltank|Route 39|497889": 1792403717,
+    "Sinnoh|Staraptor|Sendoff Spring|497889": 1792404920
   }
 }
