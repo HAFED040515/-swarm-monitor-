@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Starmie|Seven Island|497388": 1790597120,
     "Johto|Misdreavus|Sprout Tower|497389": 1790602231,
     "Sinnoh|Kangaskhan|Wayward Cave|497389": 1790602231,
     "Hoenn|Gulpin|Route 110|497389": 1790603424,
@@ -999,6 +998,7 @@
     "Unova|Shroomish|Pinwheel Forest|497891": 1792409116,
     "Hoenn|Mime Jr.|Rusturf Tunnel|497891": 1792409429,
     "Sinnoh|Crawdaunt|Lake Valor|497892": 1792413318,
-    "Unova|Bronzong|Abundant Shrine|497892": 1792415117
+    "Unova|Bronzong|Abundant Shrine|497892": 1792415117,
+    "Kanto|Exeggutor|Route 23|497893": 1792415422
   }
 }
