@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Hoenn|Shuckle|Seafloor Cavern|497393": 1790616917,
-    "Kanto|Porygon|Pokemon Mansion|497393": 1790617821,
-    "Sinnoh|Infernape|Route 221|497395": 1790623220,
     "Unova|Aipom|Cold Storage|497395": 1790623220,
     "Hoenn|Salamence|Sky Pillar|497395": 1790623519,
     "Johto|Skitty|Route 35|497395": 1790625072,
@@ -999,6 +996,9 @@
     "Sinnoh|Nosepass|Oreburgh Gate|497897": 1792431317,
     "Johto|Miltank|Route 39|497897": 1792431920,
     "Kanto|Zangoose|Route 14|497898": 1792433117,
-    "Unova|Pinsir|Route 12|497898": 1792433419
+    "Unova|Pinsir|Route 12|497898": 1792433419,
+    "Kanto|Charizard|Mt. Ember|497899": 1792437020,
+    "Hoenn|Pineco|Route 103|497899": 1792437020,
+    "Sinnoh|Kirlia|Snowpoint Temple|497899": 1792437020
   }
 }
