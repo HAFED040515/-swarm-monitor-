@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Plusle|Route 2|497379": 1790565622,
     "Sinnoh|Tyranitar|Stark Mountain|497380": 1790568620,
     "Kanto|Volbeat|Memorial Pillar|497380": 1790569864,
     "Sinnoh|Ambipom|Route 216|497380": 1790571632,
@@ -999,6 +998,7 @@
     "Kanto|Cradily|Tanoby Ruins|497883": 1792382116,
     "Unova|Zorua|Lostlorn Forest|497884": 1792384821,
     "Sinnoh|Tauros|Valor Lakefront|497884": 1792385118,
-    "Johto|Wailmer|Route 40|497885": 1792387515
+    "Johto|Wailmer|Route 40|497885": 1792387515,
+    "Sinnoh|Grotle|Sendoff Spring|497886": 1792391117
   }
 }
