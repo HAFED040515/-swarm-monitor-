@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Kirlia|Route 43|497399": 1790637020,
     "Hoenn|Rotom|New Mauville|497400": 1790642119,
     "Kanto|Wartortle|Seafoam Islands|497400": 1790642721,
     "Sinnoh|Prinplup|Route 220|497400": 1790642721,
@@ -999,6 +998,7 @@
     "Unova|Cherubi|Route 16|497901": 1792444822,
     "Johto|Rhyperior|Mt. Mortar|497901": 1792447821,
     "Hoenn|Vaporeon|Route 134|497902": 1792448716,
-    "Sinnoh|Tyranitar|Stark Mountain|497902": 1792448716
+    "Sinnoh|Tyranitar|Stark Mountain|497902": 1792448716,
+    "Unova|Metagross|Giant Chasm|497902": 1792449621
   }
 }
