@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Kangaskhan|Dark Cave|497393": 1790616021,
     "Hoenn|Shuckle|Seafloor Cavern|497393": 1790616917,
     "Kanto|Porygon|Pokemon Mansion|497393": 1790617821,
     "Sinnoh|Infernape|Route 221|497395": 1790623220,
@@ -999,6 +998,7 @@
     "Unova|Seviper|Route 1|497896": 1792428916,
     "Sinnoh|Nosepass|Oreburgh Gate|497897": 1792431317,
     "Johto|Miltank|Route 39|497897": 1792431920,
-    "Kanto|Zangoose|Route 14|497898": 1792433117
+    "Kanto|Zangoose|Route 14|497898": 1792433117,
+    "Unova|Pinsir|Route 12|497898": 1792433419
   }
 }
