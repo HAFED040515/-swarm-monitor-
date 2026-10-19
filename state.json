@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Gulpin|Route 110|497389": 1790603424,
-    "Unova|Illumise|Moor of Icirrus|497390": 1790605222,
     "Kanto|Squirtle|Route 24|497390": 1790605830,
     "Sinnoh|Torterra|Route 212|497390": 1790605830,
     "Unova|Floatzel|Route 3|497390": 1790607640,
@@ -999,6 +997,8 @@
     "Unova|Bronzong|Abundant Shrine|497892": 1792415117,
     "Kanto|Exeggutor|Route 23|497893": 1792415422,
     "Johto|Chikorita|Route 31|497894": 1792421125,
-    "Kanto|Volbeat|Memorial Pillar|497894": 1792421427
+    "Kanto|Volbeat|Memorial Pillar|497894": 1792421427,
+    "Sinnoh|Shroomish|Route 201|497895": 1792422926,
+    "Unova|Seviper|Route 1|497895": 1792422926
   }
 }
