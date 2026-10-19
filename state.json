@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Hoenn|Swampert|Route 109|497385": 1790589317,
-    "Kanto|Volbeat|Memorial Pillar|497386": 1790590521,
-    "Johto|Shelgon|Dragon&#x27;s Den|497386": 1790591428,
     "Unova|Cottonee|Pinwheel Forest|497386": 1790591428,
     "Sinnoh|Heracross|Route 206|497386": 1790592621,
     "Hoenn|Blaziken|Magma Hideout|497387": 1790596876,
@@ -999,6 +996,9 @@
     "Unova|Slakoth|Route 2|497888": 1792399522,
     "Kanto|Wormadam|Pattern Bush|497889": 1792400716,
     "Johto|Miltank|Route 39|497889": 1792403717,
-    "Sinnoh|Staraptor|Sendoff Spring|497889": 1792404920
+    "Sinnoh|Staraptor|Sendoff Spring|497889": 1792404920,
+    "Kanto|Aerodactyl|Rixy Chamber|497891": 1792409116,
+    "Johto|Quilava|Route 42|497891": 1792409116,
+    "Unova|Shroomish|Pinwheel Forest|497891": 1792409116
   }
 }
