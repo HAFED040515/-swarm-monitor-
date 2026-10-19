@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Torterra|Route 212|497390": 1790605830,
     "Unova|Floatzel|Route 3|497390": 1790607640,
     "Sinnoh|Skitty|Route 204|497391": 1790610919,
     "Hoenn|Zorua|Route 101|497392": 1790613319,
@@ -999,6 +998,7 @@
     "Kanto|Volbeat|Memorial Pillar|497894": 1792421427,
     "Sinnoh|Shroomish|Route 201|497895": 1792422926,
     "Unova|Seviper|Route 1|497895": 1792422926,
-    "Hoenn|Cloyster|Route 133|497895": 1792424117
+    "Hoenn|Cloyster|Route 133|497895": 1792424117,
+    "Unova|Seviper|Route 1|497896": 1792428916
   }
 }
