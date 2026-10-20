@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Tyranitar|Canyon Entrance|497408": 1790670917,
     "Johto|Ditto|Route 34|497408": 1790671520,
     "Hoenn|Togekiss|Sky Pillar|497409": 1790673322,
     "Unova|Ninjask|Route 11|497409": 1790676037,
@@ -999,6 +998,7 @@
     "Unova|Plusle|Route 5|497910": 1792479316,
     "Kanto|Tropius|Bond Bridge|497911": 1792482021,
     "Johto|Kirlia|Route 43|497912": 1792483517,
-    "Sinnoh|Torterra|Route 212|497912": 1792485620
+    "Sinnoh|Torterra|Route 212|497912": 1792485620,
+    "Unova|Hippowdon|Mistralton Cave|497912": 1792485920
   }
 }
