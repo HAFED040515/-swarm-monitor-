@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Parasect|Mt. Moon|497415": 1790697022,
     "Sinnoh|Cloyster|Route 223|497415": 1790697639,
     "Hoenn|Cacnea|Route 111|497416": 1790700626,
     "Unova|Yanma|Pinwheel Forest|497416": 1790700917,
@@ -999,6 +998,7 @@
     "Unova|Cottonee|Lostlorn Forest|497919": 1792512620,
     "Sinnoh|Kecleon|Route 229|497920": 1792513827,
     "Johto|Nincada|Route 46|497921": 1792516250,
-    "Kanto|Zangoose|Route 14|497921": 1792518619
+    "Kanto|Zangoose|Route 14|497921": 1792518619,
+    "Hoenn|Munna|Route 102|497922": 1792520420
   }
 }
