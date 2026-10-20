@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Munna|Route 102|497420": 1790715023,
     "Kanto|Milotic|Resort Gorgeous|497421": 1790715638,
     "Sinnoh|Blissey|Route 210|497420": 1790715920,
     "Kanto|Charmander|Route 3|497422": 1790719821,
@@ -999,6 +998,7 @@
     "Hoenn|Gulpin|Route 110|497925": 1792533316,
     "Sinnoh|Exeggutor|Route 230|497926": 1792534820,
     "Johto|Barboach|Slowpoke Well|497927": 1792537516,
-    "Hoenn|Swampert|Route 109|497927": 1792537707
+    "Hoenn|Swampert|Route 109|497927": 1792537707,
+    "Sinnoh|Carnivine|Route 225|497927": 1792539316
   }
 }
