@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Cloyster|Route 223|497417": 1790703921,
     "Hoenn|Magby|Mt. Chimney|497417": 1790704220,
     "Johto|Shroomish|Route 34|497418": 1790708438,
     "Sinnoh|Tauros|Valor Lakefront|497420": 1790712319,
@@ -999,6 +998,7 @@
     "Johto|Volcarona|Bell Tower|497922": 1792522517,
     "Kanto|Bulbasaur|Viridian Forest|497924": 1792526716,
     "Kanto|Pikachu|Route 19|497924": 1792528516,
-    "Hoenn|Feebas|Route 130|497924": 1792530036
+    "Hoenn|Feebas|Route 130|497924": 1792530036,
+    "Sinnoh|Bonsly|Eterna Forest|497925": 1792530317
   }
 }
