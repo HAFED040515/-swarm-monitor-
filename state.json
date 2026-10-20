@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Cacnea|Route 111|497416": 1790700626,
     "Unova|Yanma|Pinwheel Forest|497416": 1790700917,
     "Johto|Sharpedo|Route 41|497417": 1790703921,
     "Sinnoh|Cloyster|Route 223|497417": 1790703921,
@@ -999,6 +998,7 @@
     "Johto|Nincada|Route 46|497921": 1792516250,
     "Kanto|Zangoose|Route 14|497921": 1792518619,
     "Hoenn|Munna|Route 102|497922": 1792520420,
-    "Johto|Volcarona|Bell Tower|497922": 1792522517
+    "Johto|Volcarona|Bell Tower|497922": 1792522517,
+    "Kanto|Bulbasaur|Viridian Forest|497924": 1792526716
   }
 }
