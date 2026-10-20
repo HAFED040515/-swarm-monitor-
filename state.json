@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Torchic|Route 112|497410": 1790677516,
     "Kanto|Kabutops|Tanoby Ruins|497410": 1790677829,
     "Hoenn|Chatot|Route 115|497411": 1790682918,
     "Kanto|Salamence|Victory Road|497412": 1790684120,
@@ -999,6 +998,7 @@
     "Hoenn|Wailord|Route 129|497913": 1792490439,
     "Johto|Yanmega|Route 44|497914": 1792491319,
     "Johto|Pidgeotto|Lighthouse|497914": 1792492230,
-    "Kanto|Zangoose|Route 14|497914": 1792493120
+    "Kanto|Zangoose|Route 14|497914": 1792493120,
+    "Sinnoh|Carnivine|Route 225|497914": 1792494038
   }
 }
