@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Salamence|Victory Road|497412": 1790684120,
     "Sinnoh|Scyther|Route 210|497412": 1790684717,
     "Unova|Shroomish|Pinwheel Forest|497412": 1790685027,
     "Johto|Chikorita|Route 31|497413": 1790689525,
@@ -999,6 +998,7 @@
     "Kanto|Zangoose|Route 14|497914": 1792493120,
     "Sinnoh|Carnivine|Route 225|497914": 1792494038,
     "Unova|Aipom|Cold Storage|497916": 1792498820,
-    "Hoenn|Lapras|Shoal Cave|497917": 1792503028
+    "Hoenn|Lapras|Shoal Cave|497917": 1792503028,
+    "Johto|Croconaw|Whirl Islands|497917": 1792504839
   }
 }
