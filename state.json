@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Seviper|Route 1|497420": 1790712319,
     "Johto|Feraligatr|Tohjo Falls|497420": 1790714721,
     "Hoenn|Munna|Route 102|497420": 1790715023,
     "Kanto|Milotic|Resort Gorgeous|497421": 1790715638,
@@ -999,6 +998,7 @@
     "Sinnoh|Bonsly|Eterna Forest|497925": 1792530317,
     "Unova|Plusle|Route 5|497925": 1792531225,
     "Hoenn|Gulpin|Route 110|497925": 1792533316,
-    "Sinnoh|Exeggutor|Route 230|497926": 1792534820
+    "Sinnoh|Exeggutor|Route 230|497926": 1792534820,
+    "Johto|Barboach|Slowpoke Well|497927": 1792537516
   }
 }
