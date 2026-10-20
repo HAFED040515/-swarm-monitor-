@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Chikorita|Route 31|497415": 1790694623,
     "Kanto|Blissey|Three Island|497415": 1790696723,
     "Kanto|Parasect|Mt. Moon|497415": 1790697022,
     "Sinnoh|Cloyster|Route 223|497415": 1790697639,
@@ -999,6 +998,7 @@
     "Hoenn|Swampert|Route 109|497919": 1792510821,
     "Unova|Heracross|Route 10|497920": 1792512316,
     "Unova|Cottonee|Lostlorn Forest|497919": 1792512620,
-    "Sinnoh|Kecleon|Route 229|497920": 1792513827
+    "Sinnoh|Kecleon|Route 229|497920": 1792513827,
+    "Johto|Nincada|Route 46|497921": 1792516250
   }
 }
