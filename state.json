@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Seviper|Route 1|497406": 1790665237,
     "Kanto|Munna|Route 4|497407": 1790665517,
     "Sinnoh|Yanma|Route 205|497407": 1790665821,
     "Hoenn|Zorua|Route 101|497408": 1790670627,
@@ -999,6 +998,7 @@
     "Sinnoh|Rotom|Old Chateau|497908": 1792469116,
     "Kanto|Cradily|Tanoby Ruins|497908": 1792471222,
     "Johto|Porygon-Z|Team Rocket HQ|497909": 1792474821,
-    "Hoenn|Luvdisc|Route 132|497910": 1792476920
+    "Hoenn|Luvdisc|Route 132|497910": 1792476920,
+    "Unova|Plusle|Route 5|497910": 1792479316
   }
 }
