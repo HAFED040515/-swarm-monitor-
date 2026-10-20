@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Combee|Floaroma Meadow|497401": 1790646621,
     "Unova|Porygon2|P2 Laboratory|497402": 1790649029,
     "Johto|Metang|Ice Path|497403": 1790652918,
     "Hoenn|Magneton|New Mauville|497403": 1790653222,
@@ -999,6 +998,7 @@
     "Kanto|Illumise|Water Path|497902": 1792450517,
     "Unova|Plusle|Route 5|497903": 1792453521,
     "Sinnoh|Farfetch&#x27;d|Route 209|497904": 1792457715,
-    "Johto|Forretress|Route 43|497905": 1792462219
+    "Johto|Forretress|Route 43|497905": 1792462219,
+    "Hoenn|Cacnea|Route 111|497906": 1792462519
   }
 }
