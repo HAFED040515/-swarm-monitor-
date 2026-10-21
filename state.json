@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Metang|Ice Path|497422": 1790721318,
     "Kanto|Ivysaur|Route 5|497423": 1790723721,
     "Sinnoh|Turtwig|Route 203|497423": 1790726437,
     "Hoenn|Mismagius|Route 122|497424": 1790726718,
@@ -999,6 +998,7 @@
     "Unova|Heracross|Route 10|497928": 1792541420,
     "Kanto|Tyranitar|Sevault Canyon|497929": 1792546515,
     "Hoenn|Skitty|Route 116|497930": 1792548621,
-    "Sinnoh|Farfetch&#x27;d|Route 209|497930": 1792549827
+    "Sinnoh|Farfetch&#x27;d|Route 209|497930": 1792549827,
+    "Unova|Dragonair|Dragonspiral Tower|497930": 1792551640
   }
 }
