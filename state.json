@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Shuckle|Seafloor Cavern|497425": 1790731518,
     "Kanto|Jolteon|Ruin Valley|497426": 1790734822,
     "Johto|Victreebel|Route 36|497426": 1790735117,
     "Unova|Skorupi|Desert Resort|497428": 1790741116,
@@ -999,6 +998,7 @@
     "Hoenn|Castform|Aqua Hideout|497933": 1792560627,
     "Johto|Zorua|Route 37|497934": 1792563619,
     "Hoenn|Torchic|Route 112|497934": 1792563851,
-    "Kanto|Skorupi|Route 9|497934": 1792564228
+    "Kanto|Skorupi|Route 9|497934": 1792564228,
+    "Unova|Heracross|Route 10|497934": 1792566036
   }
 }
