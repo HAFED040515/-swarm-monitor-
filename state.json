@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Snorlax|Victory Road|497424": 1790728227,
     "Kanto|Bulbasaur|Viridian Forest|497424": 1790728821,
     "Sinnoh|Hippopotas|Maniac Tunnel|497424": 1790730034,
     "Unova|Munna|Dreamyard|497425": 1790731221,
@@ -999,6 +998,7 @@
     "Unova|Dragonair|Dragonspiral Tower|497930": 1792551640,
     "Johto|Skarmory|Route 26|497931": 1792553717,
     "Sinnoh|Blissey|Route 210|497932": 1792556421,
-    "Kanto|Absol|Canyon Entrance|497932": 1792557026
+    "Kanto|Absol|Canyon Entrance|497932": 1792557026,
+    "Hoenn|Castform|Aqua Hideout|497933": 1792560627
   }
 }
