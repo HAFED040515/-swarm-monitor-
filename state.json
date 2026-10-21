@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Charmander|Route 3|497422": 1790719821,
     "Hoenn|Combusken|Route 114|497422": 1790720420,
     "Unova|Cacnea|Route 4|497422": 1790720420,
     "Johto|Metang|Ice Path|497422": 1790721318,
@@ -999,6 +998,7 @@
     "Hoenn|Swampert|Route 109|497927": 1792537707,
     "Sinnoh|Carnivine|Route 225|497927": 1792539316,
     "Johto|Feraligatr|Tohjo Falls|497927": 1792540837,
-    "Unova|Heracross|Route 10|497928": 1792541420
+    "Unova|Heracross|Route 10|497928": 1792541420,
+    "Kanto|Tyranitar|Sevault Canyon|497929": 1792546515
   }
 }
