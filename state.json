@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Luvdisc|Route 132|497429": 1790745322,
     "Unova|Zorua|Lostlorn Forest|497431": 1790751924,
     "Sinnoh|Turtwig|Route 203|497431": 1790752221,
     "Kanto|Qwilfish|Route 20|497431": 1790753716,
@@ -999,6 +998,7 @@
     "Unova|Pinsir|Route 12|497936": 1792571116,
     "Johto|Snorlax|Victory Road|497936": 1792571716,
     "Unova|Musharna|Village Bridge|497936": 1792573237,
-    "Sinnoh|Lucario|Iron Island|497937": 1792575028
+    "Sinnoh|Lucario|Iron Island|497937": 1792575028,
+    "Hoenn|Zorua|Route 101|497937": 1792576221
   }
 }
