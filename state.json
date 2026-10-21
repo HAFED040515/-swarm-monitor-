@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Grovyle|Route 118|497436": 1790771427,
-    "Johto|Chimecho|Bellchime Trail|497437": 1790774421,
     "Kanto|Spiritomb|Lost Cave|497437": 1790774719,
     "Hoenn|Banette|Mt. Pyre|497437": 1790776519,
     "Unova|Kangaskhan|Wellspring Cave|497438": 1790777420,
@@ -999,6 +997,8 @@
     "Hoenn|Swampert|Route 109|497942": 1792594517,
     "Sinnoh|Tropius|Route 226|497943": 1792596631,
     "Kanto|Ivysaur|Route 5|497943": 1792597221,
-    "Unova|Crobat|Celestial Tower|497943": 1792598440
+    "Unova|Crobat|Celestial Tower|497943": 1792598440,
+    "Johto|Nincada|Route 46|497944": 1792599917,
+    "Sinnoh|Exeggutor|Route 230|497944": 1792599917
   }
 }
