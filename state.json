@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Ivysaur|Route 5|497423": 1790723721,
     "Sinnoh|Turtwig|Route 203|497423": 1790726437,
     "Hoenn|Mismagius|Route 122|497424": 1790726718,
     "Johto|Snorlax|Victory Road|497424": 1790728227,
@@ -999,6 +998,7 @@
     "Kanto|Tyranitar|Sevault Canyon|497929": 1792546515,
     "Hoenn|Skitty|Route 116|497930": 1792548621,
     "Sinnoh|Farfetch&#x27;d|Route 209|497930": 1792549827,
-    "Unova|Dragonair|Dragonspiral Tower|497930": 1792551640
+    "Unova|Dragonair|Dragonspiral Tower|497930": 1792551640,
+    "Johto|Skarmory|Route 26|497931": 1792553717
   }
 }
