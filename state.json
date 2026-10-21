@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Skitty|Route 116|497432": 1790757920,
     "Sinnoh|Chatot|Route 218|497433": 1790759118,
     "Johto|Shroomish|Route 34|497433": 1790760020,
     "Unova|Minccino|Route 5|497433": 1790760917,
@@ -999,6 +998,7 @@
     "Johto|Hitmontop|Mt. Mortar|497939": 1792583421,
     "Sinnoh|Cherrim|Lake Verity|497939": 1792584262,
     "Kanto|Relicanth|Tanoby Ruins|497940": 1792587321,
-    "Hoenn|Kecleon|Route 120|497940": 1792587321
+    "Hoenn|Kecleon|Route 120|497940": 1792587321,
+    "Unova|Ninjask|Route 11|497941": 1792589433
   }
 }
