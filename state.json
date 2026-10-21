@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Kecleon|Route 229|497440": 1790785519,
     "Johto|Zorua|Route 37|497440": 1790787011,
     "Kanto|Tauros|Route 17|497441": 1790787638,
     "Hoenn|Blissey|Artisan Cave|497441": 1790789117,
@@ -999,6 +998,7 @@
     "Hoenn|Sudowoodo|Battle Frontier|497944": 1792600234,
     "Hoenn|Torchic|Route 112|497946": 1792608022,
     "Johto|Lapras|Union Cave|497946": 1792608320,
-    "Unova|Seviper|Route 11|497947": 1792610422
+    "Unova|Seviper|Route 11|497947": 1792610422,
+    "Sinnoh|Heracross|Route 206|497947": 1792611031
   }
 }
