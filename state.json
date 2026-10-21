@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Turtwig|Route 203|497431": 1790752221,
     "Kanto|Qwilfish|Route 20|497431": 1790753716,
     "Johto|Zorua|Route 37|497432": 1790757030,
     "Hoenn|Skitty|Route 116|497432": 1790757920,
@@ -999,6 +998,7 @@
     "Unova|Musharna|Village Bridge|497936": 1792573237,
     "Sinnoh|Lucario|Iron Island|497937": 1792575028,
     "Hoenn|Zorua|Route 101|497937": 1792576221,
-    "Johto|Hitmontop|Mt. Mortar|497939": 1792583421
+    "Johto|Hitmontop|Mt. Mortar|497939": 1792583421,
+    "Sinnoh|Cherrim|Lake Verity|497939": 1792584262
   }
 }
