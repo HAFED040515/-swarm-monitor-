@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Hippopotas|Maniac Tunnel|497424": 1790730034,
     "Unova|Munna|Dreamyard|497425": 1790731221,
     "Hoenn|Shuckle|Seafloor Cavern|497425": 1790731518,
     "Kanto|Jolteon|Ruin Valley|497426": 1790734822,
@@ -999,6 +998,7 @@
     "Sinnoh|Blissey|Route 210|497932": 1792556421,
     "Kanto|Absol|Canyon Entrance|497932": 1792557026,
     "Hoenn|Castform|Aqua Hideout|497933": 1792560627,
-    "Johto|Zorua|Route 37|497934": 1792563619
+    "Johto|Zorua|Route 37|497934": 1792563619,
+    "Hoenn|Torchic|Route 112|497934": 1792563851
   }
 }
