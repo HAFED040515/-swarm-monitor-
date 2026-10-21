@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Spiritomb|Lost Cave|497437": 1790774719,
     "Hoenn|Banette|Mt. Pyre|497437": 1790776519,
     "Unova|Kangaskhan|Wellspring Cave|497438": 1790777420,
     "Sinnoh|Bonsly|Eterna Forest|497438": 1790780118,
@@ -999,6 +998,7 @@
     "Kanto|Ivysaur|Route 5|497943": 1792597221,
     "Unova|Crobat|Celestial Tower|497943": 1792598440,
     "Johto|Nincada|Route 46|497944": 1792599917,
-    "Sinnoh|Exeggutor|Route 230|497944": 1792599917
+    "Sinnoh|Exeggutor|Route 230|497944": 1792599917,
+    "Hoenn|Sudowoodo|Battle Frontier|497944": 1792600234
   }
 }
