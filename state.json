@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Jolteon|Ruin Valley|497426": 1790734822,
     "Johto|Victreebel|Route 36|497426": 1790735117,
     "Unova|Skorupi|Desert Resort|497428": 1790741116,
     "Kanto|Wartortle|Seafoam Islands|497429": 1790745322,
@@ -999,6 +998,7 @@
     "Johto|Zorua|Route 37|497934": 1792563619,
     "Hoenn|Torchic|Route 112|497934": 1792563851,
     "Kanto|Skorupi|Route 9|497934": 1792564228,
-    "Unova|Heracross|Route 10|497934": 1792566036
+    "Unova|Heracross|Route 10|497934": 1792566036,
+    "Unova|Pinsir|Route 12|497936": 1792571116
   }
 }
