@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Blissey|Artisan Cave|497441": 1790789117,
     "Sinnoh|Lucario|Iron Island|497441": 1790790322,
     "Unova|Skorupi|Desert Resort|497441": 1790790622,
     "Johto|Absol|Route 28|497441": 1790791235,
@@ -999,6 +998,7 @@
     "Unova|Seviper|Route 11|497947": 1792610422,
     "Sinnoh|Heracross|Route 206|497947": 1792611031,
     "Johto|Houndoom|Burned Tower|497948": 1792614629,
-    "Kanto|Qwilfish|Route 20|497948": 1792614917
+    "Kanto|Qwilfish|Route 20|497948": 1792614917,
+    "Kanto|Jolteon|Ruin Valley|497949": 1792618821
   }
 }
