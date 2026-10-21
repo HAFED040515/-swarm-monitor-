@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Absol|Route 28|497441": 1790791235,
     "Kanto|Bulbasaur|Viridian Forest|497442": 1790794516,
     "Hoenn|Mudkip|Route 104|497442": 1790794516,
     "Kanto|Trapinch|Diglett&#x27;s Cave|497444": 1790800230,
@@ -999,6 +998,7 @@
     "Kanto|Qwilfish|Route 20|497948": 1792614917,
     "Kanto|Jolteon|Ruin Valley|497949": 1792618821,
     "Unova|Honchkrow|Celestial Tower|497949": 1792619421,
-    "Hoenn|Mime Jr.|Rusturf Tunnel|497949": 1792620041
+    "Hoenn|Mime Jr.|Rusturf Tunnel|497949": 1792620041,
+    "Sinnoh|Croagunk|Route 212|497950": 1792621220
   }
 }
