@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Skorupi|Desert Resort|497441": 1790790622,
     "Johto|Absol|Route 28|497441": 1790791235,
     "Kanto|Bulbasaur|Viridian Forest|497442": 1790794516,
     "Hoenn|Mudkip|Route 104|497442": 1790794516,
@@ -999,6 +998,7 @@
     "Johto|Houndoom|Burned Tower|497948": 1792614629,
     "Kanto|Qwilfish|Route 20|497948": 1792614917,
     "Kanto|Jolteon|Ruin Valley|497949": 1792618821,
-    "Unova|Honchkrow|Celestial Tower|497949": 1792619421
+    "Unova|Honchkrow|Celestial Tower|497949": 1792619421,
+    "Hoenn|Mime Jr.|Rusturf Tunnel|497949": 1792620041
   }
 }
