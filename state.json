@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Sudowoodo|Battle Frontier|497468": 1790886919,
     "Hoenn|Ditto|New Mauville|497468": 1790888720,
     "Unova|Miltank|Village Bridge|497469": 1790889019,
     "Kanto|Tyranitar|Seven Island|497469": 1790889620,
@@ -999,6 +998,7 @@
     "Kanto|Tyranitar|Canyon Entrance|497972": 1792701317,
     "Sinnoh|Torterra|Route 212|497972": 1792702515,
     "Johto|Skarmory|Route 26|497973": 1792705220,
-    "Hoenn|Rotom|New Mauville|497973": 1792705220
+    "Hoenn|Rotom|New Mauville|497973": 1792705220,
+    "Kanto|Volbeat|Memorial Pillar|497973": 1792705521
   }
 }
