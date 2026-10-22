@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Blastoise|Cape Brink|497453": 1790831116,
     "Hoenn|Flygon|Desert Underpass|497453": 1790831419,
     "Johto|Hitmontop|Mt. Mortar|497454": 1790836226,
     "Unova|Seviper|Route 1|497454": 1790836821,
@@ -999,6 +998,7 @@
     "Hoenn|Blaziken|Magma Hideout|497958": 1792652116,
     "Sinnoh|Absol|Mt. Coronet|497959": 1792654229,
     "Kanto|Skorupi|Route 9|497959": 1792654517,
-    "Johto|Wailmer|Route 40|497959": 1792654517
+    "Johto|Wailmer|Route 40|497959": 1792654517,
+    "Hoenn|Grovyle|Route 118|497960": 1792658116
   }
 }
