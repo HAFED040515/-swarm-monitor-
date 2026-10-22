@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Tyranitar|Seven Island|497452": 1790827819,
     "Unova|Volcarona|Relic Castle|497452": 1790829920,
     "Johto|Croconaw|Whirl Islands|497452": 1790830220,
     "Kanto|Blastoise|Cape Brink|497453": 1790831116,
@@ -999,6 +998,7 @@
     "Unova|Scizor|Route 14|497957": 1792646120,
     "Kanto|Misdreavus|Pokemon Tower|497958": 1792650021,
     "Unova|Volbeat|Route 8|497958": 1792651523,
-    "Hoenn|Blaziken|Magma Hideout|497958": 1792652116
+    "Hoenn|Blaziken|Magma Hideout|497958": 1792652116,
+    "Sinnoh|Absol|Mt. Coronet|497959": 1792654229
   }
 }
