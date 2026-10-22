@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Typhlosion|Route 45|497463": 1790868629,
     "Sinnoh|Turtwig|Route 203|497463": 1790869822,
     "Kanto|Trapinch|Diglett&#x27;s Cave|497464": 1790871321,
     "Hoenn|Mudkip|Route 104|497464": 1790872245,
@@ -999,6 +998,7 @@
     "Unova|Farfetch&#x27;d|Route 1|497967": 1792682421,
     "Johto|Bonsly|Ilex Forest|497968": 1792685117,
     "Sinnoh|Bonsly|Eterna Forest|497968": 1792686629,
-    "Kanto|Sharpedo|Water Labyrinth|497968": 1792688117
+    "Kanto|Sharpedo|Water Labyrinth|497968": 1792688117,
+    "Unova|Ninjask|Route 11|497969": 1792690518
   }
 }
