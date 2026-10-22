@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Infernape|Route 221|497448": 1790815519,
     "Sinnoh|Roserade|Route 230|497449": 1790818820,
     "Hoenn|Torchic|Route 112|497449": 1790820034,
     "Unova|Pinsir|Route 12|497450": 1790821827,
@@ -999,6 +998,7 @@
     "Sinnoh|Crawdaunt|Lake Valor|497953": 1792634117,
     "Unova|Electabuzz|Chargestone Cave|497955": 1792638620,
     "Hoenn|Staryu|Route 106|497955": 1792639220,
-    "Kanto|Heracross|Route 16|497955": 1792639828
+    "Kanto|Heracross|Route 16|497955": 1792639828,
+    "Sinnoh|Quagsire|Route 212|497955": 1792640117
   }
 }
