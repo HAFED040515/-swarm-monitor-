@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Corsola|Route 128|497456": 1790843427,
     "Kanto|Jolteon|Ruin Valley|497456": 1790844916,
     "Johto|Shroomish|Route 34|497458": 1790849117,
     "Unova|Slakoth|Route 2|497458": 1790850024,
@@ -999,6 +998,7 @@
     "Johto|Hypno|Route 36|497960": 1792659917,
     "Sinnoh|Skitty|Route 204|497961": 1792660821,
     "Unova|Seviper|Route 1|497962": 1792665031,
-    "Kanto|Starmie|Seven Island|497962": 1792665920
+    "Kanto|Starmie|Seven Island|497962": 1792665920,
+    "Sinnoh|Cloyster|Route 223|497962": 1792666221
   }
 }
