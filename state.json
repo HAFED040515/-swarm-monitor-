@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Chatot|Treasure Beach|497458": 1790852437,
     "Sinnoh|Tropius|Route 226|497460": 1790856317,
     "Johto|Porygon-Z|Team Rocket HQ|497460": 1790856620,
     "Unova|Rapidash|Route 12|497460": 1790858118,
@@ -999,6 +998,7 @@
     "Hoenn|Combusken|Route 114|497963": 1792670439,
     "Sinnoh|Trapinch|Oreburgh Mine|497964": 1792671022,
     "Kanto|Poliwrath|Route 12|497965": 1792676730,
-    "Unova|Hitmonlee|Victory Road|497966": 1792678220
+    "Unova|Hitmonlee|Victory Road|497966": 1792678220,
+    "Johto|Luvdisc|Route 47|497966": 1792679118
   }
 }
