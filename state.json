@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Vigoroth|Route 215|497461": 1790861120,
     "Kanto|Charmander|Route 3|497462": 1790863518,
     "Johto|Typhlosion|Route 45|497463": 1790868629,
     "Sinnoh|Turtwig|Route 203|497463": 1790869822,
@@ -999,6 +998,7 @@
     "Johto|Luvdisc|Route 47|497966": 1792679118,
     "Hoenn|Blaziken|Magma Hideout|497966": 1792680917,
     "Unova|Farfetch&#x27;d|Route 1|497967": 1792682421,
-    "Johto|Bonsly|Ilex Forest|497968": 1792685117
+    "Johto|Bonsly|Ilex Forest|497968": 1792685117,
+    "Sinnoh|Bonsly|Eterna Forest|497968": 1792686629
   }
 }
