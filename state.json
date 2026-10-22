@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Miltank|Village Bridge|497469": 1790889019,
     "Kanto|Tyranitar|Seven Island|497469": 1790889620,
     "Johto|Meganium|Route 48|497469": 1790889620,
     "Sinnoh|Tropius|Route 226|497471": 1790895919,
@@ -999,6 +998,7 @@
     "Johto|Skarmory|Route 26|497973": 1792705220,
     "Hoenn|Rotom|New Mauville|497973": 1792705220,
     "Kanto|Volbeat|Memorial Pillar|497973": 1792705521,
-    "Hoenn|Xatu|Route 121|497973": 1792706115
+    "Hoenn|Xatu|Route 121|497973": 1792706115,
+    "Unova|Yanma|Pinwheel Forest|497974": 1792707915
   }
 }
