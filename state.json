@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Hoenn|Seviper|Route 121|497444": 1790802035,
-    "Sinnoh|Kangaskhan|Wayward Cave|497445": 1790802922,
-    "Kanto|Absol|Canyon Entrance|497446": 1790805917,
     "Hoenn|Blaziken|Magma Hideout|497447": 1790811316,
     "Unova|Metagross|Giant Chasm|497448": 1790814315,
     "Johto|Feraligatr|Tohjo Falls|497448": 1790815219,
@@ -999,6 +996,9 @@
     "Unova|Crawdaunt|Route 3|497951": 1792625716,
     "Johto|Skarmory|Route 26|497951": 1792626620,
     "Hoenn|Corsola|Route 128|497952": 1792627821,
-    "Kanto|Blissey|Three Island|497952": 1792629316
+    "Kanto|Blissey|Three Island|497952": 1792629316,
+    "Johto|Kirlia|Route 43|497953": 1792632628,
+    "Hoenn|Zorua|Route 101|497953": 1792632628,
+    "Unova|Aipom|Cold Storage|497953": 1792632628
   }
 }
