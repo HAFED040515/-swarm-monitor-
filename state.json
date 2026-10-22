@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Charmeleon|Rock Tunnel|497467": 1790881820,
     "Unova|Furret|Abundant Shrine|497467": 1790881820,
     "Sinnoh|Turtwig|Route 203|497467": 1790882123,
     "Hoenn|Sudowoodo|Battle Frontier|497468": 1790886919,
@@ -999,6 +998,7 @@
     "Sinnoh|Grotle|Sendoff Spring|497971": 1792695917,
     "Johto|Quilava|Route 42|497971": 1792698339,
     "Hoenn|Hitmonchan|Fiery Path|497972": 1792700138,
-    "Kanto|Tyranitar|Canyon Entrance|497972": 1792701317
+    "Kanto|Tyranitar|Canyon Entrance|497972": 1792701317,
+    "Sinnoh|Torterra|Route 212|497972": 1792702515
   }
 }
