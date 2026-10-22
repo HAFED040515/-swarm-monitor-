@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Trapinch|Diglett&#x27;s Cave|497464": 1790871321,
     "Hoenn|Mudkip|Route 104|497464": 1790872245,
     "Unova|Togetic|Dreamyard|497464": 1790872823,
     "Johto|Lucario|Mt. Silver Cave|497466": 1790880020,
@@ -999,6 +998,7 @@
     "Sinnoh|Bonsly|Eterna Forest|497968": 1792686629,
     "Kanto|Sharpedo|Water Labyrinth|497968": 1792688117,
     "Unova|Ninjask|Route 11|497969": 1792690518,
-    "Johto|Meganium|Route 48|497970": 1792692922
+    "Johto|Meganium|Route 48|497970": 1792692922,
+    "Unova|Carnivine|Route 18|497970": 1792694421
   }
 }
