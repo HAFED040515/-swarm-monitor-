@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Slakoth|Route 2|497458": 1790850024,
     "Unova|Minun|Route 6|497458": 1790851221,
     "Kanto|Chatot|Treasure Beach|497458": 1790852437,
     "Sinnoh|Tropius|Route 226|497460": 1790856317,
@@ -999,6 +998,7 @@
     "Kanto|Starmie|Seven Island|497962": 1792665920,
     "Sinnoh|Cloyster|Route 223|497962": 1792666221,
     "Hoenn|Combusken|Route 114|497963": 1792670439,
-    "Sinnoh|Trapinch|Oreburgh Mine|497964": 1792671022
+    "Sinnoh|Trapinch|Oreburgh Mine|497964": 1792671022,
+    "Kanto|Poliwrath|Route 12|497965": 1792676730
   }
 }
