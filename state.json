@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pinsir|Route 12|497450": 1790821827,
     "Johto|Kirlia|Route 43|497450": 1790822719,
     "Hoenn|Chimecho|Mt. Pyre|497451": 1790827232,
     "Kanto|Tyranitar|Seven Island|497452": 1790827819,
@@ -999,6 +998,7 @@
     "Kanto|Heracross|Route 16|497955": 1792639828,
     "Sinnoh|Quagsire|Route 212|497955": 1792640117,
     "Johto|Zorua|Route 37|497955": 1792640420,
-    "Unova|Scizor|Route 14|497957": 1792646120
+    "Unova|Scizor|Route 14|497957": 1792646120,
+    "Kanto|Misdreavus|Pokemon Tower|497958": 1792650021
   }
 }
