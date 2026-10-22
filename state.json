@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Furret|Abundant Shrine|497467": 1790881820,
-    "Sinnoh|Turtwig|Route 203|497467": 1790882123,
     "Hoenn|Sudowoodo|Battle Frontier|497468": 1790886919,
     "Hoenn|Ditto|New Mauville|497468": 1790888720,
     "Unova|Miltank|Village Bridge|497469": 1790889019,
@@ -999,6 +997,8 @@
     "Johto|Quilava|Route 42|497971": 1792698339,
     "Hoenn|Hitmonchan|Fiery Path|497972": 1792700138,
     "Kanto|Tyranitar|Canyon Entrance|497972": 1792701317,
-    "Sinnoh|Torterra|Route 212|497972": 1792702515
+    "Sinnoh|Torterra|Route 212|497972": 1792702515,
+    "Johto|Skarmory|Route 26|497973": 1792705220,
+    "Hoenn|Rotom|New Mauville|497973": 1792705220
   }
 }
