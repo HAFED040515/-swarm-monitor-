@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Metagross|Giant Chasm|497448": 1790814315,
     "Johto|Feraligatr|Tohjo Falls|497448": 1790815219,
     "Hoenn|Shuckle|Seafloor Cavern|497448": 1790815219,
     "Sinnoh|Infernape|Route 221|497448": 1790815519,
@@ -999,6 +998,7 @@
     "Johto|Kirlia|Route 43|497953": 1792632628,
     "Hoenn|Zorua|Route 101|497953": 1792632628,
     "Unova|Aipom|Cold Storage|497953": 1792632628,
-    "Sinnoh|Crawdaunt|Lake Valor|497953": 1792634117
+    "Sinnoh|Crawdaunt|Lake Valor|497953": 1792634117,
+    "Unova|Electabuzz|Chargestone Cave|497955": 1792638620
   }
 }
