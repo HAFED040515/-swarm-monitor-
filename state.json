@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Seviper|Route 1|497454": 1790836821,
     "Unova|Togetic|Dreamyard|497456": 1790842822,
     "Hoenn|Corsola|Route 128|497456": 1790843427,
     "Kanto|Jolteon|Ruin Valley|497456": 1790844916,
@@ -999,6 +998,7 @@
     "Johto|Wailmer|Route 40|497959": 1792654517,
     "Hoenn|Grovyle|Route 118|497960": 1792658116,
     "Johto|Hypno|Route 36|497960": 1792659917,
-    "Sinnoh|Skitty|Route 204|497961": 1792660821
+    "Sinnoh|Skitty|Route 204|497961": 1792660821,
+    "Unova|Seviper|Route 1|497962": 1792665031
   }
 }
