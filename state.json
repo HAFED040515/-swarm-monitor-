@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Blaziken|Magma Hideout|497491": 1790968821,
     "Unova|Houndoom|Route 15|497491": 1790969719,
     "Sinnoh|Skitty|Route 204|497491": 1790970915,
     "Kanto|Snorlax|Cerulean Cave|497492": 1790974516,
@@ -999,6 +998,7 @@
     "Sinnoh|Monferno|Route 211|497993": 1792775726,
     "Johto|Lucario|Mt. Silver Cave|497994": 1792778717,
     "Kanto|Swalot|Route 18|497994": 1792779020,
-    "Sinnoh|Skarmory|Route 227|497995": 1792783220
+    "Sinnoh|Skarmory|Route 227|497995": 1792783220,
+    "Kanto|Illumise|Water Path|497995": 1792783517
   }
 }
