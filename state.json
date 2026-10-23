@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Lucario|Iron Island|497483": 1790940022,
     "Unova|Zorua|Lostlorn Forest|497483": 1790940316,
     "Hoenn|Torchic|Route 112|497484": 1790946038,
     "Johto|Porygon-Z|Team Rocket HQ|497485": 1790947552,
@@ -999,6 +998,7 @@
     "Johto|Porygon-Z|Team Rocket HQ|497984": 1792743320,
     "Kanto|Plusle|Route 2|497984": 1792745715,
     "Unova|Munna|Dreamyard|497985": 1792748719,
-    "Johto|Ditto|Tohjo Falls|497985": 1792750220
+    "Johto|Ditto|Tohjo Falls|497985": 1792750220,
+    "Sinnoh|Scyther|Route 210|497986": 1792752020
   }
 }
