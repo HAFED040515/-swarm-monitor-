@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Nincada|Route 25|497493": 1790978435,
     "Johto|Houndoom|Bellchime Trail|497494": 1790979916,
     "Unova|Farfetch&#x27;d|Route 1|497494": 1790979916,
     "Sinnoh|Mr. Mime|Route 224|497494": 1790982037,
@@ -999,6 +998,7 @@
     "Johto|Bayleef|National Park|497997": 1792790421,
     "Johto|Typhlosion|Route 45|497998": 1792795819,
     "Sinnoh|Piplup|Route 204|497998": 1792795819,
-    "Hoenn|Wailord|Route 129|497999": 1792798516
+    "Hoenn|Wailord|Route 129|497999": 1792798516,
+    "Unova|Scizor|Route 14|497999": 1792799421
   }
 }
