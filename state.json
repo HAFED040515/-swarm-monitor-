@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Togetic|Dreamyard|497471": 1790898320,
     "Sinnoh|Kecleon|Route 229|497472": 1790901919,
     "Kanto|Heracross|Route 16|497472": 1790902832,
     "Unova|Dragonair|Dragonspiral Tower|497473": 1790904018,
@@ -999,6 +998,7 @@
     "Kanto|Munna|Route 4|497975": 1792712719,
     "Hoenn|Rotom|New Mauville|497976": 1792714221,
     "Sinnoh|Drifblim|Route 222|497976": 1792714820,
-    "Johto|Barboach|Slowpoke Well|497976": 1792716019
+    "Johto|Barboach|Slowpoke Well|497976": 1792716019,
+    "Unova|Porygon2|P2 Laboratory|497977": 1792719619
   }
 }
