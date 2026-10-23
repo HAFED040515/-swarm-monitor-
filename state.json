@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Wartortle|Seafoam Islands|497482": 1790936120,
     "Sinnoh|Lucario|Iron Island|497483": 1790940022,
     "Unova|Zorua|Lostlorn Forest|497483": 1790940316,
     "Hoenn|Torchic|Route 112|497484": 1790946038,
@@ -999,6 +998,7 @@
     "Hoenn|Chimecho|Mt. Pyre|497983": 1792742116,
     "Johto|Porygon-Z|Team Rocket HQ|497984": 1792743320,
     "Kanto|Plusle|Route 2|497984": 1792745715,
-    "Unova|Munna|Dreamyard|497985": 1792748719
+    "Unova|Munna|Dreamyard|497985": 1792748719,
+    "Johto|Ditto|Tohjo Falls|497985": 1792750220
   }
 }
