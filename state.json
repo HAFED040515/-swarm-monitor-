@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Jigglypuff|Route 4|497473": 1790904628,
     "Hoenn|Mismagius|Route 122|497473": 1790905522,
     "Unova|Cacnea|Route 4|497474": 1790909119,
     "Sinnoh|Zangoose|Route 205|497475": 1790910620,
@@ -999,6 +998,7 @@
     "Unova|Porygon2|P2 Laboratory|497977": 1792719619,
     "Kanto|Armaldo|Tanoby Ruins|497977": 1792719920,
     "Johto|Wailmer|Route 40|497979": 1792725620,
-    "Kanto|Kirlia|Route 8|497979": 1792726227
+    "Kanto|Kirlia|Route 8|497979": 1792726227,
+    "Kanto|Butterfree|Pattern Bush|497979": 1792728921
   }
 }
