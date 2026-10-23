@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Linoone|Route 118|497480": 1790931916,
     "Sinnoh|Skitty|Route 204|497481": 1790934020,
     "Kanto|Wartortle|Seafoam Islands|497482": 1790936120,
     "Sinnoh|Lucario|Iron Island|497483": 1790940022,
@@ -999,6 +998,7 @@
     "Johto|Feebas|Lake of Rage|497983": 1792740916,
     "Unova|Ninjask|Route 11|497983": 1792740916,
     "Hoenn|Chimecho|Mt. Pyre|497983": 1792742116,
-    "Johto|Porygon-Z|Team Rocket HQ|497984": 1792743320
+    "Johto|Porygon-Z|Team Rocket HQ|497984": 1792743320,
+    "Kanto|Plusle|Route 2|497984": 1792745715
   }
 }
