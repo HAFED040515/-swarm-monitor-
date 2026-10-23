@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Dragonair|Dragonspiral Tower|497473": 1790904018,
     "Kanto|Jigglypuff|Route 4|497473": 1790904628,
     "Hoenn|Mismagius|Route 122|497473": 1790905522,
     "Unova|Cacnea|Route 4|497474": 1790909119,
@@ -999,6 +998,7 @@
     "Johto|Barboach|Slowpoke Well|497976": 1792716019,
     "Unova|Porygon2|P2 Laboratory|497977": 1792719619,
     "Kanto|Armaldo|Tanoby Ruins|497977": 1792719920,
-    "Johto|Wailmer|Route 40|497979": 1792725620
+    "Johto|Wailmer|Route 40|497979": 1792725620,
+    "Kanto|Kirlia|Route 8|497979": 1792726227
   }
 }
