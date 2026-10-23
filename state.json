@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Zangoose|Route 205|497475": 1790910620,
     "Hoenn|Gulpin|Route 110|497476": 1790914220,
     "Kanto|Blissey|Three Island|497477": 1790919317,
     "Johto|Totodile|Route 32|497477": 1790919921,
@@ -999,6 +998,7 @@
     "Kanto|Kirlia|Route 8|497979": 1792726227,
     "Kanto|Butterfree|Pattern Bush|497979": 1792728921,
     "Hoenn|Cloyster|Route 133|497980": 1792731019,
-    "Sinnoh|Kirlia|Snowpoint Temple|497981": 1792732820
+    "Sinnoh|Kirlia|Snowpoint Temple|497981": 1792732820,
+    "Unova|Cacnea|Route 4|497981": 1792734019
   }
 }
