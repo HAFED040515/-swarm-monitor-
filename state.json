@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Combee|Route 117|497488": 1790959821,
     "Sinnoh|Mr. Mime|Route 224|497488": 1790960115,
     "Sinnoh|Grotle|Sendoff Spring|497489": 1790963120,
     "Johto|Sharpedo|Route 41|497490": 1790966720,
@@ -999,6 +998,7 @@
     "Unova|Yanma|Pinwheel Forest|497991": 1792770342,
     "Kanto|Munna|Route 4|497991": 1792770917,
     "Hoenn|Mudkip|Route 104|497992": 1792773317,
-    "Sinnoh|Chimchar|Route 211|497992": 1792773921
+    "Sinnoh|Chimchar|Route 211|497992": 1792773921,
+    "Sinnoh|Monferno|Route 211|497993": 1792775726
   }
 }
