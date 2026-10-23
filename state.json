@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Tropius|Route 226|497471": 1790895919,
     "Kanto|Minun|Route 22|497471": 1790898021,
     "Unova|Togetic|Dreamyard|497471": 1790898320,
     "Sinnoh|Kecleon|Route 229|497472": 1790901919,
@@ -999,6 +998,7 @@
     "Hoenn|Xatu|Route 121|497973": 1792706115,
     "Unova|Yanma|Pinwheel Forest|497974": 1792707915,
     "Kanto|Munna|Route 4|497975": 1792712719,
-    "Hoenn|Rotom|New Mauville|497976": 1792714221
+    "Hoenn|Rotom|New Mauville|497976": 1792714221,
+    "Sinnoh|Drifblim|Route 222|497976": 1792714820
   }
 }
