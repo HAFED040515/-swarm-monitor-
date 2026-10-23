@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Nincada|Route 46|497480": 1790928921,
     "Kanto|Relicanth|Tanoby Ruins|497480": 1790929829,
     "Hoenn|Linoone|Route 118|497480": 1790931916,
     "Sinnoh|Skitty|Route 204|497481": 1790934020,
@@ -999,6 +998,7 @@
     "Unova|Cacnea|Route 4|497982": 1792736717,
     "Sinnoh|Skitty|Route 204|497983": 1792739117,
     "Johto|Feebas|Lake of Rage|497983": 1792740916,
-    "Unova|Ninjask|Route 11|497983": 1792740916
+    "Unova|Ninjask|Route 11|497983": 1792740916,
+    "Hoenn|Chimecho|Mt. Pyre|497983": 1792742116
   }
 }
