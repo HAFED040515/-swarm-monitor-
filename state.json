@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Blissey|Three Island|497477": 1790919317,
     "Johto|Totodile|Route 32|497477": 1790919921,
     "Unova|Plusle|Route 5|497477": 1790920516,
     "Sinnoh|Chimecho|Acuity Lakefront|497478": 1790921421,
@@ -999,6 +998,7 @@
     "Hoenn|Cloyster|Route 133|497980": 1792731019,
     "Sinnoh|Kirlia|Snowpoint Temple|497981": 1792732820,
     "Unova|Cacnea|Route 4|497981": 1792734019,
-    "Johto|Meganium|Route 48|497981": 1792735237
+    "Johto|Meganium|Route 48|497981": 1792735237,
+    "Sinnoh|Skarmory|Route 227|497982": 1792735515
   }
 }
