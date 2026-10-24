@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Vaporeon|Route 134|497512": 1791044718,
     "Kanto|Tropius|Bond Bridge|497513": 1791048627,
     "Johto|Lapras|Union Cave|497513": 1791049521,
     "Unova|Skorupi|Desert Resort|497513": 1791049521,
@@ -999,6 +998,7 @@
     "Sinnoh|Tauros|Valor Lakefront|498018": 1792867819,
     "Johto|Chimecho|Bellchime Trail|498019": 1792869021,
     "Hoenn|Munna|Route 102|498020": 1792873827,
-    "Unova|Cacnea|Route 4|498020": 1792874719
+    "Unova|Cacnea|Route 4|498020": 1792874719,
+    "Hoenn|Sudowoodo|Battle Frontier|498021": 1792879235
   }
 }
