@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Wailmer|Route 40|497499": 1790997916,
     "Sinnoh|Kecleon|Route 229|497500": 1791002724,
     "Unova|Porygon2|P2 Laboratory|497500": 1791003634,
     "Kanto|Zangoose|Route 14|497501": 1791004822,
@@ -999,6 +998,7 @@
     "Kanto|Wailord|Green Path|498005": 1792820719,
     "Hoenn|Flygon|Desert Underpass|498005": 1792820719,
     "Sinnoh|Shroomish|Route 201|498006": 1792821918,
-    "Johto|Bonsly|Ilex Forest|498006": 1792823116
+    "Johto|Bonsly|Ilex Forest|498006": 1792823116,
+    "Kanto|Starmie|Seven Island|498006": 1792824620
   }
 }
