@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Ninjask|Route 11|497507": 1791027316,
     "Hoenn|Feebas|Route 130|497507": 1791027619,
     "Sinnoh|Snorlax|Victory Road|497508": 1791031519,
     "Unova|Lumineon|Route 17|497509": 1791033622,
@@ -999,6 +998,7 @@
     "Unova|Farfetch&#x27;d|Route 1|498012": 1792846221,
     "Unova|Aggron|Twist Mountain|498012": 1792847420,
     "Johto|Zorua|Route 37|498013": 1792847719,
-    "Kanto|Qwilfish|Route 20|498013": 1792848315
+    "Kanto|Qwilfish|Route 20|498013": 1792848315,
+    "Hoenn|Hippowdon|Victory Road|498013": 1792848628
   }
 }
