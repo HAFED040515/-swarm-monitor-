@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Tropius|Bond Bridge|497513": 1791048627,
-    "Johto|Lapras|Union Cave|497513": 1791049521,
     "Unova|Skorupi|Desert Resort|497513": 1791049521,
     "Hoenn|Mismagius|Route 122|497514": 1791051018,
     "Kanto|Kirlia|Route 8|497514": 1791052820,
@@ -999,6 +997,8 @@
     "Johto|Chimecho|Bellchime Trail|498019": 1792869021,
     "Hoenn|Munna|Route 102|498020": 1792873827,
     "Unova|Cacnea|Route 4|498020": 1792874719,
-    "Hoenn|Sudowoodo|Battle Frontier|498021": 1792879235
+    "Hoenn|Sudowoodo|Battle Frontier|498021": 1792879235,
+    "Johto|Miltank|Route 39|498022": 1792880419,
+    "Sinnoh|Piplup|Route 204|498022": 1792880419
   }
 }
