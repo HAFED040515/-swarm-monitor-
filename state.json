@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Honchkrow|Route 209|497511": 1791043819,
     "Johto|Kangaskhan|Dark Cave|497512": 1791044718,
     "Hoenn|Vaporeon|Route 134|497512": 1791044718,
     "Kanto|Tropius|Bond Bridge|497513": 1791048627,
@@ -999,6 +998,7 @@
     "Hoenn|Togekiss|Sky Pillar|498018": 1792865420,
     "Kanto|Pinsir|Pattern Bush|498018": 1792867819,
     "Sinnoh|Tauros|Valor Lakefront|498018": 1792867819,
-    "Johto|Chimecho|Bellchime Trail|498019": 1792869021
+    "Johto|Chimecho|Bellchime Trail|498019": 1792869021,
+    "Hoenn|Munna|Route 102|498020": 1792873827
   }
 }
