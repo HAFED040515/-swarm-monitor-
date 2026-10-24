@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Lumineon|Route 17|497509": 1791033622,
     "Kanto|Volbeat|Memorial Pillar|497510": 1791038117,
     "Unova|Corsola|Undella Bay|497510": 1791038721,
     "Sinnoh|Crawdaunt|Lake Valor|497511": 1791040221,
@@ -999,6 +998,7 @@
     "Kanto|Qwilfish|Route 20|498013": 1792848315,
     "Hoenn|Hippowdon|Victory Road|498013": 1792848628,
     "Johto|Kirlia|Route 43|498014": 1792854035,
-    "Johto|Chimecho|Bellchime Trail|498017": 1792861823
+    "Johto|Chimecho|Bellchime Trail|498017": 1792861823,
+    "Unova|Plusle|Route 5|498017": 1792863027
   }
 }
