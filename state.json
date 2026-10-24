@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Skitty|Route 35|497504": 1791017119,
     "Johto|Skarmory|Route 26|497505": 1791021315,
     "Unova|Miltank|Village Bridge|497506": 1791022819,
     "Hoenn|Drifloon|Route 105|497506": 1791024319,
@@ -999,6 +998,7 @@
     "Kanto|Pikachu|Viridian Forest|498008": 1792832115,
     "Hoenn|Vaporeon|Route 134|498008": 1792832115,
     "Unova|Volcarona|Relic Castle|498010": 1792836620,
-    "Johto|Vigoroth|Ruins of Alph|498010": 1792839314
+    "Johto|Vigoroth|Ruins of Alph|498010": 1792839314,
+    "Hoenn|Castform|Aqua Hideout|498011": 1792840219
   }
 }
