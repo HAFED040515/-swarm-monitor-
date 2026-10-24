@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Miltank|Village Bridge|497506": 1791022819,
     "Hoenn|Drifloon|Route 105|497506": 1791024319,
     "Johto|Metang|Ice Path|497507": 1791026715,
     "Kanto|Luvdisc|Route 19|497507": 1791027316,
@@ -999,6 +998,7 @@
     "Unova|Volcarona|Relic Castle|498010": 1792836620,
     "Johto|Vigoroth|Ruins of Alph|498010": 1792839314,
     "Hoenn|Castform|Aqua Hideout|498011": 1792840219,
-    "Johto|Feraligatr|Tohjo Falls|498012": 1792843235
+    "Johto|Feraligatr|Tohjo Falls|498012": 1792843235,
+    "Unova|Farfetch&#x27;d|Route 1|498012": 1792846221
   }
 }
