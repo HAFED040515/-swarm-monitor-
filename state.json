@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Corsola|Undella Bay|497510": 1791038721,
     "Sinnoh|Crawdaunt|Lake Valor|497511": 1791040221,
     "Kanto|Pinsir|Route 11|497511": 1791041115,
     "Sinnoh|Torterra|Route 212|497511": 1791043235,
@@ -999,6 +998,7 @@
     "Johto|Kirlia|Route 43|498014": 1792854035,
     "Johto|Chimecho|Bellchime Trail|498017": 1792861823,
     "Unova|Plusle|Route 5|498017": 1792863027,
-    "Kanto|Kirlia|Route 8|498017": 1792864516
+    "Kanto|Kirlia|Route 8|498017": 1792864516,
+    "Hoenn|Togekiss|Sky Pillar|498018": 1792865420
   }
 }
