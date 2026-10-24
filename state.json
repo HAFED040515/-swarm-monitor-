@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Gliscor|Route 11|497503": 1791014433,
     "Sinnoh|Pineco|Route 207|497504": 1791015320,
     "Johto|Skitty|Route 35|497504": 1791017119,
     "Johto|Skarmory|Route 26|497505": 1791021315,
@@ -999,6 +998,7 @@
     "Unova|Honchkrow|Celestial Tower|498007": 1792828516,
     "Sinnoh|Farfetch&#x27;d|Route 209|498008": 1792829419,
     "Kanto|Pikachu|Viridian Forest|498008": 1792832115,
-    "Hoenn|Vaporeon|Route 134|498008": 1792832115
+    "Hoenn|Vaporeon|Route 134|498008": 1792832115,
+    "Unova|Volcarona|Relic Castle|498010": 1792836620
   }
 }
