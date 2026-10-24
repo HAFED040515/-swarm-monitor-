@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Marshtomp|Route 124|497496": 1790988319,
     "Kanto|Dragonite|Six Island|497497": 1790989517,
     "Unova|Houndoom|Route 15|497497": 1790990716,
     "Unova|Raticate|Mistralton Cave|497497": 1790992517,
@@ -999,6 +998,7 @@
     "Unova|Scizor|Route 14|497999": 1792799421,
     "Unova|Fearow|Route 4|498001": 1792805114,
     "Kanto|Blastoise|Cape Brink|498001": 1792805716,
-    "Hoenn|Sharpedo|Route 127|498001": 1792806021
+    "Hoenn|Sharpedo|Route 127|498001": 1792806021,
+    "Johto|Snorlax|Victory Road|498001": 1792806320
   }
 }
