@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Zangoose|Route 14|497501": 1791004822,
     "Johto|Skitty|Route 35|497502": 1791010833,
     "Kanto|Sentret|Route 1|497503": 1791013819,
     "Unova|Gliscor|Route 11|497503": 1791014433,
@@ -999,6 +998,7 @@
     "Johto|Bonsly|Ilex Forest|498006": 1792823116,
     "Kanto|Starmie|Seven Island|498006": 1792824620,
     "Johto|Chikorita|Route 31|498007": 1792826718,
-    "Unova|Honchkrow|Celestial Tower|498007": 1792828516
+    "Unova|Honchkrow|Celestial Tower|498007": 1792828516,
+    "Sinnoh|Farfetch&#x27;d|Route 209|498008": 1792829419
   }
 }
