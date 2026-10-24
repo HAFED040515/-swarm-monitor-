@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Wartortle|Seafoam Islands|497499": 1790997019,
     "Hoenn|Staryu|Route 106|497499": 1790997322,
     "Johto|Wailmer|Route 40|497499": 1790997916,
     "Sinnoh|Kecleon|Route 229|497500": 1791002724,
@@ -999,6 +998,7 @@
     "Johto|Metang|Ice Path|498003": 1792812627,
     "Unova|Salamence|Dragonspiral Tower|498004": 1792815021,
     "Kanto|Wailord|Green Path|498005": 1792820719,
-    "Hoenn|Flygon|Desert Underpass|498005": 1792820719
+    "Hoenn|Flygon|Desert Underpass|498005": 1792820719,
+    "Sinnoh|Shroomish|Route 201|498006": 1792821918
   }
 }
