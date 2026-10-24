@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Porygon2|P2 Laboratory|497500": 1791003634,
     "Kanto|Zangoose|Route 14|497501": 1791004822,
     "Johto|Skitty|Route 35|497502": 1791010833,
     "Kanto|Sentret|Route 1|497503": 1791013819,
@@ -999,6 +998,7 @@
     "Sinnoh|Shroomish|Route 201|498006": 1792821918,
     "Johto|Bonsly|Ilex Forest|498006": 1792823116,
     "Kanto|Starmie|Seven Island|498006": 1792824620,
-    "Johto|Chikorita|Route 31|498007": 1792826718
+    "Johto|Chikorita|Route 31|498007": 1792826718,
+    "Unova|Honchkrow|Celestial Tower|498007": 1792828516
   }
 }
