@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Ariados|Route 44|497515": 1791056115,
     "Unova|Minun|Route 6|497516": 1791059428,
     "Hoenn|Treecko|Petalburg Woods|497517": 1791064462,
     "Sinnoh|Yanma|Route 205|497518": 1791065152,
@@ -999,6 +998,7 @@
     "Hoenn|Carnivine|Route 123|498024": 1792887020,
     "Johto|Wailmer|Route 40|498024": 1792889715,
     "Sinnoh|Magmar|Fuego Ironworks|498025": 1792893019,
-    "Johto|Totodile|Route 32|498025": 1792893314
+    "Johto|Totodile|Route 32|498025": 1792893314,
+    "Kanto|Rampardos|Scufib Chamber|498026": 1792896916
   }
 }
