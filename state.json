@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Relicanth|Tanoby Ruins|497540": 1791144316,
     "Hoenn|Flygon|Desert Underpass|497540": 1791145221,
     "Unova|Metagross|Giant Chasm|497541": 1791148220,
     "Johto|Kirlia|Route 43|497541": 1791150620,
@@ -999,6 +998,7 @@
     "Hoenn|Mudkip|Route 104|498044": 1792959916,
     "Hoenn|Tentacruel|Route 128|498044": 1792961717,
     "Johto|Hitmontop|Mt. Mortar|498046": 1792966519,
-    "Unova|Corsola|Undella Bay|498046": 1792966820
+    "Unova|Corsola|Undella Bay|498046": 1792966820,
+    "Kanto|Plusle|Route 2|498047": 1792969515
   }
 }
