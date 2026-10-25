@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Sharpedo|Route 41|497536": 1791132319,
     "Unova|Swalot|Route 9|497537": 1791136831,
     "Sinnoh|Skarmory|Route 227|497538": 1791138315,
     "Kanto|Armaldo|Viapois Chamber|497538": 1791138919,
@@ -999,6 +998,7 @@
     "Unova|Hippowdon|Mistralton Cave|498041": 1792948821,
     "Kanto|Houndoom|Kindle Road|498041": 1792951233,
     "Sinnoh|Lucario|Iron Island|498042": 1792953920,
-    "Kanto|Zangoose|Route 14|498043": 1792955721
+    "Kanto|Zangoose|Route 14|498043": 1792955721,
+    "Johto|Kangaskhan|Dark Cave|498043": 1792956020
   }
 }
