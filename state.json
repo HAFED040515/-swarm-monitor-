@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pinsir|Route 12|497531": 1791115236,
     "Kanto|Zangoose|Route 14|497533": 1791120317,
     "Unova|Cloyster|Route 13|497533": 1791121221,
     "Johto|Quilava|Route 42|497533": 1791122432,
@@ -999,6 +998,7 @@
     "Johto|Feraligatr|Tohjo Falls|498038": 1792938915,
     "Sinnoh|Hippopotas|Maniac Tunnel|498038": 1792939820,
     "Unova|Heracross|Route 10|498039": 1792944035,
-    "Sinnoh|Scyther|Route 210|498040": 1792944920
+    "Sinnoh|Scyther|Route 210|498040": 1792944920,
+    "Hoenn|Magneton|New Mauville|498040": 1792945516
   }
 }
