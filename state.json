@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Armaldo|Viapois Chamber|497538": 1791138919,
     "Hoenn|Blissey|Artisan Cave|497538": 1791139821,
     "Sinnoh|Kirlia|Snowpoint Temple|497539": 1791143118,
     "Johto|Bayleef|National Park|497539": 1791143419,
@@ -999,6 +998,7 @@
     "Kanto|Zangoose|Route 14|498043": 1792955721,
     "Johto|Kangaskhan|Dark Cave|498043": 1792956020,
     "Unova|Carnivine|Route 18|498043": 1792956917,
-    "Sinnoh|Zangoose|Route 205|498044": 1792959020
+    "Sinnoh|Zangoose|Route 205|498044": 1792959020,
+    "Hoenn|Mudkip|Route 104|498044": 1792959916
   }
 }
