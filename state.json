@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Dragonite|Route 131|497523": 1791083420,
     "Hoenn|Breloom|Route 119|497523": 1791084630,
     "Johto|Pineco|Route 36|497524": 1791086722,
     "Kanto|Absol|Sevault Canyon|497525": 1791090619,
@@ -999,6 +998,7 @@
     "Johto|Shelgon|Dragon&#x27;s Den|498030": 1792911220,
     "Hoenn|Luvdisc|Route 132|498030": 1792911315,
     "Kanto|Porygon|Pokemon Mansion|498031": 1792913116,
-    "Sinnoh|Jynx|Snowpoint Temple|498031": 1792915233
+    "Sinnoh|Jynx|Snowpoint Temple|498031": 1792915233,
+    "Unova|Dragonair|Dragonspiral Tower|498033": 1792919117
   }
 }
