@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Kirlia|Snowpoint Temple|497539": 1791143118,
     "Johto|Bayleef|National Park|497539": 1791143419,
     "Kanto|Relicanth|Tanoby Ruins|497540": 1791144316,
     "Hoenn|Flygon|Desert Underpass|497540": 1791145221,
@@ -999,6 +998,7 @@
     "Unova|Carnivine|Route 18|498043": 1792956917,
     "Sinnoh|Zangoose|Route 205|498044": 1792959020,
     "Hoenn|Mudkip|Route 104|498044": 1792959916,
-    "Hoenn|Tentacruel|Route 128|498044": 1792961717
+    "Hoenn|Tentacruel|Route 128|498044": 1792961717,
+    "Johto|Hitmontop|Mt. Mortar|498046": 1792966519
   }
 }
