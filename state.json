@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Snorlax|Victory Road|497527": 1791097831,
-    "Kanto|Relicanth|Tanoby Ruins|497527": 1791098419,
     "Johto|Snorlax|Victory Road|497528": 1791102020,
     "Unova|Porygon2|P2 Laboratory|497528": 1791102020,
     "Johto|Kirlia|Route 43|497529": 1791105321,
@@ -999,6 +997,8 @@
     "Johto|Meganium|Route 48|498034": 1792924516,
     "Kanto|Nosepass|Mt. Moon|498035": 1792929315,
     "Sinnoh|Tyranitar|Stark Mountain|498036": 1792930089,
-    "Johto|Tauros|Route 38|498036": 1792931427
+    "Johto|Tauros|Route 38|498036": 1792931427,
+    "Sinnoh|Crawdaunt|Lake Valor|498036": 1792933233,
+    "Unova|Pinsir|Route 12|498036": 1792933233
   }
 }
