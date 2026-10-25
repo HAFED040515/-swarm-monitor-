@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Misdreavus|Pokemon Tower|497518": 1791065615,
-    "Johto|Togetic|Route 27|497519": 1791069620,
     "Sinnoh|Chansey|Trophy Garden|497520": 1791072620,
     "Kanto|Nosepass|Mt. Moon|497520": 1791072919,
     "Unova|Carnivine|Route 18|497520": 1791073515,
@@ -999,6 +997,8 @@
     "Kanto|Rampardos|Scufib Chamber|498026": 1792896916,
     "Sinnoh|Vigoroth|Route 215|498026": 1792897237,
     "Unova|Seviper|Route 1|498027": 1792898715,
-    "Hoenn|Corsola|Route 126|498027": 1792899315
+    "Hoenn|Corsola|Route 126|498027": 1792899315,
+    "Kanto|Tropius|Bond Bridge|498028": 1792901120,
+    "Johto|Sharpedo|Route 41|498028": 1792901120
   }
 }
