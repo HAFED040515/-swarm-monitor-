@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Wormadam|Pattern Bush|497521": 1791078319,
     "Sinnoh|Magmar|Fuego Ironworks|497522": 1791080422,
     "Unova|Farfetch&#x27;d|Route 1|497523": 1791083116,
     "Hoenn|Dragonite|Route 131|497523": 1791083420,
@@ -999,6 +998,7 @@
     "Kanto|Tauros|Route 17|498029": 1792904716,
     "Sinnoh|Glaceon|Route 217|498029": 1792907120,
     "Unova|Swalot|Route 9|498029": 1792907419,
-    "Johto|Shelgon|Dragon&#x27;s Den|498030": 1792911220
+    "Johto|Shelgon|Dragon&#x27;s Den|498030": 1792911220,
+    "Hoenn|Luvdisc|Route 132|498030": 1792911315
   }
 }
