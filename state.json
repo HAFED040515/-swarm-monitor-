@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Kirlia|Route 43|497529": 1791105321,
     "Johto|Victreebel|Route 32|497529": 1791106819,
     "Kanto|Volbeat|Memorial Pillar|497530": 1791108315,
     "Sinnoh|Yanma|Route 205|497530": 1791108620,
@@ -999,6 +998,7 @@
     "Sinnoh|Crawdaunt|Lake Valor|498036": 1792933233,
     "Unova|Pinsir|Route 12|498036": 1792933233,
     "Kanto|Snorlax|Cerulean Cave|498037": 1792936515,
-    "Hoenn|Hippowdon|Victory Road|498037": 1792936833
+    "Hoenn|Hippowdon|Victory Road|498037": 1792936833,
+    "Johto|Feraligatr|Tohjo Falls|498038": 1792938915
   }
 }
