@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Snorlax|Victory Road|497528": 1791102020,
     "Unova|Porygon2|P2 Laboratory|497528": 1791102020,
     "Johto|Kirlia|Route 43|497529": 1791105321,
     "Johto|Victreebel|Route 32|497529": 1791106819,
@@ -999,6 +998,7 @@
     "Sinnoh|Tyranitar|Stark Mountain|498036": 1792930089,
     "Johto|Tauros|Route 38|498036": 1792931427,
     "Sinnoh|Crawdaunt|Lake Valor|498036": 1792933233,
-    "Unova|Pinsir|Route 12|498036": 1792933233
+    "Unova|Pinsir|Route 12|498036": 1792933233,
+    "Kanto|Snorlax|Cerulean Cave|498037": 1792936515
   }
 }
