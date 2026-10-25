@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Togetic|Route 27|497525": 1791091895,
     "Sinnoh|Chatot|Route 218|497526": 1791096320,
     "Hoenn|Murkrow|Jagged Pass|497527": 1791097233,
     "Johto|Snorlax|Victory Road|497527": 1791097831,
@@ -999,6 +998,7 @@
     "Unova|Dragonair|Dragonspiral Tower|498033": 1792919117,
     "Kanto|Cradily|Weepth Chamber|498033": 1792922436,
     "Hoenn|Chimecho|Mt. Pyre|498034": 1792923320,
-    "Johto|Meganium|Route 48|498034": 1792924516
+    "Johto|Meganium|Route 48|498034": 1792924516,
+    "Kanto|Nosepass|Mt. Moon|498035": 1792929315
   }
 }
