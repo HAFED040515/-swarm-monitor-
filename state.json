@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Treecko|Petalburg Woods|497517": 1791064462,
     "Sinnoh|Yanma|Route 205|497518": 1791065152,
     "Kanto|Misdreavus|Pokemon Tower|497518": 1791065615,
     "Johto|Togetic|Route 27|497519": 1791069620,
@@ -999,6 +998,7 @@
     "Sinnoh|Magmar|Fuego Ironworks|498025": 1792893019,
     "Johto|Totodile|Route 32|498025": 1792893314,
     "Kanto|Rampardos|Scufib Chamber|498026": 1792896916,
-    "Sinnoh|Vigoroth|Route 215|498026": 1792897237
+    "Sinnoh|Vigoroth|Route 215|498026": 1792897237,
+    "Unova|Seviper|Route 1|498027": 1792898715
   }
 }
