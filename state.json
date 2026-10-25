@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Magmar|Fuego Ironworks|497522": 1791080422,
     "Unova|Farfetch&#x27;d|Route 1|497523": 1791083116,
     "Hoenn|Dragonite|Route 131|497523": 1791083420,
     "Hoenn|Breloom|Route 119|497523": 1791084630,
@@ -999,6 +998,7 @@
     "Sinnoh|Glaceon|Route 217|498029": 1792907120,
     "Unova|Swalot|Route 9|498029": 1792907419,
     "Johto|Shelgon|Dragon&#x27;s Den|498030": 1792911220,
-    "Hoenn|Luvdisc|Route 132|498030": 1792911315
+    "Hoenn|Luvdisc|Route 132|498030": 1792911315,
+    "Kanto|Porygon|Pokemon Mansion|498031": 1792913116
   }
 }
