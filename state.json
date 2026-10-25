@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cloyster|Route 13|497533": 1791121221,
     "Johto|Quilava|Route 42|497533": 1791122432,
     "Kanto|Heracross|Route 16|497534": 1791124517,
     "Sinnoh|Yanma|Route 205|497535": 1791128116,
@@ -999,6 +998,7 @@
     "Unova|Heracross|Route 10|498039": 1792944035,
     "Sinnoh|Scyther|Route 210|498040": 1792944920,
     "Hoenn|Magneton|New Mauville|498040": 1792945516,
-    "Kanto|Venusaur|Berry Forest|498040": 1792945827
+    "Kanto|Venusaur|Berry Forest|498040": 1792945827,
+    "Johto|Barboach|Slowpoke Well|498040": 1792946720
   }
 }
