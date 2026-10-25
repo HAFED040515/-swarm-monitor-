@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Victreebel|Route 32|497529": 1791106819,
     "Kanto|Volbeat|Memorial Pillar|497530": 1791108315,
     "Sinnoh|Yanma|Route 205|497530": 1791108620,
     "Unova|Pinsir|Route 12|497531": 1791115236,
@@ -999,6 +998,7 @@
     "Unova|Pinsir|Route 12|498036": 1792933233,
     "Kanto|Snorlax|Cerulean Cave|498037": 1792936515,
     "Hoenn|Hippowdon|Victory Road|498037": 1792936833,
-    "Johto|Feraligatr|Tohjo Falls|498038": 1792938915
+    "Johto|Feraligatr|Tohjo Falls|498038": 1792938915,
+    "Sinnoh|Hippopotas|Maniac Tunnel|498038": 1792939820
   }
 }
