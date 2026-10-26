@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Ditto|Route 9|497563": 1791231323,
     "Hoenn|Chimecho|Mt. Pyre|497564": 1791233770,
     "Sinnoh|Grotle|Sendoff Spring|497565": 1791235787,
     "Johto|Nincada|Route 46|497566": 1791239116,
@@ -999,6 +998,7 @@
     "Unova|Yanma|Pinwheel Forest|498066": 1793040322,
     "Sinnoh|Shuckle|Route 219|498067": 1793043920,
     "Sinnoh|Drapion|Route 213|498067": 1793045720,
-    "Hoenn|Remoraid|Route 108|498068": 1793046021
+    "Hoenn|Remoraid|Route 108|498068": 1793046021,
+    "Johto|Hitmontop|Mt. Mortar|498068": 1793047521
   }
 }
