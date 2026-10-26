@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Vespiquen|Five Isle Meadow|497549": 1791178227,
     "Sinnoh|Cloyster|Route 223|497549": 1791178517,
     "Unova|Shroomish|Pinwheel Forest|497549": 1791178820,
     "Johto|Miltank|Route 39|497549": 1791179420,
@@ -999,6 +998,7 @@
     "Johto|Bonsly|Ilex Forest|498054": 1792994435,
     "Kanto|Minun|Route 22|498054": 1792995020,
     "Unova|Miltank|Village Bridge|498054": 1792996229,
-    "Sinnoh|Spiritomb|Turnback Cave|498054": 1792997120
+    "Sinnoh|Spiritomb|Turnback Cave|498054": 1792997120,
+    "Hoenn|Vaporeon|Route 134|498054": 1792997420
   }
 }
