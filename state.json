@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Corsola|Route 128|497558": 1791209720,
     "Sinnoh|Cherrim|Lake Verity|497558": 1791211223,
     "Kanto|Illumise|Water Path|497558": 1791212439,
     "Unova|Pinsir|Route 12|497559": 1791214516,
@@ -999,6 +998,7 @@
     "Kanto|Kingler|Route 20|498060": 1793018721,
     "Johto|Totodile|Route 32|498061": 1793021428,
     "Sinnoh|Skitty|Route 204|498061": 1793022916,
-    "Hoenn|Hitmonchan|Fiery Path|498063": 1793028022
+    "Hoenn|Hitmonchan|Fiery Path|498063": 1793028022,
+    "Unova|Salamence|Dragonspiral Tower|498064": 1793031622
   }
 }
