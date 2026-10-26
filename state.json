@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Staryu|Route 106|497544": 1791158718,
     "Johto|Shuckle|Cliff Cave|497544": 1791159620,
     "Unova|Pupitar|Twist Mountain|497544": 1791160227,
     "Sinnoh|Spiritomb|Turnback Cave|497544": 1791160516,
@@ -999,6 +998,7 @@
     "Sinnoh|Drifblim|Route 222|498049": 1792976715,
     "Johto|Wailmer|Route 40|498049": 1792977915,
     "Hoenn|Rotom|New Mauville|498049": 1792977915,
-    "Unova|Dragonair|Dragonspiral Tower|498049": 1792978820
+    "Unova|Dragonair|Dragonspiral Tower|498049": 1792978820,
+    "Sinnoh|Roserade|Route 230|498049": 1792980034
   }
 }
