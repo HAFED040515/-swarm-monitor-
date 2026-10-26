@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Togetic|Route 27|497555": 1791200116,
     "Sinnoh|Hippopotas|Maniac Tunnel|497555": 1791200116,
     "Kanto|Houndoom|Kindle Road|497555": 1791200722,
     "Hoenn|Staryu|Route 106|497555": 1791201020,
@@ -999,6 +998,7 @@
     "Johto|Zorua|Route 37|498057": 1793007921,
     "Unova|Illumise|Moor of Icirrus|498058": 1793010316,
     "Johto|Croconaw|Whirl Islands|498058": 1793011821,
-    "Sinnoh|Ambipom|Route 216|498058": 1793011821
+    "Sinnoh|Ambipom|Route 216|498058": 1793011821,
+    "Hoenn|Carnivine|Route 123|498059": 1793013320
   }
 }
