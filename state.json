@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Lucario|Guidance Chamber|497568": 1791246020,
     "Hoenn|Wailord|Route 129|497568": 1791247520,
     "Sinnoh|Snorlax|Victory Road|497569": 1791248717,
     "Unova|Heracross|Route 10|497569": 1791251120,
@@ -999,6 +998,7 @@
     "Kanto|Nincada|Route 25|498071": 1793056521,
     "Hoenn|Mime Jr.|Rusturf Tunnel|498071": 1793056521,
     "Unova|Plusle|Route 5|498071": 1793056822,
-    "Sinnoh|Grotle|Sendoff Spring|498071": 1793057716
+    "Sinnoh|Grotle|Sendoff Spring|498071": 1793057716,
+    "Johto|Starmie|Cliff Edge Gate|498071": 1793058915
   }
 }
