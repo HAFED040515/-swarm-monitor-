@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Gulpin|Route 110|497552": 1791189922,
     "Johto|Yanmega|Route 44|497553": 1791192318,
     "Unova|Salamence|Dragonspiral Tower|497553": 1791192318,
     "Unova|Scizor|Route 14|497554": 1791195917,
@@ -999,6 +998,7 @@
     "Kanto|Plusle|Route 2|498055": 1793001634,
     "Johto|Chimecho|Bellchime Trail|498056": 1793002222,
     "Hoenn|Pineco|Route 103|498057": 1793005824,
-    "Kanto|Hypno|Three Island|498056": 1793006122
+    "Kanto|Hypno|Three Island|498056": 1793006122,
+    "Johto|Zorua|Route 37|498057": 1793007921
   }
 }
