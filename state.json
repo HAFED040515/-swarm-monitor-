@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Shroomish|Pinwheel Forest|497549": 1791178820,
     "Johto|Miltank|Route 39|497549": 1791179420,
     "Johto|Exeggcute|Route 30|497551": 1791184521,
     "Sinnoh|Quagsire|Route 212|497551": 1791187235,
@@ -999,6 +998,7 @@
     "Unova|Miltank|Village Bridge|498054": 1792996229,
     "Sinnoh|Spiritomb|Turnback Cave|498054": 1792997120,
     "Hoenn|Vaporeon|Route 134|498054": 1792997420,
-    "Hoenn|Skarmory|Route 113|498055": 1793001020
+    "Hoenn|Skarmory|Route 113|498055": 1793001020,
+    "Kanto|Plusle|Route 2|498055": 1793001634
   }
 }
