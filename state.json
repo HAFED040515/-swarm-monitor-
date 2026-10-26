@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Empoleon|Lake Acuity|497546": 1791166220,
     "Hoenn|Hitmonchan|Fiery Path|497546": 1791167118,
     "Johto|Chimecho|Bellchime Trail|497547": 1791170119,
     "Unova|Volcarona|Relic Castle|497547": 1791171621,
@@ -999,6 +998,7 @@
     "Kanto|Heracross|Route 16|498051": 1792986915,
     "Hoenn|Staryu|Route 106|498052": 1792989026,
     "Sinnoh|Cloyster|Route 223|498052": 1792990227,
-    "Unova|Yanma|Pinwheel Forest|498052": 1792990515
+    "Unova|Yanma|Pinwheel Forest|498052": 1792990515,
+    "Johto|Kangaskhan|Dark Cave|498053": 1792992316
   }
 }
