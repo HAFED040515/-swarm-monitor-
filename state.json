@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Chimecho|Bellchime Trail|497547": 1791170119,
     "Unova|Volcarona|Relic Castle|497547": 1791171621,
     "Hoenn|Crawdaunt|Route 120|497547": 1791173731,
     "Kanto|Vespiquen|Five Isle Meadow|497549": 1791178227,
@@ -999,6 +998,7 @@
     "Sinnoh|Cloyster|Route 223|498052": 1792990227,
     "Unova|Yanma|Pinwheel Forest|498052": 1792990515,
     "Johto|Kangaskhan|Dark Cave|498053": 1792992316,
-    "Johto|Bonsly|Ilex Forest|498054": 1792994435
+    "Johto|Bonsly|Ilex Forest|498054": 1792994435,
+    "Kanto|Minun|Route 22|498054": 1792995020
   }
 }
