@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Castform|Route 210|497567": 1791242422,
     "Hoenn|Blaziken|Magma Hideout|497567": 1791243320,
     "Unova|Lucario|Guidance Chamber|497568": 1791246020,
     "Hoenn|Wailord|Route 129|497568": 1791247520,
@@ -999,6 +998,7 @@
     "Kanto|Zangoose|Route 14|498069": 1793051420,
     "Johto|Snorlax|Victory Road|498071": 1793055636,
     "Kanto|Nincada|Route 25|498071": 1793056521,
-    "Hoenn|Mime Jr.|Rusturf Tunnel|498071": 1793056521
+    "Hoenn|Mime Jr.|Rusturf Tunnel|498071": 1793056521,
+    "Unova|Plusle|Route 5|498071": 1793056822
   }
 }
