@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Combusken|Jagged Pass|497561": 1791221116,
-    "Sinnoh|Kecleon|Route 229|497561": 1791222621,
     "Johto|Houndoom|Burned Tower|497562": 1791223520,
     "Kanto|Bulbasaur|Viridian Forest|497562": 1791224717,
     "Unova|Yanma|Pinwheel Forest|497562": 1791224717,
@@ -999,6 +997,8 @@
     "Kanto|Charmeleon|Rock Tunnel|498065": 1793034921,
     "Sinnoh|Cacturne|Route 228|498065": 1793035221,
     "Kanto|Rampardos|Tanoby Ruins|498066": 1793039431,
-    "Johto|Chimecho|Bellchime Trail|498066": 1793039431
+    "Johto|Chimecho|Bellchime Trail|498066": 1793039431,
+    "Hoenn|Qwilfish|Route 125|498066": 1793039715,
+    "Sinnoh|Trapinch|Oreburgh Mine|498066": 1793039715
   }
 }
