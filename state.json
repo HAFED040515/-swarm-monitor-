@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cacnea|Route 4|497556": 1791202520,
     "Johto|Bonsly|Ilex Forest|497557": 1791207030,
     "Unova|Shroomish|Pinwheel Forest|497557": 1791207920,
     "Hoenn|Corsola|Route 128|497558": 1791209720,
@@ -999,6 +998,7 @@
     "Hoenn|Carnivine|Route 123|498059": 1793013320,
     "Hoenn|Corsola|Route 128|498060": 1793018117,
     "Unova|Cacnea|Route 4|498060": 1793018117,
-    "Kanto|Kingler|Route 20|498060": 1793018721
+    "Kanto|Kingler|Route 20|498060": 1793018721,
+    "Johto|Totodile|Route 32|498061": 1793021428
   }
 }
