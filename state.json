@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Exeggcute|Route 30|497551": 1791184521,
     "Sinnoh|Quagsire|Route 212|497551": 1791187235,
     "Hoenn|Gulpin|Route 110|497552": 1791189922,
     "Johto|Yanmega|Route 44|497553": 1791192318,
@@ -999,6 +998,7 @@
     "Hoenn|Vaporeon|Route 134|498054": 1792997420,
     "Hoenn|Skarmory|Route 113|498055": 1793001020,
     "Kanto|Plusle|Route 2|498055": 1793001634,
-    "Johto|Chimecho|Bellchime Trail|498056": 1793002222
+    "Johto|Chimecho|Bellchime Trail|498056": 1793002222,
+    "Hoenn|Pineco|Route 103|498057": 1793005824
   }
 }
