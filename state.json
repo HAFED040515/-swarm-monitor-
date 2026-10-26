@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Yanmega|Route 44|497553": 1791192318,
     "Unova|Salamence|Dragonspiral Tower|497553": 1791192318,
     "Unova|Scizor|Route 14|497554": 1791195917,
     "Johto|Togetic|Route 27|497555": 1791200116,
@@ -999,6 +998,7 @@
     "Johto|Chimecho|Bellchime Trail|498056": 1793002222,
     "Hoenn|Pineco|Route 103|498057": 1793005824,
     "Kanto|Hypno|Three Island|498056": 1793006122,
-    "Johto|Zorua|Route 37|498057": 1793007921
+    "Johto|Zorua|Route 37|498057": 1793007921,
+    "Unova|Illumise|Moor of Icirrus|498058": 1793010316
   }
 }
