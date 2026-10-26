@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Grotle|Sendoff Spring|497565": 1791235787,
     "Johto|Nincada|Route 46|497566": 1791239116,
     "Hoenn|Skitty|Route 116|497566": 1791240320,
     "Kanto|Venusaur|Berry Forest|497566": 1791240916,
@@ -999,6 +998,7 @@
     "Sinnoh|Drapion|Route 213|498067": 1793045720,
     "Hoenn|Remoraid|Route 108|498068": 1793046021,
     "Johto|Hitmontop|Mt. Mortar|498068": 1793047521,
-    "Hoenn|Wailord|Route 129|498069": 1793049916
+    "Hoenn|Wailord|Route 129|498069": 1793049916,
+    "Unova|Dragonair|Dragonspiral Tower|498069": 1793050822
   }
 }
