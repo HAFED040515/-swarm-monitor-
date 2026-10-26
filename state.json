@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Plusle|Route 2|497543": 1791155720,
     "Hoenn|Staryu|Route 106|497544": 1791158718,
     "Johto|Shuckle|Cliff Cave|497544": 1791159620,
     "Unova|Pupitar|Twist Mountain|497544": 1791160227,
@@ -999,6 +998,7 @@
     "Kanto|Heracross|Route 16|498048": 1792974915,
     "Sinnoh|Drifblim|Route 222|498049": 1792976715,
     "Johto|Wailmer|Route 40|498049": 1792977915,
-    "Hoenn|Rotom|New Mauville|498049": 1792977915
+    "Hoenn|Rotom|New Mauville|498049": 1792977915,
+    "Unova|Dragonair|Dragonspiral Tower|498049": 1792978820
   }
 }
