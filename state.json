@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pinsir|Route 12|497559": 1791214516,
     "Hoenn|Mime Jr.|Rusturf Tunnel|497559": 1791215421,
     "Johto|Lapras|Union Cave|497560": 1791216037,
     "Hoenn|Combusken|Jagged Pass|497561": 1791221116,
@@ -999,6 +998,7 @@
     "Hoenn|Hitmonchan|Fiery Path|498063": 1793028022,
     "Unova|Salamence|Dragonspiral Tower|498064": 1793031622,
     "Johto|Croconaw|Whirl Islands|498064": 1793033121,
-    "Kanto|Charmeleon|Rock Tunnel|498065": 1793034921
+    "Kanto|Charmeleon|Rock Tunnel|498065": 1793034921,
+    "Sinnoh|Cacturne|Route 228|498065": 1793035221
   }
 }
