@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Cherrim|Lake Verity|497558": 1791211223,
     "Kanto|Illumise|Water Path|497558": 1791212439,
     "Unova|Pinsir|Route 12|497559": 1791214516,
     "Hoenn|Mime Jr.|Rusturf Tunnel|497559": 1791215421,
@@ -999,6 +998,7 @@
     "Johto|Totodile|Route 32|498061": 1793021428,
     "Sinnoh|Skitty|Route 204|498061": 1793022916,
     "Hoenn|Hitmonchan|Fiery Path|498063": 1793028022,
-    "Unova|Salamence|Dragonspiral Tower|498064": 1793031622
+    "Unova|Salamence|Dragonspiral Tower|498064": 1793031622,
+    "Johto|Croconaw|Whirl Islands|498064": 1793033121
   }
 }
