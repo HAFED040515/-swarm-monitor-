@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Houndoom|Burned Tower|497562": 1791223520,
     "Kanto|Bulbasaur|Viridian Forest|497562": 1791224717,
     "Unova|Yanma|Pinwheel Forest|497562": 1791224717,
     "Kanto|Murkrow|Route 7|497564": 1791231323,
@@ -999,6 +998,7 @@
     "Kanto|Rampardos|Tanoby Ruins|498066": 1793039431,
     "Johto|Chimecho|Bellchime Trail|498066": 1793039431,
     "Hoenn|Qwilfish|Route 125|498066": 1793039715,
-    "Sinnoh|Trapinch|Oreburgh Mine|498066": 1793039715
+    "Sinnoh|Trapinch|Oreburgh Mine|498066": 1793039715,
+    "Unova|Yanma|Pinwheel Forest|498066": 1793040322
   }
 }
