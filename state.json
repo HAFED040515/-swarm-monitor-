@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Skitty|Route 116|497566": 1791240320,
     "Kanto|Venusaur|Berry Forest|497566": 1791240916,
     "Hoenn|Skitty|Route 116|497567": 1791242120,
     "Sinnoh|Castform|Route 210|497567": 1791242422,
@@ -999,6 +998,7 @@
     "Johto|Hitmontop|Mt. Mortar|498068": 1793047521,
     "Hoenn|Wailord|Route 129|498069": 1793049916,
     "Unova|Dragonair|Dragonspiral Tower|498069": 1793050822,
-    "Kanto|Zangoose|Route 14|498069": 1793051420
+    "Kanto|Zangoose|Route 14|498069": 1793051420,
+    "Johto|Snorlax|Victory Road|498071": 1793055636
   }
 }
