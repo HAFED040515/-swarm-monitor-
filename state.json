@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pupitar|Twist Mountain|497544": 1791160227,
     "Sinnoh|Spiritomb|Turnback Cave|497544": 1791160516,
     "Hoenn|Wailord|Route 129|497545": 1791162919,
     "Kanto|Relicanth|Tanoby Ruins|497545": 1791164722,
@@ -999,6 +998,7 @@
     "Hoenn|Rotom|New Mauville|498049": 1792977915,
     "Unova|Dragonair|Dragonspiral Tower|498049": 1792978820,
     "Sinnoh|Roserade|Route 230|498049": 1792980034,
-    "Kanto|Omastar|Tanoby Ruins|498050": 1792981831
+    "Kanto|Omastar|Tanoby Ruins|498050": 1792981831,
+    "Kanto|Heracross|Route 16|498051": 1792986915
   }
 }
