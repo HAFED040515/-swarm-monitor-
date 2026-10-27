@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Vespiquen|Five Isle Meadow|497581": 1791292821,
     "Unova|Skorupi|Desert Resort|497582": 1791295518,
     "Kanto|Sentret|Route 1|497582": 1791296717,
     "Hoenn|Remoraid|Route 108|497582": 1791296717,
@@ -999,6 +998,7 @@
     "Johto|Cyndaquil|Route 33|498084": 1793105120,
     "Johto|Wailmer|Route 40|498085": 1793108421,
     "Unova|Relicanth|Challenger&#x27;s Cave|498085": 1793108720,
-    "Hoenn|Combee|Route 117|498086": 1793112622
+    "Hoenn|Combee|Route 117|498086": 1793112622,
+    "Johto|Lapras|Union Cave|498086": 1793112916
   }
 }
