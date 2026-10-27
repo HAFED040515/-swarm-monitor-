@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Porygon-Z|Team Rocket HQ|497571": 1791258915,
     "Sinnoh|Ponyta|Route 203|497572": 1791260419,
     "Kanto|Pinsir|Route 11|497573": 1791265222,
     "Unova|Crawdaunt|Route 3|497573": 1791265222,
@@ -999,6 +998,7 @@
     "Johto|Lucario|Mt. Silver Cave|498074": 1793068516,
     "Unova|Furret|Abundant Shrine|498074": 1793068820,
     "Hoenn|Murkrow|Jagged Pass|498075": 1793070920,
-    "Sinnoh|Bonsly|Eterna Forest|498075": 1793071220
+    "Sinnoh|Bonsly|Eterna Forest|498075": 1793071220,
+    "Hoenn|Spinda|Route 113|498075": 1793072117
   }
 }
