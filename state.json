@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Crawdaunt|Route 3|497573": 1791265222,
     "Johto|Sharpedo|Route 41|497575": 1791272720,
     "Hoenn|Kecleon|Route 120|497575": 1791273634,
     "Sinnoh|Glaceon|Route 217|497575": 1791273634,
@@ -999,6 +998,7 @@
     "Sinnoh|Bonsly|Eterna Forest|498075": 1793071220,
     "Hoenn|Spinda|Route 113|498075": 1793072117,
     "Kanto|Squirtle|Route 24|498075": 1793073019,
-    "Unova|Farfetch&#x27;d|Route 1|498076": 1793073916
+    "Unova|Farfetch&#x27;d|Route 1|498076": 1793073916,
+    "Kanto|Rotom|Power Plant|498077": 1793080220
   }
 }
