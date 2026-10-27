@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Absol|Mt. Coronet|497588": 1791318871,
     "Kanto|Ditto|Pokemon Mansion|497588": 1791319520,
     "Johto|Vigoroth|Ruins of Alph|497588": 1791319822,
     "Hoenn|Chatot|Route 115|497589": 1791321021,
@@ -999,6 +998,7 @@
     "Kanto|Nincada|Route 25|498092": 1793132420,
     "Hoenn|Sudowoodo|Battle Frontier|498092": 1793132716,
     "Sinnoh|Exeggutor|Route 230|498092": 1793133029,
-    "Unova|Cacnea|Route 4|498093": 1793137519
+    "Unova|Cacnea|Route 4|498093": 1793137519,
+    "Sinnoh|Chatot|Route 218|498094": 1793139321
   }
 }
