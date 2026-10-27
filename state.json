@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Typhlosion|Route 45|497580": 1791290420,
     "Hoenn|Togekiss|Sky Pillar|497580": 1791291021,
     "Johto|Ditto|Tohjo Falls|497580": 1791292520,
     "Kanto|Vespiquen|Five Isle Meadow|497581": 1791292821,
@@ -999,6 +998,7 @@
     "Hoenn|Skarmory|Route 113|498083": 1793099116,
     "Unova|Salamence|Dragonspiral Tower|498083": 1793100917,
     "Sinnoh|Mr. Mime|Route 224|498083": 1793102116,
-    "Johto|Cyndaquil|Route 33|498084": 1793105120
+    "Johto|Cyndaquil|Route 33|498084": 1793105120,
+    "Johto|Wailmer|Route 40|498085": 1793108421
   }
 }
