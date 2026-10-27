@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Shuckle|Route 219|497578": 1791284116,
     "Unova|Seviper|Route 1|497579": 1791287120,
     "Kanto|Wailord|Green Path|497580": 1791288923,
     "Sinnoh|Hippopotas|Maniac Tunnel|497580": 1791289220,
@@ -999,6 +998,7 @@
     "Kanto|Lapras|Icefall Cave|498081": 1793094320,
     "Johto|Lapras|Union Cave|498081": 1793094320,
     "Unova|Yanma|Pinwheel Forest|498081": 1793094917,
-    "Johto|Yanmega|Route 44|498081": 1793095236
+    "Johto|Yanmega|Route 44|498081": 1793095236,
+    "Hoenn|Skarmory|Route 113|498083": 1793099116
   }
 }
