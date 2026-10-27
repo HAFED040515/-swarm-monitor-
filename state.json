@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Chatot|Route 218|497577": 1791279621,
-    "Unova|Electabuzz|Chargestone Cave|497578": 1791282316,
     "Kanto|Chatot|Treasure Beach|497578": 1791282917,
     "Johto|Barboach|Slowpoke Well|497578": 1791284116,
     "Sinnoh|Shuckle|Route 219|497578": 1791284116,
@@ -999,6 +997,8 @@
     "Hoenn|Flygon|Desert Underpass|498079": 1793085621,
     "Hoenn|Sableye|Victory Road|498079": 1793087121,
     "Johto|Shelgon|Dragon&#x27;s Den|498080": 1793090720,
-    "Sinnoh|Lucario|Iron Island|498081": 1793093428
+    "Sinnoh|Lucario|Iron Island|498081": 1793093428,
+    "Kanto|Lapras|Icefall Cave|498081": 1793094320,
+    "Johto|Lapras|Union Cave|498081": 1793094320
   }
 }
