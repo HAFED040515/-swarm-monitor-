@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Chatot|Treasure Beach|497578": 1791282917,
     "Johto|Barboach|Slowpoke Well|497578": 1791284116,
     "Sinnoh|Shuckle|Route 219|497578": 1791284116,
     "Unova|Seviper|Route 1|497579": 1791287120,
@@ -999,6 +998,7 @@
     "Johto|Shelgon|Dragon&#x27;s Den|498080": 1793090720,
     "Sinnoh|Lucario|Iron Island|498081": 1793093428,
     "Kanto|Lapras|Icefall Cave|498081": 1793094320,
-    "Johto|Lapras|Union Cave|498081": 1793094320
+    "Johto|Lapras|Union Cave|498081": 1793094320,
+    "Unova|Yanma|Pinwheel Forest|498081": 1793094917
   }
 }
