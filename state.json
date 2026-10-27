@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Lucario|Mt. Silver Cave|497587": 1791313822,
     "Unova|Cacnea|Route 4|497587": 1791316222,
     "Kanto|Cradily|Tanoby Ruins|497587": 1791316515,
     "Sinnoh|Absol|Mt. Coronet|497588": 1791318871,
@@ -999,6 +998,7 @@
     "Johto|Croconaw|Whirl Islands|498090": 1793126425,
     "Unova|Plusle|Route 5|498090": 1793126425,
     "Kanto|Rampardos|Tanoby Ruins|498090": 1793127643,
-    "Kanto|Nincada|Route 25|498092": 1793132420
+    "Kanto|Nincada|Route 25|498092": 1793132420,
+    "Hoenn|Sudowoodo|Battle Frontier|498092": 1793132716
   }
 }
