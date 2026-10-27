@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Heracross|Route 10|497569": 1791251120,
     "Johto|Totodile|Route 32|497569": 1791251420,
     "Kanto|Charmeleon|Rock Tunnel|497570": 1791253827,
     "Hoenn|Croagunk|Route 121|497570": 1791255316,
@@ -999,6 +998,7 @@
     "Sinnoh|Grotle|Sendoff Spring|498071": 1793057716,
     "Johto|Starmie|Cliff Edge Gate|498071": 1793058915,
     "Kanto|Kirlia|Route 8|498072": 1793060715,
-    "Hoenn|Skitty|Route 116|498072": 1793062834
+    "Hoenn|Skitty|Route 116|498072": 1793062834,
+    "Sinnoh|Burmy|Route 202|498073": 1793066118
   }
 }
