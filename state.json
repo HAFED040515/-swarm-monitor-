@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cacnea|Route 4|497587": 1791316222,
     "Kanto|Cradily|Tanoby Ruins|497587": 1791316515,
     "Sinnoh|Absol|Mt. Coronet|497588": 1791318871,
     "Kanto|Ditto|Pokemon Mansion|497588": 1791319520,
@@ -999,6 +998,7 @@
     "Unova|Plusle|Route 5|498090": 1793126425,
     "Kanto|Rampardos|Tanoby Ruins|498090": 1793127643,
     "Kanto|Nincada|Route 25|498092": 1793132420,
-    "Hoenn|Sudowoodo|Battle Frontier|498092": 1793132716
+    "Hoenn|Sudowoodo|Battle Frontier|498092": 1793132716,
+    "Sinnoh|Exeggutor|Route 230|498092": 1793133029
   }
 }
