@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Chatot|Route 115|497589": 1791321021,
     "Sinnoh|Prinplup|Route 220|497590": 1791325517,
     "Unova|Minun|Route 6|497590": 1791327315,
     "Kanto|Vespiquen|Five Isle Meadow|497591": 1791328821,
@@ -999,6 +998,7 @@
     "Unova|Cacnea|Route 4|498093": 1793137519,
     "Sinnoh|Chatot|Route 218|498094": 1793139321,
     "Kanto|Tropius|Bond Bridge|498094": 1793139620,
-    "Johto|Hitmontop|Mt. Mortar|498094": 1793139620
+    "Johto|Hitmontop|Mt. Mortar|498094": 1793139620,
+    "Unova|Ditto|Chargestone Cave|498094": 1793140515
   }
 }
