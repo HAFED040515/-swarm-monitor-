@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Qwilfish|Route 125|497586": 1791310820,
     "Sinnoh|Ambipom|Route 216|497586": 1791312917,
     "Johto|Lucario|Mt. Silver Cave|497587": 1791313822,
     "Unova|Cacnea|Route 4|497587": 1791316222,
@@ -999,6 +998,7 @@
     "Unova|Farfetch&#x27;d|Route 1|498088": 1793119223,
     "Hoenn|Remoraid|Route 108|498090": 1793125830,
     "Johto|Croconaw|Whirl Islands|498090": 1793126425,
-    "Unova|Plusle|Route 5|498090": 1793126425
+    "Unova|Plusle|Route 5|498090": 1793126425,
+    "Kanto|Rampardos|Tanoby Ruins|498090": 1793127643
   }
 }
