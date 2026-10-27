@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Minun|Route 6|497590": 1791327315,
     "Kanto|Vespiquen|Five Isle Meadow|497591": 1791328821,
     "Sinnoh|Vigoroth|Route 215|497591": 1791330322,
     "Johto|Yanmega|Route 44|497591": 1791331236,
@@ -999,6 +998,7 @@
     "Kanto|Tropius|Bond Bridge|498094": 1793139620,
     "Johto|Hitmontop|Mt. Mortar|498094": 1793139620,
     "Unova|Ditto|Chargestone Cave|498094": 1793140515,
-    "Hoenn|Blaziken|Magma Hideout|498094": 1793142035
+    "Hoenn|Blaziken|Magma Hideout|498094": 1793142035,
+    "Kanto|Salamence|Victory Road|498095": 1793143826
   }
 }
