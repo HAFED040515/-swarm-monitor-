@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Wailord|Green Path|497580": 1791288923,
     "Sinnoh|Hippopotas|Maniac Tunnel|497580": 1791289220,
     "Johto|Typhlosion|Route 45|497580": 1791290420,
     "Hoenn|Togekiss|Sky Pillar|497580": 1791291021,
@@ -999,6 +998,7 @@
     "Unova|Yanma|Pinwheel Forest|498081": 1793094917,
     "Johto|Yanmega|Route 44|498081": 1793095236,
     "Hoenn|Skarmory|Route 113|498083": 1793099116,
-    "Unova|Salamence|Dragonspiral Tower|498083": 1793100917
+    "Unova|Salamence|Dragonspiral Tower|498083": 1793100917,
+    "Sinnoh|Mr. Mime|Route 224|498083": 1793102116
   }
 }
