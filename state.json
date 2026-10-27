@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Lapras|Shoal Cave|497584": 1791302717,
     "Johto|Shelgon|Dragon&#x27;s Den|497584": 1791303021,
     "Unova|Corsola|Undella Bay|497584": 1791305120,
     "Sinnoh|Mr. Mime|Route 224|497584": 1791306048,
@@ -999,6 +998,7 @@
     "Johto|Lapras|Union Cave|498086": 1793112916,
     "Hoenn|Torchic|Route 112|498087": 1793115318,
     "Sinnoh|Kecleon|Route 229|498087": 1793115621,
-    "Kanto|Bastiodon|Monean Chamber|498087": 1793116221
+    "Kanto|Bastiodon|Monean Chamber|498087": 1793116221,
+    "Hoenn|Pelipper|Route 109|498087": 1793116516
   }
 }
