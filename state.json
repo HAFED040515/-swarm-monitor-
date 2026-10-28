@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Hitmonchan|Fiery Path|497597": 1791350122,
     "Kanto|Cradily|Tanoby Ruins|497597": 1791352219,
     "Hoenn|Blissey|Artisan Cave|497598": 1791355520,
     "Johto|Skitty|Route 35|497599": 1791357323,
@@ -999,6 +998,7 @@
     "Hoenn|Gulpin|Route 110|498099": 1793159420,
     "Kanto|Lapras|Icefall Cave|498100": 1793163315,
     "Sinnoh|Empoleon|Lake Acuity|498100": 1793163315,
-    "Johto|Lapras|Union Cave|498101": 1793164819
+    "Johto|Lapras|Union Cave|498101": 1793164819,
+    "Sinnoh|Tauros|Valor Lakefront|498102": 1793169923
   }
 }
