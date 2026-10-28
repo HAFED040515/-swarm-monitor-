@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Heracross|Route 16|497604": 1791376231,
     "Sinnoh|Chatot|Route 218|497605": 1791378317,
     "Unova|Swalot|Route 9|497605": 1791379829,
     "Kanto|Wailord|Green Path|497605": 1791380724,
@@ -999,6 +998,7 @@
     "Sinnoh|Carnivine|Route 225|498107": 1793186420,
     "Hoenn|Carnivine|Route 123|498108": 1793189117,
     "Kanto|Farfetch&#x27;d|Route 13|498108": 1793190628,
-    "Unova|Minun|Route 6|498108": 1793190628
+    "Unova|Minun|Route 6|498108": 1793190628,
+    "Sinnoh|Absol|Mt. Coronet|498108": 1793192116
   }
 }
