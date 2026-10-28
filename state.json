@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Swalot|Route 9|497605": 1791379829,
     "Kanto|Wailord|Green Path|497605": 1791380724,
     "Johto|Snorlax|Victory Road|497607": 1791385518,
     "Hoenn|Metagross|Meteor Falls|497607": 1791387034,
@@ -999,6 +998,7 @@
     "Kanto|Farfetch&#x27;d|Route 13|498108": 1793190628,
     "Unova|Minun|Route 6|498108": 1793190628,
     "Sinnoh|Absol|Mt. Coronet|498108": 1793192116,
-    "Johto|Zorua|Route 37|498109": 1793193918
+    "Johto|Zorua|Route 37|498109": 1793193918,
+    "Unova|Hippowdon|Mistralton Cave|498109": 1793195716
   }
 }
