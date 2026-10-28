@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Absol|Canyon Entrance|497592": 1791334515,
     "Unova|Minun|Route 6|497592": 1791334515,
     "Hoenn|Kecleon|Route 120|497594": 1791338716,
     "Johto|Ninetales|Route 37|497593": 1791339019,
@@ -999,6 +998,7 @@
     "Johto|Cyndaquil|Route 33|498096": 1793149234,
     "Unova|Heracross|Route 10|498096": 1793149234,
     "Sinnoh|Piplup|Route 204|498097": 1793150119,
-    "Kanto|Salamence|Victory Road|498097": 1793152835
+    "Kanto|Salamence|Victory Road|498097": 1793152835,
+    "Johto|Misdreavus|Sprout Tower|498098": 1793153419
   }
 }
