@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Chimchar|Route 211|497602": 1791368120,
     "Unova|Salamence|Dragonspiral Tower|497602": 1791368717,
     "Kanto|Croagunk|Route 6|497602": 1791370840,
     "Johto|Porygon-Z|Team Rocket HQ|497603": 1791372021,
@@ -999,6 +998,7 @@
     "Kanto|Absol|Canyon Entrance|498104": 1793174726,
     "Kanto|Kabutops|Dilford Chamber|498105": 1793178920,
     "Hoenn|Shuckle|Seafloor Cavern|498105": 1793181022,
-    "Unova|Corsola|Undella Bay|498106": 1793183427
+    "Unova|Corsola|Undella Bay|498106": 1793183427,
+    "Johto|Granbull|Route 48|498106": 1793183717
   }
 }
