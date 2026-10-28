@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Vespiquen|Five Isle Meadow|497591": 1791328821,
-    "Sinnoh|Vigoroth|Route 215|497591": 1791330322,
     "Johto|Yanmega|Route 44|497591": 1791331236,
     "Hoenn|Luvdisc|Route 132|497592": 1791333317,
     "Kanto|Absol|Canyon Entrance|497592": 1791334515,
@@ -999,6 +997,8 @@
     "Johto|Hitmontop|Mt. Mortar|498094": 1793139620,
     "Unova|Ditto|Chargestone Cave|498094": 1793140515,
     "Hoenn|Blaziken|Magma Hideout|498094": 1793142035,
-    "Kanto|Salamence|Victory Road|498095": 1793143826
+    "Kanto|Salamence|Victory Road|498095": 1793143826,
+    "Johto|Cyndaquil|Route 33|498096": 1793149234,
+    "Unova|Heracross|Route 10|498096": 1793149234
   }
 }
