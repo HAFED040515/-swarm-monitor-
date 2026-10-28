@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Miltank|Village Bridge|497600": 1791360620,
     "Johto|Houndoom|Burned Tower|497600": 1791363635,
     "Hoenn|Walrein|Route 124|497600": 1791363635,
     "Kanto|Omastar|Tanoby Ruins|497601": 1791363917,
@@ -999,6 +998,7 @@
     "Sinnoh|Tauros|Valor Lakefront|498102": 1793169923,
     "Unova|Miltank|Village Bridge|498102": 1793170516,
     "Johto|Shuckle|Cliff Cave|498103": 1793171117,
-    "Hoenn|Carnivine|Route 123|498103": 1793173820
+    "Hoenn|Carnivine|Route 123|498103": 1793173820,
+    "Sinnoh|Pineco|Route 207|498103": 1793174434
   }
 }
