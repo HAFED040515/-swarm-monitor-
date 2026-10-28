@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Volbeat|Route 8|497614": 1791411619,
     "Kanto|Chatot|Treasure Beach|497615": 1791415514,
     "Johto|Shuckle|Cliff Cave|497616": 1791418822,
     "Hoenn|Luvdisc|Route 132|497617": 1791421821,
@@ -999,6 +998,7 @@
     "Sinnoh|Kangaskhan|Wayward Cave|498113": 1793208631,
     "Sinnoh|Gliscor|Route 211|498114": 1793214921,
     "Kanto|Plusle|Route 2|498115": 1793216420,
-    "Unova|Heracross|Route 10|498116": 1793219429
+    "Unova|Heracross|Route 10|498116": 1793219429,
+    "Johto|Chimecho|Bellchime Trail|498116": 1793220320
   }
 }
