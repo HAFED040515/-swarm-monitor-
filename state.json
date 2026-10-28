@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Houndoom|Kindle Road|497610": 1791398721,
     "Sinnoh|Drifblim|Route 222|497611": 1791400819,
     "Sinnoh|Exeggutor|Route 230|497613": 1791407724,
     "Hoenn|Munna|Route 102|497613": 1791410117,
@@ -999,6 +998,7 @@
     "Kanto|Blastoise|Cape Brink|498112": 1793203822,
     "Unova|Mantine|Undella Bay|498111": 1793203822,
     "Sinnoh|Carnivine|Route 225|498112": 1793204717,
-    "Johto|Totodile|Route 32|498112": 1793206839
+    "Johto|Totodile|Route 32|498112": 1793206839,
+    "Sinnoh|Kangaskhan|Wayward Cave|498113": 1793208631
   }
 }
