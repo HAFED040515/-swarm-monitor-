@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Munna|Route 102|497613": 1791410117,
     "Unova|Volbeat|Route 8|497614": 1791411619,
     "Kanto|Chatot|Treasure Beach|497615": 1791415514,
     "Johto|Shuckle|Cliff Cave|497616": 1791418822,
@@ -999,6 +998,7 @@
     "Johto|Totodile|Route 32|498112": 1793206839,
     "Sinnoh|Kangaskhan|Wayward Cave|498113": 1793208631,
     "Sinnoh|Gliscor|Route 211|498114": 1793214921,
-    "Kanto|Plusle|Route 2|498115": 1793216420
+    "Kanto|Plusle|Route 2|498115": 1793216420,
+    "Unova|Heracross|Route 10|498116": 1793219429
   }
 }
