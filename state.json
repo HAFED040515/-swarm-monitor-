@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Blissey|Three Island|497609": 1791393021,
-    "Johto|Volcarona|Bell Tower|497609": 1791393324,
     "Hoenn|Finneon|Route 107|497609": 1791393623,
     "Unova|Metagross|Giant Chasm|497610": 1791398119,
     "Kanto|Houndoom|Kindle Road|497610": 1791398721,
@@ -999,6 +997,8 @@
     "Sinnoh|Absol|Mt. Coronet|498110": 1793198118,
     "Hoenn|Corsola|Route 128|498110": 1793198722,
     "Sinnoh|Chimchar|Route 211|498111": 1793200221,
-    "Unova|Seviper|Route 1|498111": 1793203238
+    "Unova|Seviper|Route 1|498111": 1793203238,
+    "Kanto|Blastoise|Cape Brink|498112": 1793203822,
+    "Unova|Mantine|Undella Bay|498111": 1793203822
   }
 }
