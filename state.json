@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Yanmega|Route 44|497591": 1791331236,
     "Hoenn|Luvdisc|Route 132|497592": 1791333317,
     "Kanto|Absol|Canyon Entrance|497592": 1791334515,
     "Unova|Minun|Route 6|497592": 1791334515,
@@ -999,6 +998,7 @@
     "Hoenn|Blaziken|Magma Hideout|498094": 1793142035,
     "Kanto|Salamence|Victory Road|498095": 1793143826,
     "Johto|Cyndaquil|Route 33|498096": 1793149234,
-    "Unova|Heracross|Route 10|498096": 1793149234
+    "Unova|Heracross|Route 10|498096": 1793149234,
+    "Sinnoh|Piplup|Route 204|498097": 1793150119
   }
 }
