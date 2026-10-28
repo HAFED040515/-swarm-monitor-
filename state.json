@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Zangoose|Route 14|497594": 1791340228,
-    "Hoenn|Murkrow|Jagged Pass|497595": 1791343827,
     "Sinnoh|Tauros|Valor Lakefront|497595": 1791344421,
     "Hoenn|Hitmonchan|Fiery Path|497597": 1791350122,
     "Kanto|Cradily|Tanoby Ruins|497597": 1791352219,
@@ -999,6 +997,8 @@
     "Hoenn|Hippowdon|Victory Road|498098": 1793154315,
     "Unova|Cottonee|Pinwheel Forest|498098": 1793156114,
     "Kanto|Sharpedo|Water Labyrinth|498099": 1793159420,
-    "Hoenn|Gulpin|Route 110|498099": 1793159420
+    "Hoenn|Gulpin|Route 110|498099": 1793159420,
+    "Kanto|Lapras|Icefall Cave|498100": 1793163315,
+    "Sinnoh|Empoleon|Lake Acuity|498100": 1793163315
   }
 }
