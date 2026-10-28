@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Ninetales|Route 37|497593": 1791339019,
-    "Sinnoh|Combee|Floaroma Meadow|497594": 1791339619,
     "Kanto|Zangoose|Route 14|497594": 1791340228,
     "Hoenn|Murkrow|Jagged Pass|497595": 1791343827,
     "Sinnoh|Tauros|Valor Lakefront|497595": 1791344421,
@@ -999,6 +997,8 @@
     "Kanto|Salamence|Victory Road|498097": 1793152835,
     "Johto|Misdreavus|Sprout Tower|498098": 1793153419,
     "Hoenn|Hippowdon|Victory Road|498098": 1793154315,
-    "Unova|Cottonee|Pinwheel Forest|498098": 1793156114
+    "Unova|Cottonee|Pinwheel Forest|498098": 1793156114,
+    "Kanto|Sharpedo|Water Labyrinth|498099": 1793159420,
+    "Hoenn|Gulpin|Route 110|498099": 1793159420
   }
 }
