@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Cradily|Tanoby Ruins|497597": 1791352219,
     "Hoenn|Blissey|Artisan Cave|497598": 1791355520,
     "Johto|Skitty|Route 35|497599": 1791357323,
     "Unova|Miltank|Village Bridge|497600": 1791360620,
@@ -999,6 +998,7 @@
     "Kanto|Lapras|Icefall Cave|498100": 1793163315,
     "Sinnoh|Empoleon|Lake Acuity|498100": 1793163315,
     "Johto|Lapras|Union Cave|498101": 1793164819,
-    "Sinnoh|Tauros|Valor Lakefront|498102": 1793169923
+    "Sinnoh|Tauros|Valor Lakefront|498102": 1793169923,
+    "Unova|Miltank|Village Bridge|498102": 1793170516
   }
 }
