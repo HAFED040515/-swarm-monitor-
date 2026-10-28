@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Finneon|Route 107|497609": 1791393623,
     "Unova|Metagross|Giant Chasm|497610": 1791398119,
     "Kanto|Houndoom|Kindle Road|497610": 1791398721,
     "Sinnoh|Drifblim|Route 222|497611": 1791400819,
@@ -999,6 +998,7 @@
     "Sinnoh|Chimchar|Route 211|498111": 1793200221,
     "Unova|Seviper|Route 1|498111": 1793203238,
     "Kanto|Blastoise|Cape Brink|498112": 1793203822,
-    "Unova|Mantine|Undella Bay|498111": 1793203822
+    "Unova|Mantine|Undella Bay|498111": 1793203822,
+    "Sinnoh|Carnivine|Route 225|498112": 1793204717
   }
 }
