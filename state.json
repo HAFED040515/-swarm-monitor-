@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Luvdisc|Route 132|497617": 1791421821,
     "Unova|Yanma|Pinwheel Forest|497617": 1791422421,
     "Johto|Skitty|Route 35|497617": 1791423919,
     "Sinnoh|Torterra|Route 212|497617": 1791424515,
@@ -999,6 +998,7 @@
     "Unova|Heracross|Route 10|498116": 1793219429,
     "Johto|Chimecho|Bellchime Trail|498116": 1793220320,
     "Kanto|Kabutops|Tanoby Ruins|498116": 1793220641,
-    "Hoenn|Volcarona|Scorched Slab|498116": 1793220922
+    "Hoenn|Volcarona|Scorched Slab|498116": 1793220922,
+    "Johto|Porygon-Z|Team Rocket HQ|498117": 1793223921
   }
 }
