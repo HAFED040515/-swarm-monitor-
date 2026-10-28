@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Walrein|Route 124|497600": 1791363635,
     "Kanto|Omastar|Tanoby Ruins|497601": 1791363917,
     "Kanto|Bulbasaur|Viridian Forest|497602": 1791367518,
     "Sinnoh|Chimchar|Route 211|497602": 1791368120,
@@ -999,6 +998,7 @@
     "Johto|Shuckle|Cliff Cave|498103": 1793171117,
     "Hoenn|Carnivine|Route 123|498103": 1793173820,
     "Sinnoh|Pineco|Route 207|498103": 1793174434,
-    "Kanto|Absol|Canyon Entrance|498104": 1793174726
+    "Kanto|Absol|Canyon Entrance|498104": 1793174726,
+    "Kanto|Kabutops|Dilford Chamber|498105": 1793178920
   }
 }
