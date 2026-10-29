@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Castform|Route 210|497620": 1791435316,
     "Unova|Skorupi|Desert Resort|497620": 1791435635,
     "Johto|Cyndaquil|Route 33|497621": 1791437716,
     "Hoenn|Spiritomb|Abandoned Ship|497622": 1791440718,
@@ -999,6 +998,7 @@
     "Sinnoh|Vigoroth|Route 215|498119": 1793229916,
     "Johto|Houndoom|Burned Tower|498119": 1793230228,
     "Hoenn|Feebas|Route 130|498120": 1793233516,
-    "Unova|Farfetch&#x27;d|Route 1|498121": 1793237116
+    "Unova|Farfetch&#x27;d|Route 1|498121": 1793237116,
+    "Kanto|Zangoose|Route 14|498121": 1793237716
   }
 }
