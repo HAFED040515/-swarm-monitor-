@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Quilava|Route 42|497625": 1791452721,
     "Hoenn|Blissey|Artisan Cave|497626": 1791454820,
     "Unova|Leafeon|Pinwheel Forest|497626": 1791455429,
     "Johto|Chikorita|Route 31|497626": 1791456322,
@@ -999,6 +998,7 @@
     "Johto|Skitty|Route 35|498125": 1793253316,
     "Kanto|Aerodactyl|Rixy Chamber|498127": 1793258121,
     "Sinnoh|Infernape|Route 221|498127": 1793258421,
-    "Johto|Typhlosion|Route 45|498128": 1793261721
+    "Johto|Typhlosion|Route 45|498128": 1793261721,
+    "Sinnoh|Farfetch&#x27;d|Route 209|498128": 1793262021
   }
 }
