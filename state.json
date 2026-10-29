@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Hippopotas|Maniac Tunnel|497625": 1791450928,
     "Kanto|Salamence|Victory Road|497625": 1791452421,
     "Johto|Quilava|Route 42|497625": 1791452721,
     "Hoenn|Blissey|Artisan Cave|497626": 1791454820,
@@ -999,6 +998,7 @@
     "Hoenn|Combusken|Route 114|498124": 1793248516,
     "Sinnoh|Farfetch&#x27;d|Route 209|498124": 1793248821,
     "Johto|Skitty|Route 35|498125": 1793253316,
-    "Kanto|Aerodactyl|Rixy Chamber|498127": 1793258121
+    "Kanto|Aerodactyl|Rixy Chamber|498127": 1793258121,
+    "Sinnoh|Infernape|Route 221|498127": 1793258421
   }
 }
