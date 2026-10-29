@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Cyndaquil|Route 33|497621": 1791437716,
     "Hoenn|Spiritomb|Abandoned Ship|497622": 1791440718,
     "Sinnoh|Mr. Mime|Route 224|497622": 1791442221,
     "Unova|Metagross|Giant Chasm|497622": 1791442836,
@@ -999,6 +998,7 @@
     "Hoenn|Feebas|Route 130|498120": 1793233516,
     "Unova|Farfetch&#x27;d|Route 1|498121": 1793237116,
     "Kanto|Zangoose|Route 14|498121": 1793237716,
-    "Johto|Victreebel|Route 36|498121": 1793238321
+    "Johto|Victreebel|Route 36|498121": 1793238321,
+    "Sinnoh|Drifblim|Route 222|498122": 1793240120
   }
 }
