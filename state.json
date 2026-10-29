@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Lucario|Iron Island|497631": 1791474319,
-    "Sinnoh|Whiscash|Ravaged Path|497632": 1791477621,
     "Hoenn|Qwilfish|Route 125|497632": 1791478518,
     "Kanto|Armaldo|Tanoby Ruins|497633": 1791480019,
     "Johto|Kangaskhan|Dark Cave|497633": 1791480318,
@@ -999,6 +997,8 @@
     "Johto|Skitty|Route 35|498131": 1793274021,
     "Sinnoh|Magmar|Fuego Ironworks|498132": 1793277921,
     "Hoenn|Hitmonchan|Fiery Path|498133": 1793279722,
-    "Johto|Houndoom|Burned Tower|498133": 1793281820
+    "Johto|Houndoom|Burned Tower|498133": 1793281820,
+    "Kanto|Wartortle|Seafoam Islands|498134": 1793283022,
+    "Unova|Relicanth|Challenger&#x27;s Cave|498134": 1793283022
   }
 }
