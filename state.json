@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Empoleon|Lake Acuity|497642": 1791513621,
     "Hoenn|Cloyster|Route 133|497642": 1791513922,
     "Kanto|Vespiquen|Five Isle Meadow|497643": 1791517220,
     "Johto|Barboach|Slowpoke Well|497643": 1791517520,
@@ -999,6 +998,7 @@
     "Hoenn|Murkrow|Jagged Pass|498139": 1793303717,
     "Hoenn|Crawdaunt|Abandoned Ship|498139": 1793304036,
     "Unova|Aipom|Cold Storage|498141": 1793308220,
-    "Kanto|Spiritomb|Lost Cave|498141": 1793311236
+    "Kanto|Spiritomb|Lost Cave|498141": 1793311236,
+    "Johto|Snorlax|Victory Road|498142": 1793311517
   }
 }
