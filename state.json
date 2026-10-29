@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Volcarona|Scorched Slab|497638": 1791498316,
     "Sinnoh|Furret|Route 208|497640": 1791507020,
     "Unova|Plusle|Route 5|497641": 1791508823,
     "Hoenn|Vaporeon|Route 134|497641": 1791509115,
@@ -999,6 +998,7 @@
     "Hoenn|Togekiss|Sky Pillar|498138": 1793298316,
     "Johto|Yanmega|Route 44|498139": 1793301021,
     "Kanto|Omastar|Liptoo Chamber|498139": 1793301622,
-    "Unova|Seviper|Route 1|498139": 1793302230
+    "Unova|Seviper|Route 1|498139": 1793302230,
+    "Sinnoh|Grotle|Sendoff Spring|498139": 1793303421
   }
 }
