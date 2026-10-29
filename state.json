@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Blaziken|Magma Hideout|497624": 1791447624,
     "Unova|Illumise|Moor of Icirrus|497625": 1791450317,
     "Sinnoh|Hippopotas|Maniac Tunnel|497625": 1791450928,
     "Kanto|Salamence|Victory Road|497625": 1791452421,
@@ -999,6 +998,7 @@
     "Unova|Zangoose|Route 7|498123": 1793245820,
     "Kanto|Qwilfish|Route 20|498124": 1793247321,
     "Hoenn|Combusken|Route 114|498124": 1793248516,
-    "Sinnoh|Farfetch&#x27;d|Route 209|498124": 1793248821
+    "Sinnoh|Farfetch&#x27;d|Route 209|498124": 1793248821,
+    "Johto|Skitty|Route 35|498125": 1793253316
   }
 }
