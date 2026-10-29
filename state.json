@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Musharna|Dreamyard|497636": 1791492621,
     "Kanto|Sharpedo|Water Labyrinth|497636": 1791492916,
     "Johto|Exeggcute|Route 30|497636": 1791493234,
     "Hoenn|Volcarona|Scorched Slab|497638": 1791498316,
@@ -999,6 +998,7 @@
     "Sinnoh|Lucario|Iron Island|498136": 1793293239,
     "Kanto|Wormadam|Pattern Bush|498137": 1793293821,
     "Johto|Lapras|Union Cave|498137": 1793295922,
-    "Hoenn|Togekiss|Sky Pillar|498138": 1793298316
+    "Hoenn|Togekiss|Sky Pillar|498138": 1793298316,
+    "Johto|Yanmega|Route 44|498139": 1793301021
   }
 }
