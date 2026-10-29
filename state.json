@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Leafeon|Pinwheel Forest|497626": 1791455429,
     "Johto|Chikorita|Route 31|497626": 1791456322,
     "Johto|Chikorita|Route 31|497628": 1791462650,
     "Kanto|Sharpedo|Water Labyrinth|497628": 1791464441,
@@ -999,6 +998,7 @@
     "Sinnoh|Infernape|Route 221|498127": 1793258421,
     "Johto|Typhlosion|Route 45|498128": 1793261721,
     "Sinnoh|Farfetch&#x27;d|Route 209|498128": 1793262021,
-    "Hoenn|Gulpin|Route 110|498128": 1793262316
+    "Hoenn|Gulpin|Route 110|498128": 1793262316,
+    "Kanto|Volbeat|Memorial Pillar|498129": 1793266229
   }
 }
