@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Miltank|Village Bridge|497630": 1791469517,
     "Kanto|Bulbasaur|Viridian Forest|497631": 1791472820,
     "Sinnoh|Lucario|Iron Island|497631": 1791474319,
     "Sinnoh|Whiscash|Ravaged Path|497632": 1791477621,
@@ -999,6 +998,7 @@
     "Unova|Porygon2|P2 Laboratory|498130": 1793269829,
     "Johto|Chikorita|Route 31|498130": 1793270720,
     "Johto|Skitty|Route 35|498131": 1793274021,
-    "Sinnoh|Magmar|Fuego Ironworks|498132": 1793277921
+    "Sinnoh|Magmar|Fuego Ironworks|498132": 1793277921,
+    "Hoenn|Hitmonchan|Fiery Path|498133": 1793279722
   }
 }
