@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Chikorita|Route 31|497628": 1791462650,
     "Kanto|Sharpedo|Water Labyrinth|497628": 1791464441,
     "Sinnoh|Snorlax|Victory Road|497628": 1791464441,
     "Johto|Croconaw|Whirl Islands|497629": 1791467419,
@@ -999,6 +998,7 @@
     "Sinnoh|Farfetch&#x27;d|Route 209|498128": 1793262021,
     "Hoenn|Gulpin|Route 110|498128": 1793262316,
     "Kanto|Volbeat|Memorial Pillar|498129": 1793266229,
-    "Hoenn|Chimecho|Mt. Pyre|498129": 1793266517
+    "Hoenn|Chimecho|Mt. Pyre|498129": 1793266517,
+    "Sinnoh|Yanma|Route 205|498130": 1793269519
   }
 }
