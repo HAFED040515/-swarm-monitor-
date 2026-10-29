@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Volcarona|Bell Tower|497623": 1791445219,
     "Unova|Corsola|Undella Bay|497623": 1791446116,
     "Hoenn|Blaziken|Magma Hideout|497624": 1791447624,
     "Unova|Illumise|Moor of Icirrus|497625": 1791450317,
@@ -999,6 +998,7 @@
     "Hoenn|Shuckle|Seafloor Cavern|498123": 1793244315,
     "Sinnoh|Trapinch|Oreburgh Mine|498123": 1793245521,
     "Unova|Zangoose|Route 7|498123": 1793245820,
-    "Kanto|Qwilfish|Route 20|498124": 1793247321
+    "Kanto|Qwilfish|Route 20|498124": 1793247321,
+    "Hoenn|Combusken|Route 114|498124": 1793248516
   }
 }
