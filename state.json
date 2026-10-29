@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Metagross|Giant Chasm|497622": 1791442836,
     "Kanto|Tauros|Route 17|497623": 1791443118,
     "Johto|Volcarona|Bell Tower|497623": 1791445219,
     "Unova|Corsola|Undella Bay|497623": 1791446116,
@@ -999,6 +998,7 @@
     "Johto|Victreebel|Route 36|498121": 1793238321,
     "Sinnoh|Drifblim|Route 222|498122": 1793240120,
     "Hoenn|Shuckle|Seafloor Cavern|498123": 1793244315,
-    "Sinnoh|Trapinch|Oreburgh Mine|498123": 1793245521
+    "Sinnoh|Trapinch|Oreburgh Mine|498123": 1793245521,
+    "Unova|Zangoose|Route 7|498123": 1793245820
   }
 }
