@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Sharpedo|Water Labyrinth|497628": 1791464441,
     "Sinnoh|Snorlax|Victory Road|497628": 1791464441,
     "Johto|Croconaw|Whirl Islands|497629": 1791467419,
     "Hoenn|Salamence|Meteor Falls|497629": 1791468922,
@@ -999,6 +998,7 @@
     "Hoenn|Gulpin|Route 110|498128": 1793262316,
     "Kanto|Volbeat|Memorial Pillar|498129": 1793266229,
     "Hoenn|Chimecho|Mt. Pyre|498129": 1793266517,
-    "Sinnoh|Yanma|Route 205|498130": 1793269519
+    "Sinnoh|Yanma|Route 205|498130": 1793269519,
+    "Unova|Porygon2|P2 Laboratory|498130": 1793269829
   }
 }
