@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Vaporeon|Route 134|497641": 1791509115,
     "Kanto|Kabutops|Tanoby Ruins|497642": 1791513316,
     "Sinnoh|Empoleon|Lake Acuity|497642": 1791513621,
     "Hoenn|Cloyster|Route 133|497642": 1791513922,
@@ -999,6 +998,7 @@
     "Unova|Seviper|Route 1|498139": 1793302230,
     "Sinnoh|Grotle|Sendoff Spring|498139": 1793303421,
     "Hoenn|Murkrow|Jagged Pass|498139": 1793303717,
-    "Hoenn|Crawdaunt|Abandoned Ship|498139": 1793304036
+    "Hoenn|Crawdaunt|Abandoned Ship|498139": 1793304036,
+    "Unova|Aipom|Cold Storage|498141": 1793308220
   }
 }
