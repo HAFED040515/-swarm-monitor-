@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Croconaw|Whirl Islands|497629": 1791467419,
     "Hoenn|Salamence|Meteor Falls|497629": 1791468922,
     "Unova|Miltank|Village Bridge|497630": 1791469517,
     "Kanto|Bulbasaur|Viridian Forest|497631": 1791472820,
@@ -999,6 +998,7 @@
     "Hoenn|Chimecho|Mt. Pyre|498129": 1793266517,
     "Sinnoh|Yanma|Route 205|498130": 1793269519,
     "Unova|Porygon2|P2 Laboratory|498130": 1793269829,
-    "Johto|Chikorita|Route 31|498130": 1793270720
+    "Johto|Chikorita|Route 31|498130": 1793270720,
+    "Johto|Skitty|Route 35|498131": 1793274021
   }
 }
