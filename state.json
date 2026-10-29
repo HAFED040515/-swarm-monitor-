@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Plusle|Route 5|497641": 1791508823,
     "Hoenn|Vaporeon|Route 134|497641": 1791509115,
     "Kanto|Kabutops|Tanoby Ruins|497642": 1791513316,
     "Sinnoh|Empoleon|Lake Acuity|497642": 1791513621,
@@ -999,6 +998,7 @@
     "Kanto|Omastar|Liptoo Chamber|498139": 1793301622,
     "Unova|Seviper|Route 1|498139": 1793302230,
     "Sinnoh|Grotle|Sendoff Spring|498139": 1793303421,
-    "Hoenn|Murkrow|Jagged Pass|498139": 1793303717
+    "Hoenn|Murkrow|Jagged Pass|498139": 1793303717,
+    "Hoenn|Crawdaunt|Abandoned Ship|498139": 1793304036
   }
 }
