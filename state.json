@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Croagunk|Route 121|497635": 1791487828,
     "Sinnoh|Nosepass|Oreburgh Gate|497636": 1791491118,
     "Unova|Musharna|Dreamyard|497636": 1791492621,
     "Kanto|Sharpedo|Water Labyrinth|497636": 1791492916,
@@ -999,6 +998,7 @@
     "Hoenn|Gulpin|Route 110|498135": 1793287833,
     "Unova|Yanma|Pinwheel Forest|498136": 1793292622,
     "Sinnoh|Lucario|Iron Island|498136": 1793293239,
-    "Kanto|Wormadam|Pattern Bush|498137": 1793293821
+    "Kanto|Wormadam|Pattern Bush|498137": 1793293821,
+    "Johto|Lapras|Union Cave|498137": 1793295922
   }
 }
