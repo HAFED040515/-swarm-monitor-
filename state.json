@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Furret|Route 208|497640": 1791507020,
     "Unova|Plusle|Route 5|497641": 1791508823,
     "Hoenn|Vaporeon|Route 134|497641": 1791509115,
     "Kanto|Kabutops|Tanoby Ruins|497642": 1791513316,
@@ -999,6 +998,7 @@
     "Johto|Yanmega|Route 44|498139": 1793301021,
     "Kanto|Omastar|Liptoo Chamber|498139": 1793301622,
     "Unova|Seviper|Route 1|498139": 1793302230,
-    "Sinnoh|Grotle|Sendoff Spring|498139": 1793303421
+    "Sinnoh|Grotle|Sendoff Spring|498139": 1793303421,
+    "Hoenn|Murkrow|Jagged Pass|498139": 1793303717
   }
 }
