@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Rotom|Old Chateau|497656": 1791562520,
     "Kanto|Starmie|Seven Island|497656": 1791564916,
     "Unova|Furret|Abundant Shrine|497656": 1791564916,
     "Johto|Kangaskhan|Dark Cave|497658": 1791571519,
@@ -999,6 +998,7 @@
     "Sinnoh|Yanma|Route 205|498154": 1793357120,
     "Hoenn|Spiritomb|Abandoned Ship|498155": 1793358921,
     "Kanto|Bulbasaur|Viridian Forest|498156": 1793362221,
-    "Unova|Swalot|Route 9|498156": 1793362522
+    "Unova|Swalot|Route 9|498156": 1793362522,
+    "Johto|Chikorita|Route 31|498157": 1793366717
   }
 }
