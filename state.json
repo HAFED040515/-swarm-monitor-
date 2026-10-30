@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Misdreavus|Sprout Tower|497653": 1791551118,
-    "Hoenn|Togekiss|Sky Pillar|497654": 1791554718,
     "Kanto|Absol|Canyon Entrance|497654": 1791555025,
     "Unova|Skorupi|Desert Resort|497654": 1791556821,
     "Sinnoh|Absol|Mt. Coronet|497654": 1791557123,
@@ -999,6 +997,8 @@
     "Unova|Carnivine|Route 18|498150": 1793340922,
     "Sinnoh|Noctowl|Acuity Lakefront|498151": 1793346022,
     "Hoenn|Castform|Aqua Hideout|498152": 1793347516,
-    "Kanto|Charizard|Mt. Ember|498152": 1793347820
+    "Kanto|Charizard|Mt. Ember|498152": 1793347820,
+    "Hoenn|Luvdisc|Route 132|498153": 1793352020,
+    "Unova|Octillery|Route 13|498153": 1793352020
   }
 }
