@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Shroomish|Route 34|497649": 1791539717,
     "Kanto|Nidorina|Route 3|497649": 1791540034,
     "Sinnoh|Vigoroth|Route 215|497651": 1791546320,
     "Hoenn|Sudowoodo|Battle Frontier|497651": 1791546917,
@@ -999,6 +998,7 @@
     "Sinnoh|Croagunk|Route 212|498148": 1793333421,
     "Hoenn|Spiritomb|Abandoned Ship|498149": 1793337021,
     "Johto|Meganium|Route 48|498150": 1793340316,
-    "Sinnoh|Burmy|Route 202|498150": 1793340316
+    "Sinnoh|Burmy|Route 202|498150": 1793340316,
+    "Kanto|Wailord|Green Path|498150": 1793340620
   }
 }
