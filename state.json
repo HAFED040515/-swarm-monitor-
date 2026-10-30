@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Vespiquen|Five Isle Meadow|497643": 1791517220,
     "Johto|Barboach|Slowpoke Well|497643": 1791517520,
     "Hoenn|Corsola|Route 128|497643": 1791518116,
     "Unova|Heracross|Route 10|497644": 1791520516,
@@ -999,6 +998,7 @@
     "Unova|Aipom|Cold Storage|498141": 1793308220,
     "Kanto|Spiritomb|Lost Cave|498141": 1793311236,
     "Johto|Snorlax|Victory Road|498142": 1793311517,
-    "Sinnoh|Kangaskhan|Wayward Cave|498143": 1793316317
+    "Sinnoh|Kangaskhan|Wayward Cave|498143": 1793316317,
+    "Unova|Ninjask|Route 11|498144": 1793319023
   }
 }
