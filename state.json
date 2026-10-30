@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Vigoroth|Route 215|497651": 1791546320,
     "Hoenn|Sudowoodo|Battle Frontier|497651": 1791546917,
     "Unova|Lucario|Guidance Chamber|497652": 1791549920,
     "Johto|Misdreavus|Sprout Tower|497653": 1791551118,
@@ -999,6 +998,7 @@
     "Johto|Meganium|Route 48|498150": 1793340316,
     "Sinnoh|Burmy|Route 202|498150": 1793340316,
     "Kanto|Wailord|Green Path|498150": 1793340620,
-    "Unova|Carnivine|Route 18|498150": 1793340922
+    "Unova|Carnivine|Route 18|498150": 1793340922,
+    "Sinnoh|Noctowl|Acuity Lakefront|498151": 1793346022
   }
 }
