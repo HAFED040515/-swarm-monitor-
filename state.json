@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Omastar|Tanoby Ruins|497655": 1791559828,
     "Hoenn|Azumarill|Route 123|497655": 1791559828,
     "Sinnoh|Rotom|Old Chateau|497656": 1791562520,
     "Kanto|Starmie|Seven Island|497656": 1791564916,
@@ -999,6 +998,7 @@
     "Johto|Lucario|Mt. Silver Cave|498153": 1793352629,
     "Kanto|Kabutops|Dilford Chamber|498154": 1793355916,
     "Sinnoh|Yanma|Route 205|498154": 1793357120,
-    "Hoenn|Spiritomb|Abandoned Ship|498155": 1793358921
+    "Hoenn|Spiritomb|Abandoned Ship|498155": 1793358921,
+    "Kanto|Bulbasaur|Viridian Forest|498156": 1793362221
   }
 }
