@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Luxray|Lake Verity|497661": 1791583818,
     "Johto|Snorlax|Victory Road|497662": 1791585029,
     "Kanto|Wormadam|Pattern Bush|497663": 1791587419,
     "Johto|Hitmontop|Mt. Mortar|497663": 1791590436,
@@ -999,6 +998,7 @@
     "Unova|Heracross|Route 10|498165": 1793396420,
     "Hoenn|Spinda|Route 113|498165": 1793398223,
     "Sinnoh|Furret|Route 208|498166": 1793399115,
-    "Kanto|Lapras|Icefall Cave|498166": 1793400319
+    "Kanto|Lapras|Icefall Cave|498166": 1793400319,
+    "Johto|Chikorita|Route 31|498166": 1793401236
   }
 }
