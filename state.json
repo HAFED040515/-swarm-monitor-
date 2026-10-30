@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Nidorina|Route 3|497649": 1791540034,
     "Sinnoh|Vigoroth|Route 215|497651": 1791546320,
     "Hoenn|Sudowoodo|Battle Frontier|497651": 1791546917,
     "Unova|Lucario|Guidance Chamber|497652": 1791549920,
@@ -999,6 +998,7 @@
     "Hoenn|Spiritomb|Abandoned Ship|498149": 1793337021,
     "Johto|Meganium|Route 48|498150": 1793340316,
     "Sinnoh|Burmy|Route 202|498150": 1793340316,
-    "Kanto|Wailord|Green Path|498150": 1793340620
+    "Kanto|Wailord|Green Path|498150": 1793340620,
+    "Unova|Carnivine|Route 18|498150": 1793340922
   }
 }
