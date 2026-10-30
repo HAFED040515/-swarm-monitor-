@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Bonsly|Ilex Forest|497646": 1791527716,
     "Sinnoh|Carnivine|Route 225|497646": 1791528320,
     "Hoenn|Togekiss|Sky Pillar|497647": 1791530943,
     "Unova|Volcarona|Relic Castle|497648": 1791533151,
@@ -999,6 +998,7 @@
     "Kanto|Misdreavus|Pokemon Tower|498144": 1793319916,
     "Hoenn|Staryu|Route 106|498144": 1793321715,
     "Johto|Lapras|Mt. Mortar|498144": 1793322037,
-    "Hoenn|Swampert|Route 109|498146": 1793328020
+    "Hoenn|Swampert|Route 109|498146": 1793328020,
+    "Sinnoh|Turtwig|Route 203|498147": 1793329515
   }
 }
