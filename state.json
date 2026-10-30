@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Munna|Route 102|497660": 1791577827,
     "Johto|Absol|Route 28|497661": 1791581435,
     "Sinnoh|Prinplup|Route 220|497661": 1791581435,
     "Unova|Togetic|Dreamyard|497661": 1791581715,
@@ -999,6 +998,7 @@
     "Kanto|Venusaur|Berry Forest|498164": 1793391021,
     "Sinnoh|Absol|Mt. Coronet|498164": 1793392820,
     "Johto|Metang|Ice Path|498165": 1793394321,
-    "Hoenn|Luvdisc|Route 132|498165": 1793395828
+    "Hoenn|Luvdisc|Route 132|498165": 1793395828,
+    "Unova|Heracross|Route 10|498165": 1793396420
   }
 }
