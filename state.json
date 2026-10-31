@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Absol|Canyon Entrance|497675": 1791632116,
     "Johto|Barboach|Slowpoke Well|497676": 1791636620,
     "Kanto|Houndoom|Kindle Road|497677": 1791639921,
     "Sinnoh|Monferno|Route 211|497678": 1791641420,
@@ -999,6 +998,7 @@
     "Kanto|Omastar|Tanoby Ruins|498176": 1793437235,
     "Sinnoh|Skitty|Route 204|498177": 1793440517,
     "Johto|Shroomish|Route 34|498178": 1793441420,
-    "Hoenn|Feebas|Route 130|498179": 1793445621
+    "Hoenn|Feebas|Route 130|498179": 1793445621,
+    "Kanto|Cradily|Tanoby Ruins|498180": 1793449221
   }
 }
