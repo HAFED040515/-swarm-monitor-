@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Hitmontop|Mt. Mortar|497663": 1791590436,
     "Johto|Metang|Ice Path|497664": 1791593714,
     "Hoenn|Sharpedo|Route 127|497665": 1791594919,
     "Unova|Seviper|Route 1|497666": 1791598819,
@@ -999,6 +998,7 @@
     "Kanto|Lapras|Icefall Cave|498166": 1793400319,
     "Johto|Chikorita|Route 31|498166": 1793401236,
     "Sinnoh|Yanma|Route 205|498167": 1793403920,
-    "Unova|Pinsir|Route 12|498168": 1793407822
+    "Unova|Pinsir|Route 12|498168": 1793407822,
+    "Johto|Shuckle|Cliff Cave|498169": 1793409622
   }
 }
