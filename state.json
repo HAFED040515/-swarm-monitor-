@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Sharpedo|Route 127|497679": 1791647420,
-    "Johto|Miltank|Route 47|497679": 1791647715,
     "Unova|Skorupi|Desert Resort|497679": 1791648034,
     "Kanto|Snorlax|Cerulean Cave|497680": 1791650117,
     "Hoenn|Gulpin|Route 110|497681": 1791652219,
@@ -999,6 +997,8 @@
     "Hoenn|Blaziken|Magma Hideout|498181": 1793453429,
     "Sinnoh|Zangoose|Route 205|498181": 1793453716,
     "Johto|Houndoom|Burned Tower|498182": 1793457028,
-    "Unova|Raticate|Mistralton Cave|498182": 1793457028
+    "Unova|Raticate|Mistralton Cave|498182": 1793457028,
+    "Kanto|Swalot|Route 18|498182": 1793457317,
+    "Sinnoh|Monferno|Route 211|498182": 1793457317
   }
 }
