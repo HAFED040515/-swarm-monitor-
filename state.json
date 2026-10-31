@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Volcarona|Relic Castle|497686": 1791670519,
     "Kanto|Charmander|Route 3|497686": 1791671118,
     "Sinnoh|Chimchar|Route 211|497686": 1791671118,
     "Johto|Quilava|Route 42|497686": 1791672915,
@@ -999,6 +998,7 @@
     "Johto|Aipom|Route 29|498188": 1793478316,
     "Hoenn|Qwilfish|Route 125|498188": 1793479822,
     "Kanto|Illumise|Water Path|498188": 1793480434,
-    "Kanto|Arcanine|Route 8|498189": 1793481916
+    "Kanto|Arcanine|Route 8|498189": 1793481916,
+    "Johto|Aipom|Route 29|498189": 1793483422
   }
 }
