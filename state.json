@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Cacnea|Route 111|497672": 1791619516,
-    "Johto|Croconaw|Whirl Islands|497672": 1791622220,
     "Kanto|Zangoose|Route 14|497673": 1791623116,
     "Sinnoh|Tyranitar|Stark Mountain|497673": 1791624314,
     "Hoenn|Relicanth|Route 126|497674": 1791627322,
@@ -999,6 +997,8 @@
     "Johto|Misdreavus|Sprout Tower|498174": 1793430035,
     "Hoenn|Feebas|Route 130|498175": 1793432721,
     "Sinnoh|Burmy|Route 202|498175": 1793433316,
-    "Unova|Metagross|Giant Chasm|498175": 1793433633
+    "Unova|Metagross|Giant Chasm|498175": 1793433633,
+    "Johto|Zorua|Route 37|498176": 1793434229,
+    "Unova|Minccino|Route 16|498175": 1793434229
   }
 }
