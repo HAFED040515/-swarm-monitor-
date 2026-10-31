@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Sharpedo|Route 127|497665": 1791594919,
     "Unova|Seviper|Route 1|497666": 1791598819,
     "Kanto|Porygon|Pokemon Mansion|497666": 1791599426,
     "Sinnoh|Chatot|Route 218|497666": 1791599515,
@@ -999,6 +998,7 @@
     "Sinnoh|Yanma|Route 205|498167": 1793403920,
     "Unova|Pinsir|Route 12|498168": 1793407822,
     "Johto|Shuckle|Cliff Cave|498169": 1793409622,
-    "Hoenn|Pineco|Route 103|498170": 1793412316
+    "Hoenn|Pineco|Route 103|498170": 1793412316,
+    "Kanto|Cradily|Tanoby Ruins|498170": 1793413829
   }
 }
