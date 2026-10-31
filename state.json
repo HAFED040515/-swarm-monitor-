@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Monferno|Route 211|497678": 1791641420,
     "Kanto|Snorlax|Cerulean Cave|497678": 1791643220,
     "Unova|Seviper|Route 1|497678": 1791643749,
     "Johto|Meganium|Route 48|497679": 1791647420,
@@ -999,6 +998,7 @@
     "Hoenn|Feebas|Route 130|498179": 1793445621,
     "Kanto|Cradily|Tanoby Ruins|498180": 1793449221,
     "Johto|Meganium|Route 48|498180": 1793450117,
-    "Unova|Cacnea|Route 4|498180": 1793451634
+    "Unova|Cacnea|Route 4|498180": 1793451634,
+    "Hoenn|Blaziken|Magma Hideout|498181": 1793453429
   }
 }
