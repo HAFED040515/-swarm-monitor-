@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Chatot|Route 218|497666": 1791599515,
     "Johto|Skarmory|Route 26|497667": 1791601820,
     "Kanto|Minun|Route 22|497667": 1791603027,
     "Hoenn|Wailord|Route 129|497667": 1791603920,
@@ -999,6 +998,7 @@
     "Hoenn|Pineco|Route 103|498170": 1793412316,
     "Kanto|Cradily|Tanoby Ruins|498170": 1793413829,
     "Johto|Nincada|Route 46|498170": 1793414720,
-    "Sinnoh|Kecleon|Route 229|498170": 1793414720
+    "Sinnoh|Kecleon|Route 229|498170": 1793414720,
+    "Johto|Ditto|Tohjo Falls|498171": 1793416520
   }
 }
