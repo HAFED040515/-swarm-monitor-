@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Ninjask|Route 11|497669": 1791611418,
     "Kanto|Trapinch|Diglett&#x27;s Cave|497669": 1791611716,
     "Hoenn|Combee|Route 117|497670": 1791615315,
     "Unova|Illumise|Moor of Icirrus|497671": 1791618915,
@@ -999,6 +998,7 @@
     "Kanto|Charmander|Route 3|498172": 1793421028,
     "Hoenn|Munna|Route 102|498172": 1793422221,
     "Sinnoh|Kangaskhan|Wayward Cave|498174": 1793426716,
-    "Kanto|Relicanth|Tanoby Ruins|498174": 1793429717
+    "Kanto|Relicanth|Tanoby Ruins|498174": 1793429717,
+    "Johto|Misdreavus|Sprout Tower|498174": 1793430035
   }
 }
