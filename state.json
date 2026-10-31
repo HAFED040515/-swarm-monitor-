@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Houndoom|Route 15|497683": 1791660317,
     "Johto|Shuckle|Cliff Cave|497684": 1791663915,
     "Unova|Shroomish|Pinwheel Forest|497684": 1791664226,
     "Sinnoh|Carnivine|Route 225|497684": 1791664515,
@@ -999,6 +998,7 @@
     "Hoenn|Munna|Route 102|498183": 1793462117,
     "Johto|Skarmory|Route 26|498185": 1793469317,
     "Hoenn|Zorua|Route 101|498185": 1793469317,
-    "Kanto|Nincada|Route 25|498185": 1793469634
+    "Kanto|Nincada|Route 25|498185": 1793469634,
+    "Sinnoh|Kangaskhan|Wayward Cave|498186": 1793469918
   }
 }
