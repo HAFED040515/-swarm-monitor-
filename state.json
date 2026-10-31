@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Sharpedo|Route 127|497668": 1791607219,
     "Johto|Skarmory|Route 26|497669": 1791609020,
     "Unova|Ninjask|Route 11|497669": 1791611418,
     "Kanto|Trapinch|Diglett&#x27;s Cave|497669": 1791611716,
@@ -999,6 +998,7 @@
     "Johto|Ditto|Tohjo Falls|498171": 1793416520,
     "Unova|Illumise|Moor of Icirrus|498172": 1793420420,
     "Kanto|Charmander|Route 3|498172": 1793421028,
-    "Hoenn|Munna|Route 102|498172": 1793422221
+    "Hoenn|Munna|Route 102|498172": 1793422221,
+    "Sinnoh|Kangaskhan|Wayward Cave|498174": 1793426716
   }
 }
