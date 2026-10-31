@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Pineco|Route 103|497684": 1791666034,
     "Johto|Luvdisc|Route 47|497685": 1791668115,
     "Hoenn|Corsola|Route 126|497685": 1791669022,
     "Unova|Volcarona|Relic Castle|497686": 1791670519,
@@ -999,6 +998,7 @@
     "Unova|Aipom|Cold Storage|498186": 1793472320,
     "Johto|Feraligatr|Tohjo Falls|498186": 1793473235,
     "Sinnoh|Scyther|Route 210|498187": 1793476833,
-    "Johto|Aipom|Route 29|498188": 1793478316
+    "Johto|Aipom|Route 29|498188": 1793478316,
+    "Hoenn|Qwilfish|Route 125|498188": 1793479822
   }
 }
