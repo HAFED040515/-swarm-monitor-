@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Wailord|Route 129|497667": 1791603920,
     "Hoenn|Sharpedo|Route 127|497668": 1791607219,
     "Johto|Skarmory|Route 26|497669": 1791609020,
     "Unova|Ninjask|Route 11|497669": 1791611418,
@@ -999,6 +998,7 @@
     "Sinnoh|Kecleon|Route 229|498170": 1793414720,
     "Johto|Ditto|Tohjo Falls|498171": 1793416520,
     "Unova|Illumise|Moor of Icirrus|498172": 1793420420,
-    "Kanto|Charmander|Route 3|498172": 1793421028
+    "Kanto|Charmander|Route 3|498172": 1793421028,
+    "Hoenn|Munna|Route 102|498172": 1793422221
   }
 }
