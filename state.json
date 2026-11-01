@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Mr. Mime|Route 21|497695": 1791705019,
     "Hoenn|Torchic|Route 112|497695": 1791705633,
     "Johto|Skitty|Route 35|497697": 1791709823,
     "Hoenn|Spiritomb|Abandoned Ship|497697": 1791709823,
@@ -999,6 +998,7 @@
     "Hoenn|Shelgon|Meteor Falls|498195": 1793504117,
     "Johto|Miltank|Route 48|498196": 1793508021,
     "Sinnoh|Electabuzz|Route 222|498201": 1793527824,
-    "Kanto|Golbat|Mt. Moon|498207": 1793549721
+    "Kanto|Golbat|Mt. Moon|498207": 1793549721,
+    "Hoenn|Mightyena|Route 103|498212": 1793566518
   }
 }
