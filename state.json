@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Armaldo|Tanoby Ruins|497691": 1791690915,
     "Hoenn|Kecleon|Route 120|497691": 1791690915,
     "Johto|Aipom|Route 29|497692": 1791693619,
     "Hoenn|Mime Jr.|Rusturf Tunnel|497693": 1791695115,
@@ -999,6 +998,7 @@
     "Johto|Luvdisc|Route 47|498193": 1793496638,
     "Sinnoh|Chatot|Route 218|498194": 1793498726,
     "Unova|Aipom|Cold Storage|498194": 1793499321,
-    "Johto|Chikorita|Route 31|498194": 1793499621
+    "Johto|Chikorita|Route 31|498194": 1793499621,
+    "Kanto|Heracross|Route 16|498194": 1793500821
   }
 }
