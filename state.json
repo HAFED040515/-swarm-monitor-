@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pupitar|Twist Mountain|497691": 1791687638,
     "Unova|Fearow|Route 4|497691": 1791690318,
     "Kanto|Armaldo|Tanoby Ruins|497691": 1791690915,
     "Hoenn|Kecleon|Route 120|497691": 1791690915,
@@ -999,6 +998,7 @@
     "Kanto|Volbeat|Memorial Pillar|498192": 1793494835,
     "Hoenn|Qwilfish|Route 125|498192": 1793494835,
     "Johto|Luvdisc|Route 47|498193": 1793496638,
-    "Sinnoh|Chatot|Route 218|498194": 1793498726
+    "Sinnoh|Chatot|Route 218|498194": 1793498726,
+    "Unova|Aipom|Cold Storage|498194": 1793499321
   }
 }
