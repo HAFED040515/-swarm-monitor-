@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Illumise|Moor of Icirrus|497695": 1791702315,
     "Kanto|Mr. Mime|Route 21|497695": 1791705019,
     "Hoenn|Torchic|Route 112|497695": 1791705633,
     "Johto|Skitty|Route 35|497697": 1791709823,
@@ -999,6 +998,7 @@
     "Hoenn|Sudowoodo|Battle Frontier|498194": 1793501130,
     "Hoenn|Shelgon|Meteor Falls|498195": 1793504117,
     "Johto|Miltank|Route 48|498196": 1793508021,
-    "Sinnoh|Electabuzz|Route 222|498201": 1793527824
+    "Sinnoh|Electabuzz|Route 222|498201": 1793527824,
+    "Kanto|Golbat|Mt. Moon|498207": 1793549721
   }
 }
