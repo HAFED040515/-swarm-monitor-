@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Mime Jr.|Rusturf Tunnel|497693": 1791695115,
     "Sinnoh|Shroomish|Route 201|497693": 1791696626,
     "Unova|Illumise|Moor of Icirrus|497695": 1791702315,
     "Kanto|Mr. Mime|Route 21|497695": 1791705019,
@@ -999,6 +998,7 @@
     "Johto|Chikorita|Route 31|498194": 1793499621,
     "Kanto|Heracross|Route 16|498194": 1793500821,
     "Hoenn|Sudowoodo|Battle Frontier|498194": 1793501130,
-    "Hoenn|Shelgon|Meteor Falls|498195": 1793504117
+    "Hoenn|Shelgon|Meteor Falls|498195": 1793504117,
+    "Johto|Miltank|Route 48|498196": 1793508021
   }
 }
