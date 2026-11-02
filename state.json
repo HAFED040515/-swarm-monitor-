@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Skitty|Route 35|497697": 1791709823,
     "Hoenn|Spiritomb|Abandoned Ship|497697": 1791709823,
     "Kanto|Spiritomb|Lost Cave|497697": 1791711621,
     "Unova|Weavile|Giant Chasm|497698": 1791714917,
@@ -999,6 +998,7 @@
     "Sinnoh|Electabuzz|Route 222|498201": 1793527824,
     "Kanto|Golbat|Mt. Moon|498207": 1793549721,
     "Hoenn|Mightyena|Route 103|498212": 1793566518,
-    "Kanto|Dragonite|Outcast Island|498216": 1793580321
+    "Kanto|Dragonite|Outcast Island|498216": 1793580321,
+    "Johto|Nidoking|Route 45|498224": 1793609126
   }
 }
