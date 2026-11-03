@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Lucario|Mt. Silver Cave|497699": 1791719422,
     "Kanto|Porygon|Pokemon Mansion|497700": 1791720919,
     "Hoenn|Vaporeon|Route 134|497700": 1791723316,
     "Kanto|Wormadam|Pattern Bush|497701": 1791726619,
@@ -999,6 +998,7 @@
     "Johto|Azumarill|Tohjo Falls|498231": 1793634621,
     "Hoenn|Walrein|Route 124|498234": 1793645121,
     "Unova|Weavile|Giant Chasm|498242": 1793673029,
-    "Johto|Kingler|Route 40|498247": 1793692838
+    "Johto|Kingler|Route 40|498247": 1793692838,
+    "Johto|Arbok|Route 33|498256": 1793722823
   }
 }
