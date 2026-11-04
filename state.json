@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Vaporeon|Route 134|497700": 1791723316,
     "Kanto|Wormadam|Pattern Bush|497701": 1791726619,
     "Sinnoh|Shuckle|Route 219|497701": 1791727233,
     "Hoenn|Metagross|Meteor Falls|497702": 1791727819,
@@ -999,6 +998,7 @@
     "Unova|Weavile|Giant Chasm|498242": 1793673029,
     "Johto|Kingler|Route 40|498247": 1793692838,
     "Johto|Arbok|Route 33|498256": 1793722823,
-    "Sinnoh|Skuntank|Route 212|498259": 1793736331
+    "Sinnoh|Skuntank|Route 212|498259": 1793736331,
+    "Unova|Ditto|Route 9|498266": 1793758821
   }
 }
