@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Mr. Mime|Route 21|497703": 1791732626,
     "Hoenn|Feebas|Route 130|497704": 1791734716,
     "Sinnoh|Piplup|Route 204|497705": 1791738316,
     "Unova|Zangoose|Route 7|497705": 1791738919,
@@ -999,6 +998,7 @@
     "Hoenn|Salamence|Meteor Falls|498283": 1793821522,
     "Johto|Miltank|Route 39|498291": 1793851516,
     "Sinnoh|Psyduck|Route 208|498297": 1793870717,
-    "Hoenn|Ditto|New Mauville|498300": 1793882421
+    "Hoenn|Ditto|New Mauville|498300": 1793882421,
+    "Kanto|Tentacruel|Five Island|498307": 1793909422
   }
 }
