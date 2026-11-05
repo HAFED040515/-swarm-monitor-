@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Lucario|Mt. Silver Cave|497702": 1791729619,
     "Unova|Relicanth|Challenger&#x27;s Cave|497702": 1791730218,
     "Johto|Politoed|Route 35|497702": 1791731720,
     "Kanto|Mr. Mime|Route 21|497703": 1791732626,
@@ -999,6 +998,7 @@
     "Unova|Ditto|Route 9|498266": 1793758821,
     "Unova|Ditto|Chargestone Cave|498274": 1793789442,
     "Kanto|Persian|Six Island|498279": 1793805637,
-    "Hoenn|Salamence|Meteor Falls|498283": 1793821522
+    "Hoenn|Salamence|Meteor Falls|498283": 1793821522,
+    "Johto|Miltank|Route 39|498291": 1793851516
   }
 }
