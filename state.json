@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Piplup|Route 204|497705": 1791738316,
     "Unova|Zangoose|Route 7|497705": 1791738919,
     "Johto|Tauros|Route 38|497705": 1791740116,
     "Kanto|Pinsir|Route 11|497705": 1791741636,
@@ -999,6 +998,7 @@
     "Sinnoh|Psyduck|Route 208|498297": 1793870717,
     "Hoenn|Ditto|New Mauville|498300": 1793882421,
     "Kanto|Tentacruel|Five Island|498307": 1793909422,
-    "Kanto|Lapras|Icefall Cave|498314": 1793934920
+    "Kanto|Lapras|Icefall Cave|498314": 1793934920,
+    "Johto|Quagsire|Cliff Edge Gate|498321": 1793957428
   }
 }
