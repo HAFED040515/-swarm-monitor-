@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Corsola|Route 128|497706": 1791742219,
     "Johto|Yanmega|Route 44|497707": 1791746124,
     "Hoenn|Combusken|Route 114|497707": 1791746124,
     "Unova|Metagross|Giant Chasm|497707": 1791748218,
@@ -999,6 +998,7 @@
     "Johto|Quagsire|Cliff Edge Gate|498321": 1793957428,
     "Unova|Cottonee|Pinwheel Forest|498324": 1793969421,
     "Johto|Gligar|Route 46|498332": 1793997317,
-    "Unova|Piloswine|Moor of Icirrus|498336": 1794012321
+    "Unova|Piloswine|Moor of Icirrus|498336": 1794012321,
+    "Hoenn|Mightyena|Route 103|498344": 1794041716
   }
 }
