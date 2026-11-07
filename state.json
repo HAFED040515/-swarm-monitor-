@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Combusken|Route 114|497707": 1791746124,
     "Unova|Metagross|Giant Chasm|497707": 1791748218,
     "Sinnoh|Grotle|Sendoff Spring|497708": 1791749115,
     "Kanto|Jolteon|Ruin Valley|497708": 1791749720,
@@ -999,6 +998,7 @@
     "Johto|Gligar|Route 46|498332": 1793997317,
     "Unova|Piloswine|Moor of Icirrus|498336": 1794012321,
     "Hoenn|Mightyena|Route 103|498344": 1794041716,
-    "Johto|Murkrow|Route 42|498351": 1794065430
+    "Johto|Murkrow|Route 42|498351": 1794065430,
+    "Sinnoh|Staraptor|Route 213|498357": 1794088220
   }
 }
