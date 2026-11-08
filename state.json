@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Grotle|Sendoff Spring|497708": 1791749115,
     "Kanto|Jolteon|Ruin Valley|497708": 1791749720,
     "Sinnoh|Noctowl|Route 210|497708": 1791750915,
     "Unova|Munna|Dreamyard|497709": 1791755420,
@@ -999,6 +998,7 @@
     "Hoenn|Mightyena|Route 103|498344": 1794041716,
     "Johto|Murkrow|Route 42|498351": 1794065430,
     "Sinnoh|Staraptor|Route 213|498357": 1794088220,
-    "Unova|Musharna|Village Bridge|498363": 1794109221
+    "Unova|Musharna|Village Bridge|498363": 1794109221,
+    "Johto|Arbok|Route 33|498367": 1794123921
   }
 }
