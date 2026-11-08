@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Jolteon|Ruin Valley|497708": 1791749720,
     "Sinnoh|Noctowl|Route 210|497708": 1791750915,
     "Unova|Munna|Dreamyard|497709": 1791755420,
     "Johto|Croconaw|Whirl Islands|497709": 1791755645,
@@ -999,6 +998,7 @@
     "Johto|Murkrow|Route 42|498351": 1794065430,
     "Sinnoh|Staraptor|Route 213|498357": 1794088220,
     "Unova|Musharna|Village Bridge|498363": 1794109221,
-    "Johto|Arbok|Route 33|498367": 1794123921
+    "Johto|Arbok|Route 33|498367": 1794123921,
+    "Kanto|Qwilfish|Five Island|498374": 1794147917
   }
 }
