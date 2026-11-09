@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Croconaw|Whirl Islands|497709": 1791755645,
     "Kanto|Skorupi|Route 9|497709": 1791755715,
     "Hoenn|Combusken|Route 114|497709": 1791756316,
     "Johto|Kirlia|Route 43|497711": 1791761427,
@@ -999,6 +998,7 @@
     "Johto|Arbok|Route 33|498367": 1794123921,
     "Kanto|Qwilfish|Five Island|498374": 1794147917,
     "Sinnoh|Gabite|Route 206|498379": 1794165917,
-    "Unova|Patrat|Route 1|498387": 1794196516
+    "Unova|Patrat|Route 1|498387": 1794196516,
+    "Unova|Patrat|Lostlorn Forest|498387": 1794196836
   }
 }
