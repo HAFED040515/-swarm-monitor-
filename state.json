@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Bayleef|National Park|497714": 1791770717,
     "Unova|Farfetch&#x27;d|Route 1|497714": 1791773423,
     "Sinnoh|Ambipom|Route 216|497715": 1791774920,
     "Hoenn|Chimecho|Mt. Pyre|497715": 1791776720,
@@ -999,6 +998,7 @@
     "Hoenn|Sealeo|Shoal Cave|498422": 1794321623,
     "Kanto|Yanmega|Water Path|498427": 1794338718,
     "Sinnoh|Noctowl|Acuity Lakefront|498433": 1794362944,
-    "Hoenn|Aggron|Victory Road|498440": 1794387638
+    "Hoenn|Aggron|Victory Road|498440": 1794387638,
+    "Kanto|Lapras|Four Island|498445": 1794404728
   }
 }
