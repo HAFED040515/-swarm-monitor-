@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Hypno|Berry Forest|497715": 1791777634,
     "Johto|Meganium|Route 48|497717": 1791783921,
     "Kanto|Plusle|Route 2|497718": 1791787820,
     "Johto|Barboach|Slowpoke Well|497718": 1791787820,
@@ -999,6 +998,7 @@
     "Kanto|Lapras|Four Island|498445": 1794404728,
     "Hoenn|Crawdaunt|Abandoned Ship|498452": 1794431428,
     "Kanto|Vaporeon|Two Island|498458": 1794450317,
-    "Johto|Murkrow|Route 42|498465": 1794477636
+    "Johto|Murkrow|Route 42|498465": 1794477636,
+    "Johto|Persian|Route 38|498470": 1794494423
   }
 }
