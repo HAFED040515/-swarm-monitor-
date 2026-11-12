@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Ambipom|Route 216|497715": 1791774920,
     "Hoenn|Chimecho|Mt. Pyre|497715": 1791776720,
     "Kanto|Hypno|Berry Forest|497715": 1791777634,
     "Johto|Meganium|Route 48|497717": 1791783921,
@@ -999,6 +998,7 @@
     "Sinnoh|Noctowl|Acuity Lakefront|498433": 1794362944,
     "Hoenn|Aggron|Victory Road|498440": 1794387638,
     "Kanto|Lapras|Four Island|498445": 1794404728,
-    "Hoenn|Crawdaunt|Abandoned Ship|498452": 1794431428
+    "Hoenn|Crawdaunt|Abandoned Ship|498452": 1794431428,
+    "Kanto|Vaporeon|Two Island|498458": 1794450317
   }
 }
