@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Vaporeon|Route 134|497718": 1791788117,
     "Sinnoh|Torterra|Route 212|497718": 1791788435,
     "Unova|Jynx|Route 8|497719": 1791790821,
     "Johto|Kangaskhan|Dark Cave|497719": 1791791716,
@@ -999,6 +998,7 @@
     "Johto|Persian|Route 38|498470": 1794494423,
     "Kanto|Raichu|Power Plant|498475": 1794512721,
     "Johto|Tentacruel|Route 47|498481": 1794534916,
-    "Kanto|Clefable|Mt. Moon|498487": 1794557117
+    "Kanto|Clefable|Mt. Moon|498487": 1794557117,
+    "Unova|Lickilicky|Challenger&#x27;s Cave|498493": 1794577222
   }
 }
