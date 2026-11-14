@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pinsir|Route 12|497781": 1792012822,
     "Johto|Wailmer|Route 40|497781": 1792013432,
     "Kanto|Heracross|Route 16|497782": 1792015518,
     "Hoenn|Finneon|Route 107|497782": 1792015825,
@@ -999,6 +998,7 @@
     "Sinnoh|Spiritomb|Turnback Cave|498525": 1794693634,
     "Unova|Octillery|Route 13|498525": 1794693634,
     "Hoenn|Blaziken|Magma Hideout|498526": 1794694520,
-    "Johto|Exeggcute|Route 30|498526": 1794694821
+    "Johto|Exeggcute|Route 30|498526": 1794694821,
+    "Sinnoh|Chimecho|Acuity Lakefront|498526": 1794696022
   }
 }
