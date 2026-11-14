@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Farfetch&#x27;d|Route 13|497780": 1792009517,
     "Sinnoh|Absol|Mt. Coronet|497780": 1792010533,
     "Unova|Pinsir|Route 12|497781": 1792012822,
     "Johto|Wailmer|Route 40|497781": 1792013432,
@@ -999,6 +998,7 @@
     "Hoenn|Metagross|Meteor Falls|498525": 1794692117,
     "Johto|Porygon-Z|Team Rocket HQ|498525": 1794692720,
     "Sinnoh|Spiritomb|Turnback Cave|498525": 1794693634,
-    "Unova|Octillery|Route 13|498525": 1794693634
+    "Unova|Octillery|Route 13|498525": 1794693634,
+    "Hoenn|Blaziken|Magma Hideout|498526": 1794694520
   }
 }
