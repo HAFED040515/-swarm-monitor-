@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Whiscash|Ravaged Path|497725": 1791810316,
-    "Unova|Swalot|Route 9|497725": 1791810920,
-    "Hoenn|Spiritomb|Abandoned Ship|497725": 1791813637,
     "Sinnoh|Skitty|Route 204|497726": 1791814521,
     "Kanto|Milotic|Resort Gorgeous|497726": 1791815568,
     "Johto|Zorua|Route 37|497726": 1791815718,
@@ -999,6 +996,9 @@
     "Unova|Jynx|Route 8|498504": 1794617422,
     "Kanto|Tyranitar|Seven Island|498505": 1794618621,
     "Johto|Hitmontop|Mt. Mortar|498505": 1794619222,
-    "Kanto|Absol|Canyon Entrance|498505": 1794620719
+    "Kanto|Absol|Canyon Entrance|498505": 1794620719,
+    "Johto|Absol|Route 28|498506": 1794622821,
+    "Hoenn|Croagunk|Route 121|498506": 1794622821,
+    "Sinnoh|Ambipom|Route 216|498506": 1794622821
   }
 }
