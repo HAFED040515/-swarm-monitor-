@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Nincada|Route 46|497738": 1791860116,
     "Hoenn|Combee|Route 117|497739": 1791861621,
     "Unova|Pinsir|Route 12|497739": 1791863419,
     "Sinnoh|Clefable|Mt. Coronet|497739": 1791864315,
@@ -999,6 +998,7 @@
     "Sinnoh|Magmar|Fuego Ironworks|498511": 1794639917,
     "Johto|Meganium|Route 48|498511": 1794641115,
     "Kanto|Milotic|Resort Gorgeous|498511": 1794643164,
-    "Johto|Shroomish|Route 34|498512": 1794643517
+    "Johto|Shroomish|Route 34|498512": 1794643517,
+    "Sinnoh|Lucario|Iron Island|498512": 1794644122
   }
 }
