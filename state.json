@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Exeggutor|Route 230|497732": 1791836420,
-    "Hoenn|Munna|Route 102|497732": 1791837029,
     "Unova|Pupitar|Twist Mountain|497732": 1791837029,
     "Kanto|Sentret|Route 1|497733": 1791839720,
     "Kanto|Persian|Ruin Valley|497734": 1791844227,
@@ -999,6 +997,8 @@
     "Kanto|Blastoise|Cape Brink|498508": 1794631221,
     "Unova|Lucario|Guidance Chamber|498508": 1794631221,
     "Hoenn|Sudowoodo|Battle Frontier|498508": 1794632116,
-    "Johto|Nincada|Route 46|498508": 1794632440
+    "Johto|Nincada|Route 46|498508": 1794632440,
+    "Kanto|Armaldo|Tanoby Ruins|498509": 1794633022,
+    "Unova|Cherubi|Route 16|498509": 1794633022
   }
 }
