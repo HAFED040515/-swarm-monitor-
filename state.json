@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Carnivine|Route 18|497762": 1791944120,
     "Kanto|Omastar|Liptoo Chamber|497762": 1791945026,
     "Sinnoh|Torterra|Route 212|497763": 1791947421,
     "Kanto|Yanmega|Water Path|497762": 1791947719,
@@ -999,6 +998,7 @@
     "Johto|Kangaskhan|Dark Cave|498519": 1794670517,
     "Hoenn|Finneon|Route 126|498519": 1794670820,
     "Unova|Heracross|Route 10|498519": 1794670820,
-    "Sinnoh|Yanma|Route 205|498519": 1794671420
+    "Sinnoh|Yanma|Route 205|498519": 1794671420,
+    "Kanto|Munna|Route 4|498519": 1794672037
   }
 }
