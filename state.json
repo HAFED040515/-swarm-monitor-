@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Drifloon|Route 10|497751": 1791906621,
     "Johto|Feraligatr|Tohjo Falls|497752": 1791908717,
     "Hoenn|Nosepass|Granite Cave|497752": 1791909923,
     "Hoenn|Lapras|Shoal Cave|497754": 1791914717,
@@ -999,6 +998,7 @@
     "Sinnoh|Turtwig|Route 203|498516": 1794660915,
     "Unova|Plusle|Route 5|498516": 1794661240,
     "Johto|Exeggcute|Route 30|498517": 1794662119,
-    "Hoenn|Dragonite|Route 131|498517": 1794662119
+    "Hoenn|Dragonite|Route 131|498517": 1794662119,
+    "Sinnoh|Spiritomb|Turnback Cave|498517": 1794662423
   }
 }
