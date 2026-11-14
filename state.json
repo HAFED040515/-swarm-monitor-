@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Chikorita|Route 31|497745": 1791882920,
     "Sinnoh|Cherrim|Lake Verity|497745": 1791885317,
     "Johto|Typhlosion|Route 45|497746": 1791886221,
     "Sinnoh|Chansey|Trophy Garden|497747": 1791891920,
@@ -999,6 +998,7 @@
     "Hoenn|Mismagius|Route 122|498513": 1794650435,
     "Hoenn|Tropius|Route 118|498513": 1794651321,
     "Johto|Chikorita|Route 31|498514": 1794651916,
-    "Kanto|Salamence|Victory Road|498514": 1794653120
+    "Kanto|Salamence|Victory Road|498514": 1794653120,
+    "Johto|Bonsly|Ilex Forest|498515": 1794655830
   }
 }
