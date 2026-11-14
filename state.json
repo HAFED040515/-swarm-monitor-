@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Qwilfish|Route 125|497727": 1791819619,
     "Sinnoh|Piplup|Route 204|497727": 1791819619,
     "Unova|Floatzel|Route 3|497728": 1791822629,
     "Kanto|Salamence|Victory Road|497729": 1791826516,
@@ -999,6 +998,7 @@
     "Johto|Sharpedo|Route 41|498506": 1794624627,
     "Kanto|Sentret|Route 1|498507": 1794625820,
     "Hoenn|Volcarona|Scorched Slab|498507": 1794625820,
-    "Unova|Farfetch&#x27;d|Route 1|498507": 1794625820
+    "Unova|Farfetch&#x27;d|Route 1|498507": 1794625820,
+    "Johto|Shelgon|Dragon&#x27;s Den|498507": 1794626421
   }
 }
