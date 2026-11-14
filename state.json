@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Nincada|Route 25|497744": 1791881421,
     "Hoenn|Salamence|Sky Pillar|497744": 1791882036,
     "Johto|Chikorita|Route 31|497745": 1791882920,
     "Sinnoh|Cherrim|Lake Verity|497745": 1791885317,
@@ -999,6 +998,7 @@
     "Sinnoh|Heracross|Route 206|498513": 1794647723,
     "Kanto|Misdreavus|Pokemon Tower|498513": 1794648318,
     "Hoenn|Mismagius|Route 122|498513": 1794650435,
-    "Hoenn|Tropius|Route 118|498513": 1794651321
+    "Hoenn|Tropius|Route 118|498513": 1794651321,
+    "Johto|Chikorita|Route 31|498514": 1794651916
   }
 }
