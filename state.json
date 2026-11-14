@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Houndoom|Burned Tower|497724": 1791809123,
     "Sinnoh|Whiscash|Ravaged Path|497725": 1791810316,
     "Unova|Swalot|Route 9|497725": 1791810920,
     "Hoenn|Spiritomb|Abandoned Ship|497725": 1791813637,
@@ -999,6 +998,7 @@
     "Kanto|Salamence|Victory Road|498504": 1794617121,
     "Unova|Jynx|Route 8|498504": 1794617422,
     "Kanto|Tyranitar|Seven Island|498505": 1794618621,
-    "Johto|Hitmontop|Mt. Mortar|498505": 1794619222
+    "Johto|Hitmontop|Mt. Mortar|498505": 1794619222,
+    "Kanto|Absol|Canyon Entrance|498505": 1794620719
   }
 }
