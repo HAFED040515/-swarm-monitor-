@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Combusken|Route 114|497741": 1791871239,
     "Sinnoh|Skarmory|Route 227|497743": 1791874835,
     "Unova|Houndoom|Route 15|497743": 1791875719,
     "Kanto|Plusle|Route 2|497743": 1791877521,
@@ -999,6 +998,7 @@
     "Unova|Hitmonlee|Victory Road|498512": 1794644717,
     "Johto|Metang|Ice Path|498512": 1794645316,
     "Kanto|Kabutops|Tanoby Ruins|498512": 1794645623,
-    "Unova|Houndoom|Route 15|498513": 1794647421
+    "Unova|Houndoom|Route 15|498513": 1794647421,
+    "Sinnoh|Heracross|Route 206|498513": 1794647723
   }
 }
