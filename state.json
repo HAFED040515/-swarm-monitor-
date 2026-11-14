@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Qwilfish|Route 125|497722": 1791802838,
     "Sinnoh|Scyther|Route 210|497722": 1791802838,
     "Johto|Lucario|Mt. Silver Cave|497723": 1791803421,
     "Kanto|Blastoise|Cape Brink|497723": 1791803723,
@@ -999,6 +998,7 @@
     "Kanto|Lapras|Icefall Cave|498504": 1794615322,
     "Hoenn|Marshtomp|Route 124|498504": 1794615917,
     "Unova|Pinsir|Route 12|498504": 1794616230,
-    "Johto|Volcarona|Bell Tower|498504": 1794616533
+    "Johto|Volcarona|Bell Tower|498504": 1794616533,
+    "Kanto|Salamence|Victory Road|498504": 1794617121
   }
 }
