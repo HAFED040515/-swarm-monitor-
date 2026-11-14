@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Cyndaquil|Route 33|497782": 1792017918,
     "Unova|Heracross|Route 10|497783": 1792019117,
     "Unova|Dragonair|Dragonspiral Tower|497784": 1792023621,
     "Sinnoh|Burmy|Route 202|497784": 1792024515,
@@ -999,6 +998,7 @@
     "Johto|Starmie|Cliff Edge Gate|498526": 1794696620,
     "Kanto|Aerodactyl|Tanoby Ruins|498527": 1794697821,
     "Sinnoh|Infernape|Route 221|498527": 1794697821,
-    "Unova|Relicanth|Challenger&#x27;s Cave|498527": 1794698122
+    "Unova|Relicanth|Challenger&#x27;s Cave|498527": 1794698122,
+    "Hoenn|Torchic|Route 112|498527": 1794698722
   }
 }
