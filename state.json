@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Johto|Meganium|Route 48|497768": 1791967221,
-    "Unova|Hitmonlee|Victory Road|497769": 1791969916,
-    "Kanto|Pinsir|Route 11|497769": 1791970227,
     "Hoenn|Carnivine|Route 123|497769": 1791971121,
     "Johto|Skarmory|Route 26|497770": 1791972036,
     "Hoenn|Kecleon|Route 120|497770": 1791975317,
@@ -999,6 +996,9 @@
     "Kanto|Salamence|Victory Road|498521": 1794676222,
     "Kanto|Bastiodon|Tanoby Ruins|498521": 1794678022,
     "Sinnoh|Chimchar|Route 211|498521": 1794678022,
-    "Unova|Kangaskhan|Wellspring Cave|498521": 1794678022
+    "Unova|Kangaskhan|Wellspring Cave|498521": 1794678022,
+    "Kanto|Seviper|Route 15|498522": 1794679517,
+    "Johto|Meganium|Route 48|498522": 1794679517,
+    "Unova|Skorupi|Desert Resort|498522": 1794679517
   }
 }
