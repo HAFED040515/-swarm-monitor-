@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Heracross|Route 10|497783": 1792019117,
     "Unova|Dragonair|Dragonspiral Tower|497784": 1792023621,
     "Sinnoh|Burmy|Route 202|497784": 1792024515,
     "Kanto|Snorlax|Cerulean Cave|497785": 1792027220,
@@ -999,6 +998,7 @@
     "Kanto|Aerodactyl|Tanoby Ruins|498527": 1794697821,
     "Sinnoh|Infernape|Route 221|498527": 1794697821,
     "Unova|Relicanth|Challenger&#x27;s Cave|498527": 1794698122,
-    "Hoenn|Torchic|Route 112|498527": 1794698722
+    "Hoenn|Torchic|Route 112|498527": 1794698722,
+    "Kanto|Zangoose|Route 14|498527": 1794699031
   }
 }
