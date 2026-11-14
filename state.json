@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Tyranitar|Stark Mountain|497777": 1791999620,
     "Hoenn|Combusken|Route 114|497778": 1792001422,
     "Unova|Hippowdon|Mistralton Cave|497778": 1792002023,
     "Hoenn|Feebas|Route 130|497779": 1792005323,
@@ -999,6 +998,7 @@
     "Kanto|Absol|Canyon Entrance|498524": 1794687622,
     "Kanto|Butterfree|Route 22|498524": 1794688230,
     "Johto|Hitmontop|Mt. Mortar|498524": 1794688230,
-    "Hoenn|Skarmory|Route 113|498524": 1794689126
+    "Hoenn|Skarmory|Route 113|498524": 1794689126,
+    "Johto|Vigoroth|Ruins of Alph|498525": 1794690621
   }
 }
