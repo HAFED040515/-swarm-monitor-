@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Hoenn|Cloyster|Route 133|497763": 1791947719,
-    "Kanto|Yanmega|Water Path|497763": 1791948316,
-    "Johto|Zorua|Route 37|497765": 1791956719,
     "Unova|Farfetch&#x27;d|Route 1|497765": 1791957019,
     "Sinnoh|Rotom|Old Chateau|497765": 1791957315,
     "Unova|Skorupi|Desert Resort|497766": 1791959428,
@@ -999,6 +996,9 @@
     "Kanto|Munna|Route 4|498519": 1794672037,
     "Johto|Hitmontop|Mt. Mortar|498520": 1794672318,
     "Hoenn|Hitmonchan|Fiery Path|498520": 1794672927,
-    "Sinnoh|Drapion|Route 213|498520": 1794673225
+    "Sinnoh|Drapion|Route 213|498520": 1794673225,
+    "Kanto|Ivysaur|Route 5|498520": 1794674116,
+    "Johto|Bonsly|Ilex Forest|498520": 1794674116,
+    "Hoenn|Pelipper|Route 109|498520": 1794674116
   }
 }
