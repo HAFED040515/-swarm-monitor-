@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Heracross|Route 16|497782": 1792015518,
-    "Hoenn|Finneon|Route 107|497782": 1792015825,
     "Hoenn|Pelipper|Route 109|497782": 1792017620,
     "Johto|Cyndaquil|Route 33|497782": 1792017918,
     "Unova|Heracross|Route 10|497783": 1792019117,
@@ -999,6 +997,8 @@
     "Hoenn|Blaziken|Magma Hideout|498526": 1794694520,
     "Johto|Exeggcute|Route 30|498526": 1794694821,
     "Sinnoh|Chimecho|Acuity Lakefront|498526": 1794696022,
-    "Johto|Starmie|Cliff Edge Gate|498526": 1794696620
+    "Johto|Starmie|Cliff Edge Gate|498526": 1794696620,
+    "Kanto|Aerodactyl|Tanoby Ruins|498527": 1794697821,
+    "Sinnoh|Infernape|Route 221|498527": 1794697821
   }
 }
