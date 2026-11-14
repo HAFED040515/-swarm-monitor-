@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Yanmega|Route 44|497749": 1791898821,
     "Sinnoh|Shroomish|Route 201|497749": 1791899716,
     "Sinnoh|Bonsly|Eterna Forest|497751": 1791905115,
     "Unova|Furret|Abundant Shrine|497751": 1791906024,
@@ -999,6 +998,7 @@
     "Sinnoh|Grotle|Sendoff Spring|498516": 1794658523,
     "Johto|Bayleef|National Park|498516": 1794659716,
     "Hoenn|Grovyle|Route 118|498516": 1794660326,
-    "Kanto|Charmeleon|Rock Tunnel|498516": 1794660621
+    "Kanto|Charmeleon|Rock Tunnel|498516": 1794660621,
+    "Sinnoh|Turtwig|Route 203|498516": 1794660915
   }
 }
