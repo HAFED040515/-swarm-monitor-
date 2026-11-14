@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Lucario|Mt. Silver Cave|497771": 1791976220,
     "Unova|Carnivine|Route 18|497771": 1791979238,
     "Sinnoh|Miltank|Route 214|497772": 1791980122,
     "Kanto|Tauros|Route 17|497773": 1791983117,
@@ -999,6 +998,7 @@
     "Unova|Skorupi|Desert Resort|498522": 1794679517,
     "Hoenn|Skarmory|Route 113|498522": 1794681030,
     "Johto|Nincada|Route 46|498522": 1794681316,
-    "Sinnoh|Prinplup|Route 220|498522": 1794681316
+    "Sinnoh|Prinplup|Route 220|498522": 1794681316,
+    "Kanto|Charizard|Mt. Ember|498522": 1794681621
   }
 }
