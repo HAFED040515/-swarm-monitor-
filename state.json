@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Farfetch&#x27;d|Route 1|497765": 1791957019,
     "Sinnoh|Rotom|Old Chateau|497765": 1791957315,
     "Unova|Skorupi|Desert Resort|497766": 1791959428,
     "Hoenn|Drifloon|Route 105|497766": 1791959718,
@@ -999,6 +998,7 @@
     "Sinnoh|Drapion|Route 213|498520": 1794673225,
     "Kanto|Ivysaur|Route 5|498520": 1794674116,
     "Johto|Bonsly|Ilex Forest|498520": 1794674116,
-    "Hoenn|Pelipper|Route 109|498520": 1794674116
+    "Hoenn|Pelipper|Route 109|498520": 1794674116,
+    "Sinnoh|Shroomish|Route 201|498520": 1794674722
   }
 }
