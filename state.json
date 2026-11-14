@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Feebas|Route 130|497779": 1792005323,
-    "Johto|Exeggcute|Route 30|497779": 1792006820,
     "Kanto|Farfetch&#x27;d|Route 13|497780": 1792009517,
     "Sinnoh|Absol|Mt. Coronet|497780": 1792010533,
     "Unova|Pinsir|Route 12|497781": 1792012822,
@@ -999,6 +997,8 @@
     "Hoenn|Skarmory|Route 113|498524": 1794689126,
     "Johto|Vigoroth|Ruins of Alph|498525": 1794690621,
     "Hoenn|Metagross|Meteor Falls|498525": 1794692117,
-    "Johto|Porygon-Z|Team Rocket HQ|498525": 1794692720
+    "Johto|Porygon-Z|Team Rocket HQ|498525": 1794692720,
+    "Sinnoh|Spiritomb|Turnback Cave|498525": 1794693634,
+    "Unova|Octillery|Route 13|498525": 1794693634
   }
 }
