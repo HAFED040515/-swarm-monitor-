@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Chansey|Trophy Garden|497756": 1791924621,
     "Johto|Hitmontop|Mt. Mortar|497756": 1791924919,
     "Sinnoh|Chansey|Trophy Garden|497757": 1791926717,
     "Kanto|Dragonite|Outcast Island|497758": 1791930019,
@@ -999,6 +998,7 @@
     "Kanto|Chatot|Treasure Beach|498518": 1794665121,
     "Hoenn|Swampert|Route 109|498518": 1794665121,
     "Sinnoh|Drifblim|Route 222|498518": 1794665421,
-    "Unova|Houndoom|Route 15|498518": 1794666022
+    "Unova|Houndoom|Route 15|498518": 1794666022,
+    "Hoenn|Sudowoodo|Battle Frontier|498518": 1794666629
   }
 }
