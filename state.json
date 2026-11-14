@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Feebas|Route 130|497758": 1791932439,
     "Sinnoh|Absol|Mt. Coronet|497759": 1791934822,
     "Hoenn|Sudowoodo|Battle Frontier|497760": 1791936621,
     "Johto|Yanmega|Route 44|497761": 1791942319,
@@ -999,6 +998,7 @@
     "Kanto|Exeggutor|Route 23|498518": 1794667521,
     "Sinnoh|Lucario|Iron Island|498518": 1794667521,
     "Johto|Wailmer|Route 40|498518": 1794668436,
-    "Kanto|Cradily|Weepth Chamber|498519": 1794669916
+    "Kanto|Cradily|Weepth Chamber|498519": 1794669916,
+    "Johto|Kangaskhan|Dark Cave|498519": 1794670517
   }
 }
