@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Cyndaquil|Route 33|497737": 1791855619,
     "Sinnoh|Yanma|Route 205|497737": 1791856515,
     "Kanto|Chatot|Treasure Beach|497738": 1791859522,
     "Johto|Nincada|Route 46|497738": 1791860116,
@@ -999,6 +998,7 @@
     "Kanto|Drifloon|Route 10|498510": 1794637829,
     "Unova|Lucario|Guidance Chamber|498510": 1794638421,
     "Hoenn|Swampert|Route 109|498511": 1794639917,
-    "Sinnoh|Magmar|Fuego Ironworks|498511": 1794639917
+    "Sinnoh|Magmar|Fuego Ironworks|498511": 1794639917,
+    "Johto|Meganium|Route 48|498511": 1794641115
   }
 }
