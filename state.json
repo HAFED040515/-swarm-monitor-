@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Hoenn|Drifloon|Route 105|497766": 1791959718,
-    "Kanto|Seviper|Route 15|497767": 1791963027,
-    "Sinnoh|Bronzong|Iron Island|497767": 1791963618,
     "Johto|Meganium|Route 48|497768": 1791967221,
     "Unova|Hitmonlee|Victory Road|497769": 1791969916,
     "Kanto|Pinsir|Route 11|497769": 1791970227,
@@ -999,6 +996,9 @@
     "Hoenn|Pelipper|Route 109|498520": 1794674116,
     "Sinnoh|Shroomish|Route 201|498520": 1794674722,
     "Johto|Starmie|Cliff Edge Gate|498521": 1794675918,
-    "Kanto|Salamence|Victory Road|498521": 1794676222
+    "Kanto|Salamence|Victory Road|498521": 1794676222,
+    "Kanto|Bastiodon|Tanoby Ruins|498521": 1794678022,
+    "Sinnoh|Chimchar|Route 211|498521": 1794678022,
+    "Unova|Kangaskhan|Wellspring Cave|498521": 1794678022
   }
 }
