@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Yanma|Pinwheel Forest|497721": 1791799235,
     "Kanto|Blastoise|Cape Brink|497722": 1791801921,
     "Hoenn|Qwilfish|Route 125|497722": 1791802838,
     "Sinnoh|Scyther|Route 210|497722": 1791802838,
@@ -999,6 +998,7 @@
     "Johto|Azumarill|Tohjo Falls|498499": 1794599423,
     "Sinnoh|Vigoroth|Route 215|498504": 1794614720,
     "Kanto|Lapras|Icefall Cave|498504": 1794615322,
-    "Hoenn|Marshtomp|Route 124|498504": 1794615917
+    "Hoenn|Marshtomp|Route 124|498504": 1794615917,
+    "Unova|Pinsir|Route 12|498504": 1794616230
   }
 }
