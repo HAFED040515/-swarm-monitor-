@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Shuckle|Seafloor Cavern|497748": 1791894020,
     "Unova|Crobat|Celestial Tower|497748": 1791895219,
     "Hoenn|Zorua|Route 101|497749": 1791897916,
     "Johto|Yanmega|Route 44|497749": 1791898821,
@@ -999,6 +998,7 @@
     "Johto|Bonsly|Ilex Forest|498515": 1794655830,
     "Kanto|Sentret|Route 1|498515": 1794656421,
     "Hoenn|Kecleon|Route 120|498516": 1794658523,
-    "Sinnoh|Grotle|Sendoff Spring|498516": 1794658523
+    "Sinnoh|Grotle|Sendoff Spring|498516": 1794658523,
+    "Johto|Bayleef|National Park|498516": 1794659716
   }
 }
