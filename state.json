@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pupitar|Twist Mountain|497732": 1791837029,
     "Kanto|Sentret|Route 1|497733": 1791839720,
     "Kanto|Persian|Ruin Valley|497734": 1791844227,
     "Sinnoh|Cherrim|Lake Verity|497734": 1791844227,
@@ -999,6 +998,7 @@
     "Hoenn|Sudowoodo|Battle Frontier|498508": 1794632116,
     "Johto|Nincada|Route 46|498508": 1794632440,
     "Kanto|Armaldo|Tanoby Ruins|498509": 1794633022,
-    "Unova|Cherubi|Route 16|498509": 1794633022
+    "Unova|Cherubi|Route 16|498509": 1794633022,
+    "Sinnoh|Ambipom|Route 216|498509": 1794634517
   }
 }
