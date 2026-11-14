@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Johto|Zorua|Route 37|497726": 1791815718,
-    "Kanto|Aerodactyl|Tanoby Ruins|497727": 1791818716,
-    "Unova|Skorupi|Desert Resort|497727": 1791818716,
     "Hoenn|Qwilfish|Route 125|497727": 1791819619,
     "Sinnoh|Piplup|Route 204|497727": 1791819619,
     "Unova|Floatzel|Route 3|497728": 1791822629,
@@ -999,6 +996,9 @@
     "Hoenn|Croagunk|Route 121|498506": 1794622821,
     "Sinnoh|Ambipom|Route 216|498506": 1794622821,
     "Unova|Octillery|Route 13|498506": 1794623435,
-    "Johto|Sharpedo|Route 41|498506": 1794624627
+    "Johto|Sharpedo|Route 41|498506": 1794624627,
+    "Kanto|Sentret|Route 1|498507": 1794625820,
+    "Hoenn|Volcarona|Scorched Slab|498507": 1794625820,
+    "Unova|Farfetch&#x27;d|Route 1|498507": 1794625820
   }
 }
