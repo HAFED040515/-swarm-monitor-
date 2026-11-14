@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Tauros|Route 17|497773": 1791983117,
-    "Sinnoh|Milotic|Lake Valor|497773": 1791984917,
     "Johto|Volcarona|Bell Tower|497773": 1791985521,
     "Kanto|Bastiodon|Tanoby Ruins|497774": 1791987621,
     "Hoenn|Blaziken|Magma Hideout|497774": 1791987916,
@@ -999,6 +997,8 @@
     "Sinnoh|Prinplup|Route 220|498522": 1794681316,
     "Kanto|Charizard|Mt. Ember|498522": 1794681621,
     "Unova|Dragonair|Dragonspiral Tower|498522": 1794682837,
-    "Johto|Skitty|Route 35|498523": 1794683118
+    "Johto|Skitty|Route 35|498523": 1794683118,
+    "Johto|Lapras|Union Cave|498523": 1794684916,
+    "Unova|Hitmonlee|Victory Road|498523": 1794684916
   }
 }
