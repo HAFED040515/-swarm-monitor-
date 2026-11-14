@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Typhlosion|Route 45|497746": 1791886221,
-    "Sinnoh|Chansey|Trophy Garden|497747": 1791891920,
     "Hoenn|Shuckle|Seafloor Cavern|497748": 1791894020,
     "Unova|Crobat|Celestial Tower|497748": 1791895219,
     "Hoenn|Zorua|Route 101|497749": 1791897916,
@@ -999,6 +997,8 @@
     "Johto|Chikorita|Route 31|498514": 1794651916,
     "Kanto|Salamence|Victory Road|498514": 1794653120,
     "Johto|Bonsly|Ilex Forest|498515": 1794655830,
-    "Kanto|Sentret|Route 1|498515": 1794656421
+    "Kanto|Sentret|Route 1|498515": 1794656421,
+    "Hoenn|Kecleon|Route 120|498516": 1794658523,
+    "Sinnoh|Grotle|Sendoff Spring|498516": 1794658523
   }
 }
