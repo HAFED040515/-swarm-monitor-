@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Combee|Route 117|497730": 1791830116,
-    "Sinnoh|Infernape|Route 221|497731": 1791832220,
     "Johto|Shuckle|Cliff Cave|497731": 1791833718,
     "Hoenn|Munna|Route 102|497731": 1791834915,
     "Sinnoh|Exeggutor|Route 230|497732": 1791836420,
@@ -999,6 +997,8 @@
     "Hoenn|Cloyster|Route 133|498507": 1794628220,
     "Johto|Metang|Ice Path|498507": 1794628834,
     "Sinnoh|Chatot|Route 218|498508": 1794629721,
-    "Johto|Metang|Ice Path|498508": 1794630917
+    "Johto|Metang|Ice Path|498508": 1794630917,
+    "Kanto|Blastoise|Cape Brink|498508": 1794631221,
+    "Unova|Lucario|Guidance Chamber|498508": 1794631221
   }
 }
