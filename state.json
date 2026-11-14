@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Heracross|Route 10|497735": 1791848419,
     "Sinnoh|Chatot|Route 218|497735": 1791849020,
     "Hoenn|Lapras|Shoal Cave|497736": 1791850521,
     "Unova|Houndoom|Route 15|497737": 1791855318,
@@ -999,6 +998,7 @@
     "Kanto|Heracross|Route 16|498509": 1794635420,
     "Sinnoh|Farfetch&#x27;d|Route 209|498510": 1794636322,
     "Unova|Volcarona|Relic Castle|498510": 1794636622,
-    "Hoenn|Shuckle|Seafloor Cavern|498510": 1794637222
+    "Hoenn|Shuckle|Seafloor Cavern|498510": 1794637222,
+    "Kanto|Drifloon|Route 10|498510": 1794637829
   }
 }
