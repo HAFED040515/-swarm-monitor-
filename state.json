@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Typhlosion|Route 45|497729": 1791827119,
     "Hoenn|Combee|Route 117|497730": 1791830116,
     "Sinnoh|Infernape|Route 221|497731": 1791832220,
     "Johto|Shuckle|Cliff Cave|497731": 1791833718,
@@ -999,6 +998,7 @@
     "Johto|Shelgon|Dragon&#x27;s Den|498507": 1794626421,
     "Hoenn|Cloyster|Route 133|498507": 1794628220,
     "Johto|Metang|Ice Path|498507": 1794628834,
-    "Sinnoh|Chatot|Route 218|498508": 1794629721
+    "Sinnoh|Chatot|Route 218|498508": 1794629721,
+    "Johto|Metang|Ice Path|498508": 1794630917
   }
 }
