@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Dragonair|Dragonspiral Tower|497784": 1792023621,
-    "Sinnoh|Burmy|Route 202|497784": 1792024515,
     "Kanto|Snorlax|Cerulean Cave|497785": 1792027220,
     "Unova|Honchkrow|Celestial Tower|497785": 1792029636,
     "Johto|Shroomish|Route 34|497786": 1792032018,
@@ -999,6 +997,8 @@
     "Sinnoh|Infernape|Route 221|498527": 1794697821,
     "Unova|Relicanth|Challenger&#x27;s Cave|498527": 1794698122,
     "Hoenn|Torchic|Route 112|498527": 1794698722,
-    "Kanto|Zangoose|Route 14|498527": 1794699031
+    "Kanto|Zangoose|Route 14|498527": 1794699031,
+    "Hoenn|Rotom|New Mauville|498527": 1794700516,
+    "Sinnoh|Spiritomb|Turnback Cave|498527": 1794700516
   }
 }
