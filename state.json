@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Lapras|Shoal Cave|497754": 1791914717,
     "Sinnoh|Kangaskhan|Wayward Cave|497754": 1791914717,
     "Unova|Dragonair|Dragonspiral Tower|497754": 1791917119,
     "Kanto|Charizard|Mt. Ember|497755": 1791920118,
@@ -999,6 +998,7 @@
     "Hoenn|Dragonite|Route 131|498517": 1794662119,
     "Sinnoh|Spiritomb|Turnback Cave|498517": 1794662423,
     "Hoenn|Swampert|Route 109|498517": 1794663317,
-    "Unova|Munna|Dreamyard|498517": 1794663317
+    "Unova|Munna|Dreamyard|498517": 1794663317,
+    "Kanto|Relicanth|Tanoby Ruins|498517": 1794663621
   }
 }
