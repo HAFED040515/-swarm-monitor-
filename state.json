@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Houndoom|Route 15|497743": 1791875719,
     "Kanto|Plusle|Route 2|497743": 1791877521,
     "Kanto|Nincada|Route 25|497744": 1791881421,
     "Hoenn|Salamence|Sky Pillar|497744": 1791882036,
@@ -999,6 +998,7 @@
     "Kanto|Kabutops|Tanoby Ruins|498512": 1794645623,
     "Unova|Houndoom|Route 15|498513": 1794647421,
     "Sinnoh|Heracross|Route 206|498513": 1794647723,
-    "Kanto|Misdreavus|Pokemon Tower|498513": 1794648318
+    "Kanto|Misdreavus|Pokemon Tower|498513": 1794648318,
+    "Hoenn|Mismagius|Route 122|498513": 1794650435
   }
 }
