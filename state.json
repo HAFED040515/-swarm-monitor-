@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Volcarona|Bell Tower|497773": 1791985521,
     "Kanto|Bastiodon|Tanoby Ruins|497774": 1791987621,
     "Hoenn|Blaziken|Magma Hideout|497774": 1791987916,
     "Unova|Honchkrow|Celestial Tower|497774": 1791987916,
@@ -999,6 +998,7 @@
     "Unova|Dragonair|Dragonspiral Tower|498522": 1794682837,
     "Johto|Skitty|Route 35|498523": 1794683118,
     "Johto|Lapras|Union Cave|498523": 1794684916,
-    "Unova|Hitmonlee|Victory Road|498523": 1794684916
+    "Unova|Hitmonlee|Victory Road|498523": 1794684916,
+    "Hoenn|Lapras|Shoal Cave|498523": 1794685222
   }
 }
