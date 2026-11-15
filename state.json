@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Kanto|Swalot|Route 18|497831": 1792192223,
-    "Johto|Togetic|Route 27|497831": 1792192824,
-    "Unova|Farfetch&#x27;d|Route 1|497831": 1792195116,
     "Sinnoh|Chimecho|Acuity Lakefront|497833": 1792200019,
     "Hoenn|Drifloon|Route 105|497833": 1792202434,
     "Kanto|Wormadam|Pattern Bush|497834": 1792203019,
@@ -999,6 +996,9 @@
     "Hoenn|Remoraid|Route 108|498542": 1794753921,
     "Unova|Skorupi|Desert Resort|498542": 1794753921,
     "Johto|Misdreavus|Sprout Tower|498542": 1794754226,
-    "Kanto|Starmie|Seven Island|498542": 1794754517
+    "Kanto|Starmie|Seven Island|498542": 1794754517,
+    "Johto|Shroomish|Route 34|498543": 1794756027,
+    "Sinnoh|Rotom|Old Chateau|498543": 1794756027,
+    "Unova|Farfetch&#x27;d|Route 1|498543": 1794756027
   }
 }
