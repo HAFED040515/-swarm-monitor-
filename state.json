@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Skitty|Route 35|497794": 1792061424,
-    "Hoenn|Sudowoodo|Battle Frontier|497795": 1792064720,
     "Unova|Volcarona|Relic Castle|497795": 1792065639,
     "Sinnoh|Crawdaunt|Lake Valor|497796": 1792068621,
     "Johto|Snorlax|Victory Road|497797": 1792070718,
@@ -999,6 +997,8 @@
     "Hoenn|Munna|Route 102|498531": 1794712522,
     "Sinnoh|Piplup|Route 204|498531": 1794712826,
     "Kanto|Houndoom|Kindle Road|498531": 1794714023,
-    "Johto|Wailmer|Route 40|498531": 1794714023
+    "Johto|Wailmer|Route 40|498531": 1794714023,
+    "Hoenn|Blaziken|Magma Hideout|498531": 1794714546,
+    "Sinnoh|Lucario|Iron Island|498531": 1794714546
   }
 }
