@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Vigoroth|Ruins of Alph|497848": 1792254916,
-    "Kanto|Zangoose|Route 14|497849": 1792257620,
     "Johto|Metang|Ice Path|497849": 1792260035,
     "Sinnoh|Heracross|Route 206|497849": 1792260035,
     "Hoenn|Munna|Route 102|497850": 1792262116,
@@ -999,6 +997,8 @@
     "Hoenn|Grovyle|Route 118|498548": 1794775821,
     "Unova|Volcarona|Relic Castle|498548": 1794776116,
     "Kanto|Dragonite|Six Island|498549": 1794776716,
-    "Johto|Togetic|Route 27|498549": 1794777322
+    "Johto|Togetic|Route 27|498549": 1794777322,
+    "Hoenn|Mime Jr.|Rusturf Tunnel|498549": 1794777621,
+    "Sinnoh|Tropius|Route 226|498549": 1794777621
   }
 }
