@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Absol|Sevault Canyon|497808": 1792109720,
     "Johto|Miltank|Route 39|497808": 1792110020,
     "Hoenn|Volcarona|Scorched Slab|497809": 1792113914,
     "Sinnoh|Tyranitar|Stark Mountain|497809": 1792114228,
@@ -999,6 +998,7 @@
     "Kanto|Luvdisc|Route 19|498535": 1794729022,
     "Johto|Quilava|Route 42|498535": 1794729022,
     "Hoenn|Skitty|Route 116|498535": 1794729022,
-    "Unova|Zangoose|Route 7|498535": 1794729022
+    "Unova|Zangoose|Route 7|498535": 1794729022,
+    "Hoenn|Volcarona|Scorched Slab|498536": 1794730823
   }
 }
