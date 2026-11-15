@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Relicanth|Route 126|497794": 1792059621,
-    "Kanto|Pinsir|Route 11|497794": 1792060821,
     "Johto|Skitty|Route 35|497794": 1792061424,
     "Hoenn|Sudowoodo|Battle Frontier|497795": 1792064720,
     "Unova|Volcarona|Relic Castle|497795": 1792065639,
@@ -999,6 +997,8 @@
     "Unova|Carnivine|Route 18|498531": 1794711640,
     "Kanto|Tauros|Route 17|498531": 1794711917,
     "Hoenn|Munna|Route 102|498531": 1794712522,
-    "Sinnoh|Piplup|Route 204|498531": 1794712826
+    "Sinnoh|Piplup|Route 204|498531": 1794712826,
+    "Kanto|Houndoom|Kindle Road|498531": 1794714023,
+    "Johto|Wailmer|Route 40|498531": 1794714023
   }
 }
