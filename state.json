@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Volcarona|Relic Castle|497795": 1792065639,
     "Sinnoh|Crawdaunt|Lake Valor|497796": 1792068621,
     "Johto|Snorlax|Victory Road|497797": 1792070718,
     "Kanto|Aerodactyl|Tanoby Ruins|497797": 1792071923,
@@ -999,6 +998,7 @@
     "Kanto|Houndoom|Kindle Road|498531": 1794714023,
     "Johto|Wailmer|Route 40|498531": 1794714023,
     "Hoenn|Blaziken|Magma Hideout|498531": 1794714546,
-    "Sinnoh|Lucario|Iron Island|498531": 1794714546
+    "Sinnoh|Lucario|Iron Island|498531": 1794714546,
+    "Johto|Kirlia|Route 43|498532": 1794715516
   }
 }
