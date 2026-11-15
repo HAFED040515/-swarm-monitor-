@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Gliscor|Route 11|497791": 1792050320,
     "Hoenn|Metagross|Meteor Falls|497792": 1792051524,
     "Kanto|Misdreavus|Pokemon Tower|497793": 1792055722,
     "Johto|Togetic|Route 27|497793": 1792057519,
@@ -999,6 +998,7 @@
     "Johto|Kirlia|Route 43|498530": 1794709515,
     "Unova|Furret|Abundant Shrine|498530": 1794709515,
     "Johto|Hitmontop|Mt. Mortar|498530": 1794710421,
-    "Hoenn|Croagunk|Route 121|498530": 1794711025
+    "Hoenn|Croagunk|Route 121|498530": 1794711025,
+    "Unova|Carnivine|Route 18|498531": 1794711640
   }
 }
