@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Torterra|Route 212|497843": 1792235423,
     "Hoenn|Mudkip|Route 104|497844": 1792238717,
     "Kanto|Misdreavus|Pokemon Tower|497844": 1792239019,
     "Sinnoh|Shroomish|Route 201|497844": 1792241420,
@@ -999,6 +998,7 @@
     "Kanto|Milotic|Resort Gorgeous|498546": 1794765917,
     "Unova|Zangoose|Route 7|498546": 1794766521,
     "Hoenn|Vaporeon|Route 134|498546": 1794767117,
-    "Sinnoh|Scyther|Route 210|498546": 1794767117
+    "Sinnoh|Scyther|Route 210|498546": 1794767117,
+    "Sinnoh|Graveler|Route 207|498546": 1794768622
   }
 }
