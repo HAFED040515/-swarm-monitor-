@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Sudowoodo|Battle Frontier|497799": 1792077622,
     "Sinnoh|Glaceon|Route 217|497799": 1792077915,
     "Hoenn|Relicanth|Route 126|497800": 1792081516,
     "Kanto|Omastar|Tanoby Ruins|497800": 1792083021,
@@ -999,6 +998,7 @@
     "Sinnoh|Monferno|Route 211|498532": 1794717029,
     "Hoenn|Murkrow|Jagged Pass|498532": 1794717924,
     "Unova|Seviper|Route 1|498532": 1794717924,
-    "Johto|Absol|Route 28|498532": 1794718836
+    "Johto|Absol|Route 28|498532": 1794718836,
+    "Kanto|Rotom|Power Plant|498533": 1794719118
   }
 }
