@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Miltank|Route 39|497823": 1792163422,
-    "Unova|Electabuzz|Chargestone Cave|497823": 1792164317,
     "Kanto|Kangaskhan|Rock Tunnel|497823": 1792165221,
     "Sinnoh|Shuckle|Route 219|497823": 1792166116,
     "Johto|Skarmory|Route 26|497825": 1792170040,
@@ -999,6 +997,8 @@
     "Kanto|Ivysaur|Route 5|498540": 1794745522,
     "Johto|Shelgon|Dragon&#x27;s Den|498540": 1794745833,
     "Hoenn|Finneon|Route 107|498540": 1794745833,
-    "Unova|Corsola|Undella Bay|498540": 1794745833
+    "Unova|Corsola|Undella Bay|498540": 1794745833,
+    "Johto|Yanmega|Route 44|498541": 1794747639,
+    "Hoenn|Lapras|Shoal Cave|498540": 1794747639
   }
 }
