@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Kecleon|Route 120|497815": 1792135515,
     "Unova|Volbeat|Route 8|497815": 1792137316,
     "Johto|Totodile|Route 32|497815": 1792137636,
     "Johto|Aipom|Route 29|497817": 1792143031,
@@ -999,6 +998,7 @@
     "Johto|Lapras|Union Cave|498538": 1794738917,
     "Sinnoh|Turtwig|Route 203|498538": 1794738917,
     "Hoenn|Skarmory|Route 113|498538": 1794739522,
-    "Unova|Illumise|Moor of Icirrus|498538": 1794739522
+    "Unova|Illumise|Moor of Icirrus|498538": 1794739522,
+    "Kanto|Venusaur|Berry Forest|498538": 1794740116
   }
 }
