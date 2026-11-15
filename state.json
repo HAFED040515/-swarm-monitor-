@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Johto|Miltank|Route 39|497808": 1792110020,
-    "Hoenn|Volcarona|Scorched Slab|497809": 1792113914,
-    "Sinnoh|Tyranitar|Stark Mountain|497809": 1792114228,
     "Hoenn|Linoone|Route 104|497809": 1792114820,
     "Johto|Shuckle|Cliff Cave|497809": 1792115047,
     "Kanto|Wailord|Green Path|497810": 1792118117,
@@ -999,6 +996,9 @@
     "Johto|Quilava|Route 42|498535": 1794729022,
     "Hoenn|Skitty|Route 116|498535": 1794729022,
     "Unova|Zangoose|Route 7|498535": 1794729022,
-    "Hoenn|Volcarona|Scorched Slab|498536": 1794730823
+    "Hoenn|Volcarona|Scorched Slab|498536": 1794730823,
+    "Kanto|Illumise|Water Path|498536": 1794731117,
+    "Johto|Shroomish|Route 34|498536": 1794731117,
+    "Sinnoh|Drifblim|Route 222|498536": 1794731117
   }
 }
