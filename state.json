@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Carnivine|Route 123|497789": 1792041917,
-    "Johto|Volcarona|Bell Tower|497790": 1792045517,
     "Kanto|Minun|Route 22|497791": 1792048821,
     "Sinnoh|Hippopotas|Maniac Tunnel|497791": 1792050320,
     "Unova|Gliscor|Route 11|497791": 1792050320,
@@ -999,6 +997,8 @@
     "Hoenn|Mime Jr.|Rusturf Tunnel|498528": 1794704116,
     "Sinnoh|Furret|Route 208|498528": 1794704438,
     "Kanto|Magnezone|Power Plant|498528": 1794705028,
-    "Johto|Bayleef|National Park|498529": 1794705320
+    "Johto|Bayleef|National Park|498529": 1794705320,
+    "Johto|Kirlia|Route 43|498530": 1794709515,
+    "Unova|Furret|Abundant Shrine|498530": 1794709515
   }
 }
