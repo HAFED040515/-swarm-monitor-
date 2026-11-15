@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Sentret|Route 1|497814": 1792133716,
-    "Kanto|Pidgeot|Three Island|497815": 1792135220,
     "Hoenn|Kecleon|Route 120|497815": 1792135515,
     "Unova|Volbeat|Route 8|497815": 1792137316,
     "Johto|Totodile|Route 32|497815": 1792137636,
@@ -999,6 +997,8 @@
     "Unova|Volcarona|Relic Castle|498537": 1794735030,
     "Unova|Houndoom|Route 15|498538": 1794737421,
     "Johto|Lapras|Union Cave|498538": 1794738917,
-    "Sinnoh|Turtwig|Route 203|498538": 1794738917
+    "Sinnoh|Turtwig|Route 203|498538": 1794738917,
+    "Hoenn|Skarmory|Route 113|498538": 1794739522,
+    "Unova|Illumise|Moor of Icirrus|498538": 1794739522
   }
 }
