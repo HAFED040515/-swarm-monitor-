@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Yanma|Pinwheel Forest|497851": 1792264220,
     "Sinnoh|Chansey|Trophy Garden|497852": 1792268119,
     "Unova|Lucario|Guidance Chamber|497852": 1792268419,
     "Hoenn|Lapras|Shoal Cave|497852": 1792269316,
@@ -999,6 +998,7 @@
     "Unova|Lumineon|Route 17|498549": 1794778515,
     "Johto|Miltank|Route 39|498549": 1794779422,
     "Hoenn|Mismagius|Route 122|498550": 1794781517,
-    "Johto|Nincada|Route 46|498551": 1794785116
+    "Johto|Nincada|Route 46|498551": 1794785116,
+    "Kanto|Kabutops|Dilford Chamber|498551": 1794786022
   }
 }
