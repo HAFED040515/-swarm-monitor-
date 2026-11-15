@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Snorlax|Cerulean Cave|497785": 1792027220,
     "Unova|Honchkrow|Celestial Tower|497785": 1792029636,
     "Johto|Shroomish|Route 34|497786": 1792032018,
     "Hoenn|Feebas|Route 130|497786": 1792032319,
@@ -999,6 +998,7 @@
     "Hoenn|Torchic|Route 112|498527": 1794698722,
     "Kanto|Zangoose|Route 14|498527": 1794699031,
     "Hoenn|Rotom|New Mauville|498527": 1794700516,
-    "Sinnoh|Spiritomb|Turnback Cave|498527": 1794700516
+    "Sinnoh|Spiritomb|Turnback Cave|498527": 1794700516,
+    "Sinnoh|Castform|Route 210|498528": 1794702629
   }
 }
