@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Plusle|Route 5|497812": 1792124119,
-    "Hoenn|Skitty|Route 116|497812": 1792124420,
     "Sinnoh|Shuckle|Route 219|497812": 1792125028,
     "Johto|Houndoom|Burned Tower|497812": 1792126222,
     "Unova|Furret|Abundant Shrine|497813": 1792128916,
@@ -999,6 +997,8 @@
     "Hoenn|Banette|Mt. Pyre|498536": 1794732916,
     "Johto|Kirlia|Route 43|498537": 1794733824,
     "Unova|Dragonair|Dragonspiral Tower|498537": 1794733824,
-    "Kanto|Spiritomb|Lost Cave|498537": 1794734721
+    "Kanto|Spiritomb|Lost Cave|498537": 1794734721,
+    "Sinnoh|Prinplup|Route 220|498537": 1794735030,
+    "Unova|Volcarona|Relic Castle|498537": 1794735030
   }
 }
