@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Minun|Route 6|497821": 1792156222,
     "Kanto|Nosepass|Mt. Moon|497821": 1792156570,
     "Kanto|Omastar|Tanoby Ruins|497822": 1792160423,
     "Sinnoh|Pineco|Route 207|497822": 1792161921,
@@ -999,6 +998,7 @@
     "Johto|Togetic|Route 27|498539": 1794744039,
     "Hoenn|Relicanth|Route 126|498539": 1794744039,
     "Unova|Volcarona|Relic Castle|498540": 1794744318,
-    "Sinnoh|Turtwig|Route 203|498540": 1794744621
+    "Sinnoh|Turtwig|Route 203|498540": 1794744621,
+    "Kanto|Ivysaur|Route 5|498540": 1794745522
   }
 }
