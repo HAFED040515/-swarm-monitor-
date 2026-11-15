@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Unova|Hitmonlee|Victory Road|497834": 1792205420,
-    "Sinnoh|Tyranitar|Stark Mountain|497834": 1792205716,
-    "Kanto|Misdreavus|Pokemon Tower|497835": 1792207520,
     "Sinnoh|Torterra|Route 212|497835": 1792209636,
     "Unova|Seviper|Route 1|497837": 1792214718,
     "Johto|Miltank|Route 39|497837": 1792215620,
@@ -999,6 +996,9 @@
     "Hoenn|Sceptile|Route 119|498543": 1794756632,
     "Johto|Sudowoodo|Ilex Forest|498543": 1794757221,
     "Unova|Dragonair|Dragonspiral Tower|498543": 1794757221,
-    "Sinnoh|Crawdaunt|Lake Valor|498543": 1794758436
+    "Sinnoh|Crawdaunt|Lake Valor|498543": 1794758436,
+    "Kanto|Exeggutor|Route 23|498544": 1794759021,
+    "Hoenn|Dragonite|Route 131|498544": 1794759021,
+    "Unova|Octillery|Route 13|498544": 1794759021
   }
 }
