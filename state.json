@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Aipom|Route 29|497817": 1792143031,
-    "Hoenn|Munna|Route 102|497817": 1792144516,
     "Unova|Furret|Abundant Shrine|497818": 1792146020,
     "Sinnoh|Spiritomb|Turnback Cave|497818": 1792146628,
     "Kanto|Minun|Route 22|497819": 1792149915,
@@ -999,6 +997,8 @@
     "Unova|Illumise|Moor of Icirrus|498538": 1794739522,
     "Kanto|Venusaur|Berry Forest|498538": 1794740116,
     "Johto|Togetic|Route 27|498538": 1794740437,
-    "Sinnoh|Yanma|Route 205|498538": 1794740437
+    "Sinnoh|Yanma|Route 205|498538": 1794740437,
+    "Johto|Feraligatr|Tohjo Falls|498539": 1794741916,
+    "Hoenn|Marshtomp|Route 124|498539": 1794741916
   }
 }
