@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Misdreavus|Pokemon Tower|497793": 1792055722,
     "Johto|Togetic|Route 27|497793": 1792057519,
     "Hoenn|Relicanth|Route 126|497794": 1792059621,
     "Kanto|Pinsir|Route 11|497794": 1792060821,
@@ -999,6 +998,7 @@
     "Johto|Hitmontop|Mt. Mortar|498530": 1794710421,
     "Hoenn|Croagunk|Route 121|498530": 1794711025,
     "Unova|Carnivine|Route 18|498531": 1794711640,
-    "Kanto|Tauros|Route 17|498531": 1794711917
+    "Kanto|Tauros|Route 17|498531": 1794711917,
+    "Hoenn|Munna|Route 102|498531": 1794712522
   }
 }
