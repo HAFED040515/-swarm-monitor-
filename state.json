@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Kanto|Minun|Route 22|497819": 1792149915,
-    "Sinnoh|Spiritomb|Turnback Cave|497819": 1792150228,
-    "Hoenn|Mudkip|Route 104|497819": 1792152038,
     "Johto|Nincada|Route 46|497820": 1792152624,
     "Sinnoh|Rotom|Old Chateau|497820": 1792154118,
     "Unova|Minun|Route 6|497821": 1792156222,
@@ -999,6 +996,9 @@
     "Johto|Feraligatr|Tohjo Falls|498539": 1794741916,
     "Hoenn|Marshtomp|Route 124|498539": 1794741916,
     "Kanto|Venusaur|Berry Forest|498539": 1794742229,
-    "Sinnoh|Nosepass|Oreburgh Gate|498539": 1794742229
+    "Sinnoh|Nosepass|Oreburgh Gate|498539": 1794742229,
+    "Kanto|Bulbasaur|Viridian Forest|498539": 1794744039,
+    "Johto|Togetic|Route 27|498539": 1794744039,
+    "Hoenn|Relicanth|Route 126|498539": 1794744039
   }
 }
