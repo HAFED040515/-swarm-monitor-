@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Rotom|Old Chateau|497820": 1792154118,
     "Unova|Minun|Route 6|497821": 1792156222,
     "Kanto|Nosepass|Mt. Moon|497821": 1792156570,
     "Kanto|Omastar|Tanoby Ruins|497822": 1792160423,
@@ -999,6 +998,7 @@
     "Kanto|Bulbasaur|Viridian Forest|498539": 1794744039,
     "Johto|Togetic|Route 27|498539": 1794744039,
     "Hoenn|Relicanth|Route 126|498539": 1794744039,
-    "Unova|Volcarona|Relic Castle|498540": 1794744318
+    "Unova|Volcarona|Relic Castle|498540": 1794744318,
+    "Sinnoh|Turtwig|Route 203|498540": 1794744621
   }
 }
