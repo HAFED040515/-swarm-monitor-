@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Munna|Route 4|497846": 1792247117,
     "Johto|Togetic|Route 27|497846": 1792247429,
     "Unova|Wigglytuff|Route 14|497847": 1792251918,
     "Sinnoh|Burmy|Route 202|497847": 1792252219,
@@ -999,6 +998,7 @@
     "Hoenn|Mime Jr.|Rusturf Tunnel|498548": 1794774320,
     "Kanto|Lumineon|Route 12|498548": 1794774920,
     "Johto|Nincada|Route 46|498548": 1794774920,
-    "Sinnoh|Snorlax|Victory Road|498548": 1794775224
+    "Sinnoh|Snorlax|Victory Road|498548": 1794775224,
+    "Hoenn|Grovyle|Route 118|498548": 1794775821
   }
 }
