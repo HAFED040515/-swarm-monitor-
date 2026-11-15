@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Kanto|Illumise|Water Path|497838": 1792219519,
-    "Sinnoh|Shroomish|Route 201|497839": 1792223717,
-    "Johto|Togetic|Route 27|497840": 1792225220,
     "Unova|Munna|Dreamyard|497840": 1792226420,
     "Kanto|Absol|Canyon Entrance|497841": 1792228221,
     "Unova|Minccino|Cold Storage|497841": 1792228820,
@@ -999,6 +996,9 @@
     "Kanto|Salamence|Victory Road|498544": 1794760234,
     "Sinnoh|Castform|Route 210|498544": 1794760234,
     "Kanto|Ivysaur|Route 5|498544": 1794762038,
-    "Unova|Relicanth|Challenger&#x27;s Cave|498545": 1794762317
+    "Unova|Relicanth|Challenger&#x27;s Cave|498545": 1794762317,
+    "Johto|Nincada|Route 46|498545": 1794763226,
+    "Hoenn|Skarmory|Route 113|498545": 1794763226,
+    "Sinnoh|Tauros|Valor Lakefront|498545": 1794763226
   }
 }
