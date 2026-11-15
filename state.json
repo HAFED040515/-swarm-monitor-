@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Metang|Ice Path|497849": 1792260035,
     "Sinnoh|Heracross|Route 206|497849": 1792260035,
     "Hoenn|Munna|Route 102|497850": 1792262116,
     "Kanto|Sentret|Route 1|497850": 1792263019,
@@ -999,6 +998,7 @@
     "Kanto|Dragonite|Six Island|498549": 1794776716,
     "Johto|Togetic|Route 27|498549": 1794777322,
     "Hoenn|Mime Jr.|Rusturf Tunnel|498549": 1794777621,
-    "Sinnoh|Tropius|Route 226|498549": 1794777621
+    "Sinnoh|Tropius|Route 226|498549": 1794777621,
+    "Unova|Lumineon|Route 17|498549": 1794778515
   }
 }
