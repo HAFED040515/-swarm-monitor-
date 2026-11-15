@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Sandslash|Desert Resort|497798": 1792074020,
     "Hoenn|Sudowoodo|Battle Frontier|497799": 1792077622,
     "Sinnoh|Glaceon|Route 217|497799": 1792077915,
     "Hoenn|Relicanth|Route 126|497800": 1792081516,
@@ -999,6 +998,7 @@
     "Johto|Feraligatr|Tohjo Falls|498532": 1794717029,
     "Sinnoh|Monferno|Route 211|498532": 1794717029,
     "Hoenn|Murkrow|Jagged Pass|498532": 1794717924,
-    "Unova|Seviper|Route 1|498532": 1794717924
+    "Unova|Seviper|Route 1|498532": 1794717924,
+    "Johto|Absol|Route 28|498532": 1794718836
   }
 }
