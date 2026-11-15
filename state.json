@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Chimecho|Mt. Pyre|497838": 1792218627,
     "Kanto|Illumise|Water Path|497838": 1792219519,
     "Sinnoh|Shroomish|Route 201|497839": 1792223717,
     "Johto|Togetic|Route 27|497840": 1792225220,
@@ -999,6 +998,7 @@
     "Unova|Octillery|Route 13|498544": 1794759021,
     "Kanto|Salamence|Victory Road|498544": 1794760234,
     "Sinnoh|Castform|Route 210|498544": 1794760234,
-    "Kanto|Ivysaur|Route 5|498544": 1794762038
+    "Kanto|Ivysaur|Route 5|498544": 1794762038,
+    "Unova|Relicanth|Challenger&#x27;s Cave|498545": 1794762317
   }
 }
