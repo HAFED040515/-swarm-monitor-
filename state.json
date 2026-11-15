@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Houndoom|Burned Tower|497805": 1792098921,
-    "Unova|Togetic|Dreamyard|497805": 1792100118,
     "Kanto|Butterfree|Viridian Forest|497805": 1792101637,
     "Hoenn|Relicanth|Route 126|497806": 1792103716,
     "Sinnoh|Turtwig|Route 203|497807": 1792107317,
@@ -999,6 +997,8 @@
     "Sinnoh|Chansey|Trophy Garden|498534": 1794723916,
     "Sinnoh|Torterra|Route 212|498534": 1794725427,
     "Hoenn|Mudkip|Route 104|498535": 1794726317,
-    "Sinnoh|Turtwig|Route 203|498535": 1794726927
+    "Sinnoh|Turtwig|Route 203|498535": 1794726927,
+    "Kanto|Lapras|Icefall Cave|498535": 1794727221,
+    "Johto|Sharpedo|Route 41|498535": 1794727221
   }
 }
