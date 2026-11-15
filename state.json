@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Castform|Aqua Hideout|497826": 1792175429,
     "Unova|Scizor|Route 14|497826": 1792175429,
     "Kanto|Trapinch|Diglett&#x27;s Cave|497827": 1792178420,
     "Unova|Togetic|Dreamyard|497827": 1792178717,
@@ -999,6 +998,7 @@
     "Kanto|Salamence|Victory Road|498541": 1794747917,
     "Unova|Lucario|Guidance Chamber|498541": 1794747917,
     "Sinnoh|Mr. Mime|Route 224|498541": 1794749115,
-    "Kanto|Tauros|Route 17|498541": 1794749717
+    "Kanto|Tauros|Route 17|498541": 1794749717,
+    "Johto|Metang|Ice Path|498541": 1794750321
   }
 }
