@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Mudkip|Route 104|497844": 1792238717,
-    "Kanto|Misdreavus|Pokemon Tower|497844": 1792239019,
     "Sinnoh|Shroomish|Route 201|497844": 1792241420,
     "Unova|Cherubi|Route 16|497844": 1792241420,
     "Johto|Shelgon|Dragon&#x27;s Den|497844": 1792242038,
@@ -999,6 +997,8 @@
     "Unova|Zangoose|Route 7|498546": 1794766521,
     "Hoenn|Vaporeon|Route 134|498546": 1794767117,
     "Sinnoh|Scyther|Route 210|498546": 1794767117,
-    "Sinnoh|Graveler|Route 207|498546": 1794768622
+    "Sinnoh|Graveler|Route 207|498546": 1794768622,
+    "Kanto|Charmander|Route 3|498547": 1794770723,
+    "Hoenn|Chatot|Route 115|498547": 1794770723
   }
 }
