@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Jolteon|Ruin Valley|497787": 1792034120,
     "Sinnoh|Garchomp|Ravaged Path|497787": 1792037419,
     "Kanto|Pinsir|Route 11|497788": 1792038020,
     "Unova|Togetic|Dreamyard|497788": 1792039820,
@@ -999,6 +998,7 @@
     "Sinnoh|Castform|Route 210|498528": 1794702629,
     "Kanto|Wormadam|Pattern Bush|498528": 1794702919,
     "Johto|Shuckle|Cliff Cave|498528": 1794702919,
-    "Kanto|Tauros|Route 17|498528": 1794703821
+    "Kanto|Tauros|Route 17|498528": 1794703821,
+    "Hoenn|Mime Jr.|Rusturf Tunnel|498528": 1794704116
   }
 }
