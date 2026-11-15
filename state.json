@@ -1,9 +1,5 @@
 {
   "notified": {
-    "Kanto|Butterfree|Viridian Forest|497805": 1792101637,
-    "Hoenn|Relicanth|Route 126|497806": 1792103716,
-    "Sinnoh|Turtwig|Route 203|497807": 1792107317,
-    "Unova|Cacnea|Route 4|497807": 1792108219,
     "Kanto|Absol|Sevault Canyon|497808": 1792109720,
     "Johto|Miltank|Route 39|497808": 1792110020,
     "Hoenn|Volcarona|Scorched Slab|497809": 1792113914,
@@ -999,6 +995,10 @@
     "Hoenn|Mudkip|Route 104|498535": 1794726317,
     "Sinnoh|Turtwig|Route 203|498535": 1794726927,
     "Kanto|Lapras|Icefall Cave|498535": 1794727221,
-    "Johto|Sharpedo|Route 41|498535": 1794727221
+    "Johto|Sharpedo|Route 41|498535": 1794727221,
+    "Kanto|Luvdisc|Route 19|498535": 1794729022,
+    "Johto|Quilava|Route 42|498535": 1794729022,
+    "Hoenn|Skitty|Route 116|498535": 1794729022,
+    "Unova|Zangoose|Route 7|498535": 1794729022
   }
 }
