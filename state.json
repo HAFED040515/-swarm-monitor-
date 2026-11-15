@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Pinsir|Route 11|497788": 1792038020,
     "Unova|Togetic|Dreamyard|497788": 1792039820,
     "Hoenn|Carnivine|Route 123|497789": 1792041917,
     "Johto|Volcarona|Bell Tower|497790": 1792045517,
@@ -999,6 +998,7 @@
     "Johto|Shuckle|Cliff Cave|498528": 1794702919,
     "Kanto|Tauros|Route 17|498528": 1794703821,
     "Hoenn|Mime Jr.|Rusturf Tunnel|498528": 1794704116,
-    "Sinnoh|Furret|Route 208|498528": 1794704438
+    "Sinnoh|Furret|Route 208|498528": 1794704438,
+    "Kanto|Magnezone|Power Plant|498528": 1794705028
   }
 }
