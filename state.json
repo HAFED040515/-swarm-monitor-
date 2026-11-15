@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Kangaskhan|Rock Tunnel|497823": 1792165221,
-    "Sinnoh|Shuckle|Route 219|497823": 1792166116,
     "Johto|Skarmory|Route 26|497825": 1792170040,
     "Sinnoh|Bonsly|Eterna Forest|497825": 1792173020,
     "Hoenn|Castform|Aqua Hideout|497826": 1792175429,
@@ -999,6 +997,8 @@
     "Hoenn|Finneon|Route 107|498540": 1794745833,
     "Unova|Corsola|Undella Bay|498540": 1794745833,
     "Johto|Yanmega|Route 44|498541": 1794747639,
-    "Hoenn|Lapras|Shoal Cave|498540": 1794747639
+    "Hoenn|Lapras|Shoal Cave|498540": 1794747639,
+    "Kanto|Salamence|Victory Road|498541": 1794747917,
+    "Unova|Lucario|Guidance Chamber|498541": 1794747917
   }
 }
