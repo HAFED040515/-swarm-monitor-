@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Charmander|Route 3|497804": 1792096822,
     "Johto|Houndoom|Burned Tower|497805": 1792098921,
     "Unova|Togetic|Dreamyard|497805": 1792100118,
     "Kanto|Butterfree|Viridian Forest|497805": 1792101637,
@@ -999,6 +998,7 @@
     "Johto|Starmie|Cliff Edge Gate|498534": 1794723621,
     "Sinnoh|Chansey|Trophy Garden|498534": 1794723916,
     "Sinnoh|Torterra|Route 212|498534": 1794725427,
-    "Hoenn|Mudkip|Route 104|498535": 1794726317
+    "Hoenn|Mudkip|Route 104|498535": 1794726317,
+    "Sinnoh|Turtwig|Route 203|498535": 1794726927
   }
 }
