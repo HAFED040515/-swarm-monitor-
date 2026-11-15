@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Drifloon|Route 105|497833": 1792202434,
     "Kanto|Wormadam|Pattern Bush|497834": 1792203019,
     "Hoenn|Lairon|Granite Cave|497834": 1792203916,
     "Johto|Sharpedo|Route 41|497834": 1792205121,
@@ -999,6 +998,7 @@
     "Johto|Shroomish|Route 34|498543": 1794756027,
     "Sinnoh|Rotom|Old Chateau|498543": 1794756027,
     "Unova|Farfetch&#x27;d|Route 1|498543": 1794756027,
-    "Kanto|Exeggutor|Route 23|498543": 1794756318
+    "Kanto|Exeggutor|Route 23|498543": 1794756318,
+    "Hoenn|Sceptile|Route 119|498543": 1794756632
   }
 }
