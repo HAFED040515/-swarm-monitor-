@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Linoone|Route 104|497809": 1792114820,
-    "Johto|Shuckle|Cliff Cave|497809": 1792115047,
     "Kanto|Wailord|Green Path|497810": 1792118117,
     "Unova|Zorua|Lostlorn Forest|497810": 1792119024,
     "Sinnoh|Scyther|Route 210|497811": 1792119917,
@@ -999,6 +997,8 @@
     "Hoenn|Volcarona|Scorched Slab|498536": 1794730823,
     "Kanto|Illumise|Water Path|498536": 1794731117,
     "Johto|Shroomish|Route 34|498536": 1794731117,
-    "Sinnoh|Drifblim|Route 222|498536": 1794731117
+    "Sinnoh|Drifblim|Route 222|498536": 1794731117,
+    "Sinnoh|Rotom|Old Chateau|498536": 1794732322,
+    "Unova|Aipom|Cold Storage|498536": 1794732322
   }
 }
