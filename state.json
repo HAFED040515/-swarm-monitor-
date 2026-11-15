@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Shelgon|Dragon&#x27;s Den|497844": 1792242038,
     "Hoenn|Castform|Aqua Hideout|497844": 1792242038,
     "Sinnoh|Bonsly|Eterna Forest|497846": 1792246520,
     "Unova|Volcarona|Relic Castle|497846": 1792246520,
@@ -999,6 +998,7 @@
     "Kanto|Charmander|Route 3|498547": 1794770723,
     "Hoenn|Chatot|Route 115|498547": 1794770723,
     "Kanto|Tauros|Route 17|498547": 1794772222,
-    "Hoenn|Mismagius|Route 122|498547": 1794772520
+    "Hoenn|Mismagius|Route 122|498547": 1794772520,
+    "Hoenn|Mime Jr.|Rusturf Tunnel|498548": 1794774320
   }
 }
