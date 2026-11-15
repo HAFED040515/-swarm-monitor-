@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Shroomish|Route 34|497802": 1792089318,
     "Unova|Hippowdon|Mistralton Cave|497803": 1792092317,
     "Kanto|Dragonite|Six Island|497803": 1792092629,
     "Sinnoh|Skitty|Route 204|497803": 1792093823,
@@ -999,6 +998,7 @@
     "Johto|Pineco|Route 36|498533": 1794720317,
     "Hoenn|Qwilfish|Route 125|498533": 1794720629,
     "Kanto|Milotic|Resort Gorgeous|498533": 1794720917,
-    "Johto|Vigoroth|Ruins of Alph|498533": 1794722116
+    "Johto|Vigoroth|Ruins of Alph|498533": 1794722116,
+    "Unova|Porygon2|P2 Laboratory|498533": 1794722437
   }
 }
