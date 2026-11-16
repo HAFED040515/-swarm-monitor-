@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Pikachu|Route 19|497924": 1792528516,
-    "Hoenn|Feebas|Route 130|497924": 1792530036,
     "Sinnoh|Bonsly|Eterna Forest|497925": 1792530317,
     "Unova|Plusle|Route 5|497925": 1792531225,
     "Hoenn|Gulpin|Route 110|497925": 1792533316,
@@ -999,6 +997,8 @@
     "Hoenn|Volcarona|Scorched Slab|498573": 1794864631,
     "Sinnoh|Elekid|Valley Windworks|498574": 1794867920,
     "Hoenn|Grovyle|Route 118|498574": 1794868238,
-    "Unova|Relicanth|Challenger&#x27;s Cave|498574": 1794868238
+    "Unova|Relicanth|Challenger&#x27;s Cave|498574": 1794868238,
+    "Hoenn|Vaporeon|Route 134|498574": 1794870039,
+    "Unova|Zorua|Lostlorn Forest|498574": 1794870039
   }
 }
