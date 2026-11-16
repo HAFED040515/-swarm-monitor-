@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Volcarona|Bell Tower|497922": 1792522517,
-    "Kanto|Bulbasaur|Viridian Forest|497924": 1792526716,
     "Kanto|Pikachu|Route 19|497924": 1792528516,
     "Hoenn|Feebas|Route 130|497924": 1792530036,
     "Sinnoh|Bonsly|Eterna Forest|497925": 1792530317,
@@ -999,6 +997,8 @@
     "Kanto|Qwilfish|Route 20|498572": 1794861317,
     "Kanto|Milotic|Resort Gorgeous|498573": 1794864034,
     "Hoenn|Volcarona|Scorched Slab|498573": 1794864631,
-    "Sinnoh|Elekid|Valley Windworks|498574": 1794867920
+    "Sinnoh|Elekid|Valley Windworks|498574": 1794867920,
+    "Hoenn|Grovyle|Route 118|498574": 1794868238,
+    "Unova|Relicanth|Challenger&#x27;s Cave|498574": 1794868238
   }
 }
