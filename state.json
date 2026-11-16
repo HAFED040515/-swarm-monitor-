@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Forretress|Route 43|497905": 1792462219,
-    "Hoenn|Cacnea|Route 111|497906": 1792462519,
     "Unova|Dragonair|Dragonspiral Tower|497907": 1792465820,
     "Hoenn|Relicanth|Route 126|497908": 1792469116,
     "Sinnoh|Rotom|Old Chateau|497908": 1792469116,
@@ -999,6 +997,8 @@
     "Johto|Yanmega|Route 44|498568": 1794845722,
     "Hoenn|Skitty|Route 116|498568": 1794845722,
     "Sinnoh|Lucario|Iron Island|498568": 1794846023,
-    "Johto|Shroomish|Route 34|498568": 1794847531
+    "Johto|Shroomish|Route 34|498568": 1794847531,
+    "Hoenn|Qwilfish|Route 125|498568": 1794848117,
+    "Sinnoh|Ambipom|Route 216|498568": 1794848117
   }
 }
