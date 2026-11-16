@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Relicanth|Route 126|497908": 1792469116,
     "Sinnoh|Rotom|Old Chateau|497908": 1792469116,
     "Kanto|Cradily|Tanoby Ruins|497908": 1792471222,
     "Johto|Porygon-Z|Team Rocket HQ|497909": 1792474821,
@@ -999,6 +998,7 @@
     "Johto|Shroomish|Route 34|498568": 1794847531,
     "Hoenn|Qwilfish|Route 125|498568": 1794848117,
     "Sinnoh|Ambipom|Route 216|498568": 1794848117,
-    "Kanto|Swalot|Route 18|498568": 1794848440
+    "Kanto|Swalot|Route 18|498568": 1794848440,
+    "Johto|Chimecho|Bellchime Trail|498569": 1794849920
   }
 }
