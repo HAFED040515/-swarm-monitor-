@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Qwilfish|Route 125|497874": 1792349120,
     "Kanto|Lumineon|Route 12|497874": 1792349420,
     "Johto|Kangaskhan|Dark Cave|497874": 1792349420,
     "Sinnoh|Turtwig|Route 203|497874": 1792349715,
@@ -999,6 +998,7 @@
     "Kanto|Vespiquen|Five Isle Meadow|498559": 1794813621,
     "Sinnoh|Grotle|Sendoff Spring|498559": 1794813916,
     "Johto|Togetic|Route 27|498559": 1794814230,
-    "Sinnoh|Blissey|Floaroma Meadow|498559": 1794814230
+    "Sinnoh|Blissey|Floaroma Meadow|498559": 1794814230,
+    "Hoenn|Flygon|Desert Underpass|498559": 1794814821
   }
 }
