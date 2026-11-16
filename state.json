@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Grotle|Sendoff Spring|497886": 1792391117,
-    "Unova|Farfetch&#x27;d|Route 1|497886": 1792391717,
     "Kanto|Sentret|Route 1|497886": 1792392320,
     "Hoenn|Spiritomb|Abandoned Ship|497886": 1792392320,
     "Johto|Luvdisc|Route 47|497887": 1792393822,
@@ -999,6 +997,8 @@
     "Sinnoh|Scyther|Route 210|498561": 1794823238,
     "Kanto|Lapras|Icefall Cave|498562": 1794823526,
     "Unova|Zorua|Lostlorn Forest|498562": 1794823526,
-    "Johto|Shelgon|Dragon&#x27;s Den|498562": 1794824126
+    "Johto|Shelgon|Dragon&#x27;s Den|498562": 1794824126,
+    "Hoenn|Metagross|Meteor Falls|498562": 1794825032,
+    "Unova|Hitmonlee|Victory Road|498562": 1794825032
   }
 }
