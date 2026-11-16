@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Mime Jr.|Rusturf Tunnel|497891": 1792409429,
     "Sinnoh|Crawdaunt|Lake Valor|497892": 1792413318,
     "Unova|Bronzong|Abundant Shrine|497892": 1792415117,
     "Kanto|Exeggutor|Route 23|497893": 1792415422,
@@ -999,6 +998,7 @@
     "Hoenn|Swampert|Route 109|498564": 1794830719,
     "Unova|Houndoom|Route 15|498564": 1794830719,
     "Kanto|Milotic|Resort Gorgeous|498564": 1794831321,
-    "Johto|Exeggcute|Route 30|498564": 1794831321
+    "Johto|Exeggcute|Route 30|498564": 1794831321,
+    "Sinnoh|Infernape|Route 221|498564": 1794832517
   }
 }
