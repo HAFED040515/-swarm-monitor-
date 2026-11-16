@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Luvdisc|Route 47|497887": 1792393822,
     "Sinnoh|Whiscash|Ravaged Path|497887": 1792395620,
     "Hoenn|Mudkip|Route 104|497888": 1792397422,
     "Unova|Slakoth|Route 2|497888": 1792399522,
@@ -999,6 +998,7 @@
     "Hoenn|Metagross|Meteor Falls|498562": 1794825032,
     "Unova|Hitmonlee|Victory Road|498562": 1794825032,
     "Kanto|Pinsir|Route 11|498562": 1794825630,
-    "Sinnoh|Mr. Mime|Route 224|498562": 1794825630
+    "Sinnoh|Mr. Mime|Route 224|498562": 1794825630,
+    "Johto|Typhlosion|Route 45|498562": 1794826233
   }
 }
