@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Metang|Ice Path|497871": 1792336520,
-    "Hoenn|Mismagius|Route 122|497871": 1792338021,
     "Unova|Seviper|Route 1|497871": 1792339235,
     "Sinnoh|Absol|Mt. Coronet|497872": 1792340120,
     "Johto|Absol|Route 28|497872": 1792341619,
@@ -999,6 +997,8 @@
     "Johto|Skarmory|Route 26|498558": 1794809722,
     "Hoenn|Finneon|Route 107|498558": 1794810319,
     "Sinnoh|Prinplup|Route 220|498558": 1794810631,
-    "Unova|Kangaskhan|Wellspring Cave|498558": 1794810917
+    "Unova|Kangaskhan|Wellspring Cave|498558": 1794810917,
+    "Johto|Tauros|Route 38|498558": 1794812498,
+    "Sinnoh|Burmy|Route 202|498558": 1794812498
   }
 }
