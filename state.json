@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Breloom|Route 120|497857": 1792289421,
-    "Sinnoh|Tauros|Valor Lakefront|497858": 1792291219,
     "Kanto|Murkrow|Route 7|497858": 1792291520,
     "Sinnoh|Cloyster|Route 223|497859": 1792294824,
     "Unova|Salamence|Dragonspiral Tower|497860": 1792296921,
@@ -999,6 +997,8 @@
     "Sinnoh|Vigoroth|Route 215|498553": 1794793221,
     "Kanto|Tropius|Bond Bridge|498553": 1794793521,
     "Johto|Misdreavus|Sprout Tower|498553": 1794793821,
-    "Hoenn|Sudowoodo|Battle Frontier|498553": 1794793821
+    "Hoenn|Sudowoodo|Battle Frontier|498553": 1794793821,
+    "Hoenn|Kecleon|Route 120|498554": 1794795320,
+    "Unova|Yanma|Pinwheel Forest|498554": 1794795320
   }
 }
