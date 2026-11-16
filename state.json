@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Spinda|Jagged Pass|497853": 1792274717,
     "Sinnoh|Bonsly|Eterna Forest|497854": 1792275023,
     "Johto|Chimecho|Bellchime Trail|497854": 1792275620,
     "Kanto|Venusaur|Berry Forest|497854": 1792275916,
@@ -999,6 +998,7 @@
     "Sinnoh|Grotle|Sendoff Spring|498551": 1794786624,
     "Johto|Togetic|Route 27|498551": 1794787239,
     "Hoenn|Dragonite|Route 131|498552": 1794787821,
-    "Kanto|Relicanth|Tanoby Ruins|498552": 1794788122
+    "Kanto|Relicanth|Tanoby Ruins|498552": 1794788122,
+    "Johto|Hitmontop|Mt. Mortar|498552": 1794789628
   }
 }
