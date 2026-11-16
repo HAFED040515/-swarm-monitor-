@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Heracross|Route 10|497920": 1792512316,
     "Unova|Cottonee|Lostlorn Forest|497919": 1792512620,
     "Sinnoh|Kecleon|Route 229|497920": 1792513827,
     "Johto|Nincada|Route 46|497921": 1792516250,
@@ -999,6 +998,7 @@
     "Hoenn|Finneon|Route 107|498571": 1794858623,
     "Unova|Zorua|Lostlorn Forest|498571": 1794858623,
     "Johto|Chimecho|Bellchime Trail|498571": 1794858918,
-    "Sinnoh|Rhyperior|Route 214|498571": 1794858918
+    "Sinnoh|Rhyperior|Route 214|498571": 1794858918,
+    "Kanto|Salamence|Victory Road|498571": 1794859239
   }
 }
