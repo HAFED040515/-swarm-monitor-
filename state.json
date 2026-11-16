@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Meganium|Route 48|497856": 1792282219,
     "Unova|Volbeat|Route 8|497856": 1792283715,
     "Sinnoh|Chansey|Trophy Garden|497856": 1792285232,
     "Johto|Exeggcute|Route 30|497857": 1792285516,
@@ -999,6 +998,7 @@
     "Kanto|Qwilfish|Route 20|498552": 1794789933,
     "Sinnoh|Chatot|Route 218|498552": 1794790221,
     "Kanto|Illumise|Water Path|498553": 1794791721,
-    "Hoenn|Gulpin|Route 110|498553": 1794791721
+    "Hoenn|Gulpin|Route 110|498553": 1794791721,
+    "Unova|Skorupi|Desert Resort|498553": 1794792634
   }
 }
