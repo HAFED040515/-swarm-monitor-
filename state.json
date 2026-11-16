@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Cloyster|Route 133|497895": 1792424117,
-    "Unova|Seviper|Route 1|497896": 1792428916,
     "Sinnoh|Nosepass|Oreburgh Gate|497897": 1792431317,
     "Johto|Miltank|Route 39|497897": 1792431920,
     "Kanto|Zangoose|Route 14|497898": 1792433117,
@@ -999,6 +997,8 @@
     "Hoenn|Cloyster|Route 133|498564": 1794833121,
     "Johto|Barboach|Slowpoke Well|498565": 1794834629,
     "Unova|Patrat|Route 3|498565": 1794835222,
-    "Johto|Lapras|Union Cave|498565": 1794836422
+    "Johto|Lapras|Union Cave|498565": 1794836422,
+    "Kanto|Spiritomb|Lost Cave|498565": 1794837320,
+    "Sinnoh|Magmar|Fuego Ironworks|498565": 1794837320
   }
 }
