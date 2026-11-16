@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Kirlia|Snowpoint Temple|497899": 1792437020,
     "Johto|Cyndaquil|Route 33|497899": 1792439421,
     "Sinnoh|Nosepass|Oreburgh Gate|497901": 1792444822,
     "Unova|Cherubi|Route 16|497901": 1792444822,
@@ -999,6 +998,7 @@
     "Hoenn|Staryu|Route 106|498566": 1794840021,
     "Kanto|Cradily|Tanoby Ruins|498566": 1794840623,
     "Johto|Skitty|Route 35|498566": 1794840917,
-    "Hoenn|Kecleon|Route 120|498567": 1794842126
+    "Hoenn|Kecleon|Route 120|498567": 1794842126,
+    "Kanto|Chatot|Treasure Beach|498567": 1794842428
   }
 }
