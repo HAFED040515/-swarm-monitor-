@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Kanto|Plusle|Route 2|497861": 1792301715,
-    "Unova|Ninjask|Route 11|497861": 1792302019,
-    "Sinnoh|Spiritomb|Turnback Cave|497862": 1792305315,
     "Hoenn|Corsola|Route 128|497862": 1792306517,
     "Sinnoh|Lucario|Route 216|497862": 1792307420,
     "Unova|Electabuzz|Chargestone Cave|497863": 1792308021,
@@ -999,6 +996,9 @@
     "Kanto|Porygon|Pokemon Mansion|498554": 1794795626,
     "Johto|Snorlax|Victory Road|498554": 1794795916,
     "Unova|Carnivine|Route 18|498554": 1794796822,
-    "Hoenn|Metagross|Meteor Falls|498554": 1794797421
+    "Hoenn|Metagross|Meteor Falls|498554": 1794797421,
+    "Kanto|Mr. Mime|Route 21|498554": 1794798040,
+    "Johto|Yanmega|Route 44|498554": 1794798040,
+    "Sinnoh|Heracross|Route 206|498555": 1794798040
   }
 }
