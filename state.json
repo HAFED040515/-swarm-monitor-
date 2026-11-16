@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Munna|Route 102|497922": 1792520420,
     "Johto|Volcarona|Bell Tower|497922": 1792522517,
     "Kanto|Bulbasaur|Viridian Forest|497924": 1792526716,
     "Kanto|Pikachu|Route 19|497924": 1792528516,
@@ -999,6 +998,7 @@
     "Hoenn|Spiritomb|Abandoned Ship|498572": 1794861031,
     "Kanto|Qwilfish|Route 20|498572": 1794861317,
     "Kanto|Milotic|Resort Gorgeous|498573": 1794864034,
-    "Hoenn|Volcarona|Scorched Slab|498573": 1794864631
+    "Hoenn|Volcarona|Scorched Slab|498573": 1794864631,
+    "Sinnoh|Elekid|Valley Windworks|498574": 1794867920
   }
 }
