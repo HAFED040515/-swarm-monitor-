@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Cloyster|Route 223|497859": 1792294824,
     "Unova|Salamence|Dragonspiral Tower|497860": 1792296921,
     "Johto|Croconaw|Whirl Islands|497860": 1792299315,
     "Kanto|Plusle|Route 2|497861": 1792301715,
@@ -999,6 +998,7 @@
     "Hoenn|Sudowoodo|Battle Frontier|498553": 1794793821,
     "Hoenn|Kecleon|Route 120|498554": 1794795320,
     "Unova|Yanma|Pinwheel Forest|498554": 1794795320,
-    "Kanto|Porygon|Pokemon Mansion|498554": 1794795626
+    "Kanto|Porygon|Pokemon Mansion|498554": 1794795626,
+    "Johto|Snorlax|Victory Road|498554": 1794795916
   }
 }
