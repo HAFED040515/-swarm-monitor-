@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Croconaw|Whirl Islands|497860": 1792299315,
     "Kanto|Plusle|Route 2|497861": 1792301715,
     "Unova|Ninjask|Route 11|497861": 1792302019,
     "Sinnoh|Spiritomb|Turnback Cave|497862": 1792305315,
@@ -999,6 +998,7 @@
     "Unova|Yanma|Pinwheel Forest|498554": 1794795320,
     "Kanto|Porygon|Pokemon Mansion|498554": 1794795626,
     "Johto|Snorlax|Victory Road|498554": 1794795916,
-    "Unova|Carnivine|Route 18|498554": 1794796822
+    "Unova|Carnivine|Route 18|498554": 1794796822,
+    "Hoenn|Metagross|Meteor Falls|498554": 1794797421
   }
 }
