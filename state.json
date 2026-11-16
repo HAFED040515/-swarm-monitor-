@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Crawdaunt|Lake Valor|497892": 1792413318,
-    "Unova|Bronzong|Abundant Shrine|497892": 1792415117,
-    "Kanto|Exeggutor|Route 23|497893": 1792415422,
     "Johto|Chikorita|Route 31|497894": 1792421125,
     "Kanto|Volbeat|Memorial Pillar|497894": 1792421427,
     "Sinnoh|Shroomish|Route 201|497895": 1792422926,
@@ -999,6 +996,9 @@
     "Unova|Houndoom|Route 15|498564": 1794830719,
     "Kanto|Milotic|Resort Gorgeous|498564": 1794831321,
     "Johto|Exeggcute|Route 30|498564": 1794831321,
-    "Sinnoh|Infernape|Route 221|498564": 1794832517
+    "Sinnoh|Infernape|Route 221|498564": 1794832517,
+    "Kanto|Qwilfish|Route 20|498564": 1794832821,
+    "Johto|Tauros|Route 38|498564": 1794832821,
+    "Unova|Minun|Route 6|498564": 1794832821
   }
 }
