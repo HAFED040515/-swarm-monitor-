@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Cyndaquil|Route 33|497899": 1792439421,
-    "Sinnoh|Nosepass|Oreburgh Gate|497901": 1792444822,
     "Unova|Cherubi|Route 16|497901": 1792444822,
     "Johto|Rhyperior|Mt. Mortar|497901": 1792447821,
     "Hoenn|Vaporeon|Route 134|497902": 1792448716,
@@ -999,6 +997,8 @@
     "Kanto|Cradily|Tanoby Ruins|498566": 1794840623,
     "Johto|Skitty|Route 35|498566": 1794840917,
     "Hoenn|Kecleon|Route 120|498567": 1794842126,
-    "Kanto|Chatot|Treasure Beach|498567": 1794842428
+    "Kanto|Chatot|Treasure Beach|498567": 1794842428,
+    "Sinnoh|Torterra|Route 212|498567": 1794842717,
+    "Unova|Farfetch&#x27;d|Route 1|498567": 1794842717
   }
 }
