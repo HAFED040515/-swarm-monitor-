@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Combee|Floaroma Meadow|497865": 1792316720,
-    "Johto|Chikorita|Route 31|497866": 1792320916,
-    "Kanto|Cradily|Tanoby Ruins|497867": 1792321516,
     "Unova|Relicanth|Challenger&#x27;s Cave|497867": 1792321819,
     "Sinnoh|Turtwig|Route 203|497868": 1792325421,
     "Johto|Sunflora|National Park|497868": 1792327519,
@@ -999,6 +996,9 @@
     "Hoenn|Torchic|Route 112|498555": 1794801316,
     "Unova|Honchkrow|Celestial Tower|498555": 1794801634,
     "Kanto|Jolteon|Ruin Valley|498556": 1794802226,
-    "Johto|Chikorita|Route 31|498556": 1794804021
+    "Johto|Chikorita|Route 31|498556": 1794804021,
+    "Kanto|Charizard|Mt. Ember|498557": 1794806425,
+    "Johto|Sharpedo|Route 41|498557": 1794806425,
+    "Hoenn|Lapras|Shoal Cave|498557": 1794806425
   }
 }
