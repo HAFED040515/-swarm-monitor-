@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Mudkip|Route 104|497865": 1792315827,
     "Sinnoh|Combee|Floaroma Meadow|497865": 1792316720,
     "Johto|Chikorita|Route 31|497866": 1792320916,
     "Kanto|Cradily|Tanoby Ruins|497867": 1792321516,
@@ -999,6 +998,7 @@
     "Sinnoh|Yanma|Route 205|498555": 1794801021,
     "Hoenn|Torchic|Route 112|498555": 1794801316,
     "Unova|Honchkrow|Celestial Tower|498555": 1794801634,
-    "Kanto|Jolteon|Ruin Valley|498556": 1794802226
+    "Kanto|Jolteon|Ruin Valley|498556": 1794802226,
+    "Johto|Chikorita|Route 31|498556": 1794804021
   }
 }
