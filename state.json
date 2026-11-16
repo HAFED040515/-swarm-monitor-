@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Zorua|Lostlorn Forest|497884": 1792384821,
-    "Sinnoh|Tauros|Valor Lakefront|497884": 1792385118,
     "Johto|Wailmer|Route 40|497885": 1792387515,
     "Sinnoh|Grotle|Sendoff Spring|497886": 1792391117,
     "Unova|Farfetch&#x27;d|Route 1|497886": 1792391717,
@@ -999,6 +997,8 @@
     "Sinnoh|Chansey|Trophy Garden|498561": 1794821118,
     "Johto|Shroomish|Route 34|498561": 1794822322,
     "Hoenn|Blaziken|Magma Hideout|498561": 1794822622,
-    "Sinnoh|Scyther|Route 210|498561": 1794823238
+    "Sinnoh|Scyther|Route 210|498561": 1794823238,
+    "Kanto|Lapras|Icefall Cave|498562": 1794823526,
+    "Unova|Zorua|Lostlorn Forest|498562": 1794823526
   }
 }
