@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Houndoom|Kindle Road|497872": 1792342219,
-    "Unova|Hitmonlee|Victory Road|497873": 1792345519,
     "Hoenn|Qwilfish|Route 125|497874": 1792349120,
     "Kanto|Lumineon|Route 12|497874": 1792349420,
     "Johto|Kangaskhan|Dark Cave|497874": 1792349420,
@@ -999,6 +997,8 @@
     "Sinnoh|Burmy|Route 202|498558": 1794812498,
     "Unova|Electabuzz|Chargestone Cave|498559": 1794813023,
     "Kanto|Vespiquen|Five Isle Meadow|498559": 1794813621,
-    "Sinnoh|Grotle|Sendoff Spring|498559": 1794813916
+    "Sinnoh|Grotle|Sendoff Spring|498559": 1794813916,
+    "Johto|Togetic|Route 27|498559": 1794814230,
+    "Sinnoh|Blissey|Floaroma Meadow|498559": 1794814230
   }
 }
