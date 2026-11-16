@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Farfetch&#x27;d|Route 209|497904": 1792457715,
     "Johto|Forretress|Route 43|497905": 1792462219,
     "Hoenn|Cacnea|Route 111|497906": 1792462519,
     "Unova|Dragonair|Dragonspiral Tower|497907": 1792465820,
@@ -999,6 +998,7 @@
     "Kanto|Charizard|Mt. Ember|498567": 1794844520,
     "Johto|Yanmega|Route 44|498568": 1794845722,
     "Hoenn|Skitty|Route 116|498568": 1794845722,
-    "Sinnoh|Lucario|Iron Island|498568": 1794846023
+    "Sinnoh|Lucario|Iron Island|498568": 1794846023,
+    "Johto|Shroomish|Route 34|498568": 1794847531
   }
 }
