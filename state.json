@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Miltank|Route 39|497897": 1792431920,
     "Kanto|Zangoose|Route 14|497898": 1792433117,
     "Unova|Pinsir|Route 12|497898": 1792433419,
     "Kanto|Charizard|Mt. Ember|497899": 1792437020,
@@ -999,6 +998,7 @@
     "Johto|Lapras|Union Cave|498565": 1794836422,
     "Kanto|Spiritomb|Lost Cave|498565": 1794837320,
     "Sinnoh|Magmar|Fuego Ironworks|498565": 1794837320,
-    "Johto|Lucario|Mt. Silver Cave|498566": 1794838521
+    "Johto|Lucario|Mt. Silver Cave|498566": 1794838521,
+    "Kanto|Croagunk|Route 6|498566": 1794839126
   }
 }
