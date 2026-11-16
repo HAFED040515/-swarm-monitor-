@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Salamence|Sky Pillar|497877": 1792359620,
     "Johto|Bonsly|Ilex Forest|497878": 1792361116,
     "Sinnoh|Skarmory|Route 227|497878": 1792363820,
     "Hoenn|Pineco|Route 103|497881": 1792372221,
@@ -999,6 +998,7 @@
     "Hoenn|Torchic|Route 112|498560": 1794817222,
     "Kanto|Porygon|Pokemon Mansion|498560": 1794818117,
     "Johto|Nincada|Route 46|498560": 1794818722,
-    "Unova|Plusle|Route 5|498560": 1794818722
+    "Unova|Plusle|Route 5|498560": 1794818722,
+    "Johto|Chikorita|Route 31|498561": 1794820222
   }
 }
