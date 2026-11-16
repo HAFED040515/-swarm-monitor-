@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Lapras|Shoal Cave|497917": 1792503028,
     "Johto|Croconaw|Whirl Islands|497917": 1792504839,
     "Kanto|Spiritomb|Lost Cave|497918": 1792506020,
     "Sinnoh|Trapinch|Oreburgh Mine|497918": 1792506317,
@@ -999,6 +998,7 @@
     "Johto|Chikorita|Route 31|498570": 1794855318,
     "Hoenn|Cacnea|Route 111|498571": 1794856824,
     "Unova|Honchkrow|Celestial Tower|498571": 1794856824,
-    "Sinnoh|Carnivine|Route 225|498571": 1794857129
+    "Sinnoh|Carnivine|Route 225|498571": 1794857129,
+    "Kanto|Milotic|Resort Gorgeous|498571": 1794857442
   }
 }
