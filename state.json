@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Chikorita|Route 31|497894": 1792421125,
     "Kanto|Volbeat|Memorial Pillar|497894": 1792421427,
     "Sinnoh|Shroomish|Route 201|497895": 1792422926,
     "Unova|Seviper|Route 1|497895": 1792422926,
@@ -999,6 +998,7 @@
     "Sinnoh|Infernape|Route 221|498564": 1794832517,
     "Kanto|Qwilfish|Route 20|498564": 1794832821,
     "Johto|Tauros|Route 38|498564": 1794832821,
-    "Unova|Minun|Route 6|498564": 1794832821
+    "Unova|Minun|Route 6|498564": 1794832821,
+    "Hoenn|Cloyster|Route 133|498564": 1794833121
   }
 }
