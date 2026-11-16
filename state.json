@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Combusken|Route 114|497870": 1792332035,
     "Unova|Yanma|Pinwheel Forest|497870": 1792332315,
     "Sinnoh|Drapion|Route 213|497870": 1792335636,
     "Johto|Metang|Ice Path|497871": 1792336520,
@@ -999,6 +998,7 @@
     "Unova|Lucario|Guidance Chamber|498557": 1794806716,
     "Kanto|Salamence|Victory Road|498557": 1794808843,
     "Unova|Zangoose|Route 7|498558": 1794809423,
-    "Johto|Skarmory|Route 26|498558": 1794809722
+    "Johto|Skarmory|Route 26|498558": 1794809722,
+    "Hoenn|Finneon|Route 107|498558": 1794810319
   }
 }
