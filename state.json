@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Trapinch|Oreburgh Mine|497918": 1792506317,
-    "Hoenn|Swampert|Route 109|497919": 1792510821,
     "Unova|Heracross|Route 10|497920": 1792512316,
     "Unova|Cottonee|Lostlorn Forest|497919": 1792512620,
     "Sinnoh|Kecleon|Route 229|497920": 1792513827,
@@ -999,6 +997,8 @@
     "Sinnoh|Carnivine|Route 225|498571": 1794857129,
     "Kanto|Milotic|Resort Gorgeous|498571": 1794857442,
     "Hoenn|Finneon|Route 107|498571": 1794858623,
-    "Unova|Zorua|Lostlorn Forest|498571": 1794858623
+    "Unova|Zorua|Lostlorn Forest|498571": 1794858623,
+    "Johto|Chimecho|Bellchime Trail|498571": 1794858918,
+    "Sinnoh|Rhyperior|Route 214|498571": 1794858918
   }
 }
