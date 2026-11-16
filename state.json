@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Chansey|Trophy Garden|497856": 1792285232,
     "Johto|Exeggcute|Route 30|497857": 1792285516,
     "Hoenn|Swampert|Route 109|497857": 1792287620,
     "Hoenn|Breloom|Route 120|497857": 1792289421,
@@ -999,6 +998,7 @@
     "Kanto|Illumise|Water Path|498553": 1794791721,
     "Hoenn|Gulpin|Route 110|498553": 1794791721,
     "Unova|Skorupi|Desert Resort|498553": 1794792634,
-    "Sinnoh|Vigoroth|Route 215|498553": 1794793221
+    "Sinnoh|Vigoroth|Route 215|498553": 1794793221,
+    "Kanto|Tropius|Bond Bridge|498553": 1794793521
   }
 }
