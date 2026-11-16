@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Miltank|Route 39|497889": 1792403717,
     "Sinnoh|Staraptor|Sendoff Spring|497889": 1792404920,
     "Kanto|Aerodactyl|Rixy Chamber|497891": 1792409116,
     "Johto|Quilava|Route 42|497891": 1792409116,
@@ -999,6 +998,7 @@
     "Hoenn|Castform|Aqua Hideout|498562": 1794826839,
     "Sinnoh|Burmy|Route 202|498563": 1794827424,
     "Johto|Lucario|Mt. Silver Cave|498563": 1794828917,
-    "Kanto|Blastoise|Cape Brink|498563": 1794829222
+    "Kanto|Blastoise|Cape Brink|498563": 1794829222,
+    "Sinnoh|Combee|Floaroma Meadow|498563": 1794829521
   }
 }
