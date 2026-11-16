@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Quilava|Route 42|497891": 1792409116,
-    "Unova|Shroomish|Pinwheel Forest|497891": 1792409116,
     "Hoenn|Mime Jr.|Rusturf Tunnel|497891": 1792409429,
     "Sinnoh|Crawdaunt|Lake Valor|497892": 1792413318,
     "Unova|Bronzong|Abundant Shrine|497892": 1792415117,
@@ -999,6 +997,8 @@
     "Kanto|Blastoise|Cape Brink|498563": 1794829222,
     "Sinnoh|Combee|Floaroma Meadow|498563": 1794829521,
     "Hoenn|Swampert|Route 109|498564": 1794830719,
-    "Unova|Houndoom|Route 15|498564": 1794830719
+    "Unova|Houndoom|Route 15|498564": 1794830719,
+    "Kanto|Milotic|Resort Gorgeous|498564": 1794831321,
+    "Johto|Exeggcute|Route 30|498564": 1794831321
   }
 }
