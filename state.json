@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Zangoose|Route 14|497914": 1792493120,
-    "Sinnoh|Carnivine|Route 225|497914": 1792494038,
     "Unova|Aipom|Cold Storage|497916": 1792498820,
     "Hoenn|Lapras|Shoal Cave|497917": 1792503028,
     "Johto|Croconaw|Whirl Islands|497917": 1792504839,
@@ -999,6 +997,8 @@
     "Unova|Seviper|Route 1|498570": 1794853517,
     "Kanto|Blastoise|Cape Brink|498570": 1794855021,
     "Sinnoh|Monferno|Route 211|498570": 1794855021,
-    "Johto|Chikorita|Route 31|498570": 1794855318
+    "Johto|Chikorita|Route 31|498570": 1794855318,
+    "Hoenn|Cacnea|Route 111|498571": 1794856824,
+    "Unova|Honchkrow|Celestial Tower|498571": 1794856824
   }
 }
