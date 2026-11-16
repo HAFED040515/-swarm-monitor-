@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Kecleon|Route 229|497920": 1792513827,
     "Johto|Nincada|Route 46|497921": 1792516250,
     "Kanto|Zangoose|Route 14|497921": 1792518619,
     "Hoenn|Munna|Route 102|497922": 1792520420,
@@ -999,6 +998,7 @@
     "Johto|Chimecho|Bellchime Trail|498571": 1794858918,
     "Sinnoh|Rhyperior|Route 214|498571": 1794858918,
     "Kanto|Salamence|Victory Road|498571": 1794859239,
-    "Hoenn|Spiritomb|Abandoned Ship|498572": 1794861031
+    "Hoenn|Spiritomb|Abandoned Ship|498572": 1794861031,
+    "Kanto|Qwilfish|Route 20|498572": 1794861317
   }
 }
