@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Tropius|Bond Bridge|497911": 1792482021,
     "Johto|Kirlia|Route 43|497912": 1792483517,
     "Sinnoh|Torterra|Route 212|497912": 1792485620,
     "Unova|Hippowdon|Mistralton Cave|497912": 1792485920,
@@ -999,6 +998,7 @@
     "Kanto|Jolteon|Ruin Valley|498569": 1794851123,
     "Johto|Bayleef|National Park|498569": 1794851123,
     "Sinnoh|Trapinch|Oreburgh Mine|498569": 1794851723,
-    "Unova|Volcarona|Relic Castle|498569": 1794851723
+    "Unova|Volcarona|Relic Castle|498569": 1794851723,
+    "Hoenn|Gulpin|Route 110|498570": 1794852625
   }
 }
