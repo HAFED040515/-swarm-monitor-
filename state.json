@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Cradily|Tanoby Ruins|497883": 1792382116,
     "Unova|Zorua|Lostlorn Forest|497884": 1792384821,
     "Sinnoh|Tauros|Valor Lakefront|497884": 1792385118,
     "Johto|Wailmer|Route 40|497885": 1792387515,
@@ -999,6 +998,7 @@
     "Unova|Relicanth|Challenger&#x27;s Cave|498561": 1794820824,
     "Sinnoh|Chansey|Trophy Garden|498561": 1794821118,
     "Johto|Shroomish|Route 34|498561": 1794822322,
-    "Hoenn|Blaziken|Magma Hideout|498561": 1794822622
+    "Hoenn|Blaziken|Magma Hideout|498561": 1794822622,
+    "Sinnoh|Scyther|Route 210|498561": 1794823238
   }
 }
