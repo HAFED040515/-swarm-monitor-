@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Cherubi|Route 16|497901": 1792444822,
-    "Johto|Rhyperior|Mt. Mortar|497901": 1792447821,
     "Hoenn|Vaporeon|Route 134|497902": 1792448716,
     "Sinnoh|Tyranitar|Stark Mountain|497902": 1792448716,
     "Unova|Metagross|Giant Chasm|497902": 1792449621,
@@ -999,6 +997,8 @@
     "Hoenn|Kecleon|Route 120|498567": 1794842126,
     "Kanto|Chatot|Treasure Beach|498567": 1794842428,
     "Sinnoh|Torterra|Route 212|498567": 1794842717,
-    "Unova|Farfetch&#x27;d|Route 1|498567": 1794842717
+    "Unova|Farfetch&#x27;d|Route 1|498567": 1794842717,
+    "Johto|Miltank|Route 39|498567": 1794843921,
+    "Hoenn|Combusken|Route 114|498567": 1794843921
   }
 }
