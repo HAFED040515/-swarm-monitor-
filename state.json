@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Croconaw|Whirl Islands|497917": 1792504839,
-    "Kanto|Spiritomb|Lost Cave|497918": 1792506020,
     "Sinnoh|Trapinch|Oreburgh Mine|497918": 1792506317,
     "Hoenn|Swampert|Route 109|497919": 1792510821,
     "Unova|Heracross|Route 10|497920": 1792512316,
@@ -999,6 +997,8 @@
     "Hoenn|Cacnea|Route 111|498571": 1794856824,
     "Unova|Honchkrow|Celestial Tower|498571": 1794856824,
     "Sinnoh|Carnivine|Route 225|498571": 1794857129,
-    "Kanto|Milotic|Resort Gorgeous|498571": 1794857442
+    "Kanto|Milotic|Resort Gorgeous|498571": 1794857442,
+    "Hoenn|Finneon|Route 107|498571": 1794858623,
+    "Unova|Zorua|Lostlorn Forest|498571": 1794858623
   }
 }
