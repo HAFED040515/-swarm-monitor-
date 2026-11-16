@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Bonsly|Eterna Forest|497925": 1792530317,
-    "Unova|Plusle|Route 5|497925": 1792531225,
     "Hoenn|Gulpin|Route 110|497925": 1792533316,
     "Sinnoh|Exeggutor|Route 230|497926": 1792534820,
     "Johto|Barboach|Slowpoke Well|497927": 1792537516,
@@ -999,6 +997,8 @@
     "Hoenn|Grovyle|Route 118|498574": 1794868238,
     "Unova|Relicanth|Challenger&#x27;s Cave|498574": 1794868238,
     "Hoenn|Vaporeon|Route 134|498574": 1794870039,
-    "Unova|Zorua|Lostlorn Forest|498574": 1794870039
+    "Unova|Zorua|Lostlorn Forest|498574": 1794870039,
+    "Sinnoh|Cloyster|Route 223|498575": 1794873316,
+    "Unova|Lumineon|Route 17|498575": 1794873316
   }
 }
