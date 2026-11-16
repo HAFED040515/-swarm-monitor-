@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Electabuzz|Chargestone Cave|497863": 1792308021,
     "Kanto|Volbeat|Memorial Pillar|497863": 1792309519,
     "Johto|Starmie|Cliff Edge Gate|497863": 1792309820,
     "Hoenn|Mudkip|Route 104|497865": 1792315827,
@@ -999,6 +998,7 @@
     "Johto|Yanmega|Route 44|498554": 1794798040,
     "Sinnoh|Heracross|Route 206|498555": 1794798040,
     "Johto|Aipom|Route 29|498555": 1794801021,
-    "Sinnoh|Yanma|Route 205|498555": 1794801021
+    "Sinnoh|Yanma|Route 205|498555": 1794801021,
+    "Hoenn|Torchic|Route 112|498555": 1794801316
   }
 }
