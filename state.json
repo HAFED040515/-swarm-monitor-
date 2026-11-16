@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Lucario|Guidance Chamber|497852": 1792268419,
     "Hoenn|Lapras|Shoal Cave|497852": 1792269316,
     "Johto|Misdreavus|Sprout Tower|497853": 1792271117,
     "Hoenn|Spinda|Jagged Pass|497853": 1792274717,
@@ -999,6 +998,7 @@
     "Hoenn|Mismagius|Route 122|498550": 1794781517,
     "Johto|Nincada|Route 46|498551": 1794785116,
     "Kanto|Kabutops|Dilford Chamber|498551": 1794786022,
-    "Sinnoh|Grotle|Sendoff Spring|498551": 1794786624
+    "Sinnoh|Grotle|Sendoff Spring|498551": 1794786624,
+    "Johto|Togetic|Route 27|498551": 1794787239
   }
 }
