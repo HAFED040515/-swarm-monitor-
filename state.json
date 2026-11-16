@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Skarmory|Route 227|497878": 1792363820,
-    "Hoenn|Pineco|Route 103|497881": 1792372221,
-    "Sinnoh|Snorlax|Victory Road|497881": 1792373115,
     "Johto|Absol|Route 28|497881": 1792374320,
     "Unova|Volcarona|Relic Castle|497882": 1792375819,
     "Hoenn|Mightyena|Route 110|497882": 1792376419,
@@ -999,6 +996,9 @@
     "Johto|Nincada|Route 46|498560": 1794818722,
     "Unova|Plusle|Route 5|498560": 1794818722,
     "Johto|Chikorita|Route 31|498561": 1794820222,
-    "Sinnoh|Prinplup|Route 220|498561": 1794820521
+    "Sinnoh|Prinplup|Route 220|498561": 1794820521,
+    "Kanto|Lapras|Icefall Cave|498561": 1794820824,
+    "Hoenn|Gulpin|Route 110|498561": 1794820824,
+    "Unova|Relicanth|Challenger&#x27;s Cave|498561": 1794820824
   }
 }
