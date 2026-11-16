@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Drapion|Route 213|497870": 1792335636,
     "Johto|Metang|Ice Path|497871": 1792336520,
     "Hoenn|Mismagius|Route 122|497871": 1792338021,
     "Unova|Seviper|Route 1|497871": 1792339235,
@@ -999,6 +998,7 @@
     "Unova|Zangoose|Route 7|498558": 1794809423,
     "Johto|Skarmory|Route 26|498558": 1794809722,
     "Hoenn|Finneon|Route 107|498558": 1794810319,
-    "Sinnoh|Prinplup|Route 220|498558": 1794810631
+    "Sinnoh|Prinplup|Route 220|498558": 1794810631,
+    "Unova|Kangaskhan|Wellspring Cave|498558": 1794810917
   }
 }
