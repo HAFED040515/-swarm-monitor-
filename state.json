@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Hippowdon|Mistralton Cave|497912": 1792485920,
     "Hoenn|Wailord|Route 129|497913": 1792490439,
     "Johto|Yanmega|Route 44|497914": 1792491319,
     "Johto|Pidgeotto|Lighthouse|497914": 1792492230,
@@ -999,6 +998,7 @@
     "Unova|Volcarona|Relic Castle|498569": 1794851723,
     "Hoenn|Gulpin|Route 110|498570": 1794852625,
     "Johto|Shelgon|Dragon&#x27;s Den|498570": 1794852923,
-    "Sinnoh|Crawdaunt|Lake Valor|498570": 1794853223
+    "Sinnoh|Crawdaunt|Lake Valor|498570": 1794853223,
+    "Unova|Seviper|Route 1|498570": 1794853517
   }
 }
