@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Charizard|Mt. Ember|497899": 1792437020,
     "Hoenn|Pineco|Route 103|497899": 1792437020,
     "Sinnoh|Kirlia|Snowpoint Temple|497899": 1792437020,
     "Johto|Cyndaquil|Route 33|497899": 1792439421,
@@ -999,6 +998,7 @@
     "Johto|Lucario|Mt. Silver Cave|498566": 1794838521,
     "Kanto|Croagunk|Route 6|498566": 1794839126,
     "Hoenn|Staryu|Route 106|498566": 1794840021,
-    "Kanto|Cradily|Tanoby Ruins|498566": 1794840623
+    "Kanto|Cradily|Tanoby Ruins|498566": 1794840623,
+    "Johto|Skitty|Route 35|498566": 1794840917
   }
 }
