@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Venusaur|Berry Forest|497854": 1792275916,
-    "Unova|Hippowdon|Mistralton Cave|497854": 1792276515,
     "Johto|Meganium|Route 48|497856": 1792282219,
     "Unova|Volbeat|Route 8|497856": 1792283715,
     "Sinnoh|Chansey|Trophy Garden|497856": 1792285232,
@@ -999,6 +997,8 @@
     "Kanto|Relicanth|Tanoby Ruins|498552": 1794788122,
     "Johto|Hitmontop|Mt. Mortar|498552": 1794789628,
     "Kanto|Qwilfish|Route 20|498552": 1794789933,
-    "Sinnoh|Chatot|Route 218|498552": 1794790221
+    "Sinnoh|Chatot|Route 218|498552": 1794790221,
+    "Kanto|Illumise|Water Path|498553": 1794791721,
+    "Hoenn|Gulpin|Route 110|498553": 1794791721
   }
 }
