@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Metagross|Giant Chasm|497902": 1792449621,
-    "Kanto|Illumise|Water Path|497902": 1792450517,
     "Unova|Plusle|Route 5|497903": 1792453521,
     "Sinnoh|Farfetch&#x27;d|Route 209|497904": 1792457715,
     "Johto|Forretress|Route 43|497905": 1792462219,
@@ -999,6 +997,8 @@
     "Johto|Miltank|Route 39|498567": 1794843921,
     "Hoenn|Combusken|Route 114|498567": 1794843921,
     "Unova|Pupitar|Twist Mountain|498567": 1794844222,
-    "Kanto|Charizard|Mt. Ember|498567": 1794844520
+    "Kanto|Charizard|Mt. Ember|498567": 1794844520,
+    "Johto|Yanmega|Route 44|498568": 1794845722,
+    "Hoenn|Skitty|Route 116|498568": 1794845722
   }
 }
