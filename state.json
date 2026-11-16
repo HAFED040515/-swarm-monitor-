@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Kanto|Lumineon|Route 12|497874": 1792349420,
-    "Johto|Kangaskhan|Dark Cave|497874": 1792349420,
-    "Sinnoh|Turtwig|Route 203|497874": 1792349715,
     "Johto|Typhlosion|Route 45|497875": 1792353020,
     "Unova|Munna|Dreamyard|497875": 1792353315,
     "Hoenn|Munna|Route 102|497876": 1792355717,
@@ -999,6 +996,9 @@
     "Sinnoh|Grotle|Sendoff Spring|498559": 1794813916,
     "Johto|Togetic|Route 27|498559": 1794814230,
     "Sinnoh|Blissey|Floaroma Meadow|498559": 1794814230,
-    "Hoenn|Flygon|Desert Underpass|498559": 1794814821
+    "Hoenn|Flygon|Desert Underpass|498559": 1794814821,
+    "Kanto|Ivysaur|Route 5|498560": 1794816317,
+    "Johto|Miltank|Route 39|498560": 1794816317,
+    "Unova|Shroomish|Pinwheel Forest|498560": 1794816317
   }
 }
