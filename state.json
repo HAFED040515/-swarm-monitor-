@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Chimecho|Bellchime Trail|497854": 1792275620,
     "Kanto|Venusaur|Berry Forest|497854": 1792275916,
     "Unova|Hippowdon|Mistralton Cave|497854": 1792276515,
     "Johto|Meganium|Route 48|497856": 1792282219,
@@ -999,6 +998,7 @@
     "Hoenn|Dragonite|Route 131|498552": 1794787821,
     "Kanto|Relicanth|Tanoby Ruins|498552": 1794788122,
     "Johto|Hitmontop|Mt. Mortar|498552": 1794789628,
-    "Kanto|Qwilfish|Route 20|498552": 1794789933
+    "Kanto|Qwilfish|Route 20|498552": 1794789933,
+    "Sinnoh|Chatot|Route 218|498552": 1794790221
   }
 }
