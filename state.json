@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Absol|Canyon Entrance|497932": 1792557026,
     "Hoenn|Castform|Aqua Hideout|497933": 1792560627,
     "Johto|Zorua|Route 37|497934": 1792563619,
     "Hoenn|Torchic|Route 112|497934": 1792563851,
@@ -999,6 +998,7 @@
     "Johto|Zorua|Route 37|498578": 1794884443,
     "Johto|Murkrow|Route 42|498578": 1794884717,
     "Kanto|Tauros|Route 15|498579": 1794885322,
-    "Kanto|Misdreavus|Pokemon Tower|498580": 1794890421
+    "Kanto|Misdreavus|Pokemon Tower|498580": 1794890421,
+    "Sinnoh|Shuckle|Route 219|498580": 1794891316
   }
 }
