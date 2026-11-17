@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Barboach|Slowpoke Well|497927": 1792537516,
     "Hoenn|Swampert|Route 109|497927": 1792537707,
     "Sinnoh|Carnivine|Route 225|497927": 1792539316,
     "Johto|Feraligatr|Tohjo Falls|497927": 1792540837,
@@ -999,6 +998,7 @@
     "Sinnoh|Cloyster|Route 223|498575": 1794873316,
     "Unova|Lumineon|Route 17|498575": 1794873316,
     "Hoenn|Feebas|Route 130|498576": 1794875116,
-    "Sinnoh|Bonsly|Eterna Forest|498576": 1794875116
+    "Sinnoh|Bonsly|Eterna Forest|498576": 1794875116,
+    "Kanto|Farfetch&#x27;d|Route 13|498576": 1794875430
   }
 }
