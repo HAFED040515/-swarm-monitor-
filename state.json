@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Heracross|Route 10|497928": 1792541420,
     "Kanto|Tyranitar|Sevault Canyon|497929": 1792546515,
     "Hoenn|Skitty|Route 116|497930": 1792548621,
     "Sinnoh|Farfetch&#x27;d|Route 209|497930": 1792549827,
@@ -999,6 +998,7 @@
     "Kanto|Farfetch&#x27;d|Route 13|498576": 1794875430,
     "Johto|Luvdisc|Route 47|498576": 1794875716,
     "Unova|Hitmonlee|Victory Road|498576": 1794875716,
-    "Sinnoh|Torterra|Route 212|498577": 1794880837
+    "Sinnoh|Torterra|Route 212|498577": 1794880837,
+    "Kanto|Mr. Mime|Route 21|498578": 1794882322
   }
 }
