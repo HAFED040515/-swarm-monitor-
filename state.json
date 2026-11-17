@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Skarmory|Route 26|497931": 1792553717,
     "Sinnoh|Blissey|Route 210|497932": 1792556421,
     "Kanto|Absol|Canyon Entrance|497932": 1792557026,
     "Hoenn|Castform|Aqua Hideout|497933": 1792560627,
@@ -999,6 +998,7 @@
     "Hoenn|Dragonite|Route 131|498578": 1794882920,
     "Unova|Minun|Route 6|498578": 1794884117,
     "Johto|Zorua|Route 37|498578": 1794884443,
-    "Johto|Murkrow|Route 42|498578": 1794884717
+    "Johto|Murkrow|Route 42|498578": 1794884717,
+    "Kanto|Tauros|Route 15|498579": 1794885322
   }
 }
