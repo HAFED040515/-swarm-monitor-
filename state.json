@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Relicanth|Tanoby Ruins|497940": 1792587321,
     "Hoenn|Kecleon|Route 120|497940": 1792587321,
     "Unova|Ninjask|Route 11|497941": 1792589433,
     "Johto|Lapras|Union Cave|497942": 1792594517,
@@ -999,6 +998,7 @@
     "Unova|Yanma|Pinwheel Forest|498589": 1794923121,
     "Johto|Volcarona|Bell Tower|498590": 1794925222,
     "Hoenn|Exploud|Granite Cave|498590": 1794926118,
-    "Johto|Porygon-Z|Team Rocket HQ|498591": 1794928523
+    "Johto|Porygon-Z|Team Rocket HQ|498591": 1794928523,
+    "Unova|Porygon2|P2 Laboratory|498591": 1794929118
   }
 }
