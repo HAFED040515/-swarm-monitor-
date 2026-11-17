@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Farfetch&#x27;d|Route 209|497930": 1792549827,
     "Unova|Dragonair|Dragonspiral Tower|497930": 1792551640,
     "Johto|Skarmory|Route 26|497931": 1792553717,
     "Sinnoh|Blissey|Route 210|497932": 1792556421,
@@ -999,6 +998,7 @@
     "Sinnoh|Torterra|Route 212|498577": 1794880837,
     "Kanto|Mr. Mime|Route 21|498578": 1794882322,
     "Hoenn|Dragonite|Route 131|498578": 1794882920,
-    "Unova|Minun|Route 6|498578": 1794884117
+    "Unova|Minun|Route 6|498578": 1794884117,
+    "Johto|Zorua|Route 37|498578": 1794884443
   }
 }
