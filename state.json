@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Zorua|Route 101|497937": 1792576221,
     "Johto|Hitmontop|Mt. Mortar|497939": 1792583421,
     "Sinnoh|Cherrim|Lake Verity|497939": 1792584262,
     "Kanto|Relicanth|Tanoby Ruins|497940": 1792587321,
@@ -999,6 +998,7 @@
     "Hoenn|Qwilfish|Route 125|498588": 1794917422,
     "Sinnoh|Tyranitar|Stark Mountain|498589": 1794921022,
     "Kanto|Armaldo|Tanoby Ruins|498589": 1794922823,
-    "Unova|Yanma|Pinwheel Forest|498589": 1794923121
+    "Unova|Yanma|Pinwheel Forest|498589": 1794923121,
+    "Johto|Volcarona|Bell Tower|498590": 1794925222
   }
 }
