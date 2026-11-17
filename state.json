@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Swampert|Route 109|497927": 1792537707,
-    "Sinnoh|Carnivine|Route 225|497927": 1792539316,
     "Johto|Feraligatr|Tohjo Falls|497927": 1792540837,
     "Unova|Heracross|Route 10|497928": 1792541420,
     "Kanto|Tyranitar|Sevault Canyon|497929": 1792546515,
@@ -999,6 +997,8 @@
     "Unova|Lumineon|Route 17|498575": 1794873316,
     "Hoenn|Feebas|Route 130|498576": 1794875116,
     "Sinnoh|Bonsly|Eterna Forest|498576": 1794875116,
-    "Kanto|Farfetch&#x27;d|Route 13|498576": 1794875430
+    "Kanto|Farfetch&#x27;d|Route 13|498576": 1794875430,
+    "Johto|Luvdisc|Route 47|498576": 1794875716,
+    "Unova|Hitmonlee|Victory Road|498576": 1794875716
   }
 }
