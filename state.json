@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Lapras|Union Cave|497946": 1792608320,
     "Unova|Seviper|Route 11|497947": 1792610422,
     "Sinnoh|Heracross|Route 206|497947": 1792611031,
     "Johto|Houndoom|Burned Tower|497948": 1792614629,
@@ -999,6 +998,7 @@
     "Unova|Shroomish|Pinwheel Forest|498596": 1794948627,
     "Kanto|Lapras|Icefall Cave|498597": 1794950717,
     "Johto|Metang|Ice Path|498598": 1794952839,
-    "Unova|Swalot|Route 9|498598": 1794955520
+    "Unova|Swalot|Route 9|498598": 1794955520,
+    "Sinnoh|Spiritomb|Turnback Cave|498599": 1794957022
   }
 }
