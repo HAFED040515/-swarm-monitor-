@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Torchic|Route 112|497934": 1792563851,
     "Kanto|Skorupi|Route 9|497934": 1792564228,
     "Unova|Heracross|Route 10|497934": 1792566036,
     "Unova|Pinsir|Route 12|497936": 1792571116,
@@ -999,6 +998,7 @@
     "Kanto|Misdreavus|Pokemon Tower|498580": 1794890421,
     "Sinnoh|Shuckle|Route 219|498580": 1794891316,
     "Johto|Wailmer|Route 40|498582": 1794898842,
-    "Kanto|Ditto|Cerulean Cave|498583": 1794900917
+    "Kanto|Ditto|Cerulean Cave|498583": 1794900917,
+    "Hoenn|Magby|Mt. Chimney|498584": 1794905120
   }
 }
