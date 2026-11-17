@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Tropius|Route 226|497943": 1792596631,
     "Kanto|Ivysaur|Route 5|497943": 1792597221,
     "Unova|Crobat|Celestial Tower|497943": 1792598440,
     "Johto|Nincada|Route 46|497944": 1792599917,
@@ -999,6 +998,7 @@
     "Kanto|Charizard|Mt. Ember|498594": 1794939624,
     "Sinnoh|Exeggutor|Route 230|498594": 1794939624,
     "Unova|Heracross|Route 10|498594": 1794940517,
-    "Hoenn|Swampert|Route 109|498594": 1794942041
+    "Hoenn|Swampert|Route 109|498594": 1794942041,
+    "Johto|Persian|Route 38|498595": 1794944434
   }
 }
