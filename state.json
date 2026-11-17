@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Crobat|Celestial Tower|497943": 1792598440,
     "Johto|Nincada|Route 46|497944": 1792599917,
     "Sinnoh|Exeggutor|Route 230|497944": 1792599917,
     "Hoenn|Sudowoodo|Battle Frontier|497944": 1792600234,
@@ -999,6 +998,7 @@
     "Unova|Heracross|Route 10|498594": 1794940517,
     "Hoenn|Swampert|Route 109|498594": 1794942041,
     "Johto|Persian|Route 38|498595": 1794944434,
-    "Sinnoh|Farfetch&#x27;d|Route 209|498595": 1794945642
+    "Sinnoh|Farfetch&#x27;d|Route 209|498595": 1794945642,
+    "Kanto|Plusle|Route 2|498596": 1794946223
   }
 }
