@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Torchic|Route 112|497946": 1792608022,
     "Johto|Lapras|Union Cave|497946": 1792608320,
     "Unova|Seviper|Route 11|497947": 1792610422,
     "Sinnoh|Heracross|Route 206|497947": 1792611031,
@@ -999,6 +998,7 @@
     "Kanto|Plusle|Route 2|498596": 1794946223,
     "Unova|Shroomish|Pinwheel Forest|498596": 1794948627,
     "Kanto|Lapras|Icefall Cave|498597": 1794950717,
-    "Johto|Metang|Ice Path|498598": 1794952839
+    "Johto|Metang|Ice Path|498598": 1794952839,
+    "Unova|Swalot|Route 9|498598": 1794955520
   }
 }
