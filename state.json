@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Cherrim|Lake Verity|497939": 1792584262,
     "Kanto|Relicanth|Tanoby Ruins|497940": 1792587321,
     "Hoenn|Kecleon|Route 120|497940": 1792587321,
     "Unova|Ninjask|Route 11|497941": 1792589433,
@@ -999,6 +998,7 @@
     "Kanto|Armaldo|Tanoby Ruins|498589": 1794922823,
     "Unova|Yanma|Pinwheel Forest|498589": 1794923121,
     "Johto|Volcarona|Bell Tower|498590": 1794925222,
-    "Hoenn|Exploud|Granite Cave|498590": 1794926118
+    "Hoenn|Exploud|Granite Cave|498590": 1794926118,
+    "Johto|Porygon-Z|Team Rocket HQ|498591": 1794928523
   }
 }
