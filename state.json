@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Nincada|Route 46|497944": 1792599917,
     "Sinnoh|Exeggutor|Route 230|497944": 1792599917,
     "Hoenn|Sudowoodo|Battle Frontier|497944": 1792600234,
     "Hoenn|Torchic|Route 112|497946": 1792608022,
@@ -999,6 +998,7 @@
     "Hoenn|Swampert|Route 109|498594": 1794942041,
     "Johto|Persian|Route 38|498595": 1794944434,
     "Sinnoh|Farfetch&#x27;d|Route 209|498595": 1794945642,
-    "Kanto|Plusle|Route 2|498596": 1794946223
+    "Kanto|Plusle|Route 2|498596": 1794946223,
+    "Unova|Shroomish|Pinwheel Forest|498596": 1794948627
   }
 }
