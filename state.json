@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Gulpin|Route 110|497925": 1792533316,
-    "Sinnoh|Exeggutor|Route 230|497926": 1792534820,
     "Johto|Barboach|Slowpoke Well|497927": 1792537516,
     "Hoenn|Swampert|Route 109|497927": 1792537707,
     "Sinnoh|Carnivine|Route 225|497927": 1792539316,
@@ -999,6 +997,8 @@
     "Hoenn|Vaporeon|Route 134|498574": 1794870039,
     "Unova|Zorua|Lostlorn Forest|498574": 1794870039,
     "Sinnoh|Cloyster|Route 223|498575": 1794873316,
-    "Unova|Lumineon|Route 17|498575": 1794873316
+    "Unova|Lumineon|Route 17|498575": 1794873316,
+    "Hoenn|Feebas|Route 130|498576": 1794875116,
+    "Sinnoh|Bonsly|Eterna Forest|498576": 1794875116
   }
 }
