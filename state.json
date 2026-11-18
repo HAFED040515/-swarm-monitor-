@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Cloyster|Route 223|497962": 1792666221,
     "Hoenn|Combusken|Route 114|497963": 1792670439,
     "Sinnoh|Trapinch|Oreburgh Mine|497964": 1792671022,
     "Kanto|Poliwrath|Route 12|497965": 1792676730,
@@ -999,6 +998,7 @@
     "Hoenn|Kecleon|Route 120|498616": 1795020918,
     "Sinnoh|Kangaskhan|Wayward Cave|498617": 1795022422,
     "Kanto|Wormadam|Pattern Bush|498617": 1795023922,
-    "Johto|Shelgon|Dragon&#x27;s Den|498617": 1795023922
+    "Johto|Shelgon|Dragon&#x27;s Den|498617": 1795023922,
+    "Hoenn|Marshtomp|Route 124|498618": 1795025422
   }
 }
