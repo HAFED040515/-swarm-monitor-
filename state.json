@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Volbeat|Route 8|497958": 1792651523,
     "Hoenn|Blaziken|Magma Hideout|497958": 1792652116,
     "Sinnoh|Absol|Mt. Coronet|497959": 1792654229,
     "Kanto|Skorupi|Route 9|497959": 1792654517,
@@ -999,6 +998,7 @@
     "Sinnoh|Kangaskhan|Wayward Cave|498611": 1795001725,
     "Unova|Volcarona|Relic Castle|498612": 1795003519,
     "Johto|Porygon-Z|Team Rocket HQ|498612": 1795005922,
-    "Hoenn|Hippowdon|Victory Road|498612": 1795006221
+    "Hoenn|Hippowdon|Victory Road|498612": 1795006221,
+    "Sinnoh|Infernape|Route 221|498613": 1795009826
   }
 }
