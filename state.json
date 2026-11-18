@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Heracross|Route 206|497947": 1792611031,
     "Johto|Houndoom|Burned Tower|497948": 1792614629,
     "Kanto|Qwilfish|Route 20|497948": 1792614917,
     "Kanto|Jolteon|Ruin Valley|497949": 1792618821,
@@ -999,6 +998,7 @@
     "Johto|Metang|Ice Path|498598": 1794952839,
     "Unova|Swalot|Route 9|498598": 1794955520,
     "Sinnoh|Spiritomb|Turnback Cave|498599": 1794957022,
-    "Kanto|Snorlax|Cerulean Cave|498600": 1794960622
+    "Kanto|Snorlax|Cerulean Cave|498600": 1794960622,
+    "Hoenn|Mismagius|Route 122|498600": 1794961222
   }
 }
