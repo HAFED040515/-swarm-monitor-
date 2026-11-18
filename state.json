@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Mime Jr.|Rusturf Tunnel|497949": 1792620041,
     "Sinnoh|Croagunk|Route 212|497950": 1792621220,
     "Unova|Crawdaunt|Route 3|497951": 1792625716,
     "Johto|Skarmory|Route 26|497951": 1792626620,
@@ -999,6 +998,7 @@
     "Unova|Honchkrow|Celestial Tower|498600": 1794963636,
     "Kanto|Jolteon|Ruin Valley|498601": 1794966324,
     "Hoenn|Xatu|Route 121|498602": 1794969031,
-    "Kanto|Absol|Canyon Entrance|498603": 1794971122
+    "Kanto|Absol|Canyon Entrance|498603": 1794971122,
+    "Sinnoh|Chatot|Route 218|498603": 1794971425
   }
 }
