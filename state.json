@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Grovyle|Route 118|497960": 1792658116,
     "Johto|Hypno|Route 36|497960": 1792659917,
     "Sinnoh|Skitty|Route 204|497961": 1792660821,
     "Unova|Seviper|Route 1|497962": 1792665031,
@@ -999,6 +998,7 @@
     "Kanto|Pinsir|Route 11|498614": 1795012520,
     "Unova|Skorupi|Desert Resort|498614": 1795012826,
     "Unova|Lickitung|Route 2|498615": 1795015222,
-    "Hoenn|Combee|Route 117|498615": 1795015516
+    "Hoenn|Combee|Route 117|498615": 1795015516,
+    "Johto|Houndoom|Burned Tower|498616": 1795019718
   }
 }
