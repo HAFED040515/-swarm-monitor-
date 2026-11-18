@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Crawdaunt|Route 3|497951": 1792625716,
     "Johto|Skarmory|Route 26|497951": 1792626620,
     "Hoenn|Corsola|Route 128|497952": 1792627821,
     "Kanto|Blissey|Three Island|497952": 1792629316,
@@ -999,6 +998,7 @@
     "Hoenn|Xatu|Route 121|498602": 1794969031,
     "Kanto|Absol|Canyon Entrance|498603": 1794971122,
     "Sinnoh|Chatot|Route 218|498603": 1794971425,
-    "Sinnoh|Elekid|Valley Windworks|498604": 1794975622
+    "Sinnoh|Elekid|Valley Windworks|498604": 1794975622,
+    "Unova|Miltank|Village Bridge|498605": 1794980422
   }
 }
