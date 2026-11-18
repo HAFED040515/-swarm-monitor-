@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Farfetch&#x27;d|Route 1|497967": 1792682421,
     "Johto|Bonsly|Ilex Forest|497968": 1792685117,
     "Sinnoh|Bonsly|Eterna Forest|497968": 1792686629,
     "Kanto|Sharpedo|Water Labyrinth|497968": 1792688117,
@@ -999,6 +998,7 @@
     "Unova|Zorua|Lostlorn Forest|498619": 1795029917,
     "Johto|Vigoroth|Ruins of Alph|498620": 1795032623,
     "Kanto|Tyranitar|Sevault Canyon|498620": 1795033223,
-    "Hoenn|Lapras|Shoal Cave|498620": 1795033517
+    "Hoenn|Lapras|Shoal Cave|498620": 1795033517,
+    "Unova|Aipom|Cold Storage|498620": 1795034118
   }
 }
