@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Blissey|Three Island|497952": 1792629316,
     "Johto|Kirlia|Route 43|497953": 1792632628,
     "Hoenn|Zorua|Route 101|497953": 1792632628,
     "Unova|Aipom|Cold Storage|497953": 1792632628,
@@ -999,6 +998,7 @@
     "Sinnoh|Elekid|Valley Windworks|498604": 1794975622,
     "Unova|Miltank|Village Bridge|498605": 1794980422,
     "Kanto|Trapinch|Diglett&#x27;s Cave|498605": 1794981023,
-    "Johto|Meganium|Route 48|498605": 1794981023
+    "Johto|Meganium|Route 48|498605": 1794981023,
+    "Hoenn|Dragonite|Route 131|498605": 1794981318
   }
 }
