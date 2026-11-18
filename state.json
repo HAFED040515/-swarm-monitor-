@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Zorua|Route 101|497953": 1792632628,
     "Unova|Aipom|Cold Storage|497953": 1792632628,
     "Sinnoh|Crawdaunt|Lake Valor|497953": 1792634117,
     "Unova|Electabuzz|Chargestone Cave|497955": 1792638620,
@@ -999,6 +998,7 @@
     "Kanto|Trapinch|Diglett&#x27;s Cave|498605": 1794981023,
     "Johto|Meganium|Route 48|498605": 1794981023,
     "Hoenn|Dragonite|Route 131|498605": 1794981318,
-    "Unova|Hitmonlee|Victory Road|498607": 1794986121
+    "Unova|Hitmonlee|Victory Road|498607": 1794986121,
+    "Sinnoh|Shuckle|Route 219|498607": 1794986717
   }
 }
