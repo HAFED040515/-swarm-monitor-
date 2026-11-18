@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Heracross|Route 16|497955": 1792639828,
     "Sinnoh|Quagsire|Route 212|497955": 1792640117,
     "Johto|Zorua|Route 37|497955": 1792640420,
     "Unova|Scizor|Route 14|497957": 1792646120,
@@ -999,6 +998,7 @@
     "Kanto|Salamence|Victory Road|498607": 1794988222,
     "Sinnoh|Heracross|Route 206|498608": 1794992116,
     "Hoenn|Blaziken|Magma Hideout|498609": 1794993031,
-    "Johto|Starmie|Cliff Edge Gate|498609": 1794993623
+    "Johto|Starmie|Cliff Edge Gate|498609": 1794993623,
+    "Kanto|Fearow|Treasure Beach|498609": 1794995422
   }
 }
