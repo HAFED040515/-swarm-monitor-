@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Scizor|Route 14|497957": 1792646120,
     "Kanto|Misdreavus|Pokemon Tower|497958": 1792650021,
     "Unova|Volbeat|Route 8|497958": 1792651523,
     "Hoenn|Blaziken|Magma Hideout|497958": 1792652116,
@@ -999,6 +998,7 @@
     "Johto|Starmie|Cliff Edge Gate|498609": 1794993623,
     "Kanto|Fearow|Treasure Beach|498609": 1794995422,
     "Sinnoh|Kangaskhan|Wayward Cave|498611": 1795001725,
-    "Unova|Volcarona|Relic Castle|498612": 1795003519
+    "Unova|Volcarona|Relic Castle|498612": 1795003519,
+    "Johto|Porygon-Z|Team Rocket HQ|498612": 1795005922
   }
 }
