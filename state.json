@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Skitty|Route 204|497961": 1792660821,
     "Unova|Seviper|Route 1|497962": 1792665031,
     "Kanto|Starmie|Seven Island|497962": 1792665920,
     "Sinnoh|Cloyster|Route 223|497962": 1792666221,
@@ -999,6 +998,7 @@
     "Unova|Lickitung|Route 2|498615": 1795015222,
     "Hoenn|Combee|Route 117|498615": 1795015516,
     "Johto|Houndoom|Burned Tower|498616": 1795019718,
-    "Hoenn|Kecleon|Route 120|498616": 1795020918
+    "Hoenn|Kecleon|Route 120|498616": 1795020918,
+    "Sinnoh|Kangaskhan|Wayward Cave|498617": 1795022422
   }
 }
