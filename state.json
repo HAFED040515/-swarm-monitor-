@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Meganium|Route 48|497981": 1792735237,
     "Sinnoh|Skarmory|Route 227|497982": 1792735515,
     "Unova|Cacnea|Route 4|497982": 1792736717,
     "Sinnoh|Skitty|Route 204|497983": 1792739117,
@@ -999,6 +998,7 @@
     "Johto|Luvdisc|Route 47|498635": 1795086922,
     "Kanto|Rampardos|Scufib Chamber|498636": 1795092542,
     "Hoenn|Treecko|Petalburg Woods|498636": 1795092920,
-    "Kanto|Dragonite|Six Island|498638": 1795098928
+    "Kanto|Dragonite|Six Island|498638": 1795098928,
+    "Johto|Lucario|Mt. Silver Cave|498638": 1795099824
   }
 }
