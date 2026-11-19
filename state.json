@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Infernape|Route 221|497987": 1792756221,
     "Kanto|Milotic|Resort Gorgeous|497987": 1792756516,
     "Unova|Electabuzz|Chargestone Cave|497989": 1792761020,
     "Kanto|Snorlax|Cerulean Cave|497989": 1792763421,
@@ -999,6 +998,7 @@
     "Unova|Lucario|Guidance Chamber|498642": 1795114522,
     "Sinnoh|Cacturne|Route 228|498643": 1795115423,
     "Johto|Miltank|Route 39|498643": 1795117224,
-    "Hoenn|Drifloon|Route 105|498644": 1795120823
+    "Hoenn|Drifloon|Route 105|498644": 1795120823,
+    "Johto|Kirlia|Route 43|498644": 1795121424
   }
 }
