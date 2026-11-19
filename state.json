@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cacnea|Route 4|497982": 1792736717,
     "Sinnoh|Skitty|Route 204|497983": 1792739117,
     "Johto|Feebas|Lake of Rage|497983": 1792740916,
     "Unova|Ninjask|Route 11|497983": 1792740916,
@@ -999,6 +998,7 @@
     "Hoenn|Treecko|Petalburg Woods|498636": 1795092920,
     "Kanto|Dragonite|Six Island|498638": 1795098928,
     "Johto|Lucario|Mt. Silver Cave|498638": 1795099824,
-    "Unova|Seviper|Route 1|498638": 1795100441
+    "Unova|Seviper|Route 1|498638": 1795100441,
+    "Johto|Kirlia|Route 43|498640": 1795105231
   }
 }
