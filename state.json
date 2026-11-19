@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Rotom|New Mauville|497976": 1792714221,
     "Sinnoh|Drifblim|Route 222|497976": 1792714820,
     "Johto|Barboach|Slowpoke Well|497976": 1792716019,
     "Unova|Porygon2|P2 Laboratory|497977": 1792719619,
@@ -999,6 +998,7 @@
     "Johto|Bonsly|Ilex Forest|498629": 1795067122,
     "Hoenn|Staryu|Route 106|498630": 1795068623,
     "Kanto|Nosepass|Mt. Moon|498630": 1795070722,
-    "Johto|Porygon-Z|Team Rocket HQ|498631": 1795072223
+    "Johto|Porygon-Z|Team Rocket HQ|498631": 1795072223,
+    "Unova|Pinsir|Route 12|498631": 1795073717
   }
 }
