@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Volbeat|Memorial Pillar|497973": 1792705521,
     "Hoenn|Xatu|Route 121|497973": 1792706115,
     "Unova|Yanma|Pinwheel Forest|497974": 1792707915,
     "Kanto|Munna|Route 4|497975": 1792712719,
@@ -999,6 +998,7 @@
     "Unova|Lumineon|Route 17|498627": 1795057827,
     "Unova|Togetic|Dreamyard|498628": 1795061421,
     "Hoenn|Togekiss|Sky Pillar|498628": 1795063521,
-    "Sinnoh|Cloyster|Route 223|498628": 1795064438
+    "Sinnoh|Cloyster|Route 223|498628": 1795064438,
+    "Johto|Bonsly|Ilex Forest|498629": 1795067122
   }
 }
