@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Wailmer|Route 40|497979": 1792725620,
     "Kanto|Kirlia|Route 8|497979": 1792726227,
     "Kanto|Butterfree|Pattern Bush|497979": 1792728921,
     "Hoenn|Cloyster|Route 133|497980": 1792731019,
@@ -999,6 +998,7 @@
     "Johto|Feebas|Lake of Rage|498632": 1795076124,
     "Unova|Yanmega|Route 10|498632": 1795076717,
     "Hoenn|Combee|Route 117|498632": 1795077317,
-    "Sinnoh|Crawdaunt|Lake Valor|498632": 1795077923
+    "Sinnoh|Crawdaunt|Lake Valor|498632": 1795077923,
+    "Hoenn|Togekiss|Sky Pillar|498633": 1795081823
   }
 }
