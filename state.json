@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Skarmory|Route 26|497973": 1792705220,
     "Hoenn|Rotom|New Mauville|497973": 1792705220,
     "Kanto|Volbeat|Memorial Pillar|497973": 1792705521,
     "Hoenn|Xatu|Route 121|497973": 1792706115,
@@ -999,6 +998,7 @@
     "Unova|Krokorok|Victory Road|498624": 1795050623,
     "Kanto|Sunflora|Bond Bridge|498625": 1795053317,
     "Unova|Lumineon|Route 17|498627": 1795057827,
-    "Unova|Togetic|Dreamyard|498628": 1795061421
+    "Unova|Togetic|Dreamyard|498628": 1795061421,
+    "Hoenn|Togekiss|Sky Pillar|498628": 1795063521
   }
 }
