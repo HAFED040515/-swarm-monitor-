@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Hitmonchan|Fiery Path|497972": 1792700138,
     "Kanto|Tyranitar|Canyon Entrance|497972": 1792701317,
     "Sinnoh|Torterra|Route 212|497972": 1792702515,
     "Johto|Skarmory|Route 26|497973": 1792705220,
@@ -999,6 +998,7 @@
     "Johto|Starmie|Cliff Edge Gate|498623": 1795045520,
     "Unova|Pinsir|Route 12|498624": 1795049121,
     "Hoenn|Combee|Route 117|498624": 1795049421,
-    "Unova|Krokorok|Victory Road|498624": 1795050623
+    "Unova|Krokorok|Victory Road|498624": 1795050623,
+    "Kanto|Sunflora|Bond Bridge|498625": 1795053317
   }
 }
