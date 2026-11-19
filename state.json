@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Electabuzz|Chargestone Cave|497989": 1792761020,
     "Kanto|Snorlax|Cerulean Cave|497989": 1792763421,
     "Hoenn|Loudred|Rusturf Tunnel|497989": 1792763421,
     "Sinnoh|Tyranitar|Stark Mountain|497990": 1792766420,
@@ -999,6 +998,7 @@
     "Johto|Miltank|Route 39|498643": 1795117224,
     "Hoenn|Drifloon|Route 105|498644": 1795120823,
     "Johto|Kirlia|Route 43|498644": 1795121424,
-    "Sinnoh|Crawdaunt|Lake Valor|498644": 1795122018
+    "Sinnoh|Crawdaunt|Lake Valor|498644": 1795122018,
+    "Kanto|Tentacruel|Water Labyrinth|498644": 1795122039
   }
 }
