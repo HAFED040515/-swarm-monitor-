@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Loudred|Rusturf Tunnel|497989": 1792763421,
     "Sinnoh|Tyranitar|Stark Mountain|497990": 1792766420,
     "Johto|Croconaw|Whirl Islands|497990": 1792767020,
     "Unova|Yanma|Pinwheel Forest|497991": 1792770342,
@@ -999,6 +998,7 @@
     "Johto|Kirlia|Route 43|498644": 1795121424,
     "Sinnoh|Crawdaunt|Lake Valor|498644": 1795122018,
     "Kanto|Tentacruel|Water Labyrinth|498644": 1795122039,
-    "Unova|Scizor|Route 14|498645": 1795125318
+    "Unova|Scizor|Route 14|498645": 1795125318,
+    "Hoenn|Torchic|Route 112|498647": 1795131031
   }
 }
