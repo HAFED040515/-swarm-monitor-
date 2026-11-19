@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Cloyster|Route 133|497980": 1792731019,
     "Sinnoh|Kirlia|Snowpoint Temple|497981": 1792732820,
     "Unova|Cacnea|Route 4|497981": 1792734019,
     "Johto|Meganium|Route 48|497981": 1792735237,
@@ -999,6 +998,7 @@
     "Sinnoh|Crawdaunt|Lake Valor|498632": 1795077923,
     "Hoenn|Togekiss|Sky Pillar|498633": 1795081823,
     "Kanto|Porygon|Pokemon Mansion|498635": 1795086922,
-    "Johto|Luvdisc|Route 47|498635": 1795086922
+    "Johto|Luvdisc|Route 47|498635": 1795086922,
+    "Kanto|Rampardos|Scufib Chamber|498636": 1795092542
   }
 }
