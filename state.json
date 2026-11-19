@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Ninjask|Route 11|497983": 1792740916,
     "Hoenn|Chimecho|Mt. Pyre|497983": 1792742116,
     "Johto|Porygon-Z|Team Rocket HQ|497984": 1792743320,
     "Kanto|Plusle|Route 2|497984": 1792745715,
@@ -999,6 +998,7 @@
     "Unova|Seviper|Route 1|498638": 1795100441,
     "Johto|Kirlia|Route 43|498640": 1795105231,
     "Hoenn|Metagross|Meteor Falls|498640": 1795105519,
-    "Hoenn|Feebas|Route 130|498641": 1795108824
+    "Hoenn|Feebas|Route 130|498641": 1795108824,
+    "Unova|Octillery|Route 13|498641": 1795110322
   }
 }
