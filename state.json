@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Kirlia|Route 8|497979": 1792726227,
-    "Kanto|Butterfree|Pattern Bush|497979": 1792728921,
     "Hoenn|Cloyster|Route 133|497980": 1792731019,
     "Sinnoh|Kirlia|Snowpoint Temple|497981": 1792732820,
     "Unova|Cacnea|Route 4|497981": 1792734019,
@@ -999,6 +997,8 @@
     "Unova|Yanmega|Route 10|498632": 1795076717,
     "Hoenn|Combee|Route 117|498632": 1795077317,
     "Sinnoh|Crawdaunt|Lake Valor|498632": 1795077923,
-    "Hoenn|Togekiss|Sky Pillar|498633": 1795081823
+    "Hoenn|Togekiss|Sky Pillar|498633": 1795081823,
+    "Kanto|Porygon|Pokemon Mansion|498635": 1795086922,
+    "Johto|Luvdisc|Route 47|498635": 1795086922
   }
 }
