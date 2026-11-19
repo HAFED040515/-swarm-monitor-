@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Quilava|Route 42|497971": 1792698339,
     "Hoenn|Hitmonchan|Fiery Path|497972": 1792700138,
     "Kanto|Tyranitar|Canyon Entrance|497972": 1792701317,
     "Sinnoh|Torterra|Route 212|497972": 1792702515,
@@ -999,6 +998,7 @@
     "Kanto|Mr. Mime|Route 21|498623": 1795043720,
     "Johto|Starmie|Cliff Edge Gate|498623": 1795045520,
     "Unova|Pinsir|Route 12|498624": 1795049121,
-    "Hoenn|Combee|Route 117|498624": 1795049421
+    "Hoenn|Combee|Route 117|498624": 1795049421,
+    "Unova|Krokorok|Victory Road|498624": 1795050623
   }
 }
