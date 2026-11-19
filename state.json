@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Feebas|Lake of Rage|497983": 1792740916,
     "Unova|Ninjask|Route 11|497983": 1792740916,
     "Hoenn|Chimecho|Mt. Pyre|497983": 1792742116,
     "Johto|Porygon-Z|Team Rocket HQ|497984": 1792743320,
@@ -999,6 +998,7 @@
     "Johto|Lucario|Mt. Silver Cave|498638": 1795099824,
     "Unova|Seviper|Route 1|498638": 1795100441,
     "Johto|Kirlia|Route 43|498640": 1795105231,
-    "Hoenn|Metagross|Meteor Falls|498640": 1795105519
+    "Hoenn|Metagross|Meteor Falls|498640": 1795105519,
+    "Hoenn|Feebas|Route 130|498641": 1795108824
   }
 }
