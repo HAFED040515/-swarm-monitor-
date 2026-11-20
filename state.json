@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Metang|Ice Path|498003": 1792812627,
     "Unova|Salamence|Dragonspiral Tower|498004": 1792815021,
     "Kanto|Wailord|Green Path|498005": 1792820719,
     "Hoenn|Flygon|Desert Underpass|498005": 1792820719,
@@ -999,6 +998,7 @@
     "Unova|Crawdaunt|Route 3|498658": 1795172718,
     "Johto|Vigoroth|Ruins of Alph|498659": 1795175124,
     "Kanto|Munna|Route 4|498660": 1795178724,
-    "Sinnoh|Whiscash|Ravaged Path|498660": 1795178724
+    "Sinnoh|Whiscash|Ravaged Path|498660": 1795178724,
+    "Hoenn|Salamence|Sky Pillar|498662": 1795185320
   }
 }
