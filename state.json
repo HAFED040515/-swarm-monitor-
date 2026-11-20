@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Honchkrow|Celestial Tower|498007": 1792828516,
     "Sinnoh|Farfetch&#x27;d|Route 209|498008": 1792829419,
     "Kanto|Pikachu|Viridian Forest|498008": 1792832115,
     "Hoenn|Vaporeon|Route 134|498008": 1792832115,
@@ -999,6 +998,7 @@
     "Unova|Shroomish|Pinwheel Forest|498663": 1795189831,
     "Hoenn|Togekiss|Sky Pillar|498664": 1795193123,
     "Kanto|Starmie|Seven Island|498665": 1795194320,
-    "Johto|Aipom|Route 29|498665": 1795195517
+    "Johto|Aipom|Route 29|498665": 1795195517,
+    "Sinnoh|Combee|Floaroma Meadow|498666": 1795198825
   }
 }
