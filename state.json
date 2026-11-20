@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Croconaw|Whirl Islands|497990": 1792767020,
-    "Unova|Yanma|Pinwheel Forest|497991": 1792770342,
     "Kanto|Munna|Route 4|497991": 1792770917,
     "Hoenn|Mudkip|Route 104|497992": 1792773317,
     "Sinnoh|Chimchar|Route 211|497992": 1792773921,
@@ -999,6 +997,8 @@
     "Kanto|Tentacruel|Water Labyrinth|498644": 1795122039,
     "Unova|Scizor|Route 14|498645": 1795125318,
     "Hoenn|Torchic|Route 112|498647": 1795131031,
-    "Kanto|Charmander|Route 3|498648": 1795135822
+    "Kanto|Charmander|Route 3|498648": 1795135822,
+    "Sinnoh|Shuckle|Route 219|498648": 1795136445,
+    "Unova|Dragonair|Dragonspiral Tower|498648": 1795136445
   }
 }
