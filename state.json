@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Illumise|Water Path|497995": 1792783517,
     "Hoenn|Skarmory|Route 113|497995": 1792785635,
     "Unova|Ditto|P2 Laboratory|497996": 1792786821,
     "Kanto|Skorupi|Route 9|497996": 1792788621,
@@ -999,6 +998,7 @@
     "Hoenn|Staryu|Route 106|498651": 1795144522,
     "Kanto|Spiritomb|Lost Cave|498652": 1795147517,
     "Kanto|Farfetch&#x27;d|Route 13|498653": 1795151723,
-    "Johto|Kangaskhan|Dark Cave|498653": 1795151723
+    "Johto|Kangaskhan|Dark Cave|498653": 1795151723,
+    "Unova|Houndoom|Route 15|498653": 1795152630
   }
 }
