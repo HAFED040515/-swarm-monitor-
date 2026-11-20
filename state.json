@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Pikachu|Viridian Forest|498008": 1792832115,
     "Hoenn|Vaporeon|Route 134|498008": 1792832115,
     "Unova|Volcarona|Relic Castle|498010": 1792836620,
     "Johto|Vigoroth|Ruins of Alph|498010": 1792839314,
@@ -999,6 +998,7 @@
     "Kanto|Starmie|Seven Island|498665": 1795194320,
     "Johto|Aipom|Route 29|498665": 1795195517,
     "Sinnoh|Combee|Floaroma Meadow|498666": 1795198825,
-    "Kanto|Salamence|Victory Road|498667": 1795201830
+    "Kanto|Salamence|Victory Road|498667": 1795201830,
+    "Johto|Totodile|Route 32|498668": 1795206919
   }
 }
