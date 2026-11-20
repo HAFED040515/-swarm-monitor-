@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Snorlax|Victory Road|498001": 1792806320,
-    "Kanto|Croagunk|Route 6|498002": 1792809619,
     "Johto|Metang|Ice Path|498003": 1792812627,
     "Unova|Salamence|Dragonspiral Tower|498004": 1792815021,
     "Kanto|Wailord|Green Path|498005": 1792820719,
@@ -999,6 +997,8 @@
     "Hoenn|Luvdisc|Route 132|498658": 1795169119,
     "Kanto|Aerodactyl|Tanoby Ruins|498658": 1795171224,
     "Unova|Crawdaunt|Route 3|498658": 1795172718,
-    "Johto|Vigoroth|Ruins of Alph|498659": 1795175124
+    "Johto|Vigoroth|Ruins of Alph|498659": 1795175124,
+    "Kanto|Munna|Route 4|498660": 1795178724,
+    "Sinnoh|Whiscash|Ravaged Path|498660": 1795178724
   }
 }
