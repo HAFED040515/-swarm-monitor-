@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Blastoise|Cape Brink|498001": 1792805716,
     "Hoenn|Sharpedo|Route 127|498001": 1792806021,
     "Johto|Snorlax|Victory Road|498001": 1792806320,
     "Kanto|Croagunk|Route 6|498002": 1792809619,
@@ -999,6 +998,7 @@
     "Johto|Volcarona|Bell Tower|498656": 1795163434,
     "Unova|Pinsir|Route 12|498656": 1795164918,
     "Hoenn|Luvdisc|Route 132|498658": 1795169119,
-    "Kanto|Aerodactyl|Tanoby Ruins|498658": 1795171224
+    "Kanto|Aerodactyl|Tanoby Ruins|498658": 1795171224,
+    "Unova|Crawdaunt|Route 3|498658": 1795172718
   }
 }
