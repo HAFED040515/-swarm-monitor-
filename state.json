@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Flygon|Desert Underpass|498005": 1792820719,
-    "Sinnoh|Shroomish|Route 201|498006": 1792821918,
     "Johto|Bonsly|Ilex Forest|498006": 1792823116,
     "Kanto|Starmie|Seven Island|498006": 1792824620,
     "Johto|Chikorita|Route 31|498007": 1792826718,
@@ -999,6 +997,8 @@
     "Sinnoh|Whiscash|Ravaged Path|498660": 1795178724,
     "Hoenn|Salamence|Sky Pillar|498662": 1795185320,
     "Johto|Cyndaquil|Route 33|498662": 1795185624,
-    "Johto|Kangaskhan|Dark Cave|498663": 1795188917
+    "Johto|Kangaskhan|Dark Cave|498663": 1795188917,
+    "Sinnoh|Monferno|Route 211|498663": 1795189831,
+    "Unova|Shroomish|Pinwheel Forest|498663": 1795189831
   }
 }
