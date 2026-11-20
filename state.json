@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Feraligatr|Tohjo Falls|498012": 1792843235,
     "Unova|Farfetch&#x27;d|Route 1|498012": 1792846221,
     "Unova|Aggron|Twist Mountain|498012": 1792847420,
     "Johto|Zorua|Route 37|498013": 1792847719,
@@ -999,6 +998,7 @@
     "Hoenn|Mime Jr.|Rusturf Tunnel|498668": 1795207223,
     "Unova|Zorua|Lostlorn Forest|498668": 1795208116,
     "Kanto|Squirtle|Route 24|498669": 1795209918,
-    "Sinnoh|Vigoroth|Route 215|498669": 1795211124
+    "Sinnoh|Vigoroth|Route 215|498669": 1795211124,
+    "Hoenn|Lapras|Shoal Cave|498669": 1795212038
   }
 }
