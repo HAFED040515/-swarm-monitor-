@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Mudkip|Route 104|497992": 1792773317,
     "Sinnoh|Chimchar|Route 211|497992": 1792773921,
     "Sinnoh|Monferno|Route 211|497993": 1792775726,
     "Johto|Lucario|Mt. Silver Cave|497994": 1792778717,
@@ -999,6 +998,7 @@
     "Kanto|Charmander|Route 3|498648": 1795135822,
     "Sinnoh|Shuckle|Route 219|498648": 1795136445,
     "Unova|Dragonair|Dragonspiral Tower|498648": 1795136445,
-    "Johto|Totodile|Route 32|498649": 1795139120
+    "Johto|Totodile|Route 32|498649": 1795139120,
+    "Unova|Honchkrow|Celestial Tower|498650": 1795140364
   }
 }
