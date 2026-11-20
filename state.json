@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Ditto|P2 Laboratory|497996": 1792786821,
     "Kanto|Skorupi|Route 9|497996": 1792788621,
     "Johto|Bayleef|National Park|497997": 1792790421,
     "Johto|Typhlosion|Route 45|497998": 1792795819,
@@ -999,6 +998,7 @@
     "Kanto|Farfetch&#x27;d|Route 13|498653": 1795151723,
     "Johto|Kangaskhan|Dark Cave|498653": 1795151723,
     "Unova|Houndoom|Route 15|498653": 1795152630,
-    "Sinnoh|Carnivine|Route 225|498653": 1795153523
+    "Sinnoh|Carnivine|Route 225|498653": 1795153523,
+    "Hoenn|Gulpin|Route 110|498654": 1795155625
   }
 }
