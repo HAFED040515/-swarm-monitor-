@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Volcarona|Relic Castle|498010": 1792836620,
     "Johto|Vigoroth|Ruins of Alph|498010": 1792839314,
     "Hoenn|Castform|Aqua Hideout|498011": 1792840219,
     "Johto|Feraligatr|Tohjo Falls|498012": 1792843235,
@@ -999,6 +998,7 @@
     "Sinnoh|Combee|Floaroma Meadow|498666": 1795198825,
     "Kanto|Salamence|Victory Road|498667": 1795201830,
     "Johto|Totodile|Route 32|498668": 1795206919,
-    "Hoenn|Mime Jr.|Rusturf Tunnel|498668": 1795207223
+    "Hoenn|Mime Jr.|Rusturf Tunnel|498668": 1795207223,
+    "Unova|Zorua|Lostlorn Forest|498668": 1795208116
   }
 }
