@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Scizor|Route 14|497999": 1792799421,
     "Unova|Fearow|Route 4|498001": 1792805114,
     "Kanto|Blastoise|Cape Brink|498001": 1792805716,
     "Hoenn|Sharpedo|Route 127|498001": 1792806021,
@@ -999,6 +998,7 @@
     "Kanto|Heracross|Route 16|498655": 1795158623,
     "Sinnoh|Chimchar|Route 211|498655": 1795160422,
     "Johto|Volcarona|Bell Tower|498656": 1795163434,
-    "Unova|Pinsir|Route 12|498656": 1795164918
+    "Unova|Pinsir|Route 12|498656": 1795164918,
+    "Hoenn|Luvdisc|Route 132|498658": 1795169119
   }
 }
