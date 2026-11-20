@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Aggron|Twist Mountain|498012": 1792847420,
     "Johto|Zorua|Route 37|498013": 1792847719,
     "Kanto|Qwilfish|Route 20|498013": 1792848315,
     "Hoenn|Hippowdon|Victory Road|498013": 1792848628,
@@ -999,6 +998,7 @@
     "Kanto|Squirtle|Route 24|498669": 1795209918,
     "Sinnoh|Vigoroth|Route 215|498669": 1795211124,
     "Hoenn|Lapras|Shoal Cave|498669": 1795212038,
-    "Kanto|Kangaskhan|Lost Cave|498670": 1795214722
+    "Kanto|Kangaskhan|Lost Cave|498670": 1795214722,
+    "Unova|Salamence|Dragonspiral Tower|498671": 1795218023
   }
 }
