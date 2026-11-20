@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Lucario|Mt. Silver Cave|497994": 1792778717,
     "Kanto|Swalot|Route 18|497994": 1792779020,
     "Sinnoh|Skarmory|Route 227|497995": 1792783220,
     "Kanto|Illumise|Water Path|497995": 1792783517,
@@ -999,6 +998,7 @@
     "Johto|Totodile|Route 32|498649": 1795139120,
     "Unova|Honchkrow|Celestial Tower|498650": 1795140364,
     "Johto|Politoed|Route 31|498649": 1795140921,
-    "Hoenn|Staryu|Route 106|498651": 1795144522
+    "Hoenn|Staryu|Route 106|498651": 1795144522,
+    "Kanto|Spiritomb|Lost Cave|498652": 1795147517
   }
 }
