@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Munna|Route 4|497991": 1792770917,
     "Hoenn|Mudkip|Route 104|497992": 1792773317,
     "Sinnoh|Chimchar|Route 211|497992": 1792773921,
     "Sinnoh|Monferno|Route 211|497993": 1792775726,
@@ -999,6 +998,7 @@
     "Hoenn|Torchic|Route 112|498647": 1795131031,
     "Kanto|Charmander|Route 3|498648": 1795135822,
     "Sinnoh|Shuckle|Route 219|498648": 1795136445,
-    "Unova|Dragonair|Dragonspiral Tower|498648": 1795136445
+    "Unova|Dragonair|Dragonspiral Tower|498648": 1795136445,
+    "Johto|Totodile|Route 32|498649": 1795139120
   }
 }
