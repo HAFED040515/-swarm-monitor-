@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Typhlosion|Route 45|497998": 1792795819,
     "Sinnoh|Piplup|Route 204|497998": 1792795819,
     "Hoenn|Wailord|Route 129|497999": 1792798516,
     "Unova|Scizor|Route 14|497999": 1792799421,
@@ -999,6 +998,7 @@
     "Sinnoh|Carnivine|Route 225|498653": 1795153523,
     "Hoenn|Gulpin|Route 110|498654": 1795155625,
     "Hoenn|Plusle|Route 110|498654": 1795158319,
-    "Kanto|Heracross|Route 16|498655": 1795158623
+    "Kanto|Heracross|Route 16|498655": 1795158623,
+    "Sinnoh|Chimchar|Route 211|498655": 1795160422
   }
 }
