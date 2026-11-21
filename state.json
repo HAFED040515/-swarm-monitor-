@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Togekiss|Sky Pillar|498018": 1792865420,
     "Kanto|Pinsir|Pattern Bush|498018": 1792867819,
     "Sinnoh|Tauros|Valor Lakefront|498018": 1792867819,
     "Johto|Chimecho|Bellchime Trail|498019": 1792869021,
@@ -999,6 +998,7 @@
     "Kanto|Croagunk|Route 6|498673": 1795225521,
     "Unova|Minccino|Route 16|498674": 1795229123,
     "Sinnoh|Piplup|Route 204|498675": 1795230921,
-    "Johto|Tauros|Route 38|498675": 1795231831
+    "Johto|Tauros|Route 38|498675": 1795231831,
+    "Hoenn|Murkrow|Jagged Pass|498676": 1795234823
   }
 }
