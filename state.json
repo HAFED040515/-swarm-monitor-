@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Plusle|Route 5|498017": 1792863027,
     "Kanto|Kirlia|Route 8|498017": 1792864516,
     "Hoenn|Togekiss|Sky Pillar|498018": 1792865420,
     "Kanto|Pinsir|Pattern Bush|498018": 1792867819,
@@ -999,6 +998,7 @@
     "Hoenn|Spiritomb|Abandoned Ship|498673": 1795224318,
     "Unova|Corsola|Undella Bay|498673": 1795224318,
     "Kanto|Croagunk|Route 6|498673": 1795225521,
-    "Unova|Minccino|Route 16|498674": 1795229123
+    "Unova|Minccino|Route 16|498674": 1795229123,
+    "Sinnoh|Piplup|Route 204|498675": 1795230921
   }
 }
