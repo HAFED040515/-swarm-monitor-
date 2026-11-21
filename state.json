@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Corsola|Route 126|498027": 1792899315,
     "Kanto|Tropius|Bond Bridge|498028": 1792901120,
     "Johto|Sharpedo|Route 41|498028": 1792901120,
     "Kanto|Tauros|Route 17|498029": 1792904716,
@@ -999,6 +998,7 @@
     "Kanto|Hypno|Route 6|498684": 1795265424,
     "Hoenn|Carnivine|Route 123|498685": 1795268118,
     "Unova|Pinsir|Route 12|498686": 1795270826,
-    "Johto|Sharpedo|Route 41|498686": 1795271722
+    "Johto|Sharpedo|Route 41|498686": 1795271722,
+    "Sinnoh|Shroomish|Route 201|498687": 1795274424
   }
 }
