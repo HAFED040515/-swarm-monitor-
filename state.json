@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Meganium|Route 48|498034": 1792924516,
     "Kanto|Nosepass|Mt. Moon|498035": 1792929315,
     "Sinnoh|Tyranitar|Stark Mountain|498036": 1792930089,
     "Johto|Tauros|Route 38|498036": 1792931427,
@@ -999,6 +998,7 @@
     "Johto|Starmie|Cliff Edge Gate|498692": 1795292422,
     "Unova|Pinsir|Route 12|498693": 1795295118,
     "Sinnoh|Weavile|Route 217|498693": 1795299026,
-    "Kanto|Trapinch|Diglett&#x27;s Cave|498694": 1795301422
+    "Kanto|Trapinch|Diglett&#x27;s Cave|498694": 1795301422,
+    "Hoenn|Swampert|Route 109|498694": 1795302039
   }
 }
