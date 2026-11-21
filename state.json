@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Qwilfish|Route 20|498013": 1792848315,
-    "Hoenn|Hippowdon|Victory Road|498013": 1792848628,
     "Johto|Kirlia|Route 43|498014": 1792854035,
     "Johto|Chimecho|Bellchime Trail|498017": 1792861823,
     "Unova|Plusle|Route 5|498017": 1792863027,
@@ -999,6 +997,8 @@
     "Hoenn|Lapras|Shoal Cave|498669": 1795212038,
     "Kanto|Kangaskhan|Lost Cave|498670": 1795214722,
     "Unova|Salamence|Dragonspiral Tower|498671": 1795218023,
-    "Johto|Houndoom|Burned Tower|498672": 1795219519
+    "Johto|Houndoom|Burned Tower|498672": 1795219519,
+    "Hoenn|Spiritomb|Abandoned Ship|498673": 1795224318,
+    "Unova|Corsola|Undella Bay|498673": 1795224318
   }
 }
