@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Shelgon|Dragon&#x27;s Den|498030": 1792911220,
     "Hoenn|Luvdisc|Route 132|498030": 1792911315,
     "Kanto|Porygon|Pokemon Mansion|498031": 1792913116,
     "Sinnoh|Jynx|Snowpoint Temple|498031": 1792915233,
@@ -999,6 +998,7 @@
     "Johto|Kirlia|Route 43|498688": 1795280439,
     "Hoenn|Volcarona|Scorched Slab|498689": 1795280718,
     "Kanto|Nosepass|Mt. Moon|498689": 1795281626,
-    "Unova|Slakoth|Route 2|498689": 1795281920
+    "Unova|Slakoth|Route 2|498689": 1795281920,
+    "Sinnoh|Cloyster|Route 223|498689": 1795283423
   }
 }
