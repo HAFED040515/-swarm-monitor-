@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Munna|Route 102|498020": 1792873827,
-    "Unova|Cacnea|Route 4|498020": 1792874719,
     "Hoenn|Sudowoodo|Battle Frontier|498021": 1792879235,
     "Johto|Miltank|Route 39|498022": 1792880419,
     "Sinnoh|Piplup|Route 204|498022": 1792880419,
@@ -999,6 +997,8 @@
     "Hoenn|Murkrow|Jagged Pass|498676": 1795234823,
     "Kanto|Rotom|Power Plant|498677": 1795237523,
     "Unova|Zangoose|Route 7|498677": 1795239317,
-    "Hoenn|Dragonite|Route 131|498678": 1795241723
+    "Hoenn|Dragonite|Route 131|498678": 1795241723,
+    "Kanto|Bulbasaur|Viridian Forest|498678": 1795242316,
+    "Sinnoh|Tyranitar|Stark Mountain|498678": 1795242316
   }
 }
