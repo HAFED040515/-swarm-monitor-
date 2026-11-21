@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Glaceon|Route 217|498029": 1792907120,
     "Unova|Swalot|Route 9|498029": 1792907419,
     "Johto|Shelgon|Dragon&#x27;s Den|498030": 1792911220,
     "Hoenn|Luvdisc|Route 132|498030": 1792911315,
@@ -999,6 +998,7 @@
     "Sinnoh|Shroomish|Route 201|498687": 1795274424,
     "Unova|Cacnea|Route 4|498688": 1795277723,
     "Johto|Kirlia|Route 43|498688": 1795280439,
-    "Hoenn|Volcarona|Scorched Slab|498689": 1795280718
+    "Hoenn|Volcarona|Scorched Slab|498689": 1795280718,
+    "Kanto|Nosepass|Mt. Moon|498689": 1795281626
   }
 }
