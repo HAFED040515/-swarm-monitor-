@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Rampardos|Scufib Chamber|498026": 1792896916,
     "Sinnoh|Vigoroth|Route 215|498026": 1792897237,
     "Unova|Seviper|Route 1|498027": 1792898715,
     "Hoenn|Corsola|Route 126|498027": 1792899315,
@@ -999,6 +998,7 @@
     "Unova|Sharpedo|Undella Bay|498681": 1795254622,
     "Johto|Quilava|Route 42|498682": 1795256424,
     "Johto|Togetic|Route 27|498684": 1795263917,
-    "Kanto|Hypno|Route 6|498684": 1795265424
+    "Kanto|Hypno|Route 6|498684": 1795265424,
+    "Hoenn|Carnivine|Route 123|498685": 1795268118
   }
 }
