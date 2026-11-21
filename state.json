@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Magmar|Fuego Ironworks|498025": 1792893019,
     "Johto|Totodile|Route 32|498025": 1792893314,
     "Kanto|Rampardos|Scufib Chamber|498026": 1792896916,
     "Sinnoh|Vigoroth|Route 215|498026": 1792897237,
@@ -999,6 +998,7 @@
     "Kanto|Croagunk|Route 6|498681": 1795254326,
     "Sinnoh|Monferno|Route 211|498681": 1795254326,
     "Unova|Sharpedo|Undella Bay|498681": 1795254622,
-    "Johto|Quilava|Route 42|498682": 1795256424
+    "Johto|Quilava|Route 42|498682": 1795256424,
+    "Johto|Togetic|Route 27|498684": 1795263917
   }
 }
