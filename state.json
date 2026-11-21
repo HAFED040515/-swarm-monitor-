@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Miltank|Route 39|498022": 1792880419,
     "Sinnoh|Piplup|Route 204|498022": 1792880419,
     "Unova|Shroomish|Pinwheel Forest|498023": 1792885821,
     "Hoenn|Carnivine|Route 123|498024": 1792887020,
@@ -999,6 +998,7 @@
     "Hoenn|Dragonite|Route 131|498678": 1795241723,
     "Kanto|Bulbasaur|Viridian Forest|498678": 1795242316,
     "Sinnoh|Tyranitar|Stark Mountain|498678": 1795242316,
-    "Johto|Bayleef|National Park|498679": 1795245024
+    "Johto|Bayleef|National Park|498679": 1795245024,
+    "Hoenn|Torchic|Route 112|498681": 1795252823
   }
 }
