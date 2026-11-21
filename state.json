@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Jynx|Snowpoint Temple|498031": 1792915233,
     "Unova|Dragonair|Dragonspiral Tower|498033": 1792919117,
     "Kanto|Cradily|Weepth Chamber|498033": 1792922436,
     "Hoenn|Chimecho|Mt. Pyre|498034": 1792923320,
@@ -999,6 +998,7 @@
     "Unova|Slakoth|Route 2|498689": 1795281920,
     "Sinnoh|Cloyster|Route 223|498689": 1795283423,
     "Kanto|Trapinch|Diglett&#x27;s Cave|498691": 1795290622,
-    "Hoenn|Combee|Route 117|498691": 1795290622
+    "Hoenn|Combee|Route 117|498691": 1795290622,
+    "Johto|Starmie|Cliff Edge Gate|498692": 1795292422
   }
 }
