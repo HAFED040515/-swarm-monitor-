@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Chimecho|Bellchime Trail|498019": 1792869021,
     "Hoenn|Munna|Route 102|498020": 1792873827,
     "Unova|Cacnea|Route 4|498020": 1792874719,
     "Hoenn|Sudowoodo|Battle Frontier|498021": 1792879235,
@@ -999,6 +998,7 @@
     "Johto|Tauros|Route 38|498675": 1795231831,
     "Hoenn|Murkrow|Jagged Pass|498676": 1795234823,
     "Kanto|Rotom|Power Plant|498677": 1795237523,
-    "Unova|Zangoose|Route 7|498677": 1795239317
+    "Unova|Zangoose|Route 7|498677": 1795239317,
+    "Hoenn|Dragonite|Route 131|498678": 1795241723
   }
 }
