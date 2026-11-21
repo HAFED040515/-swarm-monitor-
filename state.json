@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Tauros|Valor Lakefront|498018": 1792867819,
     "Johto|Chimecho|Bellchime Trail|498019": 1792869021,
     "Hoenn|Munna|Route 102|498020": 1792873827,
     "Unova|Cacnea|Route 4|498020": 1792874719,
@@ -999,6 +998,7 @@
     "Sinnoh|Piplup|Route 204|498675": 1795230921,
     "Johto|Tauros|Route 38|498675": 1795231831,
     "Hoenn|Murkrow|Jagged Pass|498676": 1795234823,
-    "Kanto|Rotom|Power Plant|498677": 1795237523
+    "Kanto|Rotom|Power Plant|498677": 1795237523,
+    "Unova|Zangoose|Route 7|498677": 1795239317
   }
 }
