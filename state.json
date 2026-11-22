@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Minun|Route 22|498054": 1792995020,
     "Unova|Miltank|Village Bridge|498054": 1792996229,
     "Sinnoh|Spiritomb|Turnback Cave|498054": 1792997120,
     "Hoenn|Vaporeon|Route 134|498054": 1792997420,
@@ -999,6 +998,7 @@
     "Unova|Togetic|Dreamyard|498715": 1795374922,
     "Hoenn|Togekiss|Sky Pillar|498715": 1795375830,
     "Sinnoh|Exeggutor|Route 230|498715": 1795375830,
-    "Kanto|Rampardos|Tanoby Ruins|498716": 1795377917
+    "Kanto|Rampardos|Tanoby Ruins|498716": 1795377917,
+    "Johto|Shelgon|Dragon&#x27;s Den|498716": 1795380322
   }
 }
