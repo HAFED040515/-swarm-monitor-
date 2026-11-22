@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Hippowdon|Victory Road|498037": 1792936833,
-    "Johto|Feraligatr|Tohjo Falls|498038": 1792938915,
     "Sinnoh|Hippopotas|Maniac Tunnel|498038": 1792939820,
     "Unova|Heracross|Route 10|498039": 1792944035,
     "Sinnoh|Scyther|Route 210|498040": 1792944920,
@@ -999,6 +997,8 @@
     "Kanto|Charmander|Route 3|498696": 1795308322,
     "Unova|Volcarona|Relic Castle|498696": 1795308916,
     "Johto|Croconaw|Whirl Islands|498698": 1795312838,
-    "Hoenn|Gulpin|Route 110|498698": 1795314916
+    "Hoenn|Gulpin|Route 110|498698": 1795314916,
+    "Kanto|Pidgeot|Berry Forest|498698": 1795316440,
+    "Unova|Volbeat|Route 8|498698": 1795316440
   }
 }
