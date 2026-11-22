@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Hitmontop|Mt. Mortar|498046": 1792966519,
     "Unova|Corsola|Undella Bay|498046": 1792966820,
     "Kanto|Plusle|Route 2|498047": 1792969515,
     "Sinnoh|Heracross|Route 206|498047": 1792970119,
@@ -999,6 +998,7 @@
     "Unova|Salamence|Dragonspiral Tower|498705": 1795340117,
     "Kanto|Salamence|Victory Road|498705": 1795341027,
     "Hoenn|Treecko|Petalburg Woods|498706": 1795343116,
-    "Johto|Croconaw|Whirl Islands|498706": 1795344022
+    "Johto|Croconaw|Whirl Islands|498706": 1795344022,
+    "Unova|Togetic|Dreamyard|498707": 1795345517
   }
 }
