@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Skarmory|Route 113|498055": 1793001020,
     "Kanto|Plusle|Route 2|498055": 1793001634,
     "Johto|Chimecho|Bellchime Trail|498056": 1793002222,
     "Hoenn|Pineco|Route 103|498057": 1793005824,
@@ -999,6 +998,7 @@
     "Johto|Shelgon|Dragon&#x27;s Den|498716": 1795380322,
     "Sinnoh|Magmar|Fuego Ironworks|498716": 1795380917,
     "Hoenn|Castform|Aqua Hideout|498717": 1795381517,
-    "Johto|Kingdra|Lake of Rage|498717": 1795384221
+    "Johto|Kingdra|Lake of Rage|498717": 1795384221,
+    "Sinnoh|Tropius|Route 226|498718": 1795387224
   }
 }
