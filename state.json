@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Kangaskhan|Dark Cave|498043": 1792956020,
     "Unova|Carnivine|Route 18|498043": 1792956917,
     "Sinnoh|Zangoose|Route 205|498044": 1792959020,
     "Hoenn|Mudkip|Route 104|498044": 1792959916,
@@ -999,6 +998,7 @@
     "Sinnoh|Hippopotas|Maniac Tunnel|498703": 1795331060,
     "Unova|Cloyster|Challenger&#x27;s Cave|498702": 1795331424,
     "Johto|Starmie|Cliff Edge Gate|498703": 1795331725,
-    "Hoenn|Croagunk|Route 121|498703": 1795331725
+    "Hoenn|Croagunk|Route 121|498703": 1795331725,
+    "Sinnoh|Nosepass|Oreburgh Gate|498705": 1795339230
   }
 }
