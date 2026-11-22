@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Tauros|Route 38|498036": 1792931427,
     "Sinnoh|Crawdaunt|Lake Valor|498036": 1792933233,
     "Unova|Pinsir|Route 12|498036": 1792933233,
     "Kanto|Snorlax|Cerulean Cave|498037": 1792936515,
@@ -999,6 +998,7 @@
     "Kanto|Trapinch|Diglett&#x27;s Cave|498694": 1795301422,
     "Hoenn|Swampert|Route 109|498694": 1795302039,
     "Johto|Meganium|Route 48|498695": 1795302924,
-    "Unova|Seviper|Route 1|498695": 1795302924
+    "Unova|Seviper|Route 1|498695": 1795302924,
+    "Kanto|Charmander|Route 3|498696": 1795308322
   }
 }
