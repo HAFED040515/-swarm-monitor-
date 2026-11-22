@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Houndoom|Kindle Road|498041": 1792951233,
     "Sinnoh|Lucario|Iron Island|498042": 1792953920,
     "Kanto|Zangoose|Route 14|498043": 1792955721,
     "Johto|Kangaskhan|Dark Cave|498043": 1792956020,
@@ -999,6 +998,7 @@
     "Johto|Snorlax|Victory Road|498701": 1795323919,
     "Hoenn|Mismagius|Route 122|498701": 1795326917,
     "Kanto|Blissey|Three Island|498702": 1795328429,
-    "Sinnoh|Hippopotas|Maniac Tunnel|498703": 1795331060
+    "Sinnoh|Hippopotas|Maniac Tunnel|498703": 1795331060,
+    "Unova|Cloyster|Challenger&#x27;s Cave|498702": 1795331424
   }
 }
