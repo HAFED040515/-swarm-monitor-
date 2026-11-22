@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Heracross|Route 16|498051": 1792986915,
     "Hoenn|Staryu|Route 106|498052": 1792989026,
     "Sinnoh|Cloyster|Route 223|498052": 1792990227,
     "Unova|Yanma|Pinwheel Forest|498052": 1792990515,
@@ -999,6 +998,7 @@
     "Sinnoh|Zangoose|Route 205|498712": 1795363823,
     "Unova|Shroomish|Pinwheel Forest|498712": 1795363823,
     "Kanto|Murkrow|Route 7|498712": 1795364423,
-    "Hoenn|Treecko|Petalburg Woods|498712": 1795366518
+    "Hoenn|Treecko|Petalburg Woods|498712": 1795366518,
+    "Kanto|Rotom|Power Plant|498713": 1795368630
   }
 }
