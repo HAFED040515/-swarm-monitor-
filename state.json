@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Hippopotas|Maniac Tunnel|498038": 1792939820,
     "Unova|Heracross|Route 10|498039": 1792944035,
     "Sinnoh|Scyther|Route 210|498040": 1792944920,
     "Hoenn|Magneton|New Mauville|498040": 1792945516,
@@ -999,6 +998,7 @@
     "Johto|Croconaw|Whirl Islands|498698": 1795312838,
     "Hoenn|Gulpin|Route 110|498698": 1795314916,
     "Kanto|Pidgeot|Berry Forest|498698": 1795316440,
-    "Unova|Volbeat|Route 8|498698": 1795316440
+    "Unova|Volbeat|Route 8|498698": 1795316440,
+    "Hoenn|Blissey|Artisan Cave|498699": 1795318517
   }
 }
