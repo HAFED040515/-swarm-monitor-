@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Spiritomb|Turnback Cave|498054": 1792997120,
     "Hoenn|Vaporeon|Route 134|498054": 1792997420,
     "Hoenn|Skarmory|Route 113|498055": 1793001020,
     "Kanto|Plusle|Route 2|498055": 1793001634,
@@ -999,6 +998,7 @@
     "Sinnoh|Exeggutor|Route 230|498715": 1795375830,
     "Kanto|Rampardos|Tanoby Ruins|498716": 1795377917,
     "Johto|Shelgon|Dragon&#x27;s Den|498716": 1795380322,
-    "Sinnoh|Magmar|Fuego Ironworks|498716": 1795380917
+    "Sinnoh|Magmar|Fuego Ironworks|498716": 1795380917,
+    "Hoenn|Castform|Aqua Hideout|498717": 1795381517
   }
 }
