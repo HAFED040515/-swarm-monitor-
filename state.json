@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Drifblim|Route 222|498049": 1792976715,
     "Johto|Wailmer|Route 40|498049": 1792977915,
     "Hoenn|Rotom|New Mauville|498049": 1792977915,
     "Unova|Dragonair|Dragonspiral Tower|498049": 1792978820,
@@ -999,6 +998,7 @@
     "Hoenn|Vaporeon|Route 134|498707": 1795347318,
     "Sinnoh|Grotle|Sendoff Spring|498708": 1795350923,
     "Johto|Misdreavus|Sprout Tower|498709": 1795352720,
-    "Unova|Rapidash|Route 12|498708": 1795352720
+    "Unova|Rapidash|Route 12|498708": 1795352720,
+    "Hoenn|Dragonite|Route 131|498709": 1795354517
   }
 }
