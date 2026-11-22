@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Plusle|Route 2|498047": 1792969515,
     "Sinnoh|Heracross|Route 206|498047": 1792970119,
     "Kanto|Heracross|Route 16|498048": 1792974915,
     "Sinnoh|Drifblim|Route 222|498049": 1792976715,
@@ -999,6 +998,7 @@
     "Hoenn|Treecko|Petalburg Woods|498706": 1795343116,
     "Johto|Croconaw|Whirl Islands|498706": 1795344022,
     "Unova|Togetic|Dreamyard|498707": 1795345517,
-    "Hoenn|Vaporeon|Route 134|498707": 1795347318
+    "Hoenn|Vaporeon|Route 134|498707": 1795347318,
+    "Sinnoh|Grotle|Sendoff Spring|498708": 1795350923
   }
 }
