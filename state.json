@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Cloyster|Route 223|498052": 1792990227,
     "Unova|Yanma|Pinwheel Forest|498052": 1792990515,
     "Johto|Kangaskhan|Dark Cave|498053": 1792992316,
     "Johto|Bonsly|Ilex Forest|498054": 1792994435,
@@ -999,6 +998,7 @@
     "Kanto|Murkrow|Route 7|498712": 1795364423,
     "Hoenn|Treecko|Petalburg Woods|498712": 1795366518,
     "Kanto|Rotom|Power Plant|498713": 1795368630,
-    "Johto|Skitty|Route 35|498713": 1795369521
+    "Johto|Skitty|Route 35|498713": 1795369521,
+    "Unova|Togetic|Dreamyard|498715": 1795374922
   }
 }
