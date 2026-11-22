@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Zangoose|Route 205|498044": 1792959020,
     "Hoenn|Mudkip|Route 104|498044": 1792959916,
     "Hoenn|Tentacruel|Route 128|498044": 1792961717,
     "Johto|Hitmontop|Mt. Mortar|498046": 1792966519,
@@ -999,6 +998,7 @@
     "Johto|Starmie|Cliff Edge Gate|498703": 1795331725,
     "Hoenn|Croagunk|Route 121|498703": 1795331725,
     "Sinnoh|Nosepass|Oreburgh Gate|498705": 1795339230,
-    "Unova|Salamence|Dragonspiral Tower|498705": 1795340117
+    "Unova|Salamence|Dragonspiral Tower|498705": 1795340117,
+    "Kanto|Salamence|Victory Road|498705": 1795341027
   }
 }
