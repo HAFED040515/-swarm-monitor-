@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Kirlia|Route 8|498072": 1793060715,
     "Hoenn|Skitty|Route 116|498072": 1793062834,
     "Sinnoh|Burmy|Route 202|498073": 1793066118,
     "Johto|Lucario|Mt. Silver Cave|498074": 1793068516,
@@ -999,6 +998,7 @@
     "Sinnoh|Kangaskhan|Wayward Cave|498737": 1795454124,
     "Johto|Metang|Ice Path|498737": 1795456841,
     "Unova|Minun|Route 6|498738": 1795458920,
-    "Johto|Croconaw|Whirl Islands|498738": 1795459824
+    "Johto|Croconaw|Whirl Islands|498738": 1795459824,
+    "Hoenn|Hippowdon|Victory Road|498738": 1795460119
   }
 }
