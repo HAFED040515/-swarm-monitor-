@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cacnea|Route 4|498060": 1793018117,
     "Kanto|Kingler|Route 20|498060": 1793018721,
     "Johto|Totodile|Route 32|498061": 1793021428,
     "Sinnoh|Skitty|Route 204|498061": 1793022916,
@@ -999,6 +998,7 @@
     "Sinnoh|Kirlia|Snowpoint Temple|498722": 1795400422,
     "Johto|Quagsire|Cliff Edge Gate|498722": 1795401317,
     "Sinnoh|Glaceon|Route 217|498724": 1795407917,
-    "Johto|Quilava|Route 42|498724": 1795409422
+    "Johto|Quilava|Route 42|498724": 1795409422,
+    "Johto|Tauros|Route 38|498726": 1795416322
   }
 }
