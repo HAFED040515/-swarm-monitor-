@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Plusle|Route 5|498071": 1793056822,
     "Sinnoh|Grotle|Sendoff Spring|498071": 1793057716,
     "Johto|Starmie|Cliff Edge Gate|498071": 1793058915,
     "Kanto|Kirlia|Route 8|498072": 1793060715,
@@ -999,6 +998,7 @@
     "Johto|Totodile|Route 32|498736": 1795450524,
     "Unova|Miltank|Village Bridge|498736": 1795450524,
     "Kanto|Snorlax|Cerulean Cave|498737": 1795453830,
-    "Sinnoh|Kangaskhan|Wayward Cave|498737": 1795454124
+    "Sinnoh|Kangaskhan|Wayward Cave|498737": 1795454124,
+    "Johto|Metang|Ice Path|498737": 1795456841
   }
 }
