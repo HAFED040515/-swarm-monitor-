@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Spinda|Route 113|498075": 1793072117,
     "Kanto|Squirtle|Route 24|498075": 1793073019,
     "Unova|Farfetch&#x27;d|Route 1|498076": 1793073916,
     "Kanto|Rotom|Power Plant|498077": 1793080220,
@@ -999,6 +998,7 @@
     "Johto|Chimecho|Bellchime Trail|498740": 1795464321,
     "Unova|Slakoth|Route 2|498741": 1795468829,
     "Hoenn|Wailord|Route 129|498741": 1795470024,
-    "Sinnoh|Kangaskhan|Wayward Cave|498741": 1795470024
+    "Sinnoh|Kangaskhan|Wayward Cave|498741": 1795470024,
+    "Kanto|Minun|Route 22|498741": 1795470938
   }
 }
