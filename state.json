@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Remoraid|Route 108|498068": 1793046021,
     "Johto|Hitmontop|Mt. Mortar|498068": 1793047521,
     "Hoenn|Wailord|Route 129|498069": 1793049916,
     "Unova|Dragonair|Dragonspiral Tower|498069": 1793050822,
@@ -999,6 +998,7 @@
     "Johto|Hitmontop|Mt. Mortar|498731": 1795433432,
     "Hoenn|Hippowdon|Victory Road|498733": 1795439723,
     "Johto|Skitty|Route 35|498733": 1795440638,
-    "Kanto|Zangoose|Route 14|498733": 1795441224
+    "Kanto|Zangoose|Route 14|498733": 1795441224,
+    "Sinnoh|Magmortar|Stark Mountain|498733": 1795442120
   }
 }
