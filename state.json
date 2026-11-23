@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Pineco|Route 103|498057": 1793005824,
     "Kanto|Hypno|Three Island|498056": 1793006122,
     "Johto|Zorua|Route 37|498057": 1793007921,
     "Unova|Illumise|Moor of Icirrus|498058": 1793010316,
@@ -999,6 +998,7 @@
     "Johto|Kingdra|Lake of Rage|498717": 1795384221,
     "Sinnoh|Tropius|Route 226|498718": 1795387224,
     "Kanto|Ivysaur|Route 5|498718": 1795387528,
-    "Hoenn|Volcarona|Scorched Slab|498718": 1795387528
+    "Hoenn|Volcarona|Scorched Slab|498718": 1795387528,
+    "Johto|Wailmer|Route 40|498720": 1795393222
   }
 }
