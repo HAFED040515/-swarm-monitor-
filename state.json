@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Furret|Abundant Shrine|498074": 1793068820,
     "Hoenn|Murkrow|Jagged Pass|498075": 1793070920,
     "Sinnoh|Bonsly|Eterna Forest|498075": 1793071220,
     "Hoenn|Spinda|Route 113|498075": 1793072117,
@@ -999,6 +998,7 @@
     "Hoenn|Hippowdon|Victory Road|498738": 1795460119,
     "Sinnoh|Absol|Mt. Coronet|498739": 1795461323,
     "Kanto|Rampardos|Tanoby Ruins|498739": 1795461925,
-    "Johto|Chimecho|Bellchime Trail|498740": 1795464321
+    "Johto|Chimecho|Bellchime Trail|498740": 1795464321,
+    "Unova|Slakoth|Route 2|498741": 1795468829
   }
 }
