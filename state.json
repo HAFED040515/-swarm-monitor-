@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Trapinch|Oreburgh Mine|498066": 1793039715,
     "Unova|Yanma|Pinwheel Forest|498066": 1793040322,
     "Sinnoh|Shuckle|Route 219|498067": 1793043920,
     "Sinnoh|Drapion|Route 213|498067": 1793045720,
@@ -999,6 +998,7 @@
     "Kanto|Parasect|Mt. Moon|498729": 1795428040,
     "Hoenn|Blissey|Artisan Cave|498730": 1795428928,
     "Unova|Scizor|Route 14|498730": 1795430425,
-    "Sinnoh|Magmar|Fuego Ironworks|498731": 1795432525
+    "Sinnoh|Magmar|Fuego Ironworks|498731": 1795432525,
+    "Johto|Hitmontop|Mt. Mortar|498731": 1795433432
   }
 }
