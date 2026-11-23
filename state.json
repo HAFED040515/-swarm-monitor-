@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Totodile|Route 32|498061": 1793021428,
     "Sinnoh|Skitty|Route 204|498061": 1793022916,
     "Hoenn|Hitmonchan|Fiery Path|498063": 1793028022,
     "Unova|Salamence|Dragonspiral Tower|498064": 1793031622,
@@ -999,6 +998,7 @@
     "Sinnoh|Glaceon|Route 217|498724": 1795407917,
     "Johto|Quilava|Route 42|498724": 1795409422,
     "Johto|Tauros|Route 38|498726": 1795416322,
-    "Hoenn|Hitmonchan|Fiery Path|498726": 1795416623
+    "Hoenn|Hitmonchan|Fiery Path|498726": 1795416623,
+    "Kanto|Chatot|Treasure Beach|498726": 1795417241
   }
 }
