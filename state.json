@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Nincada|Route 25|498071": 1793056521,
     "Hoenn|Mime Jr.|Rusturf Tunnel|498071": 1793056521,
     "Unova|Plusle|Route 5|498071": 1793056822,
     "Sinnoh|Grotle|Sendoff Spring|498071": 1793057716,
@@ -999,6 +998,7 @@
     "Johto|Houndoom|Burned Tower|498735": 1795447834,
     "Hoenn|Blissey|Artisan Cave|498735": 1795448119,
     "Johto|Totodile|Route 32|498736": 1795450524,
-    "Unova|Miltank|Village Bridge|498736": 1795450524
+    "Unova|Miltank|Village Bridge|498736": 1795450524,
+    "Kanto|Snorlax|Cerulean Cave|498737": 1795453830
   }
 }
