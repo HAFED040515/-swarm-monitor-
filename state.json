@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Rampardos|Tanoby Ruins|498066": 1793039431,
     "Johto|Chimecho|Bellchime Trail|498066": 1793039431,
     "Hoenn|Qwilfish|Route 125|498066": 1793039715,
     "Sinnoh|Trapinch|Oreburgh Mine|498066": 1793039715,
@@ -999,6 +998,7 @@
     "Sinnoh|Snorlax|Victory Road|498729": 1795425918,
     "Kanto|Omastar|Liptoo Chamber|498729": 1795427123,
     "Johto|Barboach|Slowpoke Well|498729": 1795427123,
-    "Kanto|Parasect|Mt. Moon|498729": 1795428040
+    "Kanto|Parasect|Mt. Moon|498729": 1795428040,
+    "Hoenn|Blissey|Artisan Cave|498730": 1795428928
   }
 }
