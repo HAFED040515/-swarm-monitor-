@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Chimecho|Bellchime Trail|498066": 1793039431,
     "Hoenn|Qwilfish|Route 125|498066": 1793039715,
     "Sinnoh|Trapinch|Oreburgh Mine|498066": 1793039715,
     "Unova|Yanma|Pinwheel Forest|498066": 1793040322,
@@ -999,6 +998,7 @@
     "Kanto|Omastar|Liptoo Chamber|498729": 1795427123,
     "Johto|Barboach|Slowpoke Well|498729": 1795427123,
     "Kanto|Parasect|Mt. Moon|498729": 1795428040,
-    "Hoenn|Blissey|Artisan Cave|498730": 1795428928
+    "Hoenn|Blissey|Artisan Cave|498730": 1795428928,
+    "Unova|Scizor|Route 14|498730": 1795430425
   }
 }
