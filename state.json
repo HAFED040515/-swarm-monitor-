@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Carnivine|Route 123|498059": 1793013320,
     "Hoenn|Corsola|Route 128|498060": 1793018117,
     "Unova|Cacnea|Route 4|498060": 1793018117,
     "Kanto|Kingler|Route 20|498060": 1793018721,
@@ -999,6 +998,7 @@
     "Unova|Illumise|Moor of Icirrus|498721": 1795398621,
     "Kanto|Relicanth|Tanoby Ruins|498722": 1795400422,
     "Sinnoh|Kirlia|Snowpoint Temple|498722": 1795400422,
-    "Johto|Quagsire|Cliff Edge Gate|498722": 1795401317
+    "Johto|Quagsire|Cliff Edge Gate|498722": 1795401317,
+    "Sinnoh|Glaceon|Route 217|498724": 1795407917
   }
 }
