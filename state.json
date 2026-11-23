@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Shuckle|Route 219|498067": 1793043920,
     "Sinnoh|Drapion|Route 213|498067": 1793045720,
     "Hoenn|Remoraid|Route 108|498068": 1793046021,
     "Johto|Hitmontop|Mt. Mortar|498068": 1793047521,
@@ -999,6 +998,7 @@
     "Unova|Scizor|Route 14|498730": 1795430425,
     "Sinnoh|Magmar|Fuego Ironworks|498731": 1795432525,
     "Johto|Hitmontop|Mt. Mortar|498731": 1795433432,
-    "Hoenn|Hippowdon|Victory Road|498733": 1795439723
+    "Hoenn|Hippowdon|Victory Road|498733": 1795439723,
+    "Johto|Skitty|Route 35|498733": 1795440638
   }
 }
