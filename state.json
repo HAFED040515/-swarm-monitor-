@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Murkrow|Jagged Pass|498075": 1793070920,
-    "Sinnoh|Bonsly|Eterna Forest|498075": 1793071220,
     "Hoenn|Spinda|Route 113|498075": 1793072117,
     "Kanto|Squirtle|Route 24|498075": 1793073019,
     "Unova|Farfetch&#x27;d|Route 1|498076": 1793073916,
@@ -999,6 +997,8 @@
     "Sinnoh|Absol|Mt. Coronet|498739": 1795461323,
     "Kanto|Rampardos|Tanoby Ruins|498739": 1795461925,
     "Johto|Chimecho|Bellchime Trail|498740": 1795464321,
-    "Unova|Slakoth|Route 2|498741": 1795468829
+    "Unova|Slakoth|Route 2|498741": 1795468829,
+    "Hoenn|Wailord|Route 129|498741": 1795470024,
+    "Sinnoh|Kangaskhan|Wayward Cave|498741": 1795470024
   }
 }
