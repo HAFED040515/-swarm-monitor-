@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Combee|Route 117|498086": 1793112622,
     "Johto|Lapras|Union Cave|498086": 1793112916,
     "Hoenn|Torchic|Route 112|498087": 1793115318,
     "Sinnoh|Kecleon|Route 229|498087": 1793115621,
@@ -999,6 +998,7 @@
     "Sinnoh|Pineco|Route 207|498750": 1795501517,
     "Johto|Skarmory|Route 26|498750": 1795503023,
     "Hoenn|Nosepass|Granite Cave|498751": 1795506917,
-    "Kanto|Bulbasaur|Viridian Forest|498752": 1795507824
+    "Kanto|Bulbasaur|Viridian Forest|498752": 1795507824,
+    "Johto|Ditto|Tohjo Falls|498753": 1795514724
   }
 }
