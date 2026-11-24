@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Ditto|Chargestone Cave|498094": 1793140515,
     "Hoenn|Blaziken|Magma Hideout|498094": 1793142035,
     "Kanto|Salamence|Victory Road|498095": 1793143826,
     "Johto|Cyndaquil|Route 33|498096": 1793149234,
@@ -999,6 +998,7 @@
     "Kanto|Minun|Route 22|498762": 1795546230,
     "Kanto|Relicanth|Tanoby Ruins|498764": 1795550720,
     "Johto|Exeggcute|Route 30|498764": 1795551025,
-    "Sinnoh|Burmy|Route 202|498764": 1795551025
+    "Sinnoh|Burmy|Route 202|498764": 1795551025,
+    "Hoenn|Togekiss|Sky Pillar|498764": 1795553718
   }
 }
