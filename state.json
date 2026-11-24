@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Remoraid|Route 108|498090": 1793125830,
     "Johto|Croconaw|Whirl Islands|498090": 1793126425,
     "Unova|Plusle|Route 5|498090": 1793126425,
     "Kanto|Rampardos|Tanoby Ruins|498090": 1793127643,
@@ -999,6 +998,7 @@
     "Hoenn|Castform|Aqua Hideout|498754": 1795516823,
     "Sinnoh|Infernape|Route 221|498756": 1795523117,
     "Unova|Minun|Route 6|498757": 1795526424,
-    "Johto|Metang|Ice Path|498757": 1795527031
+    "Johto|Metang|Ice Path|498757": 1795527031,
+    "Hoenn|Nosepass|Granite Cave|498757": 1795528840
   }
 }
