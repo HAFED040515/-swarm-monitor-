@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Crawdaunt|Route 3|498078": 1793084436,
     "Hoenn|Flygon|Desert Underpass|498079": 1793085621,
     "Hoenn|Sableye|Victory Road|498079": 1793087121,
     "Johto|Shelgon|Dragon&#x27;s Den|498080": 1793090720,
@@ -999,6 +998,7 @@
     "Hoenn|Staryu|Route 106|498742": 1795473032,
     "Johto|Kangaskhan|Dark Cave|498743": 1795478442,
     "Hoenn|Corsola|Route 128|498743": 1795478442,
-    "Unova|Zorua|Lostlorn Forest|498744": 1795480231
+    "Unova|Zorua|Lostlorn Forest|498744": 1795480231,
+    "Johto|Cyndaquil|Route 33|498744": 1795480823
   }
 }
