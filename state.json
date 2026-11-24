@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cacnea|Route 4|498093": 1793137519,
     "Sinnoh|Chatot|Route 218|498094": 1793139321,
     "Kanto|Tropius|Bond Bridge|498094": 1793139620,
     "Johto|Hitmontop|Mt. Mortar|498094": 1793139620,
@@ -999,6 +998,7 @@
     "Unova|Patrat|Route 3|498760": 1795538430,
     "Johto|Miltank|Route 39|498760": 1795539023,
     "Sinnoh|Prinplup|Route 220|498761": 1795541433,
-    "Hoenn|Mudkip|Route 104|498761": 1795543238
+    "Hoenn|Mudkip|Route 104|498761": 1795543238,
+    "Kanto|Minun|Route 22|498762": 1795546230
   }
 }
