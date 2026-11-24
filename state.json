@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Wailmer|Route 40|498085": 1793108421,
     "Unova|Relicanth|Challenger&#x27;s Cave|498085": 1793108720,
     "Hoenn|Combee|Route 117|498086": 1793112622,
     "Johto|Lapras|Union Cave|498086": 1793112916,
@@ -999,6 +998,7 @@
     "Johto|Kirlia|Route 43|498749": 1795497622,
     "Unova|Skorupi|Desert Resort|498750": 1795500318,
     "Sinnoh|Pineco|Route 207|498750": 1795501517,
-    "Johto|Skarmory|Route 26|498750": 1795503023
+    "Johto|Skarmory|Route 26|498750": 1795503023,
+    "Hoenn|Nosepass|Granite Cave|498751": 1795506917
   }
 }
