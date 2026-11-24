@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Skarmory|Route 113|498083": 1793099116,
     "Unova|Salamence|Dragonspiral Tower|498083": 1793100917,
     "Sinnoh|Mr. Mime|Route 224|498083": 1793102116,
     "Johto|Cyndaquil|Route 33|498084": 1793105120,
@@ -999,6 +998,7 @@
     "Johto|Starmie|Cliff Edge Gate|498746": 1795485919,
     "Unova|Zangoose|Route 7|498746": 1795487122,
     "Sinnoh|Cacturne|Route 228|498746": 1795488622,
-    "Hoenn|Luvdisc|Route 132|498749": 1795497321
+    "Hoenn|Luvdisc|Route 132|498749": 1795497321,
+    "Johto|Kirlia|Route 43|498749": 1795497622
   }
 }
