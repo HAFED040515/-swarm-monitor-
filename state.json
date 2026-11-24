@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Lucario|Iron Island|498081": 1793093428,
-    "Kanto|Lapras|Icefall Cave|498081": 1793094320,
     "Johto|Lapras|Union Cave|498081": 1793094320,
     "Unova|Yanma|Pinwheel Forest|498081": 1793094917,
     "Johto|Yanmega|Route 44|498081": 1793095236,
@@ -999,6 +997,8 @@
     "Johto|Cyndaquil|Route 33|498744": 1795480823,
     "Hoenn|Volcarona|Scorched Slab|498745": 1795482921,
     "Sinnoh|Carnivine|Route 225|498745": 1795482921,
-    "Kanto|Charizard|Mt. Ember|498745": 1795483225
+    "Kanto|Charizard|Mt. Ember|498745": 1795483225,
+    "Kanto|Chansey|Three Isle Port|498745": 1795485919,
+    "Johto|Starmie|Cliff Edge Gate|498746": 1795485919
   }
 }
