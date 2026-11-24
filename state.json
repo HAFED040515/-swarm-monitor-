@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Torchic|Route 112|498087": 1793115318,
-    "Sinnoh|Kecleon|Route 229|498087": 1793115621,
     "Kanto|Bastiodon|Monean Chamber|498087": 1793116221,
     "Hoenn|Pelipper|Route 109|498087": 1793116516,
     "Unova|Farfetch&#x27;d|Route 1|498088": 1793119223,
@@ -999,6 +997,8 @@
     "Hoenn|Nosepass|Granite Cave|498751": 1795506917,
     "Kanto|Bulbasaur|Viridian Forest|498752": 1795507824,
     "Johto|Ditto|Tohjo Falls|498753": 1795514724,
-    "Unova|Cherubi|Route 16|498754": 1795515624
+    "Unova|Cherubi|Route 16|498754": 1795515624,
+    "Kanto|Plusle|Route 2|498754": 1795516823,
+    "Hoenn|Castform|Aqua Hideout|498754": 1795516823
   }
 }
