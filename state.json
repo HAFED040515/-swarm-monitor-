@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Cyndaquil|Route 33|498084": 1793105120,
     "Johto|Wailmer|Route 40|498085": 1793108421,
     "Unova|Relicanth|Challenger&#x27;s Cave|498085": 1793108720,
     "Hoenn|Combee|Route 117|498086": 1793112622,
@@ -999,6 +998,7 @@
     "Hoenn|Luvdisc|Route 132|498749": 1795497321,
     "Johto|Kirlia|Route 43|498749": 1795497622,
     "Unova|Skorupi|Desert Resort|498750": 1795500318,
-    "Sinnoh|Pineco|Route 207|498750": 1795501517
+    "Sinnoh|Pineco|Route 207|498750": 1795501517,
+    "Johto|Skarmory|Route 26|498750": 1795503023
   }
 }
