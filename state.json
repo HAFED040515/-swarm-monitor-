@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Shelgon|Dragon&#x27;s Den|498080": 1793090720,
     "Sinnoh|Lucario|Iron Island|498081": 1793093428,
     "Kanto|Lapras|Icefall Cave|498081": 1793094320,
     "Johto|Lapras|Union Cave|498081": 1793094320,
@@ -999,6 +998,7 @@
     "Unova|Zorua|Lostlorn Forest|498744": 1795480231,
     "Johto|Cyndaquil|Route 33|498744": 1795480823,
     "Hoenn|Volcarona|Scorched Slab|498745": 1795482921,
-    "Sinnoh|Carnivine|Route 225|498745": 1795482921
+    "Sinnoh|Carnivine|Route 225|498745": 1795482921,
+    "Kanto|Charizard|Mt. Ember|498745": 1795483225
   }
 }
