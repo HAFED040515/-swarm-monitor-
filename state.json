@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Kanto|Rotom|Power Plant|498077": 1793080220,
-    "Unova|Furret|Abundant Shrine|498077": 1793080835,
     "Sinnoh|Glaceon|Route 217|498078": 1793081419,
     "Unova|Crawdaunt|Route 3|498078": 1793084436,
     "Hoenn|Flygon|Desert Underpass|498079": 1793085621,
@@ -999,6 +997,8 @@
     "Sinnoh|Kangaskhan|Wayward Cave|498741": 1795470024,
     "Kanto|Minun|Route 22|498741": 1795470938,
     "Sinnoh|Garchomp|Route 216|498742": 1795472423,
-    "Hoenn|Staryu|Route 106|498742": 1795473032
+    "Hoenn|Staryu|Route 106|498742": 1795473032,
+    "Johto|Kangaskhan|Dark Cave|498743": 1795478442,
+    "Hoenn|Corsola|Route 128|498743": 1795478442
   }
 }
