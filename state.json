@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Cyndaquil|Route 33|498096": 1793149234,
     "Unova|Heracross|Route 10|498096": 1793149234,
     "Sinnoh|Piplup|Route 204|498097": 1793150119,
     "Kanto|Salamence|Victory Road|498097": 1793152835,
@@ -999,6 +998,7 @@
     "Sinnoh|Burmy|Route 202|498764": 1795551025,
     "Hoenn|Togekiss|Sky Pillar|498764": 1795553718,
     "Unova|Lumineon|Route 17|498765": 1795555524,
-    "Johto|Victreebel|Route 36|498765": 1795555835
+    "Johto|Victreebel|Route 36|498765": 1795555835,
+    "Sinnoh|Farfetch&#x27;d|Route 209|498766": 1795560023
   }
 }
