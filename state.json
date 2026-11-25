@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Lapras|Union Cave|498101": 1793164819,
     "Sinnoh|Tauros|Valor Lakefront|498102": 1793169923,
     "Unova|Miltank|Village Bridge|498102": 1793170516,
     "Johto|Shuckle|Cliff Cave|498103": 1793171117,
@@ -999,6 +998,7 @@
     "Unova|Hippowdon|Mistralton Cave|498769": 1795571422,
     "Johto|Houndoom|Burned Tower|498771": 1795576822,
     "Hoenn|Munna|Route 102|498771": 1795578625,
-    "Kanto|Bulbasaur|Viridian Forest|498772": 1795579823
+    "Kanto|Bulbasaur|Viridian Forest|498772": 1795579823,
+    "Hoenn|Sharpedo|Route 127|498771": 1795580123
   }
 }
