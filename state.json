@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Cottonee|Pinwheel Forest|498098": 1793156114,
     "Kanto|Sharpedo|Water Labyrinth|498099": 1793159420,
     "Hoenn|Gulpin|Route 110|498099": 1793159420,
     "Kanto|Lapras|Icefall Cave|498100": 1793163315,
@@ -999,6 +998,7 @@
     "Unova|Metagross|Giant Chasm|498766": 1795560623,
     "Kanto|Munna|Route 4|498768": 1795567522,
     "Johto|Snorlax|Victory Road|498768": 1795568118,
-    "Sinnoh|Scyther|Route 210|498769": 1795570822
+    "Sinnoh|Scyther|Route 210|498769": 1795570822,
+    "Hoenn|Kecleon|Route 120|498769": 1795571122
   }
 }
