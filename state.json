@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Pineco|Route 207|498103": 1793174434,
     "Kanto|Absol|Canyon Entrance|498104": 1793174726,
     "Kanto|Kabutops|Dilford Chamber|498105": 1793178920,
     "Hoenn|Shuckle|Seafloor Cavern|498105": 1793181022,
@@ -999,6 +998,7 @@
     "Johto|Porygon-Z|Team Rocket HQ|498772": 1795581924,
     "Sinnoh|Kangaskhan|Wayward Cave|498773": 1795583729,
     "Johto|Tauros|Route 38|498773": 1795586437,
-    "Johto|Tauros|Route 38|498774": 1795586719
+    "Johto|Tauros|Route 38|498774": 1795586719,
+    "Sinnoh|Shroomish|Route 201|498774": 1795587023
   }
 }
