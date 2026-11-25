@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Seviper|Route 1|498111": 1793203238,
     "Kanto|Blastoise|Cape Brink|498112": 1793203822,
     "Unova|Mantine|Undella Bay|498111": 1793203822,
     "Sinnoh|Carnivine|Route 225|498112": 1793204717,
@@ -999,6 +998,7 @@
     "Johto|Murkrow|Route 42|498781": 1795614920,
     "Sinnoh|Castform|Route 210|498782": 1795616122,
     "Sinnoh|Torterra|Route 212|498785": 1795627832,
-    "Unova|Ninjask|Route 11|498785": 1795627832
+    "Unova|Ninjask|Route 11|498785": 1795627832,
+    "Johto|Pineco|Route 36|498785": 1795628123
   }
 }
