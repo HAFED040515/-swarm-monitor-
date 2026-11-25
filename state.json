@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Shuckle|Seafloor Cavern|498105": 1793181022,
     "Unova|Corsola|Undella Bay|498106": 1793183427,
     "Johto|Granbull|Route 48|498106": 1793183717,
     "Sinnoh|Carnivine|Route 225|498107": 1793186420,
@@ -999,6 +998,7 @@
     "Johto|Tauros|Route 38|498774": 1795586719,
     "Sinnoh|Shroomish|Route 201|498774": 1795587023,
     "Kanto|Nincada|Route 25|498774": 1795589425,
-    "Hoenn|Torchic|Route 112|498774": 1795589425
+    "Hoenn|Torchic|Route 112|498774": 1795589425,
+    "Unova|Volcarona|Relic Castle|498775": 1795592430
   }
 }
