@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Hoenn|Corsola|Route 128|498110": 1793198722,
-    "Sinnoh|Chimchar|Route 211|498111": 1793200221,
     "Unova|Seviper|Route 1|498111": 1793203238,
     "Kanto|Blastoise|Cape Brink|498112": 1793203822,
     "Unova|Mantine|Undella Bay|498111": 1793203822,
@@ -999,6 +997,8 @@
     "Johto|Meganium|Route 48|498779": 1795608044,
     "Unova|Lumineon|Route 17|498781": 1795614022,
     "Johto|Murkrow|Route 42|498781": 1795614920,
-    "Sinnoh|Castform|Route 210|498782": 1795616122
+    "Sinnoh|Castform|Route 210|498782": 1795616122,
+    "Sinnoh|Torterra|Route 212|498785": 1795627832,
+    "Unova|Ninjask|Route 11|498785": 1795627832
   }
 }
