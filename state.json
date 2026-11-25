@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Miltank|Village Bridge|498102": 1793170516,
     "Johto|Shuckle|Cliff Cave|498103": 1793171117,
     "Hoenn|Carnivine|Route 123|498103": 1793173820,
     "Sinnoh|Pineco|Route 207|498103": 1793174434,
@@ -999,6 +998,7 @@
     "Hoenn|Munna|Route 102|498771": 1795578625,
     "Kanto|Bulbasaur|Viridian Forest|498772": 1795579823,
     "Hoenn|Sharpedo|Route 127|498771": 1795580123,
-    "Johto|Porygon-Z|Team Rocket HQ|498772": 1795581924
+    "Johto|Porygon-Z|Team Rocket HQ|498772": 1795581924,
+    "Sinnoh|Kangaskhan|Wayward Cave|498773": 1795583729
   }
 }
