@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Salamence|Victory Road|498097": 1793152835,
     "Johto|Misdreavus|Sprout Tower|498098": 1793153419,
     "Hoenn|Hippowdon|Victory Road|498098": 1793154315,
     "Unova|Cottonee|Pinwheel Forest|498098": 1793156114,
@@ -999,6 +998,7 @@
     "Johto|Victreebel|Route 36|498765": 1795555835,
     "Sinnoh|Farfetch&#x27;d|Route 209|498766": 1795560023,
     "Hoenn|Mudkip|Route 104|498766": 1795560323,
-    "Unova|Metagross|Giant Chasm|498766": 1795560623
+    "Unova|Metagross|Giant Chasm|498766": 1795560623,
+    "Kanto|Munna|Route 4|498768": 1795567522
   }
 }
