@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Hippowdon|Mistralton Cave|498109": 1793195716,
     "Kanto|Houndoom|Kindle Road|498110": 1793198118,
     "Sinnoh|Absol|Mt. Coronet|498110": 1793198118,
     "Hoenn|Corsola|Route 128|498110": 1793198722,
@@ -999,6 +998,7 @@
     "Hoenn|Metagross|Meteor Falls|498778": 1795601423,
     "Hoenn|Golem|Jagged Pass|498778": 1795603522,
     "Kanto|Nincada|Route 25|498779": 1795606231,
-    "Johto|Meganium|Route 48|498779": 1795608044
+    "Johto|Meganium|Route 48|498779": 1795608044,
+    "Unova|Lumineon|Route 17|498781": 1795614022
   }
 }
