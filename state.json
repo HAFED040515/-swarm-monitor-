@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Plusle|Route 2|498115": 1793216420,
     "Unova|Heracross|Route 10|498116": 1793219429,
     "Johto|Chimecho|Bellchime Trail|498116": 1793220320,
     "Kanto|Kabutops|Tanoby Ruins|498116": 1793220641,
@@ -999,6 +998,7 @@
     "Johto|Shuckle|Cliff Cave|498787": 1795634122,
     "Hoenn|Flygon|Desert Underpass|498787": 1795635319,
     "Unova|Seviper|Route 1|498787": 1795636518,
-    "Kanto|Fearow|One Island|498787": 1795637724
+    "Kanto|Fearow|One Island|498787": 1795637724,
+    "Hoenn|Grovyle|Route 118|498789": 1795642826
   }
 }
