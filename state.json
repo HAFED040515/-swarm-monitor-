@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Totodile|Route 32|498112": 1793206839,
     "Sinnoh|Kangaskhan|Wayward Cave|498113": 1793208631,
     "Sinnoh|Gliscor|Route 211|498114": 1793214921,
     "Kanto|Plusle|Route 2|498115": 1793216420,
@@ -999,6 +998,7 @@
     "Johto|Pineco|Route 36|498785": 1795628123,
     "Kanto|Swalot|Route 18|498785": 1795629023,
     "Sinnoh|Prinplup|Route 220|498786": 1795633240,
-    "Johto|Shuckle|Cliff Cave|498787": 1795634122
+    "Johto|Shuckle|Cliff Cave|498787": 1795634122,
+    "Hoenn|Flygon|Desert Underpass|498787": 1795635319
   }
 }
