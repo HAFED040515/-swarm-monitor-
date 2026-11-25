@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Shuckle|Cliff Cave|498103": 1793171117,
     "Hoenn|Carnivine|Route 123|498103": 1793173820,
     "Sinnoh|Pineco|Route 207|498103": 1793174434,
     "Kanto|Absol|Canyon Entrance|498104": 1793174726,
@@ -999,6 +998,7 @@
     "Kanto|Bulbasaur|Viridian Forest|498772": 1795579823,
     "Hoenn|Sharpedo|Route 127|498771": 1795580123,
     "Johto|Porygon-Z|Team Rocket HQ|498772": 1795581924,
-    "Sinnoh|Kangaskhan|Wayward Cave|498773": 1795583729
+    "Sinnoh|Kangaskhan|Wayward Cave|498773": 1795583729,
+    "Johto|Tauros|Route 38|498773": 1795586437
   }
 }
