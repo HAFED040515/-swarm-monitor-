@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Mantine|Undella Bay|498111": 1793203822,
     "Sinnoh|Carnivine|Route 225|498112": 1793204717,
     "Johto|Totodile|Route 32|498112": 1793206839,
     "Sinnoh|Kangaskhan|Wayward Cave|498113": 1793208631,
@@ -999,6 +998,7 @@
     "Sinnoh|Torterra|Route 212|498785": 1795627832,
     "Unova|Ninjask|Route 11|498785": 1795627832,
     "Johto|Pineco|Route 36|498785": 1795628123,
-    "Kanto|Swalot|Route 18|498785": 1795629023
+    "Kanto|Swalot|Route 18|498785": 1795629023,
+    "Sinnoh|Prinplup|Route 220|498786": 1795633240
   }
 }
