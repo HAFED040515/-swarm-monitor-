@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Skitty|Route 35|498131": 1793274021,
     "Sinnoh|Magmar|Fuego Ironworks|498132": 1793277921,
     "Hoenn|Hitmonchan|Fiery Path|498133": 1793279722,
     "Johto|Houndoom|Burned Tower|498133": 1793281820,
@@ -999,6 +998,7 @@
     "Johto|Cyndaquil|Route 33|498805": 1795700423,
     "Kanto|Chatot|Treasure Beach|498806": 1795703117,
     "Hoenn|Chatot|Route 115|498806": 1795703431,
-    "Unova|Kangaskhan|Wellspring Cave|498806": 1795703718
+    "Unova|Kangaskhan|Wellspring Cave|498806": 1795703718,
+    "Sinnoh|Glaceon|Route 217|498806": 1795704623
   }
 }
