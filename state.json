@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Lapras|Union Cave|498137": 1793295922,
     "Hoenn|Togekiss|Sky Pillar|498138": 1793298316,
     "Johto|Yanmega|Route 44|498139": 1793301021,
     "Kanto|Omastar|Liptoo Chamber|498139": 1793301622,
@@ -999,6 +998,7 @@
     "Johto|Wailmer|Route 40|498810": 1795717833,
     "Kanto|Swalot|Route 18|498811": 1795719918,
     "Hoenn|Plusle|Route 116|498811": 1795721433,
-    "Unova|Scizor|Route 14|498811": 1795722623
+    "Unova|Scizor|Route 14|498811": 1795722623,
+    "Unova|Illumise|Moor of Icirrus|498813": 1795729222
   }
 }
