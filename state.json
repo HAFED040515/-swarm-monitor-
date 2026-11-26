@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Volcarona|Scorched Slab|498116": 1793220922,
     "Johto|Porygon-Z|Team Rocket HQ|498117": 1793223921,
     "Sinnoh|Lucario|Iron Island|498117": 1793224835,
     "Kanto|Plusle|Route 2|498118": 1793225721,
@@ -999,6 +998,7 @@
     "Hoenn|Grovyle|Route 118|498789": 1795642826,
     "Kanto|Chatot|Treasure Beach|498790": 1795645517,
     "Sinnoh|Skarmory|Route 227|498790": 1795645517,
-    "Hoenn|Hitmonchan|Fiery Path|498790": 1795645837
+    "Hoenn|Hitmonchan|Fiery Path|498790": 1795645837,
+    "Hoenn|Dragonite|Route 131|498792": 1795652717
   }
 }
