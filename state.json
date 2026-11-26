@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Chimecho|Mt. Pyre|498129": 1793266517,
     "Sinnoh|Yanma|Route 205|498130": 1793269519,
     "Unova|Porygon2|P2 Laboratory|498130": 1793269829,
     "Johto|Chikorita|Route 31|498130": 1793270720,
@@ -999,6 +998,7 @@
     "Kanto|Milotic|Resort Gorgeous|498802": 1795690518,
     "Unova|Pupitar|Twist Mountain|498804": 1795694718,
     "Hoenn|Finneon|Route 107|498804": 1795695917,
-    "Sinnoh|Burmy|Route 202|498804": 1795696519
+    "Sinnoh|Burmy|Route 202|498804": 1795696519,
+    "Johto|Cyndaquil|Route 33|498805": 1795700423
   }
 }
