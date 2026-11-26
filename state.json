@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Typhlosion|Route 45|498128": 1793261721,
     "Sinnoh|Farfetch&#x27;d|Route 209|498128": 1793262021,
     "Hoenn|Gulpin|Route 110|498128": 1793262316,
     "Kanto|Volbeat|Memorial Pillar|498129": 1793266229,
@@ -999,6 +998,7 @@
     "Kanto|Magnezone|Power Plant|498800": 1795682120,
     "Johto|Luvdisc|Route 47|498800": 1795683023,
     "Sinnoh|Cacturne|Route 228|498801": 1795685122,
-    "Johto|Zorua|Route 37|498802": 1795687517
+    "Johto|Zorua|Route 37|498802": 1795687517,
+    "Kanto|Milotic|Resort Gorgeous|498802": 1795690518
   }
 }
