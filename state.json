@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Farfetch&#x27;d|Route 209|498124": 1793248821,
     "Johto|Skitty|Route 35|498125": 1793253316,
     "Kanto|Aerodactyl|Rixy Chamber|498127": 1793258121,
     "Sinnoh|Infernape|Route 221|498127": 1793258421,
@@ -999,6 +998,7 @@
     "Johto|Aipom|Route 29|498798": 1795673422,
     "Sinnoh|Infernape|Route 221|498798": 1795673422,
     "Hoenn|Mudkip|Route 104|498798": 1795673723,
-    "Unova|Salamence|Dragonspiral Tower|498798": 1795673723
+    "Unova|Salamence|Dragonspiral Tower|498798": 1795673723,
+    "Kanto|Magnezone|Power Plant|498800": 1795682120
   }
 }
