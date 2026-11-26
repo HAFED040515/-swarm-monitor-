@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Lucario|Iron Island|498117": 1793224835,
     "Kanto|Plusle|Route 2|498118": 1793225721,
     "Unova|Corsola|Undella Bay|498118": 1793226315,
     "Sinnoh|Vigoroth|Route 215|498119": 1793229916,
@@ -999,6 +998,7 @@
     "Sinnoh|Skarmory|Route 227|498790": 1795645517,
     "Hoenn|Hitmonchan|Fiery Path|498790": 1795645837,
     "Hoenn|Dragonite|Route 131|498792": 1795652717,
-    "Johto|Metang|Ice Path|498792": 1795654223
+    "Johto|Metang|Ice Path|498792": 1795654223,
+    "Kanto|Lapras|Icefall Cave|498793": 1795655121
   }
 }
