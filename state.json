@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Porygon2|P2 Laboratory|498130": 1793269829,
     "Johto|Chikorita|Route 31|498130": 1793270720,
     "Johto|Skitty|Route 35|498131": 1793274021,
     "Sinnoh|Magmar|Fuego Ironworks|498132": 1793277921,
@@ -999,6 +998,7 @@
     "Hoenn|Finneon|Route 107|498804": 1795695917,
     "Sinnoh|Burmy|Route 202|498804": 1795696519,
     "Johto|Cyndaquil|Route 33|498805": 1795700423,
-    "Kanto|Chatot|Treasure Beach|498806": 1795703117
+    "Kanto|Chatot|Treasure Beach|498806": 1795703117,
+    "Hoenn|Chatot|Route 115|498806": 1795703431
   }
 }
