@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Gulpin|Route 110|498135": 1793287833,
     "Unova|Yanma|Pinwheel Forest|498136": 1793292622,
     "Sinnoh|Lucario|Iron Island|498136": 1793293239,
     "Kanto|Wormadam|Pattern Bush|498137": 1793293821,
@@ -999,6 +998,7 @@
     "Unova|Miltank|Village Bridge|498808": 1795709429,
     "Sinnoh|Drapion|Route 213|498808": 1795712118,
     "Sinnoh|Skarmory|Route 227|498810": 1795716317,
-    "Unova|Corsola|Undella Bay|498810": 1795716628
+    "Unova|Corsola|Undella Bay|498810": 1795716628,
+    "Johto|Wailmer|Route 40|498810": 1795717833
   }
 }
