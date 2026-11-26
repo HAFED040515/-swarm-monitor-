@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Aerodactyl|Rixy Chamber|498127": 1793258121,
     "Sinnoh|Infernape|Route 221|498127": 1793258421,
     "Johto|Typhlosion|Route 45|498128": 1793261721,
     "Sinnoh|Farfetch&#x27;d|Route 209|498128": 1793262021,
@@ -999,6 +998,7 @@
     "Hoenn|Mudkip|Route 104|498798": 1795673723,
     "Unova|Salamence|Dragonspiral Tower|498798": 1795673723,
     "Kanto|Magnezone|Power Plant|498800": 1795682120,
-    "Johto|Luvdisc|Route 47|498800": 1795683023
+    "Johto|Luvdisc|Route 47|498800": 1795683023,
+    "Sinnoh|Cacturne|Route 228|498801": 1795685122
   }
 }
