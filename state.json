@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Shuckle|Seafloor Cavern|498123": 1793244315,
     "Sinnoh|Trapinch|Oreburgh Mine|498123": 1793245521,
     "Unova|Zangoose|Route 7|498123": 1793245820,
     "Kanto|Qwilfish|Route 20|498124": 1793247321,
@@ -999,6 +998,7 @@
     "Unova|Seviper|Route 1|498794": 1795662041,
     "Kanto|Wormadam|Pattern Bush|498795": 1795662622,
     "Hoenn|Combusken|Route 114|498795": 1795665316,
-    "Unova|Salamence|Dragonspiral Tower|498796": 1795668623
+    "Unova|Salamence|Dragonspiral Tower|498796": 1795668623,
+    "Kanto|Houndoom|Kindle Road|498797": 1795672226
   }
 }
