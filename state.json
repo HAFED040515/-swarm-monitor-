@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Shroomish|Pinwheel Forest|498135": 1793287221,
     "Hoenn|Gulpin|Route 110|498135": 1793287833,
     "Unova|Yanma|Pinwheel Forest|498136": 1793292622,
     "Sinnoh|Lucario|Iron Island|498136": 1793293239,
@@ -999,6 +998,7 @@
     "Johto|Vigoroth|Ruins of Alph|498807": 1795708841,
     "Unova|Miltank|Village Bridge|498808": 1795709429,
     "Sinnoh|Drapion|Route 213|498808": 1795712118,
-    "Sinnoh|Skarmory|Route 227|498810": 1795716317
+    "Sinnoh|Skarmory|Route 227|498810": 1795716317,
+    "Unova|Corsola|Undella Bay|498810": 1795716628
   }
 }
