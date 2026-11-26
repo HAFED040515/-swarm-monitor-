@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Farfetch&#x27;d|Route 1|498121": 1793237116,
     "Kanto|Zangoose|Route 14|498121": 1793237716,
     "Johto|Victreebel|Route 36|498121": 1793238321,
     "Sinnoh|Drifblim|Route 222|498122": 1793240120,
@@ -999,6 +998,7 @@
     "Johto|Snorlax|Victory Road|498793": 1795656916,
     "Hoenn|Mudkip|Route 104|498793": 1795658118,
     "Sinnoh|Staraptor|Sendoff Spring|498793": 1795658118,
-    "Johto|Snorlax|Victory Road|498794": 1795661126
+    "Johto|Snorlax|Victory Road|498794": 1795661126,
+    "Unova|Seviper|Route 1|498794": 1795662041
   }
 }
