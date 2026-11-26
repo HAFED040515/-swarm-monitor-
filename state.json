@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Seviper|Route 1|498139": 1793302230,
     "Sinnoh|Grotle|Sendoff Spring|498139": 1793303421,
     "Hoenn|Murkrow|Jagged Pass|498139": 1793303717,
     "Hoenn|Crawdaunt|Abandoned Ship|498139": 1793304036,
@@ -999,6 +998,7 @@
     "Unova|Illumise|Moor of Icirrus|498813": 1795729222,
     "Kanto|Vespiquen|Five Isle Meadow|498814": 1795731023,
     "Sinnoh|Torterra|Route 212|498814": 1795731621,
-    "Johto|Hitmontop|Mt. Mortar|498815": 1795734320
+    "Johto|Hitmontop|Mt. Mortar|498815": 1795734320,
+    "Kanto|Sharpedo|Water Labyrinth|498815": 1795737318
   }
 }
