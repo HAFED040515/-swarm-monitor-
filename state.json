@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Trapinch|Oreburgh Mine|498123": 1793245521,
-    "Unova|Zangoose|Route 7|498123": 1793245820,
     "Kanto|Qwilfish|Route 20|498124": 1793247321,
     "Hoenn|Combusken|Route 114|498124": 1793248516,
     "Sinnoh|Farfetch&#x27;d|Route 209|498124": 1793248821,
@@ -999,6 +997,8 @@
     "Kanto|Wormadam|Pattern Bush|498795": 1795662622,
     "Hoenn|Combusken|Route 114|498795": 1795665316,
     "Unova|Salamence|Dragonspiral Tower|498796": 1795668623,
-    "Kanto|Houndoom|Kindle Road|498797": 1795672226
+    "Kanto|Houndoom|Kindle Road|498797": 1795672226,
+    "Johto|Aipom|Route 29|498798": 1795673422,
+    "Sinnoh|Infernape|Route 221|498798": 1795673422
   }
 }
