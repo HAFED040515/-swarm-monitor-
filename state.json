@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Corsola|Undella Bay|498118": 1793226315,
     "Sinnoh|Vigoroth|Route 215|498119": 1793229916,
     "Johto|Houndoom|Burned Tower|498119": 1793230228,
     "Hoenn|Feebas|Route 130|498120": 1793233516,
@@ -999,6 +998,7 @@
     "Hoenn|Dragonite|Route 131|498792": 1795652717,
     "Johto|Metang|Ice Path|498792": 1795654223,
     "Kanto|Lapras|Icefall Cave|498793": 1795655121,
-    "Unova|Honchkrow|Celestial Tower|498793": 1795655423
+    "Unova|Honchkrow|Celestial Tower|498793": 1795655423,
+    "Johto|Snorlax|Victory Road|498793": 1795656916
   }
 }
