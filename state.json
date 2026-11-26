@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Victreebel|Route 36|498121": 1793238321,
     "Sinnoh|Drifblim|Route 222|498122": 1793240120,
     "Hoenn|Shuckle|Seafloor Cavern|498123": 1793244315,
     "Sinnoh|Trapinch|Oreburgh Mine|498123": 1793245521,
@@ -999,6 +998,7 @@
     "Sinnoh|Staraptor|Sendoff Spring|498793": 1795658118,
     "Johto|Snorlax|Victory Road|498794": 1795661126,
     "Unova|Seviper|Route 1|498794": 1795662041,
-    "Kanto|Wormadam|Pattern Bush|498795": 1795662622
+    "Kanto|Wormadam|Pattern Bush|498795": 1795662622,
+    "Hoenn|Combusken|Route 114|498795": 1795665316
   }
 }
