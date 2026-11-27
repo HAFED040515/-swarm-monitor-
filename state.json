@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Yanma|Pinwheel Forest|498147": 1793329820,
     "Kanto|Bastiodon|Monean Chamber|498148": 1793333116,
     "Sinnoh|Croagunk|Route 212|498148": 1793333421,
     "Hoenn|Spiritomb|Abandoned Ship|498149": 1793337021,
@@ -999,6 +998,7 @@
     "Kanto|Snorlax|Cerulean Cave|498821": 1795757718,
     "Johto|Shuckle|Cliff Cave|498821": 1795758917,
     "Unova|Pinsir|Route 12|498821": 1795758917,
-    "Hoenn|Cloyster|Route 133|498822": 1795759824
+    "Hoenn|Cloyster|Route 133|498822": 1795759824,
+    "Sinnoh|Burmy|Route 202|498823": 1795764023
   }
 }
