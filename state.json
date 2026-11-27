@@ -1,8 +1,5 @@
 {
   "notified": {
-    "Hoenn|Murkrow|Jagged Pass|498139": 1793303717,
-    "Hoenn|Crawdaunt|Abandoned Ship|498139": 1793304036,
-    "Unova|Aipom|Cold Storage|498141": 1793308220,
     "Kanto|Spiritomb|Lost Cave|498141": 1793311236,
     "Johto|Snorlax|Victory Road|498142": 1793311517,
     "Sinnoh|Kangaskhan|Wayward Cave|498143": 1793316317,
@@ -999,6 +996,9 @@
     "Sinnoh|Torterra|Route 212|498814": 1795731621,
     "Johto|Hitmontop|Mt. Mortar|498815": 1795734320,
     "Kanto|Sharpedo|Water Labyrinth|498815": 1795737318,
-    "Hoenn|Munna|Route 102|498816": 1795738223
+    "Hoenn|Munna|Route 102|498816": 1795738223,
+    "Kanto|Ditto|Route 14|498816": 1795741237,
+    "Johto|Metang|Ice Path|498816": 1795741237,
+    "Unova|Swalot|Route 9|498816": 1795741237
   }
 }
