@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Johto|Lapras|Mt. Mortar|498144": 1793322037,
-    "Hoenn|Swampert|Route 109|498146": 1793328020,
     "Sinnoh|Turtwig|Route 203|498147": 1793329515,
     "Unova|Yanma|Pinwheel Forest|498147": 1793329820,
     "Kanto|Bastiodon|Monean Chamber|498148": 1793333116,
@@ -999,6 +997,8 @@
     "Johto|Absol|Route 28|498818": 1795748122,
     "Sinnoh|Vigoroth|Route 215|498819": 1795750516,
     "Hoenn|Blissey|Artisan Cave|498820": 1795752623,
-    "Kanto|Snorlax|Cerulean Cave|498821": 1795757718
+    "Kanto|Snorlax|Cerulean Cave|498821": 1795757718,
+    "Johto|Shuckle|Cliff Cave|498821": 1795758917,
+    "Unova|Pinsir|Route 12|498821": 1795758917
   }
 }
