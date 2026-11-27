@@ -1,7 +1,5 @@
 {
   "notified": {
-    "Unova|Octillery|Route 13|498153": 1793352020,
-    "Johto|Lucario|Mt. Silver Cave|498153": 1793352629,
     "Kanto|Kabutops|Dilford Chamber|498154": 1793355916,
     "Sinnoh|Yanma|Route 205|498154": 1793357120,
     "Hoenn|Spiritomb|Abandoned Ship|498155": 1793358921,
@@ -999,6 +997,8 @@
     "Sinnoh|Pineco|Route 207|498828": 1795782924,
     "Johto|Hitmontop|Mt. Mortar|498829": 1795785917,
     "Kanto|Qwilfish|Memorial Pillar|498829": 1795786824,
-    "Johto|Togetic|Route 27|498831": 1795793439
+    "Johto|Togetic|Route 27|498831": 1795793439,
+    "Hoenn|Torchic|Route 112|498831": 1795794623,
+    "Unova|Farfetch&#x27;d|Route 1|498831": 1795794623
   }
 }
