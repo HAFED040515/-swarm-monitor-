@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Kangaskhan|Wayward Cave|498143": 1793316317,
     "Unova|Ninjask|Route 11|498144": 1793319023,
     "Kanto|Misdreavus|Pokemon Tower|498144": 1793319916,
     "Hoenn|Staryu|Route 106|498144": 1793321715,
@@ -999,6 +998,7 @@
     "Johto|Metang|Ice Path|498816": 1795741237,
     "Unova|Swalot|Route 9|498816": 1795741237,
     "Hoenn|Dragonite|Route 131|498817": 1795743321,
-    "Unova|Scizor|Route 14|498818": 1795747523
+    "Unova|Scizor|Route 14|498818": 1795747523,
+    "Johto|Absol|Route 28|498818": 1795748122
   }
 }
