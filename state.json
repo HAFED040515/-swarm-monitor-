@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Luvdisc|Route 132|498153": 1793352020,
     "Unova|Octillery|Route 13|498153": 1793352020,
     "Johto|Lucario|Mt. Silver Cave|498153": 1793352629,
     "Kanto|Kabutops|Dilford Chamber|498154": 1793355916,
@@ -999,6 +998,7 @@
     "Hoenn|Qwilfish|Route 125|498828": 1795782924,
     "Sinnoh|Pineco|Route 207|498828": 1795782924,
     "Johto|Hitmontop|Mt. Mortar|498829": 1795785917,
-    "Kanto|Qwilfish|Memorial Pillar|498829": 1795786824
+    "Kanto|Qwilfish|Memorial Pillar|498829": 1795786824,
+    "Johto|Togetic|Route 27|498831": 1795793439
   }
 }
