@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Bastiodon|Monean Chamber|498148": 1793333116,
     "Sinnoh|Croagunk|Route 212|498148": 1793333421,
     "Hoenn|Spiritomb|Abandoned Ship|498149": 1793337021,
     "Johto|Meganium|Route 48|498150": 1793340316,
@@ -999,6 +998,7 @@
     "Johto|Shuckle|Cliff Cave|498821": 1795758917,
     "Unova|Pinsir|Route 12|498821": 1795758917,
     "Hoenn|Cloyster|Route 133|498822": 1795759824,
-    "Sinnoh|Burmy|Route 202|498823": 1795764023
+    "Sinnoh|Burmy|Route 202|498823": 1795764023,
+    "Johto|Ariados|Route 44|498823": 1795766718
   }
 }
