@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Spiritomb|Abandoned Ship|498155": 1793358921,
     "Kanto|Bulbasaur|Viridian Forest|498156": 1793362221,
     "Unova|Swalot|Route 9|498156": 1793362522,
     "Johto|Chikorita|Route 31|498157": 1793366717,
@@ -999,6 +998,7 @@
     "Hoenn|Torchic|Route 112|498831": 1795794623,
     "Unova|Farfetch&#x27;d|Route 1|498831": 1795794623,
     "Kanto|Seviper|Route 15|498832": 1795798518,
-    "Johto|Porygon-Z|Team Rocket HQ|498834": 1795803624
+    "Johto|Porygon-Z|Team Rocket HQ|498834": 1795803624,
+    "Hoenn|Chimecho|Mt. Pyre|498834": 1795803919
   }
 }
