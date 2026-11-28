@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Nincada|Route 46|498170": 1793414720,
     "Sinnoh|Kecleon|Route 229|498170": 1793414720,
     "Johto|Ditto|Tohjo Falls|498171": 1793416520,
     "Unova|Illumise|Moor of Icirrus|498172": 1793420420,
@@ -999,6 +998,7 @@
     "Kanto|Forretress|Berry Forest|498844": 1795840517,
     "Johto|Barboach|Slowpoke Well|498845": 1795843223,
     "Unova|Volcarona|Relic Castle|498845": 1795843223,
-    "Sinnoh|Nosepass|Oreburgh Gate|498845": 1795845317
+    "Sinnoh|Nosepass|Oreburgh Gate|498845": 1795845317,
+    "Hoenn|Carnivine|Route 123|498846": 1795846521
   }
 }
