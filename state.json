@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Kangaskhan|Wayward Cave|498174": 1793426716,
     "Kanto|Relicanth|Tanoby Ruins|498174": 1793429717,
     "Johto|Misdreavus|Sprout Tower|498174": 1793430035,
     "Hoenn|Feebas|Route 130|498175": 1793432721,
@@ -999,6 +998,7 @@
     "Johto|Hitmontop|Mt. Mortar|498847": 1795851030,
     "Hoenn|Relicanth|Route 126|498847": 1795851921,
     "Johto|Venomoth|Ilex Forest|498847": 1795852518,
-    "Unova|Yanma|Pinwheel Forest|498848": 1795854630
+    "Unova|Yanma|Pinwheel Forest|498848": 1795854630,
+    "Sinnoh|Miltank|Route 214|498849": 1795858232
   }
 }
