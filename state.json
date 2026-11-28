@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Hoenn|Feebas|Route 130|498179": 1793445621,
     "Kanto|Cradily|Tanoby Ruins|498180": 1793449221,
     "Johto|Meganium|Route 48|498180": 1793450117,
     "Unova|Cacnea|Route 4|498180": 1793451634,
@@ -999,6 +998,7 @@
     "Kanto|Trapinch|Diglett&#x27;s Cave|498854": 1795875923,
     "Johto|Lucario|Mt. Silver Cave|498854": 1795876823,
     "Hoenn|Munna|Route 102|498854": 1795877718,
-    "Unova|Minun|Route 6|498854": 1795878040
+    "Unova|Minun|Route 6|498854": 1795878040,
+    "Sinnoh|Carnivine|Route 225|498856": 1795884025
   }
 }
