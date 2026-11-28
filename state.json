@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Ditto|Tohjo Falls|498171": 1793416520,
     "Unova|Illumise|Moor of Icirrus|498172": 1793420420,
     "Kanto|Charmander|Route 3|498172": 1793421028,
     "Hoenn|Munna|Route 102|498172": 1793422221,
@@ -999,6 +998,7 @@
     "Unova|Volcarona|Relic Castle|498845": 1795843223,
     "Sinnoh|Nosepass|Oreburgh Gate|498845": 1795845317,
     "Hoenn|Carnivine|Route 123|498846": 1795846521,
-    "Kanto|Tauros|Route 17|498846": 1795848022
+    "Kanto|Tauros|Route 17|498846": 1795848022,
+    "Johto|Hitmontop|Mt. Mortar|498847": 1795851030
   }
 }
