@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Illumise|Moor of Icirrus|498172": 1793420420,
     "Kanto|Charmander|Route 3|498172": 1793421028,
     "Hoenn|Munna|Route 102|498172": 1793422221,
     "Sinnoh|Kangaskhan|Wayward Cave|498174": 1793426716,
@@ -999,6 +998,7 @@
     "Sinnoh|Nosepass|Oreburgh Gate|498845": 1795845317,
     "Hoenn|Carnivine|Route 123|498846": 1795846521,
     "Kanto|Tauros|Route 17|498846": 1795848022,
-    "Johto|Hitmontop|Mt. Mortar|498847": 1795851030
+    "Johto|Hitmontop|Mt. Mortar|498847": 1795851030,
+    "Hoenn|Relicanth|Route 126|498847": 1795851921
   }
 }
