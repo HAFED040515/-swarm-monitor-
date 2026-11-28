@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Omastar|Tanoby Ruins|498176": 1793437235,
     "Sinnoh|Skitty|Route 204|498177": 1793440517,
     "Johto|Shroomish|Route 34|498178": 1793441420,
     "Hoenn|Feebas|Route 130|498179": 1793445621,
@@ -999,6 +998,7 @@
     "Unova|Yanma|Pinwheel Forest|498852": 1795868422,
     "Johto|Hitmontop|Mt. Mortar|498852": 1795869624,
     "Sinnoh|Walrein|Route 222|498853": 1795873522,
-    "Kanto|Trapinch|Diglett&#x27;s Cave|498854": 1795875923
+    "Kanto|Trapinch|Diglett&#x27;s Cave|498854": 1795875923,
+    "Johto|Lucario|Mt. Silver Cave|498854": 1795876823
   }
 }
