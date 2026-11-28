@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Heracross|Route 10|498165": 1793396420,
     "Hoenn|Spinda|Route 113|498165": 1793398223,
     "Sinnoh|Furret|Route 208|498166": 1793399115,
     "Kanto|Lapras|Icefall Cave|498166": 1793400319,
@@ -999,6 +998,7 @@
     "Kanto|Pinsir|Route 11|498839": 1795821920,
     "Johto|Wailmer|Route 40|498839": 1795822826,
     "Unova|Illumise|Moor of Icirrus|498839": 1795823122,
-    "Sinnoh|Tyranitar|Stark Mountain|498840": 1795827318
+    "Sinnoh|Tyranitar|Stark Mountain|498840": 1795827318,
+    "Johto|Aipom|Route 29|498842": 1795833322
   }
 }
