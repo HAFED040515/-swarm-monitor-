@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Sinnoh|Burmy|Route 202|498175": 1793433316,
     "Unova|Metagross|Giant Chasm|498175": 1793433633,
     "Johto|Zorua|Route 37|498176": 1793434229,
     "Unova|Minccino|Route 16|498175": 1793434229,
@@ -999,6 +998,7 @@
     "Sinnoh|Miltank|Route 214|498849": 1795858232,
     "Johto|Totodile|Route 32|498850": 1795860623,
     "Hoenn|Marshtomp|Route 124|498851": 1795865119,
-    "Sinnoh|Mr. Mime|Route 224|498851": 1795866024
+    "Sinnoh|Mr. Mime|Route 224|498851": 1795866024,
+    "Unova|Yanma|Pinwheel Forest|498852": 1795868422
   }
 }
