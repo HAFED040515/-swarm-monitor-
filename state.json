@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Unova|Pinsir|Route 12|498168": 1793407822,
     "Johto|Shuckle|Cliff Cave|498169": 1793409622,
     "Hoenn|Pineco|Route 103|498170": 1793412316,
     "Kanto|Cradily|Tanoby Ruins|498170": 1793413829,
@@ -999,6 +998,7 @@
     "Sinnoh|Spiritomb|Turnback Cave|498842": 1795833921,
     "Unova|Cherubi|Route 16|498842": 1795834222,
     "Johto|Typhlosion|Route 45|498843": 1795837221,
-    "Kanto|Bulbasaur|Viridian Forest|498843": 1795838438
+    "Kanto|Bulbasaur|Viridian Forest|498843": 1795838438,
+    "Kanto|Forretress|Berry Forest|498844": 1795840517
   }
 }
