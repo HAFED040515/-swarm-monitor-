@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Kanto|Lapras|Icefall Cave|498166": 1793400319,
     "Johto|Chikorita|Route 31|498166": 1793401236,
     "Sinnoh|Yanma|Route 205|498167": 1793403920,
     "Unova|Pinsir|Route 12|498168": 1793407822,
@@ -999,6 +998,7 @@
     "Sinnoh|Tyranitar|Stark Mountain|498840": 1795827318,
     "Johto|Aipom|Route 29|498842": 1795833322,
     "Hoenn|Lapras|Route 125|498842": 1795833621,
-    "Sinnoh|Spiritomb|Turnback Cave|498842": 1795833921
+    "Sinnoh|Spiritomb|Turnback Cave|498842": 1795833921,
+    "Unova|Cherubi|Route 16|498842": 1795834222
   }
 }
