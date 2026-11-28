@@ -1,6 +1,5 @@
 {
   "notified": {
-    "Johto|Chikorita|Route 31|498166": 1793401236,
     "Sinnoh|Yanma|Route 205|498167": 1793403920,
     "Unova|Pinsir|Route 12|498168": 1793407822,
     "Johto|Shuckle|Cliff Cave|498169": 1793409622,
@@ -999,6 +998,7 @@
     "Johto|Aipom|Route 29|498842": 1795833322,
     "Hoenn|Lapras|Route 125|498842": 1795833621,
     "Sinnoh|Spiritomb|Turnback Cave|498842": 1795833921,
-    "Unova|Cherubi|Route 16|498842": 1795834222
+    "Unova|Cherubi|Route 16|498842": 1795834222,
+    "Johto|Typhlosion|Route 45|498843": 1795837221
   }
 }
